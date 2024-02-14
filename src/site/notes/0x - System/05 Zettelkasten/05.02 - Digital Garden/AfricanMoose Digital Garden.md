@@ -5,7 +5,7 @@
 ## Pic of the week
 ![PXL_20240208_122654976.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240208_122654976.jpg)
 Juja bike repair shop fixing my puncture.
-
+test
 ## Interesting Quotes
 
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan\|What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan]]
