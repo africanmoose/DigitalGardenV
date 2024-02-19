@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-18T16:25:38.459+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-19T17:07:58.178+03:00"}
 ---
 
 ## Pic of the week
-![PXL_20240208_122654976.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240208_122654976.jpg)
-Juja bike repair shop fixing my puncture.
+![starrynights1.jpg](/img/user/starrynights1.jpg)I am really loving some of the artwork that AI is producing, even as I question what it means for the future of human artists.
 
 ## What is this site for?
 
