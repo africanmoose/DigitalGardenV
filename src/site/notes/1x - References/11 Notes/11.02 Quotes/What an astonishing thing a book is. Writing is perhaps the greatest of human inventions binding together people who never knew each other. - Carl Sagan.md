@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/what-an-astonishing-thing-a-book-is-writing-is-perhaps-the-greatest-of-human-inventions-binding-together-people-who-never-knew-each-other-carl-sagan/","title":"What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/what-an-astonishing-thing-a-book-is-writing-is-perhaps-the-greatest-of-human-inventions-binding-together-people-who-never-knew-each-other-carl-sagan/","title":"What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan","created":"2024-01-20T11:59:23.000+03:00","updated":"2024-02-15T09:07:15.307+03:00"}
 ---
 
 
@@ -14,3 +14,6 @@ Carl Sagan
 - Quoted by Andy Matsuchek [https://andymatuschak.org/books/]
 
 ## Related
+- [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
+- [[1x - References/11 Notes/11.02 Quotes/A new era from reading a book - Henry David Thoreau\|A new era from reading a book - Henry David Thoreau]]
+- [[1x - References/11 Notes/11.02 Quotes/Two ways change a man - his books and his friends\|Two ways change a man - his books and his friends]]
