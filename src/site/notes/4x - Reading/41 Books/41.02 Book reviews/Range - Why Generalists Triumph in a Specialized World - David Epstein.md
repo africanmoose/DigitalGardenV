@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/range-why-generalists-triumph-in-a-specialized-world-david-epstein/","title":"Range - Why Generalists Triumph in a Specialized World - David Epstein","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/range-why-generalists-triumph-in-a-specialized-world-david-epstein/","title":"Range - Why Generalists Triumph in a Specialized World - David Epstein","created":"2024-01-20T11:27:18.747+03:00","updated":"2024-02-15T08:50:52.113+03:00"}
 ---
 
 ![Range - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Range%20-%20cover.jpg)
@@ -29,6 +29,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/The Generation Effect - Even a wrong answer helps you learn better than no answer\|The Generation Effect - Even a wrong answer helps you learn better than no answer]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning with hints is bad for your long term remembering, even in monkeys\|Learning with hints is bad for your long term remembering, even in monkeys]]
 - [[1x - References/11 Notes/11.03 Ideas/Spaced repetition is the best way to remember things\|Spaced repetition is the best way to remember things]]
+- [[1x - References/11 Notes/11.03 Ideas/Learn like a baby - Just dive in and try it\|Learn like a baby - Just dive in and try it]]
 - [[1x - References/11 Notes/11.03 Ideas/Switching trades or specialities has a clear benefit\|Switching trades or specialities has a clear benefit]]
 - [[1x - References/11 Notes/11.03 Ideas/Test and learn is preferable to plan and implement strategy\|Test and learn is preferable to plan and implement strategy]]
 - [[1x - References/11 Notes/11.05 Persons/Chrissie Wellington\|Chrissie Wellington]] won the Ironman world championship 4 times
