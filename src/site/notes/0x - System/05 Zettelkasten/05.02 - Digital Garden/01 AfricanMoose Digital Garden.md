@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-21T09:08:58.279+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-21T11:34:28.286+03:00"}
 ---
 
 ## Pic of the week
-![starrynights1.jpg](/img/user/starrynights1.jpg)I am really loving some of the artwork that AI is producing, even as I question what it means for the future of human artists.
+![starrynights1.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/starrynights1.jpg)I am really loving some of the artwork that AI is producing, even as I question what it means for the future of human artists.
 
 
 ## What is this site for?
@@ -39,13 +39,13 @@
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Monitoring and tracking makes change more likely\|Monitoring and tracking makes change more likely]]
 - [[1x - References/11 Notes/11.03 Ideas/Develop the habit of paying the price as early as possible\|Develop the habit of paying the price as early as possible]]
 - [[1x - References/11 Notes/11.03 Ideas/Most university graduates go on to jobs unrelated to their degree\|Most university graduates go on to jobs unrelated to their degree]]
 - [[1x - References/11 Notes/11.03 Ideas/A bigger surface area requires more time to maintain. Keep your life simple as much as possible.\|A bigger surface area requires more time to maintain. Keep your life simple as much as possible.]]
 - [[1x - References/11 Notes/11.03 Ideas/Being busy doesnt mean we are productive\|Being busy doesnt mean we are productive]]
 - [[1x - References/11 Notes/11.03 Ideas/Moving is a good way to reset what we need in our lives\|Moving is a good way to reset what we need in our lives]]
 - [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
-- [[1x - References/11 Notes/11.03 Ideas/Artificial intelligence not as smart as a five year old\|Artificial intelligence not as smart as a five year old]]
 
 
 ## Book Reviews
@@ -70,7 +70,7 @@
 - Reading _Stillness Is the Key - Ryan Holiday
 
 
-## Ideas to Improve my Finances
+# Finance Ideas
 
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Use the minimum possible to get the job done\|Use the minimum possible to get the job done]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Spend less than you earn\|Spend less than you earn]]
