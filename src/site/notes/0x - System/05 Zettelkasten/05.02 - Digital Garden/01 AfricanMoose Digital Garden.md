@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-19T17:07:58.178+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-21T09:08:58.279+03:00"}
 ---
 
 ## Pic of the week
 ![starrynights1.jpg](/img/user/starrynights1.jpg)I am really loving some of the artwork that AI is producing, even as I question what it means for the future of human artists.
+
 
 ## What is this site for?
 
@@ -16,34 +17,36 @@
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy\|Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan\|What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran\|What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran]]
 - [[1x - References/11 Notes/11.02 Quotes/The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson\|The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson]]
 - [[1x - References/11 Notes/11.02 Quotes/The secret to waking up is to wake up way earlier than you have to - Simon Sarris\|The secret to waking up is to wake up way earlier than you have to - Simon Sarris]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan\|What an astonishing thing a book is - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger\|Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger]]
-- [[1x - References/11 Notes/11.02 Quotes/If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt\|If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt]]
 
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Julius Yego\|Julius Yego]]
 - [[1x - References/11 Notes/11.05 Persons/Yo-Yo Ma\|Yo-Yo Ma]]
 - [[1x - References/11 Notes/11.05 Persons/Django Reinhardt\|Django Reinhardt]]
 - [[1x - References/11 Notes/11.05 Persons/Dave Brubeck\|Dave Brubeck]]
 - [[1x - References/11 Notes/11.05 Persons/Duke Ellington\|Duke Ellington]]
 - [[1x - References/11 Notes/11.05 Persons/Susan Polgar\|Susan Polgar]]
 - [[1x - References/11 Notes/11.03 Ideas/The figlia del coro - The all female multi-instrumental band\|The figlia del coro - The all female multi-instrumental band]]
-- [[1x - References/11 Notes/11.05 Persons/Brian May\|Brian May]]
+
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Develop the habit of paying the price as early as possible\|Develop the habit of paying the price as early as possible]]
 - [[1x - References/11 Notes/11.03 Ideas/Most university graduates go on to jobs unrelated to their degree\|Most university graduates go on to jobs unrelated to their degree]]
 - [[1x - References/11 Notes/11.03 Ideas/A bigger surface area requires more time to maintain. Keep your life simple as much as possible.\|A bigger surface area requires more time to maintain. Keep your life simple as much as possible.]]
 - [[1x - References/11 Notes/11.03 Ideas/Being busy doesnt mean we are productive\|Being busy doesnt mean we are productive]]
 - [[1x - References/11 Notes/11.03 Ideas/Moving is a good way to reset what we need in our lives\|Moving is a good way to reset what we need in our lives]]
 - [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
 - [[1x - References/11 Notes/11.03 Ideas/Artificial intelligence not as smart as a five year old\|Artificial intelligence not as smart as a five year old]]
-- [[1x - References/11 Notes/11.03 Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
+
 
 ## Book Reviews
 
@@ -56,6 +59,7 @@
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
+
 ## Work in Progress
 
 - Processing [[0x - System/01 Index/01.04 Notes in process/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
@@ -65,15 +69,6 @@
 - Reading _Energy: A Beginner's Guide - Vaclav Smil_
 - Reading _Stillness Is the Key - Ryan Holiday
 
-## Interesting Ideas
-
-- [[1x - References/11 Notes/11.03 Ideas/Outcome over ego.\|Outcome over ego.]]
-- [[1x - References/11 Notes/11.03 Ideas/Hedonic adaptation - We quickly become accustomed to any new source of pleasure\|Hedonic adaptation - We quickly become accustomed to any new source of pleasure]]
-- [[1x - References/11 Notes/11.03 Ideas/Appreciate unexpected blessings and accept unexpected costs\|Appreciate unexpected blessings and accept unexpected costs]]
-- [[1x - References/11 Notes/11.02 Quotes/Diderot Effect - Beware the contamination of sudden wealth\|The Diderot Effect]]
-- [[1x - References/11 Notes/11.03 Ideas/People would rather get electric shock than sit with their own thoughts\|People would rather give themselves an electric shock than sit and think]]
-- [[1x - References/11 Notes/11.03 Ideas/Illusion of control\|Illusion of control]]
-- [[1x - References/11 Notes/11.03 Ideas/How did the expert reach his conclusion\|How did the expert reach his conclusion]]
 
 ## Ideas to Improve my Finances
 
@@ -85,6 +80,7 @@
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
 - Full list of financial ideas - [[0x - System/05 Zettelkasten/05.02 - Digital Garden/03 Improve your finances\|03 Improve your finances]]
 
+
 ## Currently listening to
 
 Apparently, my top artists of 2023 are:
@@ -95,15 +91,18 @@ Apparently, my top artists of 2023 are:
 - [Manu Dibangu](https://www.youtube.com/watch?v=HV2hfn-TS14)
 - More of my favorite music here [[0x - System/05 Zettelkasten/05.02 - Digital Garden/04 Music I enjoy\|04 Music I enjoy]]
 
+
 ## Africanmoose Stuff
 
 [Africanmoose](https://africanmoose.blogspot.com)
 [Africanmoose Photography](http://Africanmoose.com)
 [[1x - References/11 Notes/11.01 Workflows/Overview of tools for personal management and productivity\|Overview of tools for personal management and productivity]]
 
+
 ## RSS feed (experimental)
 Copy and paste this URL into your RSS Feed reader (If you had done this before July 3rd, 2023, please delete that one and use this one instead:)
 [RSS feed](https://rssproxy.migor.org/api/w2f?v=0.1&url=https%3A%2F%2Fafricanmoose.netlify.app%2F&link=.%2Fa%5B1%5D&context=%2F%2Fdiv%5B1%5D%2Ful%2Fli&re=none&out=atom&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiYW5vbnltb3VzIiwiaWF0IjoxNjc1MTA1OTQ2fQ.OjesabTBFfq8PUwQKkj_oSm6zKrRDAgo-nQH9jx6Tmw)
+
 
 ## Copyright
 Feel free to use anything I have created from this site. Please attribute in keeping with cc4.0
