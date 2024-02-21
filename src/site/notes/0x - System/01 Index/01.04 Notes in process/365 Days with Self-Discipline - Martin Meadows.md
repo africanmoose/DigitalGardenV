@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-02-20T12:01:22.210+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-02-21T21:07:03.893+03:00"}
 ---
 
 
@@ -17,7 +17,14 @@
 - [[1x - References/11 Notes/11.03 Ideas/Exercise willpower by going on a 30-day vice fast\|Exercise willpower by going on a 30-day vice fast]]
 - [[1x - References/11 Notes/11.03 Ideas/Focus on where you are going not what you should avoid\|Focus on where you are going not what you should avoid]]
 - Incredible story of [[1x - References/11 Notes/11.05 Persons/Julius Yego\|Julius Yego]], the youtube taught Javelin thrower
-- 
+- [[1x - References/11 Notes/11.03 Ideas/Monitoring and tracking makes change more likely\|Monitoring and tracking makes change more likely]]
+- [[1x - References/11 Notes/11.03 Ideas/You cannot change bad habits. You can only change the habit to something positive\|You cannot change bad habits. You can only change the habit to something positive]]
+- [[1x - References/11 Notes/11.02 Quotes/You can recall everything you have worked hard and patiently for in your life, but how many things that you have attained with little or no effort can you remember - Thomas Sterner\|You can recall everything you have worked hard and patiently for in your life, but how many things that you have attained with little or no effort can you remember - Thomas Sterner]]
+- [[3x - Spiritual/31 Notes/31.02 Illustrations/Working towards goals like driving in foggy weather. We may not see everything, but we can still make progress\|Working towards goals like driving in foggy weather. We may not see everything, but we can still make progress]]
+- [[1x - References/11 Notes/11.02 Quotes/We are engineered as goal-seeking mechanisms - Maxwell Maltz\|We are engineered as goal-seeking mechanisms - Maxwell Maltz]]
+- [[1x - References/11 Notes/11.02 Quotes/Such as are thy habitual thoughts, such also will be the character of thy mind for the soul is dyed by the thoughts. - Marcus Aurelius\|Such as are thy habitual thoughts, such also will be the character of thy mind for the soul is dyed by the thoughts. - Marcus Aurelius]]
+
+
 ### References
 - 
 
@@ -26,6 +33,7 @@
 - [[1x - References/11 Notes/11.02 Quotes/Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy\|Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy]]
 - [[1x - References/11 Notes/11.02 Quotes/The only thing we know about the future is that it is going to be different. - Peter Drucker\|The only thing we know about the future is that it is going to be different. - Peter Drucker]]
 - [[1x - References/11 Notes/11.02 Quotes/In the midst of chaos, there is also opportunity - Sun Tzu\|In the midst of chaos, there is also opportunity - Sun Tzu]]
+- [[1x - References/11 Notes/11.02 Quotes/Be impeccable with your word. Use the power of your word in the direction of truth and love - Miguel Angel Ruiz\|Be impeccable with your word. Use the power of your word in the direction of truth and love - Miguel Angel Ruiz]]
 
 ### Related
 - [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
