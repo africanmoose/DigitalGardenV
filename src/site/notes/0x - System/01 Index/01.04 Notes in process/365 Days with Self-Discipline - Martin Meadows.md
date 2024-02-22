@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-02-21T21:07:03.893+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-02-22T23:40:11.932+03:00"}
 ---
 
 
@@ -33,7 +33,8 @@
 - [[1x - References/11 Notes/11.02 Quotes/Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy\|Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy]]
 - [[1x - References/11 Notes/11.02 Quotes/The only thing we know about the future is that it is going to be different. - Peter Drucker\|The only thing we know about the future is that it is going to be different. - Peter Drucker]]
 - [[1x - References/11 Notes/11.02 Quotes/In the midst of chaos, there is also opportunity - Sun Tzu\|In the midst of chaos, there is also opportunity - Sun Tzu]]
-- [[1x - References/11 Notes/11.02 Quotes/Be impeccable with your word. Use the power of your word in the direction of truth and love - Miguel Angel Ruiz\|Be impeccable with your word. Use the power of your word in the direction of truth and love - Miguel Angel Ruiz]]
+- [[Be impeccable with your word. Use the power of your word in the direction of truth and love - Miguel Angel Ruiz
+- [[1x - References/11 Notes/11.02 Quotes/The thoughts you entertain most often will have the biggest impact on who you are as a person - Friedrich Nietzshce\|The thoughts you entertain most often will have the biggest impact on who you are as a person - Friedrich Nietzshce]]]
 
 ### Related
 - [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
