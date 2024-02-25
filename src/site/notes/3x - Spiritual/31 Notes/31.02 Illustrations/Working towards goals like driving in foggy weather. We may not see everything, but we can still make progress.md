@@ -10,7 +10,7 @@
 - Working towards long term goals, we may not be able to see very far in the future, but we can make progress
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 - Think of it as driving a car in foggy weather. Even though you can’t see everything around you, you can still drive. It’s the same with goals — even with limited knowledge, you can still work on your objectives
