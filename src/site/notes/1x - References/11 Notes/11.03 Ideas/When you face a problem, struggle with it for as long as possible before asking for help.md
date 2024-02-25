@@ -10,7 +10,7 @@
 - If we solve a problem by ourselves, we remember much better and get in the habit of trying to find the solution ourselves, building resilience
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 Here’s a simple mindset change that can help you improve your problem-solving skills and make you more persistent: whenever you face a problem, stay with it for a good while before you ask anyone for help.
