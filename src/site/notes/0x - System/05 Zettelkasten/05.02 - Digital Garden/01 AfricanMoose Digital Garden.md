@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-21T11:34:28.286+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-25T22:28:30.822+03:00"}
 ---
 
 ## Pic of the week
@@ -39,30 +39,29 @@
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Failure is a positive sign that you are trying to stretch and do something beyond your current abilities\|Failure is a positive sign that you are trying to stretch and do something beyond your current abilities]]
 - [[1x - References/11 Notes/11.03 Ideas/Monitoring and tracking makes change more likely\|Monitoring and tracking makes change more likely]]
 - [[1x - References/11 Notes/11.03 Ideas/Develop the habit of paying the price as early as possible\|Develop the habit of paying the price as early as possible]]
 - [[1x - References/11 Notes/11.03 Ideas/Most university graduates go on to jobs unrelated to their degree\|Most university graduates go on to jobs unrelated to their degree]]
 - [[1x - References/11 Notes/11.03 Ideas/A bigger surface area requires more time to maintain. Keep your life simple as much as possible.\|A bigger surface area requires more time to maintain. Keep your life simple as much as possible.]]
 - [[1x - References/11 Notes/11.03 Ideas/Being busy doesnt mean we are productive\|Being busy doesnt mean we are productive]]
 - [[1x - References/11 Notes/11.03 Ideas/Moving is a good way to reset what we need in our lives\|Moving is a good way to reset what we need in our lives]]
-- [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
 
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Wool omnibus - Hugh Howey\|Wool omnibus - Hugh Howey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell\|The Lazy Person's Guide to Investing - Paul Farrell]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey\|Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
 
 ## Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 - Processing _Dopamine Nation: Finding Balance in the Age of Indulgence - Anna Lembke_
 - Reading _The art of eating - M.S. Fischer_
 - Processing _Zero_
