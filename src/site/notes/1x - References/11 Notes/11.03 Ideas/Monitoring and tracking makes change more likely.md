@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/monitoring-and-tracking-makes-change-more-likely/","title":"Monitoring makes change more likely","created":"2024-02-21T13:24:32.490+03:00","updated":"2024-02-21T13:28:03.859+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/monitoring-and-tracking-makes-change-more-likely/","title":"Monitoring makes change more likely","created":"2024-02-21T13:24:32.490+03:00","updated":"2024-03-02T13:07:45.204+03:00"}
 ---
 
 
@@ -20,4 +20,4 @@
 - [[1x - References/11 Notes/11.03 Ideas/Track your progress\|Track your progress]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Track your financial progress\|Track your financial progress]]
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Specific prayers like tracking number\|Specific prayers like tracking number]]
-- [[5x - Arts/54 Writing/54.08 Productivity book/05 Make it visible\|05 Make it visible]]
+- [[5x - Arts/54 Writing/54.08 Productivity book/01 Make it visible\|01 Make it visible]]
