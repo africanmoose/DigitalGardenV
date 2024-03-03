@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-25T22:28:30.822+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-02T12:18:42.895+03:00"}
 ---
 
 ## Pic of the week
@@ -28,13 +28,13 @@
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Fibonacci (Leonardo of Pisa)\|Fibonacci (Leonardo of Pisa)]]
 - [[1x - References/11 Notes/11.05 Persons/Julius Yego\|Julius Yego]]
 - [[1x - References/11 Notes/11.05 Persons/Yo-Yo Ma\|Yo-Yo Ma]]
 - [[1x - References/11 Notes/11.05 Persons/Django Reinhardt\|Django Reinhardt]]
 - [[1x - References/11 Notes/11.05 Persons/Dave Brubeck\|Dave Brubeck]]
 - [[1x - References/11 Notes/11.05 Persons/Duke Ellington\|Duke Ellington]]
 - [[1x - References/11 Notes/11.05 Persons/Susan Polgar\|Susan Polgar]]
-- [[1x - References/11 Notes/11.03 Ideas/The figlia del coro - The all female multi-instrumental band\|The figlia del coro - The all female multi-instrumental band]]
 
 
 ## Interesting Ideas
@@ -50,6 +50,7 @@
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
 - [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
@@ -62,9 +63,10 @@
 
 ## Work in Progress
 
+- Processing [[0x - System/01 Index/01.04 Notes in process/Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett\|Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett]]
 - Processing _Dopamine Nation: Finding Balance in the Age of Indulgence - Anna Lembke_
 - Reading _The art of eating - M.S. Fischer_
-- Processing _Zero_
+- Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Energy: A Beginner's Guide - Vaclav Smil_
 - Reading _Stillness Is the Key - Ryan Holiday
 
