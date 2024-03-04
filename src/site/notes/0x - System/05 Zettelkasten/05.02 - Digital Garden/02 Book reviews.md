@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-01-20T11:24:45.000+03:00","updated":"2024-02-25T22:27:31.976+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-01-20T11:24:45.000+03:00","updated":"2024-03-03T21:04:48.496+03:00"}
 ---
 
  
@@ -59,5 +59,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel\|Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell\|The Lazy Person's Guide to Investing - Paul Farrell]]
+
 
 
