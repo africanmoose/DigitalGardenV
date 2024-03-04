@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-03T15:39:21.851+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-04T09:07:31.973+03:00"}
 ---
 
 ## Pic of the week
@@ -13,17 +13,19 @@
 - A place to share interesting quotes, book reviews, music I like and any other random information
 - A place to share interesting workflows, productivity tools and ideas on how to work
 - I update this site usually a few times a week, so feel free to come back often, or use the RSS feed at the bottom of the page
+- Some links may not be accessible - I haven't shared everything publicly, so this is normal.
 
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/I think of beauty as an absolute necessity - Toni Morrison\|I think of beauty as an absolute necessity - Toni Morrison]]
 - [[1x - References/11 Notes/11.02 Quotes/Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy\|Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan\|What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran\|What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran]]
 - [[1x - References/11 Notes/11.02 Quotes/The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson\|The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson]]
 - [[1x - References/11 Notes/11.02 Quotes/The secret to waking up is to wake up way earlier than you have to - Simon Sarris\|The secret to waking up is to wake up way earlier than you have to - Simon Sarris]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan\|What an astonishing thing a book is - Carl Sagan]]
-- [[1x - References/11 Notes/11.02 Quotes/Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger\|Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger]]
+
 
 
 ## Interesting Persons
@@ -50,26 +52,23 @@
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett\|Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
 - [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Wool omnibus - Hugh Howey\|Wool omnibus - Hugh Howey]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell\|The Lazy Person's Guide to Investing - Paul Farrell]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
 
 ## Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett\|Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett]]
-- Processing _Dopamine Nation: Finding Balance in the Age of Indulgence - Anna Lembke_
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Energy: A Beginner's Guide - Vaclav Smil_
-- Reading _Stillness Is the Key - Ryan Holiday
-
+- Reading _Stillness Is the Key - Ryan Holiday_
 
 # Finance Ideas
 
@@ -100,12 +99,6 @@ Apparently, my top artists of 2023 are:
 [[1x - References/11 Notes/11.01 Workflows/Overview of tools for personal management and productivity\|Overview of tools for personal management and productivity]]
 
 
-## RSS feed (experimental)
-Copy and paste this URL into your RSS Feed reader (If you had done this before July 3rd, 2023, please delete that one and use this one instead:)
-[RSS feed](https://rssproxy.migor.org/api/w2f?v=0.1&url=https%3A%2F%2Fafricanmoose.netlify.app%2F&link=.%2Fa%5B1%5D&context=%2F%2Fdiv%5B1%5D%2Ful%2Fli&re=none&out=atom&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiYW5vbnltb3VzIiwiaWF0IjoxNjc1MTA1OTQ2fQ.OjesabTBFfq8PUwQKkj_oSm6zKrRDAgo-nQH9jx6Tmw)
-
-
-## Copyright
-Feel free to use anything I have created from this site. Please attribute in keeping with cc4.0
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-All quotations belong to their original copyright holder.
+## RSS feed
+*UPDATE March 3rd, 2024* Copy and paste this URL into your RSS Feed reader. It's been a real pain getting this working, but I think now it is ready to take out of experimental phase. Also has pictures now. If you had done this before, please update your feed link with this one:
+[RSS feed](https://africanmoose.netlify.app/feed.xml)
