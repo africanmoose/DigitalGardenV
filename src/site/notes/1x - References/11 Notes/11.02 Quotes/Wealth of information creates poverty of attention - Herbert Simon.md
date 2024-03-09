@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/wealth-of-information-creates-poverty-of-attention-herbert-simon/","title":"Wealth of information creates poverty of attention - Herbert Simon","created":"2023-09-15T16:52:04.429+03:00","updated":"2024-02-14T20:18:36.509+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/wealth-of-information-creates-poverty-of-attention-herbert-simon/","title":"Wealth of information creates poverty of attention - Herbert Simon","created":"2023-09-15T16:52:04.429+03:00","updated":"2024-03-09T11:34:16.794+03:00"}
 ---
 
 
@@ -12,6 +12,7 @@ Herbert Simon, an American economist and cognitive psychologist
 
 ## Reference
 [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+[[0x - System/01 Index/01.04 Notes in process/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Pay attention to what you are doing - Nadia Boulanger\|Pay attention to what you are doing - Nadia Boulanger]]
