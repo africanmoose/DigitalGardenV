@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-04T09:07:31.973+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-08T21:38:44.851+03:00"}
 ---
 
 ## Pic of the week
@@ -18,14 +18,13 @@
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart\|Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart]]
+- [[1x - References/11 Notes/11.02 Quotes/All of humanitys problems stem from mans inability to sit quietly in a room alone - Blaise Pascal\|All of humanitys problems stem from mans inability to sit quietly in a room alone - Blaise Pascal]]
 - [[1x - References/11 Notes/11.02 Quotes/I think of beauty as an absolute necessity - Toni Morrison\|I think of beauty as an absolute necessity - Toni Morrison]]
 - [[1x - References/11 Notes/11.02 Quotes/Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy\|Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan\|What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran\|What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran]]
 - [[1x - References/11 Notes/11.02 Quotes/The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson\|The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson]]
-- [[1x - References/11 Notes/11.02 Quotes/The secret to waking up is to wake up way earlier than you have to - Simon Sarris\|The secret to waking up is to wake up way earlier than you have to - Simon Sarris]]
-- [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan\|What an astonishing thing a book is - Carl Sagan]]
-
 
 
 ## Interesting Persons
@@ -68,7 +67,7 @@
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Energy: A Beginner's Guide - Vaclav Smil_
-- Reading _Stillness Is the Key - Ryan Holiday_
+- Processing [[0x - System/01 Index/01.04 Notes in process/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 # Finance Ideas
 
