@@ -3,7 +3,7 @@
 ---
 
 ## Pic of the week
-![_DSC8884.jpg](/img/user/_DSC8884.jpg)
+![_DSC8884.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC8884.jpg)
 This croc had caught a gazelle but couldn't be bothered to eat it yet. So it was just lying there with its catch between its jaws. Visit Nairobi National Park before the impending fee increase. It really is incredible that we have this treasure right next to us, and relatively cheap (for a while at least).
 
 
