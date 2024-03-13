@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/stillness-is-the-key-ryan-holiday/","title":"Stillness is the key - Ryan Holiday","created":"2024-03-06T21:42:04.058+03:00","updated":"2024-03-10T09:55:48.413+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/stillness-is-the-key-ryan-holiday/","title":"Stillness is the key - Ryan Holiday","created":"2024-03-06T21:42:04.058+03:00","updated":"2024-03-13T21:15:17.280+03:00"}
 ---
 
 
@@ -20,6 +20,8 @@
 - [[1x - References/11 Notes/11.03 Ideas/Ignore the CNN effect - availability to too much information\|Ignore the CNN effect - availability to too much information]]
 - [[1x - References/11 Notes/11.03 Ideas/The value of keeping a journal\|The value of keeping a journal]]
 - [[1x - References/11 Notes/11.03 Ideas/There is no point in reading if you are not learning something\|There is no point in reading if you are not learning something]]
+- [[1x - References/11 Notes/11.03 Ideas/Find people you admire and ask how they got where they are\|Find people you admire and ask how they got where they are]]
+- [[1x - References/11 Notes/11.03 Ideas/Even in adversity, find beauty in nature\|Even in adversity, find beauty in nature]]
 
 ### References
 - 
@@ -30,6 +32,8 @@
 - [[1x - References/11 Notes/11.02 Quotes/Wealth of information creates poverty of attention - Herbert Simon\|Wealth of information creates poverty of attention - Herbert Simon]]
 - [[1x - References/11 Notes/11.02 Quotes/If you wish to improve be content to appear clueless or stupid in extraneous matters - Epictetus\|If you wish to improve be content to appear clueless or stupid in extraneous matters - Epictetus]]
 - [[1x - References/11 Notes/11.02 Quotes/Paper has more patience than people - Anne Frank\|Paper has more patience than people - Anne Frank]]
+- [[Avoid having your ego so close to your position that when your position falls, your ego goes with it - Colin Powell
+- [[1x - References/11 Notes/11.02 Quotes/To have blessings and to prize them is to be in Heaven, to have them and not to prize them is to be in Hell. . . . To prize them and not to have them is to be in Hell - Thomas Traherne\|To have blessings and to prize them is to be in Heaven, to have them and not to prize them is to be in Hell. . . . To prize them and not to have them is to be in Hell - Thomas Traherne]]]]
 
 ### Related
 
