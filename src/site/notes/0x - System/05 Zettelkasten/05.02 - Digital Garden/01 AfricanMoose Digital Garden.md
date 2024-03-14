@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-11T13:27:11.088+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-14T15:15:29.283+03:00"}
 ---
 
 ## Pic of the week
@@ -31,13 +31,13 @@ This croc had caught a gazelle but couldn't be bothered to eat it yet. So it was
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Winston Churchill\|Winston Churchill]]
 - [[1x - References/11 Notes/11.05 Persons/Fibonacci (Leonardo of Pisa)\|Fibonacci (Leonardo of Pisa)]]
 - [[1x - References/11 Notes/11.05 Persons/Julius Yego\|Julius Yego]]
 - [[1x - References/11 Notes/11.05 Persons/Yo-Yo Ma\|Yo-Yo Ma]]
 - [[1x - References/11 Notes/11.05 Persons/Django Reinhardt\|Django Reinhardt]]
 - [[1x - References/11 Notes/11.05 Persons/Dave Brubeck\|Dave Brubeck]]
 - [[1x - References/11 Notes/11.05 Persons/Duke Ellington\|Duke Ellington]]
-- [[1x - References/11 Notes/11.05 Persons/Susan Polgar\|Susan Polgar]]
 
 
 ## Interesting Ideas
