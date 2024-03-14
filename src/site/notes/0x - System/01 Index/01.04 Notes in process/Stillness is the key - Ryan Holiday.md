@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/stillness-is-the-key-ryan-holiday/","title":"Stillness is the key - Ryan Holiday","created":"2024-03-06T21:42:04.058+03:00","updated":"2024-03-13T21:15:17.280+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/stillness-is-the-key-ryan-holiday/","title":"Stillness is the key - Ryan Holiday","created":"2024-03-06T21:42:04.058+03:00","updated":"2024-03-14T16:46:40.566+03:00"}
 ---
 
 
@@ -22,6 +22,9 @@
 - [[1x - References/11 Notes/11.03 Ideas/There is no point in reading if you are not learning something\|There is no point in reading if you are not learning something]]
 - [[1x - References/11 Notes/11.03 Ideas/Find people you admire and ask how they got where they are\|Find people you admire and ask how they got where they are]]
 - [[1x - References/11 Notes/11.03 Ideas/Even in adversity, find beauty in nature\|Even in adversity, find beauty in nature]]
+- The interesting story of [[1x - References/11 Notes/11.05 Persons/Winston Churchill\|Winston Churchill]]
+- [[1x - References/11 Notes/11.03 Ideas/Bill Gates think week alone in a cabin every year\|Bill Gates think week alone in a cabin every year]]
+- 
 
 ### References
 - 
@@ -34,6 +37,9 @@
 - [[1x - References/11 Notes/11.02 Quotes/Paper has more patience than people - Anne Frank\|Paper has more patience than people - Anne Frank]]
 - [[Avoid having your ego so close to your position that when your position falls, your ego goes with it - Colin Powell
 - [[1x - References/11 Notes/11.02 Quotes/To have blessings and to prize them is to be in Heaven, to have them and not to prize them is to be in Hell. . . . To prize them and not to have them is to be in Hell - Thomas Traherne\|To have blessings and to prize them is to be in Heaven, to have them and not to prize them is to be in Hell. . . . To prize them and not to have them is to be in Hell - Thomas Traherne]]]]
+- [[1x - References/11 Notes/11.02 Quotes/Conservation of energy. Never stand up when you can sit down, and never sit down when you can lie down. - Winston Churchill\|Conservation of energy. Never stand up when you can sit down, and never sit down when you can lie down. - Winston Churchill]]
+- [[1x - References/11 Notes/11.02 Quotes/It is only ideas gained from walking that have any worth. - Friedrich Nietzsche\|It is only ideas gained from walking that have any worth. - Friedrich Nietzsche]]
+- [[1x - References/11 Notes/11.02 Quotes/Miserable human being in whom nothing is habitual but indecision - William James\|Miserable human being in whom nothing is habitual but indecision - William James]]
 
 ### Related
 
