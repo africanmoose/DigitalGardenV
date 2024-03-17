@@ -12,7 +12,7 @@ Herbert Simon, an American economist and cognitive psychologist
 
 ## Reference
 [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
-[[0x - System/01 Index/01.04 Notes in process/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+[[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Pay attention to what you are doing - Nadia Boulanger\|Pay attention to what you are doing - Nadia Boulanger]]
