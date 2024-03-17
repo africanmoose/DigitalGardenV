@@ -10,7 +10,7 @@
 - The lesson is that we have to be selective about what we allow into our brain. The majority of issues do not require an instant response.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 As a general, Napoleon made it his habit to delay responding to the mail. His secretary was instructed to wait three weeks before opening any correspondence. When he finally did hear what was in a letter, Napoleon loved to note how many supposedly “important” issues had simply resolved themselves and no longer required a reply.
