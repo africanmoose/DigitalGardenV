@@ -10,7 +10,7 @@ It is only ideas gained from walking that have any worth.
 - Friedrich Nietzsche
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+[[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ## Related
 - [[4x - Reading/41 Books/41.01 Book Notes/In praise of walking - Shane Omara\|In praise of walking - Shane Omara]]
