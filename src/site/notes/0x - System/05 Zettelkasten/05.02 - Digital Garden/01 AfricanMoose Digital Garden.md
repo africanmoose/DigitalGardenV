@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-18T08:10:53.928+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-18T13:20:36.191+03:00"}
 ---
 
 ## Pic of the week
-![PXL_20240309_063858331.jpg](/img/user/PXL_20240309_063858331.jpg)
+![PXL_20240309_063858331.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240309_063858331.jpg)
 This old school Mercedes 6.3 was in near perfect condition. There is nothing as classy as an old car in good shape.
 
 
@@ -31,13 +31,13 @@ This old school Mercedes 6.3 was in near perfect condition. There is nothing as 
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Bobbi Gibb\|Bobbi Gibb]]
 - [[1x - References/11 Notes/11.05 Persons/William Gladstone\|William Gladstone]]
 - [[1x - References/11 Notes/11.05 Persons/Winston Churchill\|Winston Churchill]]
 - [[1x - References/11 Notes/11.05 Persons/Fibonacci (Leonardo of Pisa)\|Fibonacci (Leonardo of Pisa)]]
 - [[1x - References/11 Notes/11.05 Persons/Julius Yego\|Julius Yego]]
 - [[1x - References/11 Notes/11.05 Persons/Yo-Yo Ma\|Yo-Yo Ma]]
 - [[1x - References/11 Notes/11.05 Persons/Django Reinhardt\|Django Reinhardt]]
-- [[1x - References/11 Notes/11.05 Persons/Dave Brubeck\|Dave Brubeck]]
 
 
 ## Interesting Ideas
