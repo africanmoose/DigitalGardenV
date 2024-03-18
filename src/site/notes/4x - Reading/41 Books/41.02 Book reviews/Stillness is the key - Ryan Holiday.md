@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/stillness-is-the-key-ryan-holiday/","title":"Stillness is the key - Ryan Holiday","created":"2024-03-06T21:42:04.058+03:00","updated":"2024-03-17T10:32:37.910+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/stillness-is-the-key-ryan-holiday/","title":"Stillness is the key - Ryan Holiday","created":"2024-03-06T21:42:04.058+03:00","updated":"2024-03-17T17:05:14.877+03:00"}
 ---
 
 
@@ -47,3 +47,4 @@
 
 ### Related
 - [[4x - Reading/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
