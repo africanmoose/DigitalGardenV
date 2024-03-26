@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-18T13:20:36.191+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-20T22:08:34.745+03:00"}
 ---
 
 ## Pic of the week
@@ -19,14 +19,13 @@ This old school Mercedes 6.3 was in near perfect condition. There is nothing as 
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck\|This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck]]
 - [[1x - References/11 Notes/11.02 Quotes/If you know something's going to work, it's not worth working on. Everything important is uncertain - Eliot Peper\|If you know something's going to work, it's not worth working on. Everything important is uncertain - Eliot Peper]]
 - [[1x - References/11 Notes/11.02 Quotes/I believe the way toward mastery of any endeavor is to work toward simplicity- replace complex technology with knowledge - Yvon Chouinard\|I believe the way toward mastery of any endeavor is to work toward simplicity- replace complex technology with knowledge - Yvon Chouinard]]
 - [[1x - References/11 Notes/11.02 Quotes/Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart\|Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart]]
 - [[1x - References/11 Notes/11.02 Quotes/All of humanitys problems stem from mans inability to sit quietly in a room alone - Blaise Pascal\|All of humanitys problems stem from mans inability to sit quietly in a room alone - Blaise Pascal]]
 - [[1x - References/11 Notes/11.02 Quotes/I think of beauty as an absolute necessity - Toni Morrison\|I think of beauty as an absolute necessity - Toni Morrison]]
 - [[1x - References/11 Notes/11.02 Quotes/Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy\|Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy]]
-- [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan\|What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan]]
-
 
 
 ## Interesting Persons
@@ -66,6 +65,7 @@ This old school Mercedes 6.3 was in near perfect condition. There is nothing as 
 
 ## Work in Progress
 
+- Processing [[0x - System/01 Index/01.04 Notes in process/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Energy: A Beginner's Guide - Vaclav Smil_
