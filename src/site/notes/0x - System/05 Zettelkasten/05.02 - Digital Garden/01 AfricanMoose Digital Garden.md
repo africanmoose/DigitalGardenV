@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-20T22:08:34.745+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-27T20:13:51.750+03:00"}
 ---
 
 ## Pic of the week
-![PXL_20240309_063858331.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240309_063858331.jpg)
-This old school Mercedes 6.3 was in near perfect condition. There is nothing as classy as an old car in good shape.
+![_DSC8687.jpg](/img/user/_DSC8687.jpg)
+Elementaita - the peaceful lake.
 
 
 ## What is this site for?
@@ -30,6 +30,7 @@ This old school Mercedes 6.3 was in near perfect condition. There is nothing as 
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Shizo Kanakuri\|Shizo Kanakuri]]
 - [[1x - References/11 Notes/11.05 Persons/Bobbi Gibb\|Bobbi Gibb]]
 - [[1x - References/11 Notes/11.05 Persons/William Gladstone\|William Gladstone]]
 - [[1x - References/11 Notes/11.05 Persons/Winston Churchill\|Winston Churchill]]
