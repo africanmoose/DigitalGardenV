@@ -3,7 +3,7 @@
 ---
 
 ## Pic of the week
-![_DSC8687.jpg](/img/user/_DSC8687.jpg)
+![_DSC8687.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC8687.jpg)
 Elementaita - the peaceful lake.
 
 
