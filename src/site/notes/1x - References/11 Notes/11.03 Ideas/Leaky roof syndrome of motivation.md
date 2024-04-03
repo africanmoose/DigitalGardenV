@@ -15,4 +15,4 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Motivation starts when you start moving\|Motivation starts when you start moving]]
 - [[1x - References/11 Notes/11.02 Quotes/Three keys to motivation - Daniel Pink\|Three keys to motivation - Daniel Pink]]
-- [[1x - References/11 Notes/11.03 Ideas/Extrinsic vs intrinsic motivation\|Extrinsic vs intrinsic motivation]]
+- [[Extrinsic vs intrinsic motivation\|Extrinsic vs intrinsic motivation]]
