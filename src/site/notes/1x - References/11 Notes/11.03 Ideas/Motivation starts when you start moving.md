@@ -18,7 +18,7 @@
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Motivation important in our service\|Motivation important in our service]]
 - [[1x - References/11 Notes/11.02 Quotes/Three keys to motivation - Daniel Pink\|Three keys to motivation - Daniel Pink]]
-- [[1x - References/11 Notes/11.03 Ideas/Extrinsic vs intrinsic motivation\|Extrinsic vs intrinsic motivation]]
+- [[Extrinsic vs intrinsic motivation\|Extrinsic vs intrinsic motivation]]
 - [[1x - References/11 Notes/11.03 Ideas/Go to the ant - hard work without motivation\|Go to the ant - hard work without motivation]]
 - [[1x - References/11 Notes/11.02 Quotes/Work alone\|Work alone]]
 - [[1x - References/11 Notes/11.02 Quotes/Start where you use what you have do what you can - Brianna Wiest\|Start where you use what you have do what you can - Brianna Wiest]]
