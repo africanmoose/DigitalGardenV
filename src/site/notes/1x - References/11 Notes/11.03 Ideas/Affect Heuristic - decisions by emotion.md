@@ -21,5 +21,5 @@
 - [[1x - References/11 Notes/11.02 Quotes/Emotionally grounded people live realistically and simply\|Emotionally grounded people live realistically and simply]]
 - [[1x - References/11 Notes/11.03 Ideas/Cognitive bias - emotional reasoning\|Cognitive bias - emotional reasoning]]
 - [[1x - References/11 Notes/11.03 Ideas/Social media makes us more emotionally disconnected\|Social media makes us more emotionally disconnected]]
-- [[1x - References/11 Notes/11.03 Ideas/Extrinsic vs intrinsic motivation\|Extrinsic vs intrinsic motivation]]
+- [[Extrinsic vs intrinsic motivation\|Extrinsic vs intrinsic motivation]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Beroeans examined scriptures with eagerness of mind not critical thinking\|Beroeans examined scriptures with eagerness of mind not critical thinking]]
