@@ -15,7 +15,7 @@
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Motivation important in our service\|Motivation important in our service]]
-- [[1x - References/11 Notes/11.03 Ideas/Extrinsic vs intrinsic motivation\|Extrinsic vs intrinsic motivation]]
+- [[Extrinsic vs intrinsic motivation\|Extrinsic vs intrinsic motivation]]
 - [[1x - References/11 Notes/11.02 Quotes/Three keys to motivation - Daniel Pink\|Three keys to motivation - Daniel Pink]]
 - [[1x - References/11 Notes/11.03 Ideas/Decision tool - What would my future self like\|Decision tool - What would my future self like]]
 - [[1x - References/11 Notes/11.02 Quotes/Decisions show up in your calendar and your bank account\|Decisions show up in your calendar and your bank account]]
