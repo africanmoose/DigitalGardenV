@@ -11,7 +11,7 @@
 
 
 ## Recommended 
-- [[4x - Reading/41 Books/41.01 Book Notes/Wool omnibus - Hugh Howey\|Wool omnibus - Hugh Howey]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Wool omnibus - Hugh Howey\|Wool omnibus - Hugh Howey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
