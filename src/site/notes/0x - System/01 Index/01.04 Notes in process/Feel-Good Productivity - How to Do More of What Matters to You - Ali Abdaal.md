@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/feel-good-productivity-how-to-do-more-of-what-matters-to-you-ali-abdaal/","title":"Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal","created":"2024-03-20T22:06:32.701+03:00","updated":"2024-04-03T20:27:52.622+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/feel-good-productivity-how-to-do-more-of-what-matters-to-you-ali-abdaal/","title":"Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal","created":"2024-03-20T22:06:32.701+03:00","updated":"2024-04-05T09:52:47.185+03:00"}
 ---
 
 ![Feel-good productivity-cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Feel-good%20productivity-cover.jpg)
@@ -20,11 +20,13 @@
 - [[1x - References/11 Notes/11.03 Ideas/Even small encouraging words are powerful\|Even small encouraging words are powerful]]
 - [[1x - References/11 Notes/11.03 Ideas/Athletic performance improved by just telling yourself motivational sayings\|Athletic performance improved by just telling yourself motivational sayings]]
 - [[1x - References/11 Notes/11.03 Ideas/Extrinsic motivation vs Intrinsic motivation\|Extrinsic motivation vs Intrinsic motivation]]
+- [[1x - References/11 Notes/11.03 Ideas/Do three random acts of kindness a day\|Do three random acts of kindness a day]]
+- 
 ### References
 - [goodreads](https://www.goodreads.com/book/show/142402923-feel-good-productivity)
 
 ### Quotes
-- 
+- [[1x - References/11 Notes/11.02 Quotes/Everything can be taken from a man but one thing - the last of the human freedoms - to choose ones attitude in any given set of circumstances - Viktor Frankl\|Everything can be taken from a man but one thing - the last of the human freedoms - to choose ones attitude in any given set of circumstances - Viktor Frankl]]
 
 ### Related
 
