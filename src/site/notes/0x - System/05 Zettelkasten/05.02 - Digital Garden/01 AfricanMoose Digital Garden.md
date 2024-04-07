@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-03-27T20:13:51.750+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-04-07T13:50:37.638+03:00"}
 ---
 
 ## Pic of the week
-![_DSC8687.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC8687.jpg)
-Elementaita - the peaceful lake.
 
+![PXL_20240405_155333036.jpg](/img/user/PXL_20240405_155333036.jpg)
+It is amazing how the sky can look so different, not just day to day but even minute to minute.
 
 ## What is this site for?
 
@@ -82,6 +82,9 @@ Elementaita - the peaceful lake.
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
 - Full list of financial ideas - [[0x - System/05 Zettelkasten/05.02 - Digital Garden/03 Improve your finances\|03 Improve your finances]]
 
+## Productivity Ideas
+
+- [[5x - Arts/54 Writing/54.08 Productivity book/01 Make it visible\|01 Make it visible]]
 
 ## Currently listening to
 
