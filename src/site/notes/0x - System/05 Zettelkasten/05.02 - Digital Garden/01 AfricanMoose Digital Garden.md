@@ -4,7 +4,7 @@
 
 ## Pic of the week
 
-![PXL_20240405_155333036.jpg](/img/user/PXL_20240405_155333036.jpg)
+![PXL_20240405_155333036.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240405_155333036.jpg)
 It is amazing how the sky can look so different, not just day to day but even minute to minute.
 
 ## What is this site for?
