@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5x-arts/54-writing/54-08-productivity-book/01-make-it-visible/","title":"Make it visible","created":"2024-03-30T13:41:19.969+03:00","updated":"2024-04-07T13:46:28.048+03:00"}
+{"dg-publish":true,"permalink":"/5x-arts/54-writing/54-08-productivity-book/01-make-it-visible/","title":"Make it visible","created":"2024-03-30T13:41:19.969+03:00","updated":"2024-04-07T14:03:21.939+03:00"}
 ---
 
 
@@ -22,7 +22,7 @@ I started out doing this with a pen and paper, and it made a huge difference to 
 
 Imagine driving on a multi-lane highway with a fair amount of traffic. Everyone is moving along at a good speed, and sometimes impatience might tempt us to drive close to the car ahead of us. But imagine that we slow down just a bit so that there is a good bit of space between us and the car ahead. Now we are able to see a clear section of open highway ahead of us. We can see which lane has some obstruction and move to a clear lane without barely having to change our speed. We are able to slow down and avoid a serious accident because of something unexpected lying on the road. We no longer speed up and slow down abruptly based on the cars ahead of us. Instead we move at a constant speed dictated by us and not the drivers ahead of us. We also tend to use less fuel, and arrive at our destination more relaxed and less stressed.
 
-[picture here?]
+![01 Space between cars.png](/img/user/5x%20-%20Arts/54%20Writing/54.09%20Productivity%20book%20images/01%20Space%20between%20cars.png)
 
 This is exactly the same as with planning our lives. Writing everything that we need to do down allows us to see ahead clearly. Of course it takes a bit of time to do this, similar to how we might have to slow down initially in traffic to give ourselves the space to see. But the advantages are myriad. We can now see farther ahead. We can now choose our work and how much time we devote to it based on what we want, rather than responding to outside forces. We are no longer speeding up and slowing down frantically as forgotten deadlines suddenly come upon us. Our work now progresses at a smooth and regular pace. We are more relaxed and less stressed because we trust our system, and know that we have not forgotten anything. And we avoid the crazy accident because we see it way in advance and adjust accordingly in advance.
 
@@ -77,7 +77,7 @@ I use two different tools here.
 
 **Obsidian** This is a powerful app for my long term note-taking. It is free. Even though the app itself is proprietary, it stores my notes in plain text files on my computer, which I can subsequently back up into my dropbox account or on offline storage. It allows for keeping notes in different folders, and also allows you to link from one note to another. And it allows for lots of different plugins that allow for automation for repetitive tasks such as creating a daily log from a template. It also allows me to automatically publish selected notes online. You can look at my notes here [africanmoose.netlify.com](https://africanmoose.netlify.com) to get an idea of what kind of things I keep in my notes.
 
-![Pasted image 20240407133821.png](/img/user/Pasted%20image%2020240407133821.png)
+![01 Obsidian.png](/img/user/5x%20-%20Arts/54%20Writing/54.09%20Productivity%20book%20images/01%20Obsidian.png)
 
 As a bonus, both Simplenote and Obsidian are pretty.
 
@@ -87,7 +87,7 @@ I basically use **Google Calendar** for my calendar appointments. It allows for 
 
 I also subscribe to a couple of other publicly available calendars, for example my favorite football club that automatically inserts all the club games into my calendar.
 
-![Pasted image 20240407133648.png](/img/user/Pasted%20image%2020240407133648.png)
+![01 Google Calendar.png](/img/user/5x%20-%20Arts/54%20Writing/54.09%20Productivity%20book%20images/01%20Google%20Calendar.png)
 
 For work I use **Microsoft Outlook**, though I wish I could combine everything onto one calendar. I will keep working on this, maybe I can find a thirdy party automation that will do this.
 
@@ -95,6 +95,6 @@ For work I use **Microsoft Outlook**, though I wish I could combine everything o
 
 All my work to be done goes into **Asana**. This is a tool that allows me to see a visual representation of my work. It allows me to use a Kanban board which makes tasks even more visual by giving each task a little box (like a post it note), and move them around towards completion in a more visual way. It also allows me to have long range huge projects, but only the tasks I need to focus on for that particular week visible on my Kanban board. You can see a sample below.
 
-![Pasted image 20240407134220.png](/img/user/Pasted%20image%2020240407134220.png)
+![01 Asana.png](/img/user/5x%20-%20Arts/54%20Writing/54.09%20Productivity%20book%20images/01%20Asana.png)
 
 It is an online tool, and free for a basic plan. There are plenty of other online tools that allow similar functionality. One day for a challenge I intend to move this to an open source solution called Redmine that offers similar functionality, though I will have to install my own server to do this.
