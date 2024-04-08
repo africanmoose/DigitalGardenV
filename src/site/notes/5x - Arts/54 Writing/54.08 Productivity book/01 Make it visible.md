@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5x-arts/54-writing/54-08-productivity-book/01-make-it-visible/","title":"Make it visible","created":"2024-03-30T13:41:19.969+03:00","updated":"2024-04-07T14:03:21.939+03:00"}
+{"dg-publish":true,"permalink":"/5x-arts/54-writing/54-08-productivity-book/01-make-it-visible/","title":"Make it visible","created":"2024-03-30T13:41:19.969+03:00","updated":"2024-04-08T20:38:57.589+03:00"}
 ---
 
 
@@ -50,7 +50,7 @@ A theme that we will keep coming back to is that you should use the tool that wo
 
 As always, the first tools I will mention are traditional non-electronic tools. There is a reason that these tools have persisted through the centuries: they actually work.
 
-Paper is an incredible invention: It's cheap, easily personalized, can function as a note-taking center, sketch book, calendar and to do list without needing to purchase any higher tier level to unlock these functions. Paper doesn't require recharging, is recycleable, portable and flexible. It is also capabal of being organized into highly sophisticated and complex systems.
+Paper is an incredible invention: It's cheap, easily personalized, can function as a note-taking center, sketch book, calendar and to do list without needing to purchase any higher tier level to unlock these functions. Paper doesn't require recharging, is recycleable, portable and flexible. It is also capable of being organized into highly sophisticated and complex systems.
 
 I always suggest starting with paper, since it will inform which electronic tool you will end up using.
 
@@ -98,3 +98,9 @@ All my work to be done goes into **Asana**. This is a tool that allows me to see
 ![01 Asana.png](/img/user/5x%20-%20Arts/54%20Writing/54.09%20Productivity%20book%20images/01%20Asana.png)
 
 It is an online tool, and free for a basic plan. There are plenty of other online tools that allow similar functionality. One day for a challenge I intend to move this to an open source solution called Redmine that offers similar functionality, though I will have to install my own server to do this.
+
+# Chapter Summary
+
+1. Make all your work visible by writing everything down: things to do, long term goals, dates, short term work, sayings you want to remember. Yes, everything!
+2. No need to categorize it at this point, but generally you may want to put notes into your note taking place or app, dates and times into your calendar, and things to do in your job planner
+3. At this point, don't worry too much about which tool you will use. If you have never had one, it might be best to just use paper. A notebook and a calendar will do fine. If you would like an app, a note taking app like Simplenote, a calendar like Google calendar and a task list like Evernote are good simple starting places. Later on you can customize it to your own preferences.
