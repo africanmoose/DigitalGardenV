@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/feel-good-productivity-how-to-do-more-of-what-matters-to-you-ali-abdaal/","title":"Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal","created":"2024-03-20T22:06:32.701+03:00","updated":"2024-04-08T22:12:20.598+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/feel-good-productivity-how-to-do-more-of-what-matters-to-you-ali-abdaal/","title":"Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal","created":"2024-03-20T22:06:32.701+03:00","updated":"2024-04-10T20:59:01.159+03:00"}
 ---
 
 ![Feel-good productivity-cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Feel-good%20productivity-cover.jpg)
@@ -22,6 +22,9 @@
 - [[1x - References/11 Notes/11.03 Ideas/Extrinsic motivation vs Intrinsic motivation\|Extrinsic motivation vs Intrinsic motivation]]
 - [[1x - References/11 Notes/11.03 Ideas/Do three random acts of kindness a day\|Do three random acts of kindness a day]]
 - [[1x - References/11 Notes/11.03 Ideas/How to give negative feedback objectively\|How to give negative feedback objectively]]
+- [[1x - References/11 Notes/11.03 Ideas/Commanders intent\|Commanders intent]]
+- [[1x - References/11 Notes/11.03 Ideas/First principles - ask why five times\|First principles - ask why five times]]
+- [[1x - References/11 Notes/11.03 Ideas/Implementation intentions - how to create habits\|Implementation intentions - how to create habits]]
 - 
 ### References
 - [goodreads](https://www.goodreads.com/book/show/142402923-feel-good-productivity)
