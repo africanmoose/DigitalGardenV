@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-04-07T13:50:37.638+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-04-10T20:58:48.387+03:00"}
 ---
 
 ## Pic of the week
@@ -19,13 +19,13 @@ It is amazing how the sky can look so different, not just day to day but even mi
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet\|Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet]]
 - [[1x - References/11 Notes/11.02 Quotes/This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck\|This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck]]
 - [[1x - References/11 Notes/11.02 Quotes/If you know something's going to work, it's not worth working on. Everything important is uncertain - Eliot Peper\|If you know something's going to work, it's not worth working on. Everything important is uncertain - Eliot Peper]]
 - [[1x - References/11 Notes/11.02 Quotes/I believe the way toward mastery of any endeavor is to work toward simplicity- replace complex technology with knowledge - Yvon Chouinard\|I believe the way toward mastery of any endeavor is to work toward simplicity- replace complex technology with knowledge - Yvon Chouinard]]
 - [[1x - References/11 Notes/11.02 Quotes/Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart\|Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart]]
 - [[1x - References/11 Notes/11.02 Quotes/All of humanitys problems stem from mans inability to sit quietly in a room alone - Blaise Pascal\|All of humanitys problems stem from mans inability to sit quietly in a room alone - Blaise Pascal]]
 - [[1x - References/11 Notes/11.02 Quotes/I think of beauty as an absolute necessity - Toni Morrison\|I think of beauty as an absolute necessity - Toni Morrison]]
-- [[1x - References/11 Notes/11.02 Quotes/Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy\|Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy]]
 
 
 ## Interesting Persons
@@ -42,13 +42,13 @@ It is amazing how the sky can look so different, not just day to day but even mi
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Implementation intentions - how to create habits\|Implementation intentions - how to create habits]]
+- [[1x - References/11 Notes/11.03 Ideas/First principles - ask why five times\|First principles - ask why five times]]
 - [[1x - References/11 Notes/11.03 Ideas/There is no point in reading if you are not learning something\|There is no point in reading if you are not learning something]]
 - [[1x - References/11 Notes/11.03 Ideas/Time is a tool\|Time is a tool]]
 - [[1x - References/11 Notes/11.03 Ideas/Leaders job is to think of the big picture\|Leaders job is to think of the big picture]]
 - [[1x - References/11 Notes/11.03 Ideas/Entropy applies to everything\|Entropy applies to everything]]
 - [[1x - References/11 Notes/11.03 Ideas/Failure is a positive sign that you are trying to stretch and do something beyond your current abilities\|Failure is a positive sign that you are trying to stretch and do something beyond your current abilities]]
-- [[1x - References/11 Notes/11.03 Ideas/Monitoring and tracking makes change more likely\|Monitoring and tracking makes change more likely]]
-- [[1x - References/11 Notes/11.03 Ideas/Develop the habit of paying the price as early as possible\|Develop the habit of paying the price as early as possible]]
 
 
 ## Book Reviews
