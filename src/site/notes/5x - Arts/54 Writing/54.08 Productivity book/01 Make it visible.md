@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5x-arts/54-writing/54-08-productivity-book/01-make-it-visible/","title":"Make it visible","created":"2024-03-30T13:41:19.969+03:00","updated":"2024-04-08T20:38:57.589+03:00"}
+{"dg-publish":true,"permalink":"/5x-arts/54-writing/54-08-productivity-book/01-make-it-visible/","title":"Make it visible","created":"2024-03-30T13:41:19.969+03:00","updated":"2024-04-13T11:18:37.545+03:00"}
 ---
 
 
@@ -13,6 +13,21 @@ The first principle of productivity is to make our work visible. Write down, pre
 In fact, another Swahili proverb has a bearing: **"Mtambua ndwele ndiye mganga."** It means literally, 'the person who understands the sickness is the doctor.' Once we know exactly what the problem is, we are 90% of the way to knowing the solution. And so it is with recording everything that needs to be done. Once we can see everything clearly in one place, it is so much easier to prioritize it, to schedule it, and ultimately to actually accomplish it.
 
 Why is it helpful to do this? What kind of information should we be recording? What are some tools we can use to record everything we need to? This chapter will be diving deep ito the first principle, and the foundation of all the other productivity principles. Make your work visible.
+
+# Luhman's zettelkasten and da Vinci's notebooks
+
+Niklas Luhman was a sociologist who was born in 1927. He was ridiculously prolific, producing more than 70 books and over 400 scholarly articles over his career lasting about 35 years. This works out to 2 books and 11 articles every year.
+
+What was his secret to his productivity? He credits his 'Zettelkasten', or note-taking system. The word Zettelkasten means 'slip-box' in German, and refers to each note as a slip. His notes were physical cards with an indexing system whereby he could link them to related cards. By the end of his life he had amassed 90,000 cards.
+
+Leonardo da Vinci is recognized as one of the foremost geniuses of the 20th century. What was the secret to his creativity? One of his legacies is thousands of pages of personal notes that he left behind. His notes are crammed full of diagrams, rough sketches, written notes and designs for mechanical inventions.
+
+His notes give us an insight into his brilliance: medicine, art, philosophy, mathematics and engineering jostle for space on his pages.
+
+![da vinci notebook1.jpg](/img/user/da%20vinci%20notebook1.jpg)
+_A page from da Vinci's personal notes_
+
+Both these examples show us that making our work visible has real long-term benefits that we can also reap.
 
 # Why should we make our work visible?
 
