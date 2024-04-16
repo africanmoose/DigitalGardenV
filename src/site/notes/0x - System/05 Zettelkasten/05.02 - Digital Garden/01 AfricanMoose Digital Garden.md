@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-04-10T20:58:48.387+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-04-16T08:10:09.605+03:00"}
 ---
 
 ## Pic of the week
-
-![PXL_20240405_155333036.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240405_155333036.jpg)
-It is amazing how the sky can look so different, not just day to day but even minute to minute.
+![PXL_20240407_062946345.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240407_062946345.jpg)
+More Karura forest goodness.
 
 ## What is this site for?
 
@@ -53,20 +52,20 @@ It is amazing how the sky can look so different, not just day to day but even mi
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett\|Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
 - [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
 
 ## Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Energy: A Beginner's Guide - Vaclav Smil_
