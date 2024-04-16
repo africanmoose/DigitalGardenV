@@ -13,7 +13,7 @@
 - If we think positively about failure, we are less likely to give up and more likely to succeed at what we are attempting.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 In 2016, a NASA-trained engineer named Mark Rober recruited 50,000 people to try out a new computer challenge. He wanted to prove that anyone could learn how to code, he told them. And so he set them off on a series of relatively easy coding challenges. In fact, the experiment was more complicated than Rober let on.
