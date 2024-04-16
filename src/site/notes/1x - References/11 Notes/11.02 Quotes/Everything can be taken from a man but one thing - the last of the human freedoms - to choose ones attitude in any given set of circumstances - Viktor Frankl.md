@@ -11,7 +11,7 @@ Viktor Frankl
 Austrian psychiatrist and survivor of the Auschwitz concentration camp during World War Two
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+[[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Paradox of choice\|Paradox of choice]]
