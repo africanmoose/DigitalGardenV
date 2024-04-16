@@ -23,4 +23,4 @@
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Mountain climbing like Jah providing assistance as we endure\|Mountain climbing like Jah providing assistance as we endure]]
-- [[0x - System/01 Index/01.04 Notes in process/lessons from running\|lessons from running]]
+- [[5x - Arts/54 Writing/54.xx substack articles/lessons from running\|lessons from running]]
