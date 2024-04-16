@@ -24,7 +24,7 @@ Leonardo da Vinci is recognized as one of the foremost geniuses of the 20th cent
 
 His notes give us an insight into his brilliance: medicine, art, philosophy, mathematics and engineering jostle for space on his pages.
 
-![da vinci notebook1.jpg](/img/user/da%20vinci%20notebook1.jpg)
+![da vinci notebook1.jpg](/img/user/5x%20-%20Arts/54%20Writing/54.09%20Productivity%20book%20images/da%20vinci%20notebook1.jpg)
 _A page from da Vinci's personal notes_
 
 Both these examples show us that making our work visible has real long-term benefits that we can also reap.
