@@ -12,7 +12,7 @@
 - Positive verbal feedback builds self-efficacy, even things we ourselves say can have an effect on our own sense of self-efficacy
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 - [simple psychology](https://www.simplypsychology.org/self-efficacy.html#Applications-of-Self-Efficacy)
 
 ### Quotes
