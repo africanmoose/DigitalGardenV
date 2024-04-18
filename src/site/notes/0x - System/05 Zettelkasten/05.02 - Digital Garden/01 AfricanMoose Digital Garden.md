@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-04-16T08:10:09.605+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-04-17T18:01:29.754+03:00"}
 ---
 
 ## Pic of the week
@@ -65,11 +65,13 @@ More Karura forest goodness.
 
 ## Work in Progress
 
-
+- Processing [[0x - System/01 Index/01.04 Notes in process/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann rev\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann rev]]
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Energy: A Beginner's Guide - Vaclav Smil_
 - Reading _Einstein: His life and universe_
+- Reading _Van Gogh: the life_
+- Reading _Hidden Potential_
 
 # Finance Ideas
 
