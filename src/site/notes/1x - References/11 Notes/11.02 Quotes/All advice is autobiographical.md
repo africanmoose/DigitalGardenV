@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/all-advice-is-autobiographical/","title":"All advice is autobiographical","created":"2024-04-18T09:00:13.780+03:00","updated":"2024-04-18T09:03:44.368+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/all-advice-is-autobiographical/","title":"All advice is autobiographical","created":"2024-04-18T09:00:13.780+03:00","updated":"2024-04-20T08:12:49.503+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - Austin Kleon
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann rev\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann rev]]
+[[0x - System/01 Index/01.04 Notes in process/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/I hate advice unless i am giving it - Jack Nicholson\|I hate advice unless i am giving it - Jack Nicholson]]
