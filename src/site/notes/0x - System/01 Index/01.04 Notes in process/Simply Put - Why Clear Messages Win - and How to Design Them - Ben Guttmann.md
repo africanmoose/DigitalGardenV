@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/simply-put-why-clear-messages-win-and-how-to-design-them-ben-guttmann/","title":"Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann","created":"2024-04-17T17:55:29.814+03:00","updated":"2024-04-20T12:37:41.388+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/simply-put-why-clear-messages-win-and-how-to-design-them-ben-guttmann/","title":"Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann","created":"2024-04-17T17:55:29.814+03:00","updated":"2024-04-21T22:54:28.587+03:00"}
 ---
 
 ![Simply put - cover.jpg](/img/user/Simply%20put%20-%20cover.jpg)
@@ -21,6 +21,7 @@
 
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/All advice is autobiographical\|All advice is autobiographical]]
-
+- [[1x - References/11 Notes/11.02 Quotes/We choose to go to the moon - J. F. Kennedy\|We choose to go to the moon - J. F. Kennedy]]
+- [[1x - References/11 Notes/11.02 Quotes/Nobody wins unless everybody wins - Bruce Springsteen\|Nobody wins unless everybody wins - Bruce Springsteen]]
 ### Related
 
