@@ -10,7 +10,7 @@
 - Anything that is not a useful part of your story should be eliminated.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 - [wikipedia](https://en.wikipedia.org/wiki/Design)
 
 ### Quotes
