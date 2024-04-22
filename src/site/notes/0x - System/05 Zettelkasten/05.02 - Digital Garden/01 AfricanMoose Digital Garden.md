@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-04-20T08:12:49.417+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-04-22T10:45:27.432+03:00"}
 ---
 
 ## Pic of the week
-![PXL_20240407_062946345.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240407_062946345.jpg)
-More Karura forest goodness.
+![PXL_20240418_073125836.MP.jpg](/img/user/PXL_20240418_073125836.MP.jpg)
+For the first time in my life, I visited Bungoma in Western Kenya. What a lovely green town it was. I think I could easily live there.
 
 ## What is this site for?
 
