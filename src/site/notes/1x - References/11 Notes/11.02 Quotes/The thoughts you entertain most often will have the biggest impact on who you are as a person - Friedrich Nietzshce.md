@@ -17,4 +17,4 @@ Friedrich Nietzsche
 - [[1x - References/11 Notes/11.02 Quotes/Watch your thoughts for they become words - Margaret Thatcher\|Watch your thoughts for they become words - Margaret Thatcher]]
 - [[1x - References/11 Notes/11.03 Ideas/Thought suppression is not the best way to control ourselves\|Thought suppression is not the best way to control ourselves]]
 - [[1x - References/11 Notes/11.03 Ideas/Thinking is hard work\|Thinking is hard work]]
-- [[1x - References/11 Notes/11.03 Ideas/Long term thinking\|Long term thinking]]
+- [[Long term thinking\|Long term thinking]]
