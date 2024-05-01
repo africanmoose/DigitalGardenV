@@ -20,6 +20,6 @@ but not both. Any energy that’s channeled toward short-term solutions depletes
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Dont define solutions in binary terms\|Dont define solutions in binary terms]]
 - [[1x - References/11 Notes/11.03 Ideas/Measure your life in energy not in money\|Measure your life in energy not in money]]
-- [[1x - References/11 Notes/11.03 Ideas/Long term thinking\|Long term thinking]]
+- [[Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]
 - [[1x - References/11 Notes/11.03 Ideas/Review values and long term goals regularly\|Review values and long term goals regularly]]
