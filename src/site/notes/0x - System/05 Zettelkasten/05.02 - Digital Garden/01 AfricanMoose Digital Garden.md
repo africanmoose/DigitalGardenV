@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-01T21:57:21.000+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-01T22:03:41.232+03:00"}
 ---
 
 ## Pic of the week
@@ -41,13 +41,13 @@ Excellent art in the garden of Ayira's neo-soul cafe. This cafe hires staff who 
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Neuroplasticity allows us to design our brain\|Neuroplasticity allows us to design our brain]]
 - [[1x - References/11 Notes/11.03 Ideas/Implementation intentions - how to create habits\|Implementation intentions - how to create habits]]
 - [[1x - References/11 Notes/11.03 Ideas/First principles - ask why five times\|First principles - ask why five times]]
 - [[1x - References/11 Notes/11.03 Ideas/There is no point in reading if you are not learning something\|There is no point in reading if you are not learning something]]
 - [[1x - References/11 Notes/11.03 Ideas/Time is a tool\|Time is a tool]]
 - [[1x - References/11 Notes/11.03 Ideas/Leaders job is to think of the big picture\|Leaders job is to think of the big picture]]
 - [[1x - References/11 Notes/11.03 Ideas/Entropy applies to everything\|Entropy applies to everything]]
-- [[1x - References/11 Notes/11.03 Ideas/Failure is a positive sign that you are trying to stretch and do something beyond your current abilities\|Failure is a positive sign that you are trying to stretch and do something beyond your current abilities]]
 
 
 ## Book Reviews
@@ -82,10 +82,6 @@ Excellent art in the garden of Ayira's neo-soul cafe. This cafe hires staff who 
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
 - Full list of financial ideas - [[0x - System/05 Zettelkasten/05.02 - Digital Garden/03 Improve your finances\|03 Improve your finances]]
 
-## Productivity Ideas
-
-- [[5x - Arts/54 Writing/54.08 Productivity book/01 Make it visible\|01 Make it visible]]
-
 ## Currently listening to
 
 Apparently, my top artists of 2023 are:
@@ -99,9 +95,9 @@ Apparently, my top artists of 2023 are:
 
 ## Africanmoose Stuff
 
-[Africanmoose](https://africanmoose.blogspot.com)
+[Africanmoose Travel Blog](https://africanmoose.blogspot.com)
 [Africanmoose Photography](http://Africanmoose.com)
-[[1x - References/11 Notes/11.01 Workflows/Overview of tools for personal management and productivity\|Overview of tools for personal management and productivity]]
+[Africanmoose Substack - an article about every week or so](africanmoose.substack.com)
 
 
 ## RSS feed
