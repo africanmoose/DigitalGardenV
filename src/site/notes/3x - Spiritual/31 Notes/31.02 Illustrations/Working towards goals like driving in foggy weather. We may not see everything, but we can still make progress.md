@@ -19,5 +19,5 @@
 - [[1x - References/11 Notes/11.03 Ideas/Specific goals can be counter productive\|Specific goals can be counter productive]]
 - [[1x - References/11 Notes/11.02 Quotes/Systems trump goals - James Clear\|Systems trump goals - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Attach your lives to a goal not people or things - Albert Einstein\|Attach your lives to a goal not people or things - Albert Einstein]]
-- [[1x - References/11 Notes/11.03 Ideas/Long term thinking\|Long term thinking]]
+- [[Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Review values and long term goals regularly\|Review values and long term goals regularly]]
