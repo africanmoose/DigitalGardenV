@@ -19,5 +19,5 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Cognitive Tools\|Cognitive Tools]]
-- [[1x - References/11 Notes/11.03 Ideas/Long term thinking\|Long term thinking]]
+- [[Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]
