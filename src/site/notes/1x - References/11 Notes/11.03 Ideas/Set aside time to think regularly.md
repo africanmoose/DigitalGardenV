@@ -14,5 +14,5 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Think about before making a decision\|Think about before making a decision]]
-- [[1x - References/11 Notes/11.03 Ideas/Long term thinking\|Long term thinking]]
+- [[Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Plan but dont overplan\|Plan but dont overplan]]
