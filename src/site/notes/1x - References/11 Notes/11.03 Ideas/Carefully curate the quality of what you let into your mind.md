@@ -19,5 +19,5 @@
 - [[1x - References/11 Notes/11.02 Quotes/There is always room for quality\|There is always room for quality]]
 - [[3x - Spiritual/31 Notes/31.05 Bethel Lectures/His thoughts are higher than our thoughts - Andrew Collins\|His thoughts are higher than our thoughts - Andrew Collins]]
 - [[1x - References/11 Notes/11.03 Ideas/Reading is Thinking\|Reading is Thinking]]
-- [[1x - References/11 Notes/11.03 Ideas/Long term thinking\|Long term thinking]]
+- [[Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Dont plant the seed in your mind - Mereba\|Dont plant the seed in your mind - Mereba]]
