@@ -21,4 +21,4 @@ work harder than everyone else. Imagine a team of ditchdiggers working with thei
 - [[1x - References/11 Notes/11.03 Ideas/The standard pace is for average\|The standard pace is for average]]
 - [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Originals How Non-Conformists Move the World - Adam Grant\|Originals How Non-Conformists Move the World - Adam Grant]]
-- [[1x - References/11 Notes/11.03 Ideas/Long term thinking\|Long term thinking]]
+- [[Long term thinking\|Long term thinking]]
