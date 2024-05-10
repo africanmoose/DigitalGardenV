@@ -3,7 +3,7 @@
 ---
 
 
-![stillness is the key - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/stillness%20is%20the%20key%20-%20cover.jpg)
+![stillness is the key - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/stillness%20is%20the%20key%20-%20cover.jpg)
 ### Summary
 - Slow down and take time to think instead of being caught up with the mad rush that is modern life.
 
