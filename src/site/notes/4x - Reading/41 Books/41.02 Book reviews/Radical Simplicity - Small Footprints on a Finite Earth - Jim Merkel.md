@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/radical-simplicity-small-footprints-on-a-finite-earth-jim-merkel/","title":"Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel","created":"2024-01-12T11:04:16.000+03:00","updated":"2024-02-14T20:17:40.640+03:00"}
 ---
 
-![Radical simplicity - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Radical%20simplicity%20-%20cover.jpg)
+![Radical simplicity - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Radical%20simplicity%20-%20cover.jpg)
 ### Summary
 - A thoughtful book about how many people the planet earth can actually support. If we divided up all the arable land among the inhabitants, we would each get about 4 acres to live on. Which sounds like a lot, but when you consider how many acres it takes to build cars, feed meat, and so on, it may not be as much as we think. The average American uses 24 acres to maintain his lifestyle. So clearly this is unsustainable for all humankind. Merkel explores some potential solutions.
 
