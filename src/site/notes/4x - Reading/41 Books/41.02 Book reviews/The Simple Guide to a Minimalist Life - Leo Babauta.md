@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-simple-guide-to-a-minimalist-life-leo-babauta/","title":"The Simple Guide to a Minimalist Life - Leo Babauta","created":"2024-01-08T21:53:12.000+03:00","updated":"2024-02-14T20:17:40.339+03:00"}
 ---
 
-![The simple guide - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20simple%20guide%20-%20cover.jpg)
+![The simple guide - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/The%20simple%20guide%20-%20cover.jpg)
 ### Summary
 - As the title says, its a simple guide. Just the basic principles, and I think it's all the better for it. 
 
