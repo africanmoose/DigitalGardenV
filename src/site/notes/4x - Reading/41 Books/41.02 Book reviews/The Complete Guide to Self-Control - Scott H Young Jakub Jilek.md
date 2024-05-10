@@ -3,7 +3,7 @@
 ---
 
 
-![The complete guide to self-control cover.png](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20complete%20guide%20to%20self-control%20cover.png)
+![The complete guide to self-control cover.png](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/The%20complete%20guide%20to%20self-control%20cover.png)
 ### Summary
 - A short and concise guide to understanding the scientific principles behind self-control
 
