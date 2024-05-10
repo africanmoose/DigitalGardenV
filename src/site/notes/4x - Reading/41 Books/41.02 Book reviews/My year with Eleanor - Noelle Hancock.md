@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/my-year-with-eleanor-noelle-hancock/","title":"My year with Eleanor - Noelle Hancock","created":"2023-10-20T23:39:12.000+03:00","updated":"2024-02-14T20:17:40.707+03:00"}
 ---
 
-![My year with Eleanor - Cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/My%20year%20with%20Eleanor%20-%20Cover.jpg)
+![My year with Eleanor - Cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/My%20year%20with%20Eleanor%20-%20Cover.jpg)
 ### Summary
 - Noelle Hancock tries to follow Eleanor Roosevelts advice to do one scary thing a day for a year, with hilarious results. 
 
