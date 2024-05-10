@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-lazy-person-s-guide-to-investing-paul-farrell/","title":"The Lazy Person's Guide to Investing - Paul Farrell","created":"2024-01-18T08:51:06.000+03:00","updated":"2024-02-14T20:17:40.426+03:00"}
 ---
 
-![The Lazy persons guide to investing - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20Lazy%20persons%20guide%20to%20investing%20-%20cover.jpg)
+![The Lazy persons guide to investing - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/The%20Lazy%20persons%20guide%20to%20investing%20-%20cover.jpg)
 ### Summary
 - Some ideas for investing that don't require too much work. Essentially he suggests investing in index funds. The principle is sound, but a few caveats. One is that it is a strongly USA- centered book. Secondly, the idea presented in the first chapter is to invest simply, and the rest of the book is thus rendered unnecessary.
 
