@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/a-history-of-the-world-in-6-glasses-tom-standage/","title":"A history of the world in 6 glasses - Tom Standage","created":"2023-08-21T13:58:54.585+03:00","updated":"2024-02-14T20:17:41.018+03:00"}
 ---
 
-![A History of the world - cover.jpeg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/A%20History%20of%20the%20world%20-%20cover.jpeg)
+![A History of the world - cover.jpeg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/A%20History%20of%20the%20world%20-%20cover.jpeg)
 ### Summary
 - A brief history of 6 drinks that had an outsize influence on the history of mankind: beer, wine, distilled spirits, coffee, tea and Coca-cola
 
