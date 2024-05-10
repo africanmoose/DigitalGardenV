@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/range-why-generalists-triumph-in-a-specialized-world-david-epstein/","title":"Range - Why Generalists Triumph in a Specialized World - David Epstein","created":"2024-01-20T11:27:18.747+03:00","updated":"2024-02-15T08:50:52.113+03:00"}
 ---
 
-![Range - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Range%20-%20cover.jpg)
+![Range - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Range%20-%20cover.jpg)
 ### Summary
 - The world today focuses a lot on specialization, but evidence is mounting that generalization is what gives us more creativity, better ideas and better mental models to understand the world around us. Epstein lays out some very convincing arguements to prove this
 
