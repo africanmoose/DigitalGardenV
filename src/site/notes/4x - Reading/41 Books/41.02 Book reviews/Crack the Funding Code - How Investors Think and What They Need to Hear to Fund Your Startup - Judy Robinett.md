@@ -3,7 +3,7 @@
 ---
 
 
-![Crack the funding code - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Crack%20the%20funding%20code%20-%20cover.jpg)
+![Crack the funding code - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Crack%20the%20funding%20code%20-%20cover.jpg)
 ### Summary
 - The nuts and bolts of how to apply for funding from angel investors and funders
 
