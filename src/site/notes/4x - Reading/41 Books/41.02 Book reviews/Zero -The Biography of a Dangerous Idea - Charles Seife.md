@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/zero-the-biography-of-a-dangerous-idea-charles-seife/","title":"Zero -The Biography of a Dangerous Idea - Charles Seife","created":"2024-02-26T20:35:20.105+03:00","updated":"2024-03-02T11:59:14.428+03:00"}
 ---
 
-![Zero - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Zero%20-%20cover.jpg)
+![Zero - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Zero%20-%20cover.jpg)
 ### Summary
 - A history of the use of zero as a number. Invented by the Babylonians, and developed by the Hindus, the fear of using it in the West held back Western scientific development
 
