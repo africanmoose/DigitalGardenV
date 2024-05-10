@@ -3,7 +3,7 @@
 ---
 
 
-![Hell Yeah or No - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Hell%20Yeah%20or%20No%20-%20cover.jpg)
+![Hell Yeah or No - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Hell%20Yeah%20or%20No%20-%20cover.jpg)
 
 ### Summary
 - Basically: prioritize. What is worth doing is worth investing fully in, and say no to the rest.
