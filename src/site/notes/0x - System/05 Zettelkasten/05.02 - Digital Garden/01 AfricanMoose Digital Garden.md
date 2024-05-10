@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-03T20:13:36.232+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-10T20:22:13.792+03:00"}
 ---
 
 ## Pic of the week
@@ -52,13 +52,13 @@ Excellent art in the garden of Ayira's neo-soul cafe. This cafe hires staff who 
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
 -  [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett\|Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
 - [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
@@ -67,10 +67,9 @@ Excellent art in the garden of Ayira's neo-soul cafe. This cafe hires staff who 
 
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
-- Reading _Energy: A Beginner's Guide - Vaclav Smil_
 - Reading _Einstein: His life and universe_
 - Reading _Van Gogh: the life_
-- Reading _Hidden Potential_
+- Processing _Hidden Potential_
 
 # Finance Ideas
 
