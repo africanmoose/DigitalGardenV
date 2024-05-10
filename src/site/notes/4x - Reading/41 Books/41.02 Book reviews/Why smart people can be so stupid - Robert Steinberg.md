@@ -3,7 +3,7 @@
 ---
 
 
-![Why smart people can be so stupid - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Why%20smart%20people%20can%20be%20so%20stupid%20-%20cover.jpg)
+![Why smart people can be so stupid - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Why%20smart%20people%20can%20be%20so%20stupid%20-%20cover.jpg)
 ### Summary
 - A highly scientific look at what it says on the package. But how do you definte 'smart'? and how do you define 'stupid things?'. It gets tricky to analyse this strictly from a scientific point of view.
 
