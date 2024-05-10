@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-writing-of-the-gods-edward-dolnick/","title":"The Writing of the Gods - Edward Dolnick","created":"2023-09-06T19:23:50.081+03:00","updated":"2024-02-14T20:17:40.315+03:00"}
 ---
 
-![The writing of the gods - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20writing%20of%20the%20gods%20-%20cover.jpg)
+![The writing of the gods - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/The%20writing%20of%20the%20gods%20-%20cover.jpg)
 ### Summary
 - This is the story of how 2 men decoded the Rosetta stone - and thus came to understand how to read hieroglyphics. It is surprisingly gripping, and ties in with bible history. Strongly recommended.
 - The two men were both geniuses, but totally different characters. [[1x - References/11 Notes/11.05 Persons/Thomas Young\|Thomas Young]] was a British polymath and Jean-François Champollion loved everything to do with Egypt.
