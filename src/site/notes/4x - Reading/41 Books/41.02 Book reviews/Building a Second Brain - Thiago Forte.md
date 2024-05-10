@@ -3,7 +3,7 @@
 ---
 
 
- ![building a second brain - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/building%20a%20second%20brain%20-%20cover.jpg)
+ ![building a second brain - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/building%20a%20second%20brain%20-%20cover.jpg)
 
 ### Summary
 - Thiago Fortes version of a zettelkasten. He has some excellent ideas, many based on Luhmans [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Zettelkasten Method]] system, and some of his own research. It also includes a file structure idea
