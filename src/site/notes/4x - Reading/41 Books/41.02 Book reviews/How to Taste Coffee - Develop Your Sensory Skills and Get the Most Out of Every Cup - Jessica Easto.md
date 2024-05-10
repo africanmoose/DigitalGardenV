@@ -3,7 +3,7 @@
 ---
 
 
- ![How to taste coffee - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/How%20to%20taste%20coffee%20-%20cover.jpg)
+ ![How to taste coffee - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/How%20to%20taste%20coffee%20-%20cover.jpg)
  
 ### Summary
 - This book tries to teach you how to improve on our skills in tasting coffee (and by extension anything else we eat)
