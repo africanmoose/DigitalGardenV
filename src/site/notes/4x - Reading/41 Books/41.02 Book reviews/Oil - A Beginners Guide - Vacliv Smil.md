@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/oil-a-beginners-guide-vacliv-smil/","title":"Oil - A Beginners Guide - Vacliv Smil","created":"2023-04-23T07:46:15.000+03:00","updated":"2024-02-14T20:17:40.685+03:00"}
 ---
 
-![Oil - A beginners guide cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Oil%20-%20A%20beginners%20guide%20cover.jpg)
+![Oil - A beginners guide cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Oil%20-%20A%20beginners%20guide%20cover.jpg)
 
 ### Summary
 - A scientific dive into one of the primary sources of energy in the 21st century - Oil. What it is, how it is used, how it is distributed.
