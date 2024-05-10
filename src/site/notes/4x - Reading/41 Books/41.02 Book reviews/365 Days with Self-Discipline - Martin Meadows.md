@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-03-03T09:32:54.423+03:00"}
 ---
 
-![365 days - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/365%20days%20-%20cover.jpg)
+![365 days - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/365%20days%20-%20cover.jpg)
 ### Summary
 - 365 points on how to build self-discipline. It has a lot of information as well as inspiration quotes and ideas
 
