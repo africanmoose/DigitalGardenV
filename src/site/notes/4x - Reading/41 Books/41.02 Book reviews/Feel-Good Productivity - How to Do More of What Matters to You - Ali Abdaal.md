@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/feel-good-productivity-how-to-do-more-of-what-matters-to-you-ali-abdaal/","title":"Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal","created":"2024-03-20T22:06:32.701+03:00","updated":"2024-04-16T07:56:41.752+03:00"}
 ---
 
-![Feel-good productivity-cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Feel-good%20productivity-cover.jpg)
+![Feel-good productivity-cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Feel-good%20productivity-cover.jpg)
 ### Summary
 - A well researched productivity book that focuses a bit less on the nuts and bolts and more on the motivation aspect of it. The idea that you work better if you are happy is probaby accurate!
 
