@@ -3,7 +3,7 @@
 ---
 
 
-![The Creative Act - Cover.png](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20Creative%20Act%20-%20Cover.png)
+![The Creative Act - Cover.png](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/The%20Creative%20Act%20-%20Cover.png)
 
 ### Summary
 - Rick Rubin has coaxed music out of a bewildering array of artists: RunDMC, LL Cool J, Metallica, Red Hot Chili Peppers, Weezer, Aerosmith, Johnny Cash. After reading his manual for creativity I understand why - he encourages creativity in others rather than trying to give his own ideas. A must read for any creative.
