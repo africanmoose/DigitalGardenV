@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/this-is-your-mind-on-plants-michael-pollen/","title":"This is your mind on plants - Michael Pollen","created":"2023-07-23T19:10:26.062+03:00","updated":"2024-02-14T20:17:40.059+03:00"}
 ---
 
-![This is your mind on plants - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/This%20is%20your%20mind%20on%20plants%20-%20cover.jpg)
+![This is your mind on plants - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/This%20is%20your%20mind%20on%20plants%20-%20cover.jpg)
 
 ### Summary
 - Pollan discusses 3 mind-altering plant products: opium, caffeine and mescaline from the poppy, coffee and mescaline cactus respectively. Part is scientific - what makes these plants do what they do? But part is also political and how governments (especially the USA government) have dealt with mind altering plants.
