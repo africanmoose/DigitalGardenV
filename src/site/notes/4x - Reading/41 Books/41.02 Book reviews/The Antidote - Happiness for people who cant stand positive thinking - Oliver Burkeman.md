@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-antidote-happiness-for-people-who-cant-stand-positive-thinking-oliver-burkeman/","title":"The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman","created":"2023-12-01T00:00:55.000+03:00","updated":"2024-02-14T20:17:40.553+03:00"}
 ---
 
-![the antidote - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/the%20antidote%20-%20cover.jpg)
+![the antidote - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/the%20antidote%20-%20cover.jpg)
 ### Summary
 - He explores the general idea that if you deliberately pursue happiness as a goal, you tend not to achieve it. Happiness is more a side effect of other actions.
 
