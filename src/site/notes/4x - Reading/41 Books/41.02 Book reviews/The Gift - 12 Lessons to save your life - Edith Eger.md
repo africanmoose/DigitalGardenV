@@ -3,7 +3,7 @@
 ---
 
 ---
-![The Gift - 12 lessons - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20Gift%20-%2012%20lessons%20-%20cover.jpg)
+![The Gift - 12 lessons - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/The%20Gift%20-%2012%20lessons%20-%20cover.jpg)
 ### Summary
 - Edith Eger has lead a pretty eventful life. She lived through World War II and survived incarceration in Auschwitz. Then she emigrated to the USA and at 50 years old went back to school to study psychology. Eventually she started her own practise and this really is the condensation of the wisdom gleaned from her work. Also, she wrote this book at the age of 93.
 
