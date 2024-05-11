@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-10T20:22:13.792+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-11T09:57:37.999+03:00"}
 ---
 
 ## Pic of the week
@@ -18,13 +18,13 @@ Excellent art in the garden of Ayira's neo-soul cafe. This cafe hires staff who 
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh\|I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh]]
 - [[1x - References/11 Notes/11.02 Quotes/It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk\|It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk]]
 - [[1x - References/11 Notes/11.02 Quotes/The producer of old age is habit - Edith Wharton\|The producer of old age is habit - Edith Wharton]]
 - [[1x - References/11 Notes/11.02 Quotes/Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes\|Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes]]
 - [[1x - References/11 Notes/11.02 Quotes/Share with someone who wants to listen or listen to someone who wants to share - James Clear\|Share with someone who wants to listen or listen to someone who wants to share - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet\|Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet]]
 - [[1x - References/11 Notes/11.02 Quotes/This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck\|This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck]]
-- [[1x - References/11 Notes/11.02 Quotes/If you know something's going to work, it's not worth working on. Everything important is uncertain - Eliot Peper\|If you know something's going to work, it's not worth working on. Everything important is uncertain - Eliot Peper]]
 
 
 ## Interesting Persons
@@ -69,7 +69,7 @@ Excellent art in the garden of Ayira's neo-soul cafe. This cafe hires staff who 
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Einstein: His life and universe_
 - Reading _Van Gogh: the life_
-- Processing _Hidden Potential_
+- Processing [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 # Finance Ideas
 
