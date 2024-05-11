@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/keep-notes-in-a-commonplace-book/","title":"Keep notes in a commonplace book","created":"2023-09-15T16:47:16.677+03:00","updated":"2024-02-14T20:18:28.893+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/keep-notes-in-a-commonplace-book/","title":"Keep notes in a commonplace book","created":"2023-09-15T16:47:16.677+03:00","updated":"2024-05-11T10:00:14.146+03:00"}
 ---
 
 
@@ -9,8 +9,12 @@
 ### Details
 - Leonardo da Vinci's commonplace books are legendary
 
+## Quotes
+Centuries ago, when books were rare, those who owned them would lend them to friends, who in turn would copy out passages they especially liked before returning the precious book to its owner. These anthologies came to be known as Commonplace Books, and modern writers as different as W. H. Auden and Alec Guinness have kept them as well, recording phrases or passages that struck them as wise or witty or quirky.
+
 ### References
 - [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+- [Sweet Theft: A Poet's Commonplace Book](https://www.amazon.com/Sweet-Theft-Poets-Commonplace-Book/dp/1619027135?&linkCode=sl1&tag=jamesclearema-20&linkId=089bdd3ac1e501c2af40e3381e11652e&language=en_US&ref_=as_li_ss_tl)
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Notetaking\|Notetaking]]
