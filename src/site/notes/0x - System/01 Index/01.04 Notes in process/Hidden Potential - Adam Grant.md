@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/hidden-potential-adam-grant/","title":"Hidden Potential - Adam Grant","created":"2024-05-10T20:22:50.500+03:00","updated":"2024-05-10T20:52:39.309+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/hidden-potential-adam-grant/","title":"Hidden Potential - Adam Grant","created":"2024-05-10T20:22:50.500+03:00","updated":"2024-05-13T21:28:50.494+03:00"}
 ---
 
 ![Hidden potential - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Hidden%20potential%20-%20cover.jpg)
@@ -13,6 +13,8 @@
 - Reinforcing existing confidence that we can change ourselves and grow and learn.
 
 ### Details
+- [[1x - References/11 Notes/11.03 Ideas/Differences in learning speed are often just differences of opportunity\|Differences in learning speed are often just differences of opportunity]]
+- [[1x - References/11 Notes/11.03 Ideas/Character skills can be learned, and they are more important than cognitive skills\|Character skills can be learned, and they are more important than cognitive skills]]
 - 
 
 ### References
