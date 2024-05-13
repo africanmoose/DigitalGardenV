@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-11T09:57:37.999+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-12T16:36:21.781+03:00"}
 ---
 
 ## Pic of the week
-![garden art.jpeg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/garden%20art.jpeg)
-Excellent art in the garden of Ayira's neo-soul cafe. This cafe hires staff who have neurological disorders.
+![PXL_20240419_125939376.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240419_125939376.jpg)
+Road to Bungoma - Western Kenya is so beautiful.
 
 ## What is this site for?
 
