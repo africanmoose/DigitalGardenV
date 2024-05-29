@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/reading-is-superior-to-hearing-for-learning/","title":"permanent note","created":"2024-05-20T20:48:51.891+03:00","updated":"2024-05-20T21:15:03.270+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/reading-is-superior-to-hearing-for-learning/","title":"permanent note","created":"2024-05-20T20:48:51.891+03:00","updated":"2024-05-25T10:34:29.738+03:00"}
 ---
 
 
@@ -15,8 +15,7 @@
 
 ### Quotes
 A fascinating demonstration comes from an experiment where students
-were given just over 20 minutes to go through a science article. Half were randomly assigned to read it; the other half listened to it. The listeners enjoyed the lesson more than the readers, but when they were quizzed two days later, it was clear that they had learned less. The listeners scored 59 percent; the readers scored 81 percent. Although listening is often more fun, reading improves comprehension
-and recall. Whereas listening promotes intuitive thinking, reading activates more analytical processing. It’s true in English and Chinese—people display better logical reasoning when the same trivia questions, riddles, and puzzles are written rather than spoken. With print, you naturally slow down at the start of a paragraph to process the core idea and use paragraph breaks and headers to chunk information. Unless you have a reading disability or learning disorder that makes it difficult to parse text, when it comes to critical thinking, there’s no substitute for reading.[*]
+were given just over 20 minutes to go through a science article. Half were randomly assigned to read it; the other half listened to it. The listeners enjoyed the lesson more than the readers, but when they were quizzed two days later, it was clear that they had learned less. The listeners scored 59 percent; the readers scored 81 percent. Although listening is often more fun, reading improves comprehension and recall. Whereas listening promotes intuitive thinking, reading activates more analytical processing. It’s true in English and Chinese—people display better logical reasoning when the same trivia questions, riddles, and puzzles are written rather than spoken. With print, you naturally slow down at the start of a paragraph to process the core idea and use paragraph breaks and headers to chunk information. Unless you have a reading disability or learning disorder that makes it difficult to parse text, when it comes to critical thinking, there’s no substitute for reading.[*]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Reading is Thinking\|Reading is Thinking]]
