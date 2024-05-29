@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-22T12:01:51.838+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-28T19:06:52.164+03:00"}
 ---
 
 ## Pic of the week
-![_DSC9901.jpg](/img/user/_DSC9901.jpg)
+![_DSC9901.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC9901.jpg)
 Thompson's falls in Nyahururu are pretty stunning. Named so by Joseph Thompson after himself in 1880
 
 ## What is this site for?
@@ -18,13 +18,13 @@ Thompson's falls in Nyahururu are pretty stunning. Named so by Joseph Thompson a
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.03 Ideas/Growth is uncomfortable\|Growth is uncomfortable]]
 - [[1x - References/11 Notes/11.02 Quotes/I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh\|I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh]]
 - [[1x - References/11 Notes/11.02 Quotes/It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk\|It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk]]
 - [[1x - References/11 Notes/11.02 Quotes/The producer of old age is habit - Edith Wharton\|The producer of old age is habit - Edith Wharton]]
 - [[1x - References/11 Notes/11.02 Quotes/Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes\|Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes]]
 - [[1x - References/11 Notes/11.02 Quotes/Share with someone who wants to listen or listen to someone who wants to share - James Clear\|Share with someone who wants to listen or listen to someone who wants to share - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet\|Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet]]
-- [[1x - References/11 Notes/11.02 Quotes/This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck\|This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck]]
 
 
 ## Interesting Persons
