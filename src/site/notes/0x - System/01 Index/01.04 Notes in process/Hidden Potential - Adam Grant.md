@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/hidden-potential-adam-grant/","title":"Hidden Potential - Adam Grant","created":"2024-05-10T20:22:50.500+03:00","updated":"2024-05-28T19:12:06.414+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/hidden-potential-adam-grant/","title":"Hidden Potential - Adam Grant","created":"2024-05-10T20:22:50.500+03:00","updated":"2024-05-29T20:51:44.659+03:00"}
 ---
 
 ![Hidden potential - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Hidden%20potential%20-%20cover.jpg)
@@ -20,6 +20,13 @@
 - [[1x - References/11 Notes/11.03 Ideas/Growth is uncomfortable\|Growth is uncomfortable]]
 - [[1x - References/11 Notes/11.03 Ideas/Sea sponges can live up to 2000 years and are extremely adaptable\|Sea sponges can live up to 2000 years and are extremely adaptable]]
 - [[1x - References/11 Notes/11.03 Ideas/Absorptive capacity - the ability to recognize, value, assimilate new information\|Absorptive capacity - the ability to recognize, value, assimilate new information]]
+- [[1x - References/11 Notes/Be a coach not a critic\|Be a coach not a critic]]
+- [[1x - References/11 Notes/Ask for advice instead of feedback\|Ask for advice instead of feedback]]
+- [[1x - References/11 Notes/11.03 Ideas/What is wabisabi\|What is wabisabi]]
+- Self-taught architect [[1x - References/11 Notes/11.05 Persons/Tadao Ando\|Tadao Ando]]
+- [[1x - References/11 Notes/11.02 Quotes/Did you make yourself better today? Did you make someone else better today?\|Did you make yourself better today? Did you make someone else better today?]]
+- 
+
 
 ### References
 - 
