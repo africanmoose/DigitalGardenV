@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-28T19:06:52.164+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-30T07:54:56.950+03:00"}
 ---
 
 ## Pic of the week
@@ -29,6 +29,7 @@ Thompson's falls in Nyahururu are pretty stunning. Named so by Joseph Thompson a
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Tadao Ando\|Tadao Ando]]
 - [[1x - References/11 Notes/11.05 Persons/Shizo Kanakuri\|Shizo Kanakuri]]
 - [[1x - References/11 Notes/11.05 Persons/Bobbi Gibb\|Bobbi Gibb]]
 - [[1x - References/11 Notes/11.05 Persons/William Gladstone\|William Gladstone]]
@@ -36,7 +37,6 @@ Thompson's falls in Nyahururu are pretty stunning. Named so by Joseph Thompson a
 - [[1x - References/11 Notes/11.05 Persons/Fibonacci (Leonardo of Pisa)\|Fibonacci (Leonardo of Pisa)]]
 - [[1x - References/11 Notes/11.05 Persons/Julius Yego\|Julius Yego]]
 - [[1x - References/11 Notes/11.05 Persons/Yo-Yo Ma\|Yo-Yo Ma]]
-- [[1x - References/11 Notes/11.05 Persons/Django Reinhardt\|Django Reinhardt]]
 
 
 ## Interesting Ideas
