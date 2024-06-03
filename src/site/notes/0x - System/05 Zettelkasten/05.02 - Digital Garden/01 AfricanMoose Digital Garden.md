@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-05-30T07:54:56.950+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-06-02T21:19:10.008+03:00"}
 ---
 
 ## Pic of the week
-![_DSC9901.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC9901.jpg)
-Thompson's falls in Nyahururu are pretty stunning. Named so by Joseph Thompson after himself in 1880
+![PXL_20240529_150550718.MP.jpg](/img/user/PXL_20240529_150550718.MP.jpg)
+There is beauty everywhere, if you just look for it. This was in front of a petrol station in Juja.
 
 ## What is this site for?
 
