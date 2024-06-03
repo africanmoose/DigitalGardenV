@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/did-you-make-yourself-better-today-did-you-make-someone-else-better-today/","title":"Did you make yourself better today? Did you make someone else better today?","created":"2024-05-29T20:49:47.632+03:00","updated":"2024-05-29T20:51:23.313+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/did-you-make-yourself-better-today-did-you-make-someone-else-better-today/","title":"Did you make yourself better today? Did you make someone else better today?","created":"2024-05-29T20:49:47.632+03:00","updated":"2024-05-30T07:57:06.043+03:00"}
 ---
 
 
