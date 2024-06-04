@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/form-a-judging-committee-to-give-feedback-on-your-work/","title":"Form a judging committee to give feedback on your work","created":"2024-06-02T21:21:22.291+03:00","updated":"2024-06-02T21:29:24.362+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/form-a-judging-committee-to-give-feedback-on-your-work/","title":"Form a judging committee to give feedback on your work","created":"2024-06-02T21:21:22.291+03:00","updated":"2024-06-03T08:59:37.169+03:00"}
 ---
 
 
