@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/hidden-potential-adam-grant/","title":"Hidden Potential - Adam Grant","created":"2024-05-10T20:22:50.500+03:00","updated":"2024-06-04T17:58:36.797+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/hidden-potential-adam-grant/","title":"Hidden Potential - Adam Grant","created":"2024-05-10T20:22:50.500+03:00","updated":"2024-06-05T23:34:52.241+03:00"}
 ---
 
 ![Hidden potential - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Hidden%20potential%20-%20cover.jpg)
@@ -28,6 +28,9 @@
 - [[1x - References/11 Notes/11.03 Ideas/Form a judging committee to give feedback on your work\|Form a judging committee to give feedback on your work]]
 - [[1x - References/11 Notes/11.03 Ideas/Longer hours doesn't automatically create better performance\|Longer hours doesn't automatically create better performance]]
 - [[1x - References/11 Notes/Deliberate play is better than deliberate practise\|Deliberate play is better than deliberate practise]]
+- [[1x - References/11 Notes/11.03 Ideas/Taking breaks is good for us on many levels\|Taking breaks is good for us on many levels]]
+- [[1x - References/11 Notes/11.03 Ideas/The most expert are the worst teachers\|The most expert are the worst teachers]]
+- 
 
 ### References
 - 
