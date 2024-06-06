@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-01-20T11:24:45.000+03:00","updated":"2024-05-10T20:22:00.262+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-05-10T20:22:00.262+03:00","updated":"2024-05-10T20:22:00.262+03:00"}
 ---
 
  
