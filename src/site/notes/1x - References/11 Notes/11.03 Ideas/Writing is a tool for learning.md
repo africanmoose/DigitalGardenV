@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-a-tool-for-learning/","title":"Writing is a tool for learning","created":"2024-05-20T20:43:19.180+03:00","updated":"2024-05-20T20:44:52.768+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-a-tool-for-learning/","title":"Writing is a tool for learning","created":"2024-05-20T20:44:52.768+03:00","updated":"2024-05-20T20:44:52.768+03:00"}
 ---
 
 
