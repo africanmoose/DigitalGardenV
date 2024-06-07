@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/zen-master-hakuin-prepared-for-his-lecture-by-sleeping-a-lot/","title":"Zen master Hakuin prepared for his lecture by sleeping a lot","created":"2024-03-16T13:12:22.944+03:00","updated":"2024-03-16T13:14:39.171+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/zen-master-hakuin-prepared-for-his-lecture-by-sleeping-a-lot/","title":"Zen master Hakuin prepared for his lecture by sleeping a lot","created":"2024-03-16T13:14:39.171+03:00","updated":"2024-03-16T13:14:39.171+03:00"}
 ---
 
 
