@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/reading-is-superior-to-hearing-for-learning/","title":"permanent note","created":"2024-05-20T20:48:51.891+03:00","updated":"2024-05-25T10:34:29.738+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/reading-is-superior-to-hearing-for-learning/","title":"permanent note","created":"2024-05-25T10:34:29.738+03:00","updated":"2024-05-25T10:34:29.738+03:00"}
 ---
 
 
