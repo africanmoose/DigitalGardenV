@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/julius-yego/","title":"Julius Yego","created":"2024-02-19T20:39:00.857+03:00","updated":"2024-02-20T12:03:44.564+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/julius-yego/","title":"Julius Yego","created":"2024-02-20T12:03:44.564+03:00","updated":"2024-02-20T12:03:44.564+03:00"}
 ---
 
 
