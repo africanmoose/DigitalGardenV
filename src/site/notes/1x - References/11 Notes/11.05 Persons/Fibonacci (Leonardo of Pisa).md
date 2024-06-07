@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/fibonacci-leonardo-of-pisa/","title":"Fibonacci (Leonardo of Pisa)","created":"2024-03-01T22:28:20.084+03:00","updated":"2024-03-02T11:50:59.617+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/fibonacci-leonardo-of-pisa/","title":"Fibonacci (Leonardo of Pisa)","created":"2024-03-02T11:50:59.617+03:00","updated":"2024-03-02T11:50:59.617+03:00"}
 ---
 
 
