@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/what-is-burnout/","title":"What is burnout?","created":"2024-04-15T11:50:36.633+03:00","updated":"2024-04-15T22:45:21.535+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/what-is-burnout/","title":"What is burnout?","created":"2024-04-15T22:45:21.535+03:00","updated":"2024-04-15T22:45:21.535+03:00"}
 ---
 
 
