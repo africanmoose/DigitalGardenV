@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/character-skills-can-be-learned-and-they-are-more-important-than-cognitive-skills/","title":"Character skills can be learned, and they are more important than cognitive skills","created":"2024-05-13T21:19:43.180+03:00","updated":"2024-05-13T21:28:41.467+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/character-skills-can-be-learned-and-they-are-more-important-than-cognitive-skills/","title":"Character skills can be learned, and they are more important than cognitive skills","created":"2024-05-13T21:28:41.467+03:00","updated":"2024-05-13T21:28:41.467+03:00"}
 ---
 
 
