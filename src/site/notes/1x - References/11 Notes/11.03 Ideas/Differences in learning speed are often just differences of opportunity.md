@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/differences-in-learning-speed-are-often-just-differences-of-opportunity/","title":"Differences in learning speed are often just differences of opportunity","created":"2024-05-12T16:39:23.491+03:00","updated":"2024-05-12T16:41:57.420+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/differences-in-learning-speed-are-often-just-differences-of-opportunity/","title":"Differences in learning speed are often just differences of opportunity","created":"2024-05-12T16:41:57.420+03:00","updated":"2024-05-12T16:41:57.420+03:00"}
 ---
 
 
