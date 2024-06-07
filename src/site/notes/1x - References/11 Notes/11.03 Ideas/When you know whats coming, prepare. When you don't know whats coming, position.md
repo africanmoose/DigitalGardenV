@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-you-know-whats-coming-prepare-when-you-don-t-know-whats-coming-position/","title":"When you know whats coming, prepare. When you don't know whats coming, position","created":"2024-04-03T19:53:31.184+03:00","updated":"2024-04-03T19:58:01.428+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-you-know-whats-coming-prepare-when-you-don-t-know-whats-coming-position/","title":"When you know whats coming, prepare. When you don't know whats coming, position","created":"2024-04-03T19:58:01.428+03:00","updated":"2024-04-03T19:58:01.428+03:00"}
 ---
 
 
