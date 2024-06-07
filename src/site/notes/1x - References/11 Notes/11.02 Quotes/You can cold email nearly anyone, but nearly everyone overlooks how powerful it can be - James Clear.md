@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-can-cold-email-nearly-anyone-but-nearly-everyone-overlooks-how-powerful-it-can-be-james-clear/","title":"You can cold email nearly anyone, but nearly everyone overlooks how powerful it can be - James Clear","created":"2024-05-24T07:56:19.516+03:00","updated":"2024-05-24T09:58:16.419+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-can-cold-email-nearly-anyone-but-nearly-everyone-overlooks-how-powerful-it-can-be-james-clear/","title":"You can cold email nearly anyone, but nearly everyone overlooks how powerful it can be - James Clear","created":"2024-05-24T07:57:54.027+03:00","updated":"2024-05-24T09:58:16.419+03:00"}
 ---
 
 
