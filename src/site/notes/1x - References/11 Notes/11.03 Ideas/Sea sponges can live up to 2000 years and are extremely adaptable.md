@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/sea-sponges-can-live-up-to-2000-years-and-are-extremely-adaptable/","title":"Sea sponges can live up to 2000 years and are extremely adaptable","created":"2024-05-28T18:53:41.752+03:00","updated":"2024-05-29T07:07:18.894+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/sea-sponges-can-live-up-to-2000-years-and-are-extremely-adaptable/","title":"Sea sponges can live up to 2000 years and are extremely adaptable","created":"2024-05-28T19:04:20.441+03:00","updated":"2024-05-29T07:07:18.894+03:00"}
 ---
 
 
