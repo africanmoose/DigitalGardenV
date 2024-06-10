@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/taking-breaks-is-good-for-us-on-many-levels/","title":"Taking breaks is good for us on many levels","created":"2024-06-05T23:34:39.722+03:00","updated":"2024-06-05T23:34:39.722+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/taking-breaks-is-good-for-us-on-many-levels/","title":"Taking breaks is good for us on many levels","created":"2024-06-05T17:32:44.031+03:00","updated":"2024-06-05T23:34:39.722+03:00"}
 ---
 
 
