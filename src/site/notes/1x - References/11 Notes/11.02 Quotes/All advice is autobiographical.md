@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/all-advice-is-autobiographical/","title":"All advice is autobiographical","created":"2024-04-20T08:12:49.503+03:00","updated":"2024-04-20T08:12:49.503+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/all-advice-is-autobiographical/","title":"All advice is autobiographical","created":"2024-04-18T09:00:13.780+03:00","updated":"2024-04-20T08:12:49.503+03:00"}
 ---
 
 
