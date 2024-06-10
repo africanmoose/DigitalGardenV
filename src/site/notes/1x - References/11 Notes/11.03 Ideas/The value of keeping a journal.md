@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-value-of-keeping-a-journal/","title":"The value of keeping a journal","created":"2024-03-10T09:46:23.342+03:00","updated":"2024-03-10T09:46:23.342+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-value-of-keeping-a-journal/","title":"The value of keeping a journal","created":"2024-03-10T09:37:47.184+03:00","updated":"2024-03-10T09:46:23.342+03:00"}
 ---
 
 
