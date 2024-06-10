@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/find-hobbies-that-are-radically-different-from-your-day-job/","title":"Find hobbies that are radically different from your day job","created":"2024-03-17T10:30:13.823+03:00","updated":"2024-03-17T10:30:13.823+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/find-hobbies-that-are-radically-different-from-your-day-job/","title":"Find hobbies that are radically different from your day job","created":"2024-03-17T10:26:11.410+03:00","updated":"2024-03-17T10:30:13.823+03:00"}
 ---
 
 
