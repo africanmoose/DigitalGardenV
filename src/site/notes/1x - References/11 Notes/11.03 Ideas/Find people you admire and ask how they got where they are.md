@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/find-people-you-admire-and-ask-how-they-got-where-they-are/","title":"Find people you admire and ask how they got where they are","created":"2024-03-13T21:00:32.008+03:00","updated":"2024-03-13T21:00:32.008+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/find-people-you-admire-and-ask-how-they-got-where-they-are/","title":"Find people you admire and ask how they got where they are","created":"2024-03-13T20:57:04.174+03:00","updated":"2024-03-13T21:00:32.008+03:00"}
 ---
 
 
