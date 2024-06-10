@@ -24,7 +24,7 @@
 - [[1x - References/11 Notes/Ask for advice instead of feedback\|Ask for advice instead of feedback]]
 - [[1x - References/11 Notes/11.03 Ideas/What is wabisabi\|What is wabisabi]]
 - Self-taught architect [[1x - References/11 Notes/11.05 Persons/Tadao Ando\|Tadao Ando]]
-- [[1x - References/11 Notes/11.02 Quotes/Did you make yourself better today? Did you make someone else better today?\|Did you make yourself better today? Did you make someone else better today?]]
+- [[Did you make yourself better today? Did you make someone else better today?\|Did you make yourself better today? Did you make someone else better today?]]
 - [[1x - References/11 Notes/11.03 Ideas/Form a judging committee to give feedback on your work\|Form a judging committee to give feedback on your work]]
 - [[1x - References/11 Notes/11.03 Ideas/Longer hours doesn't automatically create better performance\|Longer hours doesn't automatically create better performance]]
 - [[1x - References/11 Notes/Deliberate play is better than deliberate practise\|Deliberate play is better than deliberate practise]]
