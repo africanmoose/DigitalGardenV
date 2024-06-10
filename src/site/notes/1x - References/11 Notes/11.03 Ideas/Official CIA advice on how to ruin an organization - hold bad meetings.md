@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/official-cia-advice-on-how-to-ruin-an-organization-hold-bad-meetings/","title":"Official CIA advice on how to ruin an organization","created":"2024-04-20T12:37:35.108+03:00","updated":"2024-04-20T12:37:35.108+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/official-cia-advice-on-how-to-ruin-an-organization-hold-bad-meetings/","title":"Official CIA advice on how to ruin an organization","created":"2024-04-20T12:30:28.998+03:00","updated":"2024-04-20T12:37:35.108+03:00"}
 ---
 
 
