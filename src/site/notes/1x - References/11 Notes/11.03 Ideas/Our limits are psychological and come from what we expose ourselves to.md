@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/our-limits-are-psychological-and-come-from-what-we-expose-ourselves-to/","title":"Our limits are psychological and come from what we expose ourselves to","created":"2024-02-18T16:16:07.879+03:00","updated":"2024-02-18T16:16:07.879+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/our-limits-are-psychological-and-come-from-what-we-expose-ourselves-to/","title":"Our limits are psychological and come from what we expose ourselves to","created":"2024-02-18T16:12:53.942+03:00","updated":"2024-02-18T16:16:07.879+03:00"}
 ---
 
 
