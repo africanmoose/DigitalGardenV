@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-producer-of-old-age-is-habit-edith-wharton/","title":"The producer of old age is habit - Edith Wharton","created":"2024-04-26T09:51:58.829+03:00","updated":"2024-04-26T09:51:58.829+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-producer-of-old-age-is-habit-edith-wharton/","title":"The producer of old age is habit - Edith Wharton","created":"2024-04-26T09:50:15.492+03:00","updated":"2024-04-26T09:51:58.829+03:00"}
 ---
 
 
