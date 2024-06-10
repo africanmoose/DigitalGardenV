@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-don-t-cannibalize-yourself-someone-else-will-steve-jobs/","title":"If you don't cannibalize yourself, someone else will - Steve Jobs","created":"2024-05-31T07:46:58.996+03:00","updated":"2024-05-31T08:02:59.122+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-don-t-cannibalize-yourself-someone-else-will-steve-jobs/","title":"If you don't cannibalize yourself, someone else will - Steve Jobs","created":"2024-05-31T08:02:59.122+03:00","updated":"2024-05-31T08:02:59.122+03:00"}
 ---
 
 
