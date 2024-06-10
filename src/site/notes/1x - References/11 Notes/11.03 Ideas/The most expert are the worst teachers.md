@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-most-expert-are-the-worst-teachers/","title":"The most expert are the worst teachers","created":"2024-06-05T22:56:35.882+03:00","updated":"2024-06-05T22:56:35.882+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-most-expert-are-the-worst-teachers/","title":"The most expert are the worst teachers","created":"2024-06-05T17:48:29.406+03:00","updated":"2024-06-05T22:56:35.882+03:00"}
 ---
 
 
