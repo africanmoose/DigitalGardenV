@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/disparity-in-energy-consumption-between-countries/","title":"Disparity in energy consumption between countries","created":"2024-05-10T20:18:57.771+03:00","updated":"2024-05-10T20:18:57.771+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/disparity-in-energy-consumption-between-countries/","title":"Disparity in energy consumption between countries","created":"2024-05-10T20:09:41.622+03:00","updated":"2024-05-10T20:18:57.771+03:00"}
 ---
 
 
