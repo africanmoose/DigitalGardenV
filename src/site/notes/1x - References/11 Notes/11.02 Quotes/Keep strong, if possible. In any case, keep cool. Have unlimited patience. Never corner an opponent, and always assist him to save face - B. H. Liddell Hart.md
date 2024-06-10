@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/keep-strong-if-possible-in-any-case-keep-cool-have-unlimited-patience-never-corner-an-opponent-and-always-assist-him-to-save-face-b-h-liddell-hart/","title":"Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart","created":"2024-03-08T21:38:15.925+03:00","updated":"2024-03-08T21:38:15.925+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/keep-strong-if-possible-in-any-case-keep-cool-have-unlimited-patience-never-corner-an-opponent-and-always-assist-him-to-save-face-b-h-liddell-hart/","title":"Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart","created":"2024-03-08T21:34:54.581+03:00","updated":"2024-03-08T21:38:15.925+03:00"}
 ---
 
 
