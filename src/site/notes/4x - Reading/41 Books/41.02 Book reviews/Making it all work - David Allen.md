@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/making-it-all-work-david-allen/","title":"Making it all work - David Allen","created":"2024-02-14T20:17:40.754+03:00","updated":"2024-02-14T20:17:40.754+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/making-it-all-work-david-allen/","title":"Making it all work - David Allen","created":"2023-10-23T19:18:49.000+03:00","updated":"2024-02-14T20:17:40.754+03:00"}
 ---
 
 ![Making it all work - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Making%20it%20all%20work%20-%20cover.jpg)
