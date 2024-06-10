@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/this-is-grain-which-any-fool-can-eat-but-for-which-the-lord-intended-a-more-divine-means-of-consumption-let-us-give-praise-to-our-maker-and-glory-to-his-bounty-by-learning-about-beer-friar-tuck/","title":"This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck","created":"2024-03-18T14:16:43.562+03:00","updated":"2024-03-18T14:16:43.562+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/this-is-grain-which-any-fool-can-eat-but-for-which-the-lord-intended-a-more-divine-means-of-consumption-let-us-give-praise-to-our-maker-and-glory-to-his-bounty-by-learning-about-beer-friar-tuck/","title":"This is grain, which any fool can eat, but for which the lord intended a more divine means of consumption. let us give praise to our maker, and glory to his bounty, by learning about....beer - Friar Tuck","created":"2024-03-18T14:14:43.788+03:00","updated":"2024-03-18T14:16:43.562+03:00"}
 ---
 
 
