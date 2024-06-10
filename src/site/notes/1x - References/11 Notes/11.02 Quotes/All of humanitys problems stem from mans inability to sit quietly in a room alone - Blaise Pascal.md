@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/all-of-humanitys-problems-stem-from-mans-inability-to-sit-quietly-in-a-room-alone-blaise-pascal/","title":"All of humanitys problems stem from mans inability to sit quietly in a room alone - Blaise Pascal","created":"2024-03-08T21:25:07.115+03:00","updated":"2024-03-08T21:25:07.115+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/all-of-humanitys-problems-stem-from-mans-inability-to-sit-quietly-in-a-room-alone-blaise-pascal/","title":"All of humanitys problems stem from mans inability to sit quietly in a room alone - Blaise Pascal","created":"2024-03-08T21:23:08.051+03:00","updated":"2024-03-08T21:25:07.115+03:00"}
 ---
 
 
