@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-05T17:27:14.426+03:00","updated":"2024-06-10T14:08:45.605+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-05T17:27:14.426+03:00","updated":"2024-06-10T14:49:29.305+03:00"}
 ---
 
 ## Pic of the week
@@ -17,14 +17,13 @@
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/How you talk about your experiences will dictate how you feel about them. Reframing our goals and rewriting our stories are powerful tools - Alexi Pappas\|How you talk about your experiences will dictate how you feel about them. Reframing our goals and rewriting our stories are powerful tools - Alexi Pappas]]
 - [[1x - References/11 Notes/11.02 Quotes/You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman\|You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman]]
 - [[1x - References/11 Notes/11.02 Quotes/I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh\|I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh]]
 - [[1x - References/11 Notes/11.02 Quotes/It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk\|It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk]]
 - [[1x - References/11 Notes/11.02 Quotes/The producer of old age is habit - Edith Wharton\|The producer of old age is habit - Edith Wharton]]
 - [[1x - References/11 Notes/11.02 Quotes/Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes\|Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes]]
 - [[1x - References/11 Notes/11.02 Quotes/Share with someone who wants to listen or listen to someone who wants to share - James Clear\|Share with someone who wants to listen or listen to someone who wants to share - James Clear]]
-- [[1x - References/11 Notes/11.02 Quotes/Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet\|Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet]]
-
 
 ## Interesting Persons
 
