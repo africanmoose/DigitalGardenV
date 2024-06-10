@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/undeniable-how-biology-confirms-our-intuition-that-life-is-designed-douglas-axe/","title":"Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe","created":"2024-02-14T20:17:39.937+03:00","updated":"2024-02-14T20:17:39.937+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/undeniable-how-biology-confirms-our-intuition-that-life-is-designed-douglas-axe/","title":"Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe","created":"2024-01-07T19:47:48.000+03:00","updated":"2024-02-14T20:17:39.937+03:00"}
 ---
 
 ![Undeniable - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Undeniable%20-%20cover.jpg)
