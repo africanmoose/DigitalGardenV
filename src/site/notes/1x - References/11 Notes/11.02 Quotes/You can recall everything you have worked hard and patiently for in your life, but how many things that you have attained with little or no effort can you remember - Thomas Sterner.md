@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-can-recall-everything-you-have-worked-hard-and-patiently-for-in-your-life-but-how-many-things-that-you-have-attained-with-little-or-no-effort-can-you-remember-thomas-sterner/","title":"You can recall everything you have worked hard and patiently for in your life, but how many things that you have attained with little or no effort can you remember - Thomas Sterner","created":"2024-02-21T19:41:31.947+03:00","updated":"2024-02-21T19:41:31.947+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-can-recall-everything-you-have-worked-hard-and-patiently-for-in-your-life-but-how-many-things-that-you-have-attained-with-little-or-no-effort-can-you-remember-thomas-sterner/","title":"You can recall everything you have worked hard and patiently for in your life, but how many things that you have attained with little or no effort can you remember - Thomas Sterner","created":"2024-02-21T19:38:48.813+03:00","updated":"2024-02-21T19:41:31.947+03:00"}
 ---
 
 
