@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/ask-for-advice-instead-of-feedback/","title":"Ask for advice instead of feedback","created":"2024-05-30T07:57:06.045+03:00","updated":"2024-05-30T07:57:06.045+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/ask-for-advice-instead-of-feedback/","title":"Ask for advice instead of feedback","created":"2024-05-29T20:04:09.601+03:00","updated":"2024-05-30T07:57:06.045+03:00"}
 ---
 
 
