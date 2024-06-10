@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/growth-is-uncomfortable/","title":"Growth is uncomfortable","created":"2024-05-22T19:48:21.665+03:00","updated":"2024-05-22T19:48:21.665+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/growth-is-uncomfortable/","title":"Growth is uncomfortable","created":"2024-05-22T19:42:25.469+03:00","updated":"2024-05-22T19:48:21.665+03:00"}
 ---
 
 
