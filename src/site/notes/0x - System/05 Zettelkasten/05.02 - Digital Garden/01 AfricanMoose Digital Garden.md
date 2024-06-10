@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-05T17:27:14.426+03:00","updated":"2024-06-10T14:49:29.305+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-10T14:49:29.305+03:00","updated":"2024-06-10T14:49:29.305+03:00"}
 ---
 
 ## Pic of the week
