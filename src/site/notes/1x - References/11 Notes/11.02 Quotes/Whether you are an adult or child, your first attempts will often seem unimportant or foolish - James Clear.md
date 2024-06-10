@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/whether-you-are-an-adult-or-child-your-first-attempts-will-often-seem-unimportant-or-foolish-james-clear/","title":"Whether you are an adult or child, your first attempts will often seem unimportant or foolish - James Clear","created":"2024-05-17T13:02:10.988+03:00","updated":"2024-05-17T13:02:10.988+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/whether-you-are-an-adult-or-child-your-first-attempts-will-often-seem-unimportant-or-foolish-james-clear/","title":"Whether you are an adult or child, your first attempts will often seem unimportant or foolish - James Clear","created":"2024-05-17T13:00:25.380+03:00","updated":"2024-05-17T13:02:10.988+03:00"}
 ---
 
 
