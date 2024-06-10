@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/perceptual-fluency-vs-processing-fluency/","title":"permanent note","created":"2024-04-20T08:12:49.583+03:00","updated":"2024-04-20T08:12:49.583+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/perceptual-fluency-vs-processing-fluency/","title":"permanent note","created":"2024-04-18T09:05:18.910+03:00","updated":"2024-04-20T08:12:49.583+03:00"}
 ---
 
 
