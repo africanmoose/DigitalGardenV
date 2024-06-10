@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-you-deal-with-bad-days-is-more-important-than-what-you-do-on-good-days/","title":"How you deal with bad days is more important than what you do on good days.","created":"2024-04-03T19:53:01.587+03:00","updated":"2024-04-03T19:53:01.587+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-you-deal-with-bad-days-is-more-important-than-what-you-do-on-good-days/","title":"How you deal with bad days is more important than what you do on good days.","created":"2024-04-03T19:50:28.279+03:00","updated":"2024-04-03T19:53:01.587+03:00"}
 ---
 
 
