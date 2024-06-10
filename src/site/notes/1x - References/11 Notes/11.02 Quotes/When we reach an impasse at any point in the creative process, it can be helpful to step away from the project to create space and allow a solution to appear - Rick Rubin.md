@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/when-we-reach-an-impasse-at-any-point-in-the-creative-process-it-can-be-helpful-to-step-away-from-the-project-to-create-space-and-allow-a-solution-to-appear-rick-rubin/","title":"When we reach an impasse at any point in the creative process, it can be helpful to step away from the project to create space and allow a solution to appear.","created":"2024-05-19T16:45:45.144+03:00","updated":"2024-05-19T16:45:45.144+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/when-we-reach-an-impasse-at-any-point-in-the-creative-process-it-can-be-helpful-to-step-away-from-the-project-to-create-space-and-allow-a-solution-to-appear-rick-rubin/","title":"When we reach an impasse at any point in the creative process, it can be helpful to step away from the project to create space and allow a solution to appear.","created":"2024-05-19T16:44:13.599+03:00","updated":"2024-05-19T16:45:45.144+03:00"}
 ---
 
 
