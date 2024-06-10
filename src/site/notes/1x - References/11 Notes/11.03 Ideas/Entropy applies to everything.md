@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/entropy-applies-to-everything/","title":"Entropy applies to everything","created":"2024-03-03T15:38:53.309+03:00","updated":"2024-03-03T15:38:53.309+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/entropy-applies-to-everything/","title":"Entropy applies to everything","created":"2024-03-03T15:19:36.468+03:00","updated":"2024-03-03T15:38:53.309+03:00"}
 ---
 
 
