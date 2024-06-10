@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/miserable-human-being-in-whom-nothing-is-habitual-but-indecision-william-james/","title":"Miserable human being in whom nothing is habitual but indecision - William James","created":"2024-03-14T16:24:18.084+03:00","updated":"2024-03-14T16:24:18.084+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/miserable-human-being-in-whom-nothing-is-habitual-but-indecision-william-james/","title":"Miserable human being in whom nothing is habitual but indecision - William James","created":"2023-01-14T23:38:11.000+03:00","updated":"2024-03-14T16:24:18.084+03:00"}
 ---
 
 
