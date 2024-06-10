@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/even-small-encouraging-words-are-powerful/","title":"Even small encouraging words are powerful","created":"2024-03-31T23:25:46.514+03:00","updated":"2024-03-31T23:25:46.514+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/even-small-encouraging-words-are-powerful/","title":"Even small encouraging words are powerful","created":"2024-03-31T23:17:35.964+03:00","updated":"2024-03-31T23:25:46.514+03:00"}
 ---
 
 
