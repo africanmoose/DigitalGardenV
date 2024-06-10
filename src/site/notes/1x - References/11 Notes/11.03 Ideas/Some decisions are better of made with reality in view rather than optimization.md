@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/some-decisions-are-better-of-made-with-reality-in-view-rather-than-optimization/","title":"permanent note","created":"2024-06-06T07:55:17.562+03:00","updated":"2024-06-06T07:55:17.562+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/some-decisions-are-better-of-made-with-reality-in-view-rather-than-optimization/","title":"permanent note","created":"2024-06-06T07:55:17.562+03:00","updated":"2024-06-10T08:16:10.753+03:00"}
 ---
 
 
 ### Summary
-- 
+- Sometimes the math may support a specific decision, but we are better off using our feelings to make a decision.
 
 ### Details
-- 
+- A prime example is a mortgage payment. You may make more money taking a low interest loan to repay a mortgage but is it wise to take a gamble with your home?
 
 ### References
 - 3-2-1 James Clear email Jun 6, 2024
@@ -30,4 +30,6 @@ If it helps to visualize chalkboard decisions, imagine standing at the base of a
 Our ability to predict the future is never as certain in the real world as in the classroom. No matter how compelling the math, the best chalkboard decision might not be the best overall move.
 
 ### Related
-- 
+- [[1x - References/11 Notes/11.03 Ideas/Financial independence is having enough\|Financial independence is having enough]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[1x - References/11 Notes/11.02 Quotes/Experience vs Money - Leonard Lauder\|Experience vs Money - Leonard Lauder]]
