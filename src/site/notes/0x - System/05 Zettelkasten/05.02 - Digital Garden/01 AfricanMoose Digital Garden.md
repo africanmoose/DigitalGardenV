@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-05T17:27:14.426+03:00","updated":"2024-06-10T07:45:14.795+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-05T17:27:14.426+03:00","updated":"2024-06-10T14:08:45.605+03:00"}
 ---
 
 ## Pic of the week
@@ -17,7 +17,7 @@
 
 ## Interesting Quotes
 
-- [[1x - References/11 Notes/11.03 Ideas/Growth is uncomfortable\|Growth is uncomfortable]]
+- [[1x - References/11 Notes/11.02 Quotes/You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman\|You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman]]
 - [[1x - References/11 Notes/11.02 Quotes/I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh\|I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh]]
 - [[1x - References/11 Notes/11.02 Quotes/It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk\|It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk]]
 - [[1x - References/11 Notes/11.02 Quotes/The producer of old age is habit - Edith Wharton\|The producer of old age is habit - Edith Wharton]]
@@ -40,13 +40,13 @@
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Growth is uncomfortable\|Growth is uncomfortable]]
 - [[1x - References/11 Notes/11.03 Ideas/Neuroplasticity allows us to design our brain\|Neuroplasticity allows us to design our brain]]
 - [[1x - References/11 Notes/11.03 Ideas/Implementation intentions - how to create habits\|Implementation intentions - how to create habits]]
 - [[1x - References/11 Notes/11.03 Ideas/First principles - ask why five times\|First principles - ask why five times]]
 - [[1x - References/11 Notes/11.03 Ideas/There is no point in reading if you are not learning something\|There is no point in reading if you are not learning something]]
 - [[1x - References/11 Notes/11.03 Ideas/Time is a tool\|Time is a tool]]
 - [[1x - References/11 Notes/11.03 Ideas/Leaders job is to think of the big picture\|Leaders job is to think of the big picture]]
-- [[1x - References/11 Notes/11.03 Ideas/Entropy applies to everything\|Entropy applies to everything]]
 
 
 ## Book Reviews
