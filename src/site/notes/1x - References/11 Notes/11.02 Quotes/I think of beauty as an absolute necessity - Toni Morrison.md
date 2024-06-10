@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-think-of-beauty-as-an-absolute-necessity-toni-morrison/","title":"I think of beauty as an absolute necessity - Toni Morrison","created":"2024-03-03T19:55:31.018+03:00","updated":"2024-03-03T19:55:31.018+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-think-of-beauty-as-an-absolute-necessity-toni-morrison/","title":"I think of beauty as an absolute necessity - Toni Morrison","created":"2024-03-03T19:38:30.942+03:00","updated":"2024-03-03T19:55:31.018+03:00"}
 ---
 
 
