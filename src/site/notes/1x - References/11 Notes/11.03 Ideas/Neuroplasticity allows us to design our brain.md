@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/neuroplasticity-allows-us-to-design-our-brain/","title":"Neuroplasticity allows us to design our brain","created":"2024-05-01T21:48:30.364+03:00","updated":"2024-05-01T21:48:30.364+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/neuroplasticity-allows-us-to-design-our-brain/","title":"Neuroplasticity allows us to design our brain","created":"2024-05-01T21:36:05.981+03:00","updated":"2024-05-01T21:48:30.364+03:00"}
 ---
 
 
