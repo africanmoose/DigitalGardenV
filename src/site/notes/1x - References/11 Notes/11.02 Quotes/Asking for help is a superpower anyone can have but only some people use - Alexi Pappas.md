@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/asking-for-help-is-a-superpower-anyone-can-have-but-only-some-people-use-alexi-pappas/","title":"Asking for help is a superpower anyone can have but only some people use - Alexi Pappas","created":"2024-05-30T07:57:06.047+03:00","updated":"2024-05-30T07:57:06.047+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/asking-for-help-is-a-superpower-anyone-can-have-but-only-some-people-use-alexi-pappas/","title":"Asking for help is a superpower anyone can have but only some people use - Alexi Pappas","created":"2024-05-29T20:52:58.161+03:00","updated":"2024-05-30T07:57:06.047+03:00"}
 ---
 
 
