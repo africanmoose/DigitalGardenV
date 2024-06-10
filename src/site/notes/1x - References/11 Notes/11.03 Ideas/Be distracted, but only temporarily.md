@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/be-distracted-but-only-temporarily/","title":"Be distracted, but only temporarily","created":"2024-04-13T21:36:16.084+03:00","updated":"2024-04-13T21:36:16.084+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/be-distracted-but-only-temporarily/","title":"Be distracted, but only temporarily","created":"2024-04-13T21:18:14.329+03:00","updated":"2024-04-13T21:36:16.084+03:00"}
 ---
 
 
