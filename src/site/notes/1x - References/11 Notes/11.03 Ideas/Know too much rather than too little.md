@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/know-too-much-rather-than-too-little/","title":"Know too much rather than too little","created":"2024-02-23T14:37:29.823+03:00","updated":"2024-02-23T14:37:29.823+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/know-too-much-rather-than-too-little/","title":"Know too much rather than too little","created":"2024-02-23T14:31:26.219+03:00","updated":"2024-02-23T14:37:29.823+03:00"}
 ---
 
 
