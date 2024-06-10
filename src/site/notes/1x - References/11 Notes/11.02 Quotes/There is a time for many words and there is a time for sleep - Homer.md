@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/there-is-a-time-for-many-words-and-there-is-a-time-for-sleep-homer/","title":"There is a time for many words and there is a time for sleep - Homer","created":"2024-03-16T13:11:47.803+03:00","updated":"2024-03-16T13:11:47.803+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/there-is-a-time-for-many-words-and-there-is-a-time-for-sleep-homer/","title":"There is a time for many words and there is a time for sleep - Homer","created":"2024-03-16T13:10:13.259+03:00","updated":"2024-03-16T13:11:47.803+03:00"}
 ---
 
 
