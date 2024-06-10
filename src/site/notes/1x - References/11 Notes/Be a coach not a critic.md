@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/be-a-coach-not-a-critic/","title":"Be a coach not a critic","created":"2024-05-29T20:00:33.407+03:00","updated":"2024-05-30T07:57:06.041+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/be-a-coach-not-a-critic/","title":"Be a coach not a critic","created":"2024-05-30T07:57:06.041+03:00","updated":"2024-05-30T07:57:06.041+03:00"}
 ---
 
 
