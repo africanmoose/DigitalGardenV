@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/31-notes/31-02-illustrations/working-towards-goals-like-driving-in-foggy-weather-we-may-not-see-everything-but-we-can-still-make-progress/","title":"Working towards goals like driving in foggy weather. We may not see everything, but we can still make progress","created":"2024-02-21T19:54:28.207+03:00","updated":"2024-02-21T19:59:41.876+03:00"}
+{"dg-publish":true,"permalink":"/3x-spiritual/31-notes/31-02-illustrations/working-towards-goals-like-driving-in-foggy-weather-we-may-not-see-everything-but-we-can-still-make-progress/","title":"Working towards goals like driving in foggy weather. We may not see everything, but we can still make progress","created":"2024-02-21T19:59:41.876+03:00","updated":"2024-02-21T19:59:41.876+03:00"}
 ---
 
 
