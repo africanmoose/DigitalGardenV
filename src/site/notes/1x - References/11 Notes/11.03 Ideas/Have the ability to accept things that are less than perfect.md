@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/have-the-ability-to-accept-things-that-are-less-than-perfect/","title":"Have the ability to accept things that are less than perfect","created":"2024-02-23T16:09:23.101+03:00","updated":"2024-02-23T16:09:23.101+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/have-the-ability-to-accept-things-that-are-less-than-perfect/","title":"Have the ability to accept things that are less than perfect","created":"2024-02-23T16:08:36.692+03:00","updated":"2024-02-23T16:09:23.101+03:00"}
 ---
 
 
