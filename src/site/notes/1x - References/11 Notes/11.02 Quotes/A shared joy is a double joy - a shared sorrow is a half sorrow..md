@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/a-shared-joy-is-a-double-joy-a-shared-sorrow-is-a-half-sorrow/","title":"A shared joy is a double joy - a shared sorrow is a half sorrow.","created":"2024-04-08T22:08:48.902+03:00","updated":"2024-04-08T22:08:48.902+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/a-shared-joy-is-a-double-joy-a-shared-sorrow-is-a-half-sorrow/","title":"A shared joy is a double joy - a shared sorrow is a half sorrow.","created":"2024-04-08T22:07:04.802+03:00","updated":"2024-04-08T22:08:48.902+03:00"}
 ---
 
 
