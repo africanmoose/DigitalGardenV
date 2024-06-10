@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/william-gladstone/","title":"William Gladstone","created":"2024-03-17T10:14:22.409+03:00","updated":"2024-03-17T10:14:22.409+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/william-gladstone/","title":"William Gladstone","created":"2024-03-16T20:58:12.228+03:00","updated":"2024-03-17T10:14:22.409+03:00"}
 ---
 
 
