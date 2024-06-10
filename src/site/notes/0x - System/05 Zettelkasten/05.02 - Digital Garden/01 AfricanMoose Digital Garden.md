@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-06-05T17:27:14.426+03:00","updated":"2024-06-05T17:27:14.426+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-05T17:27:14.426+03:00","updated":"2024-06-10T07:45:14.795+03:00"}
 ---
 
 ## Pic of the week
-![PXL_20240529_150550718.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240529_150550718.jpg)
-There is beauty everywhere, if you just look for it. This was in front of a petrol station in Juja.
+![PXL_20240609_054300166 copy.jpg](/img/user/PXL_20240609_054300166%20copy.jpg)Nairobi skyline. From above, all cities look nice and clean!
 
 ## What is this site for?
 
