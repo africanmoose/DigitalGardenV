@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-know-something-s-going-to-work-it-s-not-worth-working-on-everything-important-is-uncertain-eliot-peper/","title":"If you know something's going to work, it's not worth working on - Eliot Peper","created":"2024-03-17T19:35:10.439+03:00","updated":"2024-03-17T19:35:10.439+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-know-something-s-going-to-work-it-s-not-worth-working-on-everything-important-is-uncertain-eliot-peper/","title":"If you know something's going to work, it's not worth working on - Eliot Peper","created":"2024-03-17T19:33:50.783+03:00","updated":"2024-03-17T19:35:10.439+03:00"}
 ---
 
 
