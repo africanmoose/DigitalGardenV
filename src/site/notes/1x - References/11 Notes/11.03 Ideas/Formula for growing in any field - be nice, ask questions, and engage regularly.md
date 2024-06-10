@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/formula-for-growing-in-any-field-be-nice-ask-questions-and-engage-regularly/","title":"Formula for growing in any field - be nice, ask questions, and engage regularly","created":"2024-05-03T20:44:45.054+03:00","updated":"2024-05-03T20:44:45.054+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/formula-for-growing-in-any-field-be-nice-ask-questions-and-engage-regularly/","title":"Formula for growing in any field - be nice, ask questions, and engage regularly","created":"2024-05-03T20:42:13.210+03:00","updated":"2024-05-03T20:44:45.054+03:00"}
 ---
 
 
