@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/early-feedback-is-usually-better-than-late-criticism-james-clear/","title":"Early feedback is usually better than late criticism - James Clear","created":"2024-05-03T20:41:54.225+03:00","updated":"2024-05-03T20:41:54.225+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/early-feedback-is-usually-better-than-late-criticism-james-clear/","title":"Early feedback is usually better than late criticism - James Clear","created":"2024-05-03T20:40:32.377+03:00","updated":"2024-05-03T20:41:54.225+03:00"}
 ---
 
 
