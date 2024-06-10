@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/shizo-kanakuri/","title":"Shizo Kanakuri","created":"2024-03-27T20:12:24.485+03:00","updated":"2024-03-27T20:12:24.485+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/shizo-kanakuri/","title":"Shizo Kanakuri","created":"2024-03-27T20:01:51.027+03:00","updated":"2024-03-27T20:12:24.485+03:00"}
 ---
 
 
