@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/longer-hours-doesnt-automatically-create-better-performance/","title":"Longer hours doesnt automatically create better performance","created":"2024-06-03T19:05:31.106+03:00","updated":"2024-06-10T08:16:52.720+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/longer-hours-doesnt-automatically-create-better-performance/","title":"Longer hours doesnt automatically create better performance","created":"2024-06-10T08:16:52.720+03:00","updated":"2024-06-10T17:31:34.536+03:00"}
 ---
 
 
