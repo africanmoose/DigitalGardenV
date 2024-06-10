@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/better-to-have-someone-hate-your-idea-than-be-apathetic-about-it/","title":"Better to have someone hate your idea than be apathetic about it","created":"2024-04-22T11:51:36.623+03:00","updated":"2024-04-22T11:51:36.623+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/better-to-have-someone-hate-your-idea-than-be-apathetic-about-it/","title":"Better to have someone hate your idea than be apathetic about it","created":"2024-04-22T11:48:30.820+03:00","updated":"2024-04-22T11:51:36.623+03:00"}
 ---
 
 
