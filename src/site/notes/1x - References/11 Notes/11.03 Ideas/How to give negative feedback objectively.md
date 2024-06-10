@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-to-give-negative-feedback-objectively/","title":"How to give negative feedback objectively","created":"2024-04-10T19:59:03.871+03:00","updated":"2024-04-10T19:59:03.871+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-to-give-negative-feedback-objectively/","title":"How to give negative feedback objectively","created":"2024-04-08T22:09:31.490+03:00","updated":"2024-04-10T19:59:03.871+03:00"}
 ---
 
 
