@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/20-5-3-rule-for-spending-enough-time-in-nature/","title":"20-5-3 rule for spending enough time in nature","created":"2024-03-20T22:05:17.731+03:00","updated":"2024-03-20T22:05:17.731+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/20-5-3-rule-for-spending-enough-time-in-nature/","title":"20-5-3 rule for spending enough time in nature","created":"2024-03-20T22:00:21.661+03:00","updated":"2024-03-20T22:05:17.731+03:00"}
 ---
 
 ### Summary
