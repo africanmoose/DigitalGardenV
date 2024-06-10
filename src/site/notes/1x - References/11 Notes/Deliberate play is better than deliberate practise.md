@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/deliberate-play-is-better-than-deliberate-practise/","title":"Deliberate play is better than deliberate practise","created":"2024-06-05T08:02:29.777+03:00","updated":"2024-06-05T08:02:29.777+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/deliberate-play-is-better-than-deliberate-practise/","title":"Deliberate play is better than deliberate practise","created":"2024-06-04T17:55:20.033+03:00","updated":"2024-06-05T08:02:29.777+03:00"}
 ---
 
 
