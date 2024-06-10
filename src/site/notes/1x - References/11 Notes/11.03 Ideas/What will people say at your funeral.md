@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/what-will-people-say-at-your-funeral/","title":"What will people say at your funeral","created":"2024-04-16T07:56:32.970+03:00","updated":"2024-04-16T07:56:32.970+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/what-will-people-say-at-your-funeral/","title":"What will people say at your funeral","created":"2024-04-16T07:53:11.657+03:00","updated":"2024-04-16T07:56:32.970+03:00"}
 ---
 
 
