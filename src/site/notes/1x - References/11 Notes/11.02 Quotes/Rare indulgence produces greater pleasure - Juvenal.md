@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/rare-indulgence-produces-greater-pleasure-juvenal/","title":"Rare indulgence produces greater pleasure - Juvenal","created":"2024-02-23T17:19:34.902+03:00","updated":"2024-02-23T17:19:34.902+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/rare-indulgence-produces-greater-pleasure-juvenal/","title":"Rare indulgence produces greater pleasure - Juvenal","created":"2024-02-23T17:18:13.286+03:00","updated":"2024-02-23T17:19:34.902+03:00"}
 ---
 
 
