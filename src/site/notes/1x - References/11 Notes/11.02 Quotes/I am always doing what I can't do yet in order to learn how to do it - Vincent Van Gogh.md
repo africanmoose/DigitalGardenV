@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-am-always-doing-what-i-can-t-do-yet-in-order-to-learn-how-to-do-it-vincent-van-gogh/","title":"I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh","created":"2024-05-11T09:56:54.696+03:00","updated":"2024-05-11T09:56:54.696+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-am-always-doing-what-i-can-t-do-yet-in-order-to-learn-how-to-do-it-vincent-van-gogh/","title":"I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh","created":"2024-05-11T09:53:33.420+03:00","updated":"2024-05-11T09:56:54.696+03:00"}
 ---
 
 
