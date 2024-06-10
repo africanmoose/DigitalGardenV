@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/napoleon-would-wait-3-weeks-before-opening-any-mail/","title":"Napoleon would wait 3 weeks before opening any mail","created":"2024-03-09T11:54:42.268+03:00","updated":"2024-03-09T11:54:42.268+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/napoleon-would-wait-3-weeks-before-opening-any-mail/","title":"Napoleon would wait 3 weeks before opening any mail","created":"2024-03-09T11:47:46.189+03:00","updated":"2024-03-09T11:54:42.268+03:00"}
 ---
 
 
