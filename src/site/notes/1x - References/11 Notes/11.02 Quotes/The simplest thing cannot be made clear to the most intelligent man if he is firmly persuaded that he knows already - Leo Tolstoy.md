@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-simplest-thing-cannot-be-made-clear-to-the-most-intelligent-man-if-he-is-firmly-persuaded-that-he-knows-already-leo-tolstoy/","title":"The simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already - Leo Tolstoy","created":"2024-05-19T16:53:40.296+03:00","updated":"2024-05-19T16:53:40.296+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-simplest-thing-cannot-be-made-clear-to-the-most-intelligent-man-if-he-is-firmly-persuaded-that-he-knows-already-leo-tolstoy/","title":"The simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already - Leo Tolstoy","created":"2024-05-19T16:51:40.818+03:00","updated":"2024-05-19T16:53:40.296+03:00"}
 ---
 
 
