@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/in-the-midst-of-chaos-there-is-also-opportunity-sun-tzu/","title":"In the midst of chaos, there is also opportunity - Sun Tzu","created":"2024-02-23T09:27:54.514+03:00","updated":"2024-02-23T09:27:54.514+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/in-the-midst-of-chaos-there-is-also-opportunity-sun-tzu/","title":"In the midst of chaos, there is also opportunity - Sun Tzu","created":"2024-02-19T20:33:08.987+03:00","updated":"2024-02-23T09:27:54.514+03:00"}
 ---
 
 
