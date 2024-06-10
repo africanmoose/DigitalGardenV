@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/wrong-decisions-are-part-of-life-being-able-to-make-them-work-anyway-is-one-of-the-abilities-of-those-who-are-successful-warren-buffet/","title":"Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet","created":"2024-04-09T07:52:24.188+03:00","updated":"2024-04-09T07:52:24.188+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/wrong-decisions-are-part-of-life-being-able-to-make-them-work-anyway-is-one-of-the-abilities-of-those-who-are-successful-warren-buffet/","title":"Wrong decisions are part of life. Being able to make them work anyway is one of the abilities of those who are successful - Warren Buffet","created":"2024-04-09T07:50:55.666+03:00","updated":"2024-04-09T07:52:24.188+03:00"}
 ---
 
 
