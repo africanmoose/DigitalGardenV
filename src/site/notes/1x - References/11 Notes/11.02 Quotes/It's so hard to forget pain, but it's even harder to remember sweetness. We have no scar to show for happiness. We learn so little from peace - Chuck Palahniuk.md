@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-s-so-hard-to-forget-pain-but-it-s-even-harder-to-remember-sweetness-we-have-no-scar-to-show-for-happiness-we-learn-so-little-from-peace-chuck-palahniuk/","title":"It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk","created":"2024-05-03T20:13:13.041+03:00","updated":"2024-05-03T20:13:13.041+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-s-so-hard-to-forget-pain-but-it-s-even-harder-to-remember-sweetness-we-have-no-scar-to-show-for-happiness-we-learn-so-little-from-peace-chuck-palahniuk/","title":"It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk","created":"2024-05-03T20:11:33.560+03:00","updated":"2024-05-03T20:13:13.041+03:00"}
 ---
 
 
