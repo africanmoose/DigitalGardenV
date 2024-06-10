@@ -3,7 +3,7 @@
 ---
 
 ## Pic of the week
-![PXL_20240609_054300166 copy.jpg](/img/user/PXL_20240609_054300166%20copy.jpg)Nairobi skyline. From above, all cities look nice and clean!
+![PXL_20240609_054300166 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240609_054300166%20copy.jpg)Nairobi skyline. From above, all cities look nice and clean!
 
 ## What is this site for?
 
