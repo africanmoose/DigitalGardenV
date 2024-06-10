@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/extrinsic-motivation-vs-intrinsic-motivation/","title":"Extrinsic motivation vs Intrinsic motivation","created":"2024-04-16T07:52:10.972+03:00","updated":"2024-04-16T07:52:10.972+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/extrinsic-motivation-vs-intrinsic-motivation/","title":"Extrinsic motivation vs Intrinsic motivation","created":"2024-04-03T20:23:48.928+03:00","updated":"2024-04-16T07:52:10.972+03:00"}
 ---
 
 
