@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-are-trying-to-prove-ourselves-wrong-as-quickly-as-possible-because-only-in-that-way-can-we-find-progres-richard-feynman/","title":"We are trying to prove ourselves wrong as quickly as possible because only in that way can we find progres - Richard Feynman","created":"2024-03-03T15:23:03.879+03:00","updated":"2024-03-03T15:23:03.879+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-are-trying-to-prove-ourselves-wrong-as-quickly-as-possible-because-only-in-that-way-can-we-find-progres-richard-feynman/","title":"We are trying to prove ourselves wrong as quickly as possible because only in that way can we find progres - Richard Feynman","created":"2024-03-03T15:21:03.595+03:00","updated":"2024-03-03T15:23:03.879+03:00"}
 ---
 
 
