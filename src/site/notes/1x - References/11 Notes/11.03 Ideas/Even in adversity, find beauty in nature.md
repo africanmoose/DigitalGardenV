@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/even-in-adversity-find-beauty-in-nature/","title":"Even in adversity, find beauty in nature","created":"2024-03-13T21:16:16.778+03:00","updated":"2024-03-13T21:16:16.778+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/even-in-adversity-find-beauty-in-nature/","title":"Even in adversity, find beauty in nature","created":"2024-03-13T21:11:38.857+03:00","updated":"2024-03-13T21:16:16.778+03:00"}
 ---
 
 
