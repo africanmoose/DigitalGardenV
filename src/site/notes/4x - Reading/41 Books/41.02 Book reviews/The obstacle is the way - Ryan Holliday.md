@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-obstacle-is-the-way-ryan-holliday/","title":"The obstacle is the way - Ryan Holliday","created":"2023-08-05T22:06:44.794+03:00","updated":"2024-02-14T20:17:40.143+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-obstacle-is-the-way-ryan-holliday/","title":"The obstacle is the way - Ryan Holliday","created":"2024-02-14T20:17:40.143+03:00","updated":"2024-02-14T20:17:40.143+03:00"}
 ---
 
 ![The obstacle is the way - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/The%20obstacle%20is%20the%20way%20-%20cover.jpg)
