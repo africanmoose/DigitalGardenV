@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/wool-omnibus-hugh-howey/","title":"Wool omnibus - Hugh Howey","created":"2024-02-14T20:17:41.151+03:00","updated":"2024-02-14T20:17:41.151+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/wool-omnibus-hugh-howey/","title":"Wool omnibus - Hugh Howey","created":"2024-01-19T16:23:04.000+03:00","updated":"2024-02-14T20:17:41.151+03:00"}
 ---
 
 ![Wool - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Wool%20-%20cover.jpg)
