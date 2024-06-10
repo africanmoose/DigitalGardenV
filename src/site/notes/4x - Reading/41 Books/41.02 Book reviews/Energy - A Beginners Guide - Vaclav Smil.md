@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/energy-a-beginners-guide-vaclav-smil/","title":"Energy - A Beginners Guide - Vaclav Smil","created":"2024-05-07T18:36:08.301+03:00","updated":"2024-06-05T17:30:52.053+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/energy-a-beginners-guide-vaclav-smil/","title":"Energy - A Beginners Guide - Vaclav Smil","created":"2024-06-05T17:30:52.053+03:00","updated":"2024-06-05T17:30:52.053+03:00"}
 ---
 
 ![Energy - A Beginners Guide - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.01%20Book%20Notes/Energy%20-%20A%20Beginners%20Guide%20-%20cover.jpg)
