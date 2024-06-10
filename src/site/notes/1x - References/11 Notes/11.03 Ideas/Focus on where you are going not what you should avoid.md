@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/focus-on-where-you-are-going-not-what-you-should-avoid/","title":"Focus on where you are going not what you should avoid","created":"2024-02-19T20:37:32.147+03:00","updated":"2024-02-19T20:37:32.147+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/focus-on-where-you-are-going-not-what-you-should-avoid/","title":"Focus on where you are going not what you should avoid","created":"2024-02-19T20:28:07.118+03:00","updated":"2024-02-19T20:37:32.147+03:00"}
 ---
 
 
