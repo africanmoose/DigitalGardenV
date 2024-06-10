@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/simply-put-why-clear-messages-win-and-how-to-design-them-ben-guttmann/","title":"Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann","created":"2024-04-17T17:55:29.814+03:00","updated":"2024-04-22T13:43:29.971+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/simply-put-why-clear-messages-win-and-how-to-design-them-ben-guttmann/","title":"Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann","created":"2024-04-22T13:43:29.971+03:00","updated":"2024-04-22T13:43:29.971+03:00"}
 ---
 
 ![Simply put - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Simply%20put%20-%20cover.jpg)
