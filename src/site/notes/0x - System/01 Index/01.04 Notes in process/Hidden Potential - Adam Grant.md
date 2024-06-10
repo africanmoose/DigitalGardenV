@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/hidden-potential-adam-grant/","title":"Hidden Potential - Adam Grant","created":"2024-06-05T23:34:52.241+03:00","updated":"2024-06-10T08:17:43.757+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/hidden-potential-adam-grant/","title":"Hidden Potential - Adam Grant","created":"2024-06-10T08:17:43.757+03:00","updated":"2024-06-10T08:17:43.757+03:00"}
 ---
 
 ![Hidden potential - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Hidden%20potential%20-%20cover.jpg)
