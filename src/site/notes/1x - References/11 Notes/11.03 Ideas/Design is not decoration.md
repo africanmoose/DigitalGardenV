@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/design-is-not-decoration/","title":"Design is not decoration","created":"2024-04-20T10:36:45.133+03:00","updated":"2024-04-20T10:36:45.133+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/design-is-not-decoration/","title":"Design is not decoration","created":"2024-04-20T10:28:53.109+03:00","updated":"2024-04-20T10:36:45.133+03:00"}
 ---
 
 
