@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/conservation-of-energy-never-stand-up-when-you-can-sit-down-and-never-sit-down-when-you-can-lie-down-winston-churchill/","title":"Conservation of energy. Never stand up when you can sit down, and never sit down when you can lie down. - Winston Churchill","created":"2024-03-14T10:11:51.738+03:00","updated":"2024-03-14T10:11:51.738+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/conservation-of-energy-never-stand-up-when-you-can-sit-down-and-never-sit-down-when-you-can-lie-down-winston-churchill/","title":"Conservation of energy. Never stand up when you can sit down, and never sit down when you can lie down. - Winston Churchill","created":"2024-03-14T10:10:24.407+03:00","updated":"2024-03-14T10:11:51.738+03:00"}
 ---
 
 
