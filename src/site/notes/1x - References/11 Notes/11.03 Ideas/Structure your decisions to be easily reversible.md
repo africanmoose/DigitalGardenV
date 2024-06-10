@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/structure-your-decisions-to-be-easily-reversible/","title":"Structure your decisions to be easily reversible","created":"2024-04-21T15:23:38.000+03:00","updated":"2024-04-21T15:23:38.000+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/structure-your-decisions-to-be-easily-reversible/","title":"Structure your decisions to be easily reversible","created":"2024-04-21T15:21:34.667+03:00","updated":"2024-04-21T15:23:38.000+03:00"}
 ---
 
 
