@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/an-adventurous-life-is-a-happier-life/","title":"An adventurous life is a happier life","created":"2024-03-22T22:36:31.279+03:00","updated":"2024-03-22T22:36:31.279+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/an-adventurous-life-is-a-happier-life/","title":"An adventurous life is a happier life","created":"2024-03-22T22:33:08.005+03:00","updated":"2024-03-22T22:36:31.279+03:00"}
 ---
 
 
