@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/passive-methods-of-heating-and-cooling-reduce-energy-use/","title":"Passive methods of heating and cooling reduce energy use","created":"2024-05-10T19:22:42.672+03:00","updated":"2024-05-10T19:22:42.672+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/passive-methods-of-heating-and-cooling-reduce-energy-use/","title":"Passive methods of heating and cooling reduce energy use","created":"2024-05-10T19:17:22.579+03:00","updated":"2024-05-10T19:22:42.672+03:00"}
 ---
 
 
