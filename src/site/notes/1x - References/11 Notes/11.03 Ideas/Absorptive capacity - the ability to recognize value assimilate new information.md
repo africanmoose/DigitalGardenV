@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/absorptive-capacity-the-ability-to-recognize-value-assimilate-new-information/","title":"Absorptive capacity - the ability to recognize value assimilate new information","created":"2024-05-29T07:07:18.897+03:00","updated":"2024-06-10T08:17:46.831+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/absorptive-capacity-the-ability-to-recognize-value-assimilate-new-information/","title":"Absorptive capacity - the ability to recognize value assimilate new information","created":"2024-06-10T08:17:46.831+03:00","updated":"2024-06-10T17:31:33.532+03:00"}
 ---
 
 
