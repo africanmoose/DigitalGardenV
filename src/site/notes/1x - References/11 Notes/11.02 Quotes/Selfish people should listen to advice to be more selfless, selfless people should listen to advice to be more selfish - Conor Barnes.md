@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/selfish-people-should-listen-to-advice-to-be-more-selfless-selfless-people-should-listen-to-advice-to-be-more-selfish-conor-barnes/","title":"Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes","created":"2024-04-26T09:49:06.620+03:00","updated":"2024-04-26T09:49:06.620+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/selfish-people-should-listen-to-advice-to-be-more-selfless-selfless-people-should-listen-to-advice-to-be-more-selfish-conor-barnes/","title":"Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes","created":"2024-04-26T09:46:59.852+03:00","updated":"2024-04-26T09:49:06.620+03:00"}
 ---
 
 
