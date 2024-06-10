@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/failure-is-a-positive-sign-that-you-are-trying-to-stretch-and-do-something-beyond-your-current-abilities/","title":"Failure is a positive sign that you are trying to stretch and do something beyond your current abilities","created":"2024-02-23T16:03:59.422+03:00","updated":"2024-02-23T16:03:59.422+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/failure-is-a-positive-sign-that-you-are-trying-to-stretch-and-do-something-beyond-your-current-abilities/","title":"Failure is a positive sign that you are trying to stretch and do something beyond your current abilities","created":"2024-02-23T14:40:16.706+03:00","updated":"2024-02-23T16:03:59.422+03:00"}
 ---
 
 
