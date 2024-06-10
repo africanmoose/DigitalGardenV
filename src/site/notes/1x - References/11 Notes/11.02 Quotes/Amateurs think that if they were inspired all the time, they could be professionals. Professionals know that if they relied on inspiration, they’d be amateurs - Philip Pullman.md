@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/amateurs-think-that-if-they-were-inspired-all-the-time-they-could-be-professionals-professionals-know-that-if-they-relied-on-inspiration-they-d-be-amateurs-philip-pullman/","title":"Amateurs think that if they were inspired all the time, they could be professionals. Professionals know that if they relied on inspiration, they’d be amateurs - Philip Pullman","created":"2024-02-25T22:08:13.475+03:00","updated":"2024-02-25T22:08:13.475+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/amateurs-think-that-if-they-were-inspired-all-the-time-they-could-be-professionals-professionals-know-that-if-they-relied-on-inspiration-they-d-be-amateurs-philip-pullman/","title":"Amateurs think that if they were inspired all the time, they could be professionals. Professionals know that if they relied on inspiration, they’d be amateurs - Philip Pullman","created":"2024-02-25T22:05:58.296+03:00","updated":"2024-02-25T22:08:13.475+03:00"}
 ---
 
 
