@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/lust-is-a-destroyer-of-peace-ryan-holliday/","title":"Lust is a destroyer of peace - Ryan Holliday","created":"2024-03-17T10:32:30.701+03:00","updated":"2024-03-17T10:32:30.701+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/lust-is-a-destroyer-of-peace-ryan-holliday/","title":"Lust is a destroyer of peace - Ryan Holliday","created":"2024-03-17T10:31:23.075+03:00","updated":"2024-03-17T10:32:30.701+03:00"}
 ---
 
 
