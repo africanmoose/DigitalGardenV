@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/chinese-kind-rejection-letter/","title":"Chinese kind rejection letter","created":"2024-05-11T22:17:57.200+03:00","updated":"2024-05-11T22:17:57.200+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/chinese-kind-rejection-letter/","title":"Chinese kind rejection letter","created":"2024-05-11T22:15:48.529+03:00","updated":"2024-05-11T22:17:57.200+03:00"}
 ---
 
 
