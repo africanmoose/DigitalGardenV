@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/time-is-a-tool/","title":"Time is a tool","created":"2024-03-09T11:31:13.373+03:00","updated":"2024-03-09T11:31:13.373+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/time-is-a-tool/","title":"Time is a tool","created":"2024-03-09T11:28:54.139+03:00","updated":"2024-03-09T11:31:13.373+03:00"}
 ---
 
 
