@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/monitoring-and-tracking-makes-change-more-likely/","title":"Monitoring makes change more likely","created":"2024-03-30T13:41:14.602+03:00","updated":"2024-03-30T13:41:14.602+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/monitoring-and-tracking-makes-change-more-likely/","title":"Monitoring makes change more likely","created":"2024-02-21T13:24:32.490+03:00","updated":"2024-03-30T13:41:14.602+03:00"}
 ---
 
 
