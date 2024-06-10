@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-are-more-likely-to-believe-things-which-are-simpler/","title":"We are more likely to believe things which are simpler","created":"2024-04-20T10:27:51.792+03:00","updated":"2024-04-20T10:27:51.792+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-are-more-likely-to-believe-things-which-are-simpler/","title":"We are more likely to believe things which are simpler","created":"2024-04-20T10:21:58.680+03:00","updated":"2024-04-20T10:27:51.792+03:00"}
 ---
 
 
