@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/what-every-human-wants-and-needs-james-clear/","title":"What every human wants and needs - James Clear","created":"2024-04-16T08:23:38.958+03:00","updated":"2024-04-16T08:23:38.958+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/what-every-human-wants-and-needs-james-clear/","title":"What every human wants and needs - James Clear","created":"2024-04-16T08:21:32.567+03:00","updated":"2024-04-16T08:23:38.958+03:00"}
 ---
 
 
