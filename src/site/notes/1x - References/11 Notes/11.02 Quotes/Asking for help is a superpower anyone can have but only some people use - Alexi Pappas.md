@@ -16,6 +16,6 @@ fs.blog
 - [[1x - References/11 Notes/11.03 Ideas/Help people in small ways\|Help people in small ways]]
 - [[1x - References/11 Notes/11.03 Ideas/Good mentors help learning\|Good mentors help learning]]
 - [[1x - References/11 Notes/11.03 Ideas/Ask an expert to share their knowlege\|Ask an expert to share their knowlege]]
-- [[1x - References/11 Notes/Ask for advice instead of feedback\|Ask for advice instead of feedback]]
+- [[1x - References/11 Notes/11.03 Ideas/Ask for advice instead of feedback\|Ask for advice instead of feedback]]
 - [[1x - References/11 Notes/11.03 Ideas/Always ask - How can I help\|Always ask - How can I help]]
 - [[1x - References/11 Notes/11.02 Quotes/Dont ask the barber whether you need a haircut - Daniel S Greenberg\|Dont ask the barber whether you need a haircut - Daniel S Greenberg]]
