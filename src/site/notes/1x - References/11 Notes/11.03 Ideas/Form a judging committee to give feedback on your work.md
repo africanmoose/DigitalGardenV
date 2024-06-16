@@ -10,7 +10,7 @@
 - Asking for a rating is better than asking for feedback, no one ever gives a 10. so there will always be some feedback
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 For every project that matters to me, I’ve had judging committees for
@@ -21,6 +21,6 @@ judges to independently rate my work on a scale from 0 to 10. No one ever says 1
 - [[1x - References/11 Notes/11.03 Ideas/Feedback loops critical for growth and learning\|Feedback loops critical for growth and learning]]
 - [[1x - References/11 Notes/11.02 Quotes/Early feedback is usually better than late criticism - James Clear\|Early feedback is usually better than late criticism - James Clear]]
 - [[1x - References/11 Notes/11.03 Ideas/How to view feedback on our art\|How to view feedback on our art]]
-- [[1x - References/11 Notes/Ask for advice instead of feedback\|Ask for advice instead of feedback]]
+- [[1x - References/11 Notes/11.03 Ideas/Ask for advice instead of feedback\|Ask for advice instead of feedback]]
 - [[1x - References/11 Notes/11.03 Ideas/Use questions to elicit feedback and criticism\|Use questions to elicit feedback and criticism]]
 - [[1x - References/11 Notes/11.02 Quotes/The only way to improve is to get negative feedback - Adam Grant\|The only way to improve is to get negative feedback - Adam Grant]]
