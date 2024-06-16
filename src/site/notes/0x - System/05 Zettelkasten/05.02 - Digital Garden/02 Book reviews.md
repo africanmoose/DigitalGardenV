@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-01-20T11:24:45.000+03:00","updated":"2024-05-10T20:22:00.262+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-01-20T11:24:45.000+03:00","updated":"2024-06-16T21:34:59.978+03:00"}
 ---
 
  
 
 ## Highly recommended
+
 - [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 
 ## Recommended 
+
 - [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Wool omnibus - Hugh Howey\|Wool omnibus - Hugh Howey]]
@@ -49,7 +51,9 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey\|Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
+- - [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 ## Interesting but dont go out of your way
+
 - [[4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The science of Rapid Skill Acquisition]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi -The Japanese Art of Impermanence]]
