@@ -11,7 +11,7 @@
 - His style is marked by clean and simple lines, and fitting in with the natural lines of the land surrounding them.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [wikipedia]()
 
 ### Quotes
