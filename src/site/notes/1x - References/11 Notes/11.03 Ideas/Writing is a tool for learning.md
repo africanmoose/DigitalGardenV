@@ -10,7 +10,7 @@
 - When we write, it forces us to be clear in our logic and explanation. If there is an area that is not clear, it forces us to learn it in order to express it better
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 I’ve seen many people shy away from writing because it doesn’t come
