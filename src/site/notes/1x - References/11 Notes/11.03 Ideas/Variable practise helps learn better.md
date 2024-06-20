@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/variable-practise-helps-learn-better/","title":"Variable practise helps learn better","created":"2023-02-12T09:06:41.000+03:00","updated":"2024-02-14T20:18:21.487+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/variable-practise-helps-learn-better/","title":"Variable practise helps learn better","created":"2024-02-14T20:18:21.487+03:00","updated":"2024-06-20T12:08:34.139+03:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Learning skills takes time\|Learning skills takes time]]
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[1x - References/11 Notes/11.03 Ideas/Interleaved practise\|Interleaved practise]]
 - [[1x - References/11 Notes/11.03 Ideas/Intentional practise needed to improve\|Intentional practise needed to improve]]
 - [[1x - References/11 Notes/11.03 Ideas/Curiousity is a powerful learning tool\|Curiousity is a powerful learning tool]]
