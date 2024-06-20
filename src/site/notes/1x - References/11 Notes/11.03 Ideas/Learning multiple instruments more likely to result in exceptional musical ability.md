@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-multiple-instruments-more-likely-to-result-in-exceptional-musical-ability/","title":"Learning multiple instruments more likely to result in exceptional musical ability","created":"2024-02-04T09:25:07.974+03:00","updated":"2024-02-14T20:18:28.548+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-multiple-instruments-more-likely-to-result-in-exceptional-musical-ability/","title":"Learning multiple instruments more likely to result in exceptional musical ability","created":"2024-02-14T20:18:28.548+03:00","updated":"2024-06-20T12:08:34.089+03:00"}
 ---
 
 
@@ -22,6 +22,6 @@ When Sloboda and a colleague conducted a study with students at a British boardi
 - [[1x - References/11 Notes/11.03 Ideas/Variable practise helps learn better\|Variable practise helps learn better]]
 - [[1x - References/11 Notes/11.03 Ideas/Interleaved practise\|Interleaved practise]]
 - [[1x - References/11 Notes/11.03 Ideas/Intentional practise needed to improve\|Intentional practise needed to improve]]
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[1x - References/11 Notes/11.03 Ideas/Persistence and variety\|Persistence and variety]]
 - [[Variability is the key to learning - scott young\|Variability is the key to learning - scott young]]
