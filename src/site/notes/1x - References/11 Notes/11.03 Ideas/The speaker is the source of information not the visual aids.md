@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-speaker-is-the-source-of-information-not-the-visual-aids/","title":"The speaker is the source of information not the visual aids","created":"2023-01-12T19:32:50.000+03:00","updated":"2024-02-14T20:18:22.045+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-speaker-is-the-source-of-information-not-the-visual-aids/","title":"The speaker is the source of information not the visual aids","created":"2024-02-14T20:18:22.045+03:00","updated":"2024-06-20T12:08:34.129+03:00"}
 ---
 
 
@@ -23,4 +23,4 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Learning is never done\|Learning is never done]]
 - [[1x - References/11 Notes/11.02 Quotes/Learning Machine - Charlie Munger\|Learning Machine - Charlie Munger]]
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
