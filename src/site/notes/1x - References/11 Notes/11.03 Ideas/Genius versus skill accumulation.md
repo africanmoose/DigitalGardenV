@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/genius-versus-skill-accumulation/","title":"Genius versus skill accumulation","created":"2023-01-22T21:47:32.000+03:00","updated":"2024-02-14T20:18:31.741+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/genius-versus-skill-accumulation/","title":"Genius versus skill accumulation","created":"2024-02-14T20:18:31.741+03:00","updated":"2024-06-20T12:08:34.011+03:00"}
 ---
 
 
@@ -23,5 +23,5 @@
 - [[1x - References/11 Notes/11.03 Ideas/Illusion of skill\|Illusion of skill]]
 - [[1x - References/11 Notes/11.03 Ideas/How to learn a skill\|How to learn a skill]]
 - [[1x - References/11 Notes/11.02 Quotes/Genius is often only the power of making continuous efforts - Elbert Hubbard\|Genius is often only the power of making continuous efforts - Elbert Hubbard]]
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Building others up is a skill\|Building others up is a skill]]
