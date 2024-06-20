@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learn-actively-more-effective-than-passive-learning/","title":"Learn actively more effective than passive learning","created":"2023-03-13T15:13:37.000+03:00","updated":"2024-02-14T20:18:28.745+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learn-actively-more-effective-than-passive-learning/","title":"Learn actively more effective than passive learning","created":"2024-02-14T20:18:28.745+03:00","updated":"2024-06-20T12:08:34.079+03:00"}
 ---
 
 
@@ -17,5 +17,5 @@
 - [[1x - References/11 Notes/11.03 Ideas/Variable practise helps learn better\|Variable practise helps learn better]]
 - [[1x - References/11 Notes/11.03 Ideas/Interleaved practise\|Interleaved practise]]
 - [[1x - References/11 Notes/11.03 Ideas/Intentional practise needed to improve\|Intentional practise needed to improve]]
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[1x - References/11 Notes/11.02 Quotes/Learning Machine - Charlie Munger\|Learning Machine - Charlie Munger]]
