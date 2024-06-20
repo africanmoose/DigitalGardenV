@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/hell-yeah-or-no-whats-worth-doing-derek-sivers/","title":"Hell Yeah or No - Whats Worth Doing - Derek Sivers","created":"2023-07-02T11:42:49.000+03:00","updated":"2024-02-14T20:17:40.796+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/hell-yeah-or-no-whats-worth-doing-derek-sivers/","title":"Hell Yeah or No - Whats Worth Doing - Derek Sivers","created":"2024-02-14T20:17:40.796+03:00","updated":"2024-02-14T20:17:40.796+03:00"}
 ---
 
 
