@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learn-slow/","title":"Learn Slow","created":"2022-11-01T15:01:51.000+03:00","updated":"2024-02-14T20:18:28.749+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learn-slow/","title":"Learn Slow","created":"2024-02-14T20:18:28.749+03:00","updated":"2024-06-20T12:08:34.070+03:00"}
 ---
 
 ---
@@ -20,7 +20,7 @@
 -
 
 ### Interesting Related
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[1x - References/11 Notes/11.03 Ideas/How to learn a skill\|How to learn a skill]]
 - [[1x - References/11 Notes/11.02 Quotes/How to learn - Pablo Picasso\|How to learn - Pablo Picasso]]
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
