@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-new-skills-changes-the-way-you-think/","title":"Learning new skills changes the way you think","created":"2023-02-11T08:46:09.000+03:00","updated":"2024-02-14T20:18:28.508+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-new-skills-changes-the-way-you-think/","title":"Learning new skills changes the way you think","created":"2024-02-14T20:18:28.508+03:00","updated":"2024-06-20T12:08:34.103+03:00"}
 ---
 
 
@@ -22,5 +22,5 @@
 - [[1x - References/11 Notes/11.03 Ideas/Learning is never done\|Learning is never done]]
 - [[1x - References/11 Notes/11.02 Quotes/Keep learning - James Clear\|Keep learning - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/He died learning\|He died learning]]
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[1x - References/11 Notes/11.03 Ideas/Take time daily to learn something new\|Take time daily to learn something new]]
