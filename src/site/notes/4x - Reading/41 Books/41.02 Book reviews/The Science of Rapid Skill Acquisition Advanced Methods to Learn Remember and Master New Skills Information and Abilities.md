@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-science-of-rapid-skill-acquisition-advanced-methods-to-learn-remember-and-master-new-skills-information-and-abilities/","title":"The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities","created":"2022-11-09T20:23:36.000+03:00","updated":"2024-02-14T20:17:40.379+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-science-of-rapid-skill-acquisition-advanced-methods-to-learn-remember-and-master-new-skills-information-and-abilities/","title":"The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities","created":"2024-02-14T20:17:40.379+03:00","updated":"2024-06-20T12:08:34.157+03:00"}
 ---
 
 ### Summary
@@ -24,7 +24,7 @@
 	- [[1x - References/11 Notes/11.03 Ideas/Interleaved practise\|Interleaved practise]]
 	- [[1x - References/11 Notes/11.03 Ideas/Learn Slow\|Learn slow]]
 	- [[1x - References/11 Notes/11.03 Ideas/Seek dissenting opinions\|Seek dissenting opinions]]
-	- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Practise deliberately]]
+	- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately]]
 	- [[1x - References/11 Notes/11.03 Ideas/You can never understand everything\|You can never understand everything]]
 	- [[1x - References/11 Notes/11.03 Ideas/Identify good sources for information\|Identify good sources for information]]
 	- [[1x - References/11 Notes/11.03 Ideas/Pareto principle in learning new skills\|Pareto principle in learning new skills]]
