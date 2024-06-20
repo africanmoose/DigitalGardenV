@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/take-substantial-breaks-to-improve-your-productivity/","title":"Take substantial breaks to improve your productivity","created":"2024-04-15T11:32:11.091+03:00","updated":"2024-04-15T11:44:43.159+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/take-substantial-breaks-to-improve-your-productivity/","title":"Take substantial breaks to improve your productivity","created":"2024-04-15T11:44:43.159+03:00","updated":"2024-04-15T11:44:43.159+03:00"}
 ---
 
 
