@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/neuroplasticity-allows-us-to-design-our-brain/","title":"Neuroplasticity allows us to design our brain","created":"2024-05-01T21:36:05.981+03:00","updated":"2024-05-01T21:48:30.364+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/neuroplasticity-allows-us-to-design-our-brain/","title":"Neuroplasticity allows us to design our brain","created":"2024-05-01T21:48:30.364+03:00","updated":"2024-05-01T21:48:30.364+03:00"}
 ---
 
 
@@ -21,5 +21,5 @@ Neuroplasticity refers to the brain’s ability to change throughout your lifeti
 - [[1x - References/11 Notes/11.03 Ideas/Creativity is yoga for the brain\|Creativity is yoga for the brain]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning something new is good for your brain\|Learning something new is good for your brain]]
 - [[1x - References/11 Notes/11.03 Ideas/The neocortex is the center of intelligence in our brains\|The neocortex is the center of intelligence in our brains]]
-- [[0x - System/01 Index/01.02 Inbox/Double Loop Learning Download New Skills and Information into Your Brain\|Double Loop Learning Download New Skills and Information into Your Brain]]
+- [[Double Loop Learning Download New Skills and Information into Your Brain\|Double Loop Learning Download New Skills and Information into Your Brain]]
 - [[1x - References/11 Notes/11.02 Quotes/Exercise is the single most powerful tool you have to optimize your brain function...If exercise came in pill form, it would be plastered across the front page, hailed as the blockbuster drug of the century - John Ratey\|Exercise is the single most powerful tool you have to optimize your brain function...If exercise came in pill form, it would be plastered across the front page, hailed as the blockbuster drug of the century - John Ratey]]
