@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-10T14:49:29.305+03:00","updated":"2024-06-16T21:40:45.641+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-17T07:10:42.020+03:00","updated":"2024-06-20T18:26:18.513+03:00"}
 ---
 
 ## Pic of the week
@@ -40,18 +40,17 @@ Student joints are the best - super cheap and super good food. With my Sunday mo
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Complaining blocks learning\|Complaining blocks learning]]
+- [[1x - References/11 Notes/11.03 Ideas/Single-loop learning vs. double-loop learning\|Single-loop learning vs. double-loop learning]]
+- [[1x - References/11 Notes/11.03 Ideas/10 years to get good at anything\|10 years to get good at anything]]
+- [[1x - References/11 Notes/11.03 Ideas/Working for long is not the same as working hard\|Working for long is not the same as working hard]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[1x - References/11 Notes/11.03 Ideas/Growth is uncomfortable\|Growth is uncomfortable]]
 - [[1x - References/11 Notes/11.03 Ideas/Neuroplasticity allows us to design our brain\|Neuroplasticity allows us to design our brain]]
-- [[1x - References/11 Notes/11.03 Ideas/Implementation intentions - how to create habits\|Implementation intentions - how to create habits]]
-- [[1x - References/11 Notes/11.03 Ideas/First principles - ask why five times\|First principles - ask why five times]]
-- [[1x - References/11 Notes/11.03 Ideas/There is no point in reading if you are not learning something\|There is no point in reading if you are not learning something]]
-- [[1x - References/11 Notes/11.03 Ideas/Time is a tool\|Time is a tool]]
-- [[1x - References/11 Notes/11.03 Ideas/Leaders job is to think of the big picture\|Leaders job is to think of the big picture]]
-
 
 ## Book Reviews
 
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
