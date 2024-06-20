@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/bobbi-gibb/","title":"Bobbi Gibb","created":"2024-03-18T10:16:06.925+03:00","updated":"2024-03-18T10:39:10.738+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/bobbi-gibb/","title":"Bobbi Gibb","created":"2024-03-18T10:39:10.738+03:00","updated":"2024-03-18T10:39:10.738+03:00"}
 ---
 
 
