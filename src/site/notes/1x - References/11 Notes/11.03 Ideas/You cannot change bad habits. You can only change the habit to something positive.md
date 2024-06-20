@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-cannot-change-bad-habits-you-can-only-change-the-habit-to-something-positive/","title":"You cannot change bad habits. You can only change the habit to something positive","created":"2024-02-21T15:05:06.343+03:00","updated":"2024-02-21T15:07:51.646+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-cannot-change-bad-habits-you-can-only-change-the-habit-to-something-positive/","title":"You cannot change bad habits. You can only change the habit to something positive","created":"2024-02-21T15:07:51.646+03:00","updated":"2024-02-21T15:07:51.646+03:00"}
 ---
 
 
