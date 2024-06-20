@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/interleaved-practise/","title":"Interleaved practise","created":"2022-11-01T15:01:45.000+03:00","updated":"2024-02-14T20:18:29.311+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/interleaved-practise/","title":"Interleaved practise","created":"2024-02-14T20:18:29.311+03:00","updated":"2024-06-20T12:08:34.062+03:00"}
 ---
 
 ---
@@ -22,5 +22,5 @@
 ### Interesting Related
 - [[1x - References/11 Notes/11.03 Ideas/How to learn a skill\|How to learn a skill]]
 - [[1x - References/11 Notes/11.02 Quotes/How to learn - Pablo Picasso\|How to learn - Pablo Picasso]]
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[1x - References/11 Notes/11.03 Ideas/Pareto principle in learning new skills\|Pareto principle in learning new skills]]
