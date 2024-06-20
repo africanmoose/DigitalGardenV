@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/thinking-negatively-about-failure-leads-to-less-attempts-to-try-to-overcome-obstacles/","title":"Thinking negatively about failure leads to less attempts to try to overcome obstacles","created":"2024-03-25T22:08:20.645+03:00","updated":"2024-03-26T08:59:44.798+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/thinking-negatively-about-failure-leads-to-less-attempts-to-try-to-overcome-obstacles/","title":"Thinking negatively about failure leads to less attempts to try to overcome obstacles","created":"2024-03-26T08:59:44.798+03:00","updated":"2024-03-26T08:59:44.798+03:00"}
 ---
 
 
