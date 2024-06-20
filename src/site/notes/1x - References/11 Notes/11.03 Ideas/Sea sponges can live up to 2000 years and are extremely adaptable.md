@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/sea-sponges-can-live-up-to-2000-years-and-are-extremely-adaptable/","title":"Sea sponges can live up to 2000 years and are extremely adaptable","created":"2024-05-28T18:53:41.752+03:00","updated":"2024-05-29T07:07:18.894+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/sea-sponges-can-live-up-to-2000-years-and-are-extremely-adaptable/","title":"Sea sponges can live up to 2000 years and are extremely adaptable","created":"2024-05-29T07:07:18.894+03:00","updated":"2024-05-29T07:07:18.894+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - The ability to learn and absorb what is around us can be imitated from sea sponges
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [wikipedia](https://en.wikipedia.org/wiki/Sponge)
 
 ### Quotes
