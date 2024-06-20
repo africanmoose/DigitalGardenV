@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/intentional-practise-needed-to-improve/","title":"Intentional practise needed to improve","created":"2023-01-23T18:35:38.000+03:00","updated":"2024-02-14T20:18:29.340+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/intentional-practise-needed-to-improve/","title":"Intentional practise needed to improve","created":"2024-02-14T20:18:29.340+03:00","updated":"2024-06-20T12:08:34.054+03:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Practise for public speaking - Benjamin Franklin\|Practise for public speaking - Benjamin Franklin]]
 - [[1x - References/11 Notes/11.03 Ideas/Interleaved practise\|Interleaved practise]]
-- [[1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately\|Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[1x - References/11 Notes/11.02 Quotes/Genius is often only the power of making continuous efforts - Elbert Hubbard\|Genius is often only the power of making continuous efforts - Elbert Hubbard]]
 - [[1x - References/11 Notes/11.03 Ideas/How to learn a skill\|How to learn a skill]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities]]
