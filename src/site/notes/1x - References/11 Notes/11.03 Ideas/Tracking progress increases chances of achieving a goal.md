@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/tracking-progress-increases-chances-of-achieving-a-goal/","title":"Tracking progress increases chances of achieving a goal","created":"2024-04-13T21:03:40.708+03:00","updated":"2024-04-13T21:08:00.420+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/tracking-progress-increases-chances-of-achieving-a-goal/","title":"Tracking progress increases chances of achieving a goal","created":"2024-04-13T21:08:00.420+03:00","updated":"2024-04-13T21:08:00.420+03:00"}
 ---
 
 
