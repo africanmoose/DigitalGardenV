@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/watching-someone-else-accomplish-something-encourages-us/","title":"Watching someone else accomplish something encourages us","created":"2024-04-01T22:08:07.731+03:00","updated":"2024-04-01T22:09:08.158+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/watching-someone-else-accomplish-something-encourages-us/","title":"Watching someone else accomplish something encourages us","created":"2024-04-01T22:09:08.158+03:00","updated":"2024-04-01T22:09:08.158+03:00"}
 ---
 
 
