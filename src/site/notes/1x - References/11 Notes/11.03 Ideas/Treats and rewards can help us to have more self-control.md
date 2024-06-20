@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/treats-and-rewards-can-help-us-to-have-more-self-control/","title":"permanent note","created":"2024-02-23T17:21:50.551+03:00","updated":"2024-02-25T22:01:10.556+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/treats-and-rewards-can-help-us-to-have-more-self-control/","title":"permanent note","created":"2024-02-25T22:01:10.556+03:00","updated":"2024-02-25T22:01:10.556+03:00"}
 ---
 
 
