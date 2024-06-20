@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-a-tool-for-learning/","title":"Writing is a tool for learning","created":"2024-05-20T20:43:19.180+03:00","updated":"2024-05-20T20:44:52.768+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-a-tool-for-learning/","title":"Writing is a tool for learning","created":"2024-05-20T20:44:52.768+03:00","updated":"2024-05-20T20:44:52.768+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - When we write, it forces us to be clear in our logic and explanation. If there is an area that is not clear, it forces us to learn it in order to express it better
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 I’ve seen many people shy away from writing because it doesn’t come
