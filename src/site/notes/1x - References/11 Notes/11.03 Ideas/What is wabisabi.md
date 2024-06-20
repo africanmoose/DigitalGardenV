@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/what-is-wabisabi/","title":"What is wabisabi","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-05-29T20:31:03.095+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/what-is-wabisabi/","title":"What is wabisabi","created":"2024-05-29T20:31:03.095+03:00","updated":"2024-05-29T20:31:03.095+03:00"}
 ---
 
 
@@ -16,11 +16,11 @@
 
 ### References
 - [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 - "Like a great many other words that are descriptive of emotions and ideologies, the words wabi and sabi have travelled through a millenium of cultural change and in so doing have collected a vast amount of cultural baggage. As usage and intended meanings change, the complexity and depth of words can increase exponentially....Words are like living organisms, they evolve to match the expressive requirements of those using a language." [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
-- According to legend, a young man once sought out a master to teach him the Japanese tea ceremony. The master tested him by asking him to clean up a garden. The young man removed the weeds and raked the leaves until the grounds were pristine. As he reviewed his flawless work, he decided something was missing. He walked over to a cherry tree and shook it so that some flower petals fell to the ground. By finding the beauty in imperfection, he showed he was ready to become a master. This legend traces back to the sixteenth century, when the Japanese tea ceremony underwent a seismic shift. Immaculate dishes were replaced with chipped bowls. People drank from pottery that was worn and weathered. They called this practice wabi sabi. Wabi sabi is the art of honoring the beauty in imperfection. It’s not about creating intentional imperfections. It’s about accepting that flaws are inevitable—and recognizing that they don’t stop something from becoming sublime. That’s been a dominant theme in Tadao Ando’s architecture and his life. He’s an imperfectionist: he’s selective about what he decides to do well. [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- According to legend, a young man once sought out a master to teach him the Japanese tea ceremony. The master tested him by asking him to clean up a garden. The young man removed the weeds and raked the leaves until the grounds were pristine. As he reviewed his flawless work, he decided something was missing. He walked over to a cherry tree and shook it so that some flower petals fell to the ground. By finding the beauty in imperfection, he showed he was ready to become a master. This legend traces back to the sixteenth century, when the Japanese tea ceremony underwent a seismic shift. Immaculate dishes were replaced with chipped bowls. People drank from pottery that was worn and weathered. They called this practice wabi sabi. Wabi sabi is the art of honoring the beauty in imperfection. It’s not about creating intentional imperfections. It’s about accepting that flaws are inevitable—and recognizing that they don’t stop something from becoming sublime. That’s been a dominant theme in Tadao Ando’s architecture and his life. He’s an imperfectionist: he’s selective about what he decides to do well. [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
