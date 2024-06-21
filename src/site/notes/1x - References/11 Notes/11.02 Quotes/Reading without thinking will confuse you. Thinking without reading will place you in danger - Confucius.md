@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/reading-without-thinking-will-confuse-you-thinking-without-reading-will-place-you-in-danger-confucius/","title":"Reading without thinking will confuse you. Thinking without reading will place you in danger - Confucius","created":"2024-04-22T16:07:18.112+03:00","updated":"2024-04-22T16:07:18.112+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/reading-without-thinking-will-confuse-you-thinking-without-reading-will-place-you-in-danger-confucius/","title":"Reading without thinking will confuse you. Thinking without reading will place you in danger - Confucius","created":"2024-04-22T16:05:25.977+03:00","updated":"2024-04-22T16:07:18.112+03:00"}
 ---
 
 
