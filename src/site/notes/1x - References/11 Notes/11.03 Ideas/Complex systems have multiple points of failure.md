@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/complex-systems-have-multiple-points-of-failure/","title":"Complex systems have multiple points of failure","created":"2024-04-22T13:41:42.944+03:00","updated":"2024-04-22T13:41:42.944+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/complex-systems-have-multiple-points-of-failure/","title":"Complex systems have multiple points of failure","created":"2024-04-22T13:38:08.840+03:00","updated":"2024-04-22T13:41:42.944+03:00"}
 ---
 
 
