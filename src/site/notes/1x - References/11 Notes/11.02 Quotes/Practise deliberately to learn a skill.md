@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/practise-deliberately-to-learn-a-skill/","title":"Practise deliberately to learn a skill","created":"2024-02-14T20:18:39.591+03:00","updated":"2024-06-20T12:13:54.391+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/practise-deliberately-to-learn-a-skill/","title":"Practise deliberately to learn a skill","created":"2024-06-20T12:13:54.391+03:00","updated":"2024-06-20T12:13:54.391+03:00"}
 ---
 
 ---
