@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/books-are-not-just-a-means-of-transferring-information-but-a-machine-for-thinking-joel-miller/","title":"Books are not just a means of transferring information, but a machine for thinking - Joel Miller","created":"2024-03-25T23:09:57.586+03:00","updated":"2024-03-25T23:09:57.586+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/books-are-not-just-a-means-of-transferring-information-but-a-machine-for-thinking-joel-miller/","title":"Books are not just a means of transferring information, but a machine for thinking - Joel Miller","created":"2024-03-25T23:06:05.531+03:00","updated":"2024-03-25T23:09:57.586+03:00"}
 ---
 
 
