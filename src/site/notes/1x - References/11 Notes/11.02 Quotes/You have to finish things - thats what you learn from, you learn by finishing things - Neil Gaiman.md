@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-have-to-finish-things-thats-what-you-learn-from-you-learn-by-finishing-things-neil-gaiman/","title":"You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman","created":"2024-06-10T14:06:07.778+03:00","updated":"2024-06-10T17:31:35.552+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-have-to-finish-things-thats-what-you-learn-from-you-learn-by-finishing-things-neil-gaiman/","title":"You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman","created":"2024-06-10T14:07:29.533+03:00","updated":"2024-06-10T17:31:35.552+03:00"}
 ---
 
 
