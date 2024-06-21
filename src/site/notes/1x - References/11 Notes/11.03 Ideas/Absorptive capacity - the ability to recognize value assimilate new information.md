@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/absorptive-capacity-the-ability-to-recognize-value-assimilate-new-information/","title":"Absorptive capacity - the ability to recognize value assimilate new information","created":"2024-05-29T07:07:18.897+03:00","updated":"2024-06-10T17:31:33.532+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/absorptive-capacity-the-ability-to-recognize-value-assimilate-new-information/","title":"Absorptive capacity - the ability to recognize value assimilate new information","created":"2024-06-10T08:17:46.831+03:00","updated":"2024-06-10T17:31:33.532+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - The second is the goal of pursuing information - growth rather than ego. Ego leads people to reject new information because it may threaten their image.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 Sponginess was the first thing that stood out to me about Mellody too. I first met her a decade ago, when I was invited to give a presentation on my research to a group of VIPs. When I walked into the room, I recognized multiple Oscar-winning filmmakers and tech billionaires. It was Mellody who asked the most questions—and she was the only one to take notes. When it came to seeking and soaking up information, she was in a league of her own. Her engagement was more than curiosity: she had unusual levels of what social scientists call absorptive capacity. Absorptive capacity is the ability to recognize, value, assimilate, and
