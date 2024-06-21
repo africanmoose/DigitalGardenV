@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/avoid-having-your-ego-so-close-to-your-position-that-when-your-position-falls-your-ego-goes-with-it-colin-powell/","title":"Avoid having your ego so close to your position that when your position falls, your ego goes with it - Colin Powell","created":"2024-03-13T21:02:24.187+03:00","updated":"2024-03-13T21:02:24.187+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/avoid-having-your-ego-so-close-to-your-position-that-when-your-position-falls-your-ego-goes-with-it-colin-powell/","title":"Avoid having your ego so close to your position that when your position falls, your ego goes with it - Colin Powell","created":"2024-03-13T21:00:56.672+03:00","updated":"2024-03-13T21:02:24.187+03:00"}
 ---
 
 
