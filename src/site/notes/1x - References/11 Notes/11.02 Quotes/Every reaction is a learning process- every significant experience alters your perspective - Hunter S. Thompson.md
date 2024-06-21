@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/every-reaction-is-a-learning-process-every-significant-experience-alters-your-perspective-hunter-s-thompson/","title":"Every reaction is a learning process; every significant experience alters your perspective - Hunter S. Thompson","created":"2024-06-20T13:29:26.101+03:00","updated":"2024-06-20T13:31:07.412+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/every-reaction-is-a-learning-process-every-significant-experience-alters-your-perspective-hunter-s-thompson/","title":"Every reaction is a learning process; every significant experience alters your perspective - Hunter S. Thompson","created":"2024-06-20T13:31:07.412+03:00","updated":"2024-06-20T13:31:07.412+03:00"}
 ---
 
 
