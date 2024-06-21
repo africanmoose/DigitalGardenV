@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/longer-hours-doesnt-automatically-create-better-performance/","title":"Longer hours doesnt automatically create better performance","created":"2024-06-03T19:05:31.106+03:00","updated":"2024-06-10T17:31:34.536+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/longer-hours-doesnt-automatically-create-better-performance/","title":"Longer hours doesnt automatically create better performance","created":"2024-06-10T08:16:52.720+03:00","updated":"2024-06-10T17:31:34.536+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - harmonious passion: taking joy in the process rather than 'i should practice x hours a day'
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 Research demonstrates that people who are obsessed with their work put in longer hours yet fail to perform any better than their peers. They’re more likely to fall victim to both physical and emotional exhaustion. The monotony of deliberate practice puts them at risk for burnout—and for boreout. Yes, boreout is an actual term in psychology. Whereas burnout is the emotional exhaustion that accumulates when you’re overloaded, boreout is the emotional deadening you feel when you’re under-stimulated. Although it takes deliberate practice to achieve greater things, we shouldn’t drill so hard that we drive the joy out of the activity and turn it into an obsessive slog. In a study of concert pianists who attained international acclaim before turning forty, few were obsessed with their craft. In their early years, most practiced the piano only an hour a day. They weren’t raised by slave drivers or drill sergeants; their parents responded to their intrinsic motivation with enthusiasm. As they became teenagers, they steadily increased their daily effort, but it didn’t become an obsession or a chore. “They practiced because they were interested in what they were doing,” psychologist Lauren Sosniak explains, and “because they enjoyed working with the teacher
