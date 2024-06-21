@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/form-a-judging-committee-to-give-feedback-on-your-work/","title":"Form a judging committee to give feedback on your work","created":"2024-06-03T08:59:37.169+03:00","updated":"2024-06-03T08:59:37.169+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/form-a-judging-committee-to-give-feedback-on-your-work/","title":"Form a judging committee to give feedback on your work","created":"2024-06-02T21:21:22.291+03:00","updated":"2024-06-03T08:59:37.169+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - Asking for a rating is better than asking for feedback, no one ever gives a 10. so there will always be some feedback
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 For every project that matters to me, I’ve had judging committees for
