@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/bill-gates-think-week-alone-in-a-cabin-every-year/","title":"Bill Gates think week alone in a cabin every year","created":"2024-03-14T16:46:28.780+03:00","updated":"2024-03-14T16:46:28.780+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/bill-gates-think-week-alone-in-a-cabin-every-year/","title":"Bill Gates think week alone in a cabin every year","created":"2024-03-14T16:41:47.844+03:00","updated":"2024-03-14T16:46:28.780+03:00"}
 ---
 
 
