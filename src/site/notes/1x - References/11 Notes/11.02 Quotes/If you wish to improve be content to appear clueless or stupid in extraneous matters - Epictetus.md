@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-wish-to-improve-be-content-to-appear-clueless-or-stupid-in-extraneous-matters-epictetus/","title":"If you wish to improve be content to appear clueless or stupid in extraneous matters - Epictetus","created":"2024-03-10T09:24:23.969+03:00","updated":"2024-03-10T09:24:23.969+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-wish-to-improve-be-content-to-appear-clueless-or-stupid-in-extraneous-matters-epictetus/","title":"If you wish to improve be content to appear clueless or stupid in extraneous matters - Epictetus","created":"2024-03-10T09:22:34.214+03:00","updated":"2024-03-10T09:24:23.969+03:00"}
 ---
 
 
