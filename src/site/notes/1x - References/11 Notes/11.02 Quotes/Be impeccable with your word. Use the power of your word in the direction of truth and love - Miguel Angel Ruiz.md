@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/be-impeccable-with-your-word-use-the-power-of-your-word-in-the-direction-of-truth-and-love-miguel-angel-ruiz/","title":"Be impeccable with your word. Use the power of your word in the direction of truth and love - Miguel Angel Ruiz","created":"2024-02-21T13:23:53.755+03:00","updated":"2024-02-21T13:23:53.755+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/be-impeccable-with-your-word-use-the-power-of-your-word-in-the-direction-of-truth-and-love-miguel-angel-ruiz/","title":"Be impeccable with your word. Use the power of your word in the direction of truth and love - Miguel Angel Ruiz","created":"2024-02-21T13:22:15.138+03:00","updated":"2024-02-21T13:23:53.755+03:00"}
 ---
 
 
