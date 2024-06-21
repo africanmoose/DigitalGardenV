@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/teach-others-what-you-are-learning-you-become-what-you-teach-you-teach-what-you-are-brian-tracy/","title":"Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy","created":"2024-02-18T16:03:07.140+03:00","updated":"2024-02-18T16:03:07.140+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/teach-others-what-you-are-learning-you-become-what-you-teach-you-teach-what-you-are-brian-tracy/","title":"Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy","created":"2024-02-18T16:01:36.225+03:00","updated":"2024-02-18T16:03:07.140+03:00"}
 ---
 
 
