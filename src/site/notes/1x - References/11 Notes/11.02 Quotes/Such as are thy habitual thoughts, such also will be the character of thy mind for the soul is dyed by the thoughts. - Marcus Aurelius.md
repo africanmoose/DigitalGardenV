@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/such-as-are-thy-habitual-thoughts-such-also-will-be-the-character-of-thy-mind-for-the-soul-is-dyed-by-the-thoughts-marcus-aurelius/","title":"Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts. - Marcus Aurelius","created":"2024-02-21T21:06:53.261+03:00","updated":"2024-02-21T21:06:53.261+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/such-as-are-thy-habitual-thoughts-such-also-will-be-the-character-of-thy-mind-for-the-soul-is-dyed-by-the-thoughts-marcus-aurelius/","title":"Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts. - Marcus Aurelius","created":"2024-02-21T20:16:33.549+03:00","updated":"2024-02-21T21:06:53.261+03:00"}
 ---
 
 
