@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/athletic-performance-is-improved-by-our-belief-about-whether-we-are-athletic-or-not/","title":"Athletic performance is improved by our belief about whether we are athletic or not","created":"2024-03-26T21:53:41.241+03:00","updated":"2024-03-26T21:53:41.241+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/athletic-performance-is-improved-by-our-belief-about-whether-we-are-athletic-or-not/","title":"Athletic performance is improved by our belief about whether we are athletic or not","created":"2024-03-26T21:47:29.484+03:00","updated":"2024-03-26T21:53:41.241+03:00"}
 ---
 
 
