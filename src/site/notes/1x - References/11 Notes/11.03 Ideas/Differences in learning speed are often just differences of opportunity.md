@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/differences-in-learning-speed-are-often-just-differences-of-opportunity/","title":"Differences in learning speed are often just differences of opportunity","created":"2024-05-12T16:41:57.420+03:00","updated":"2024-05-12T16:41:57.420+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/differences-in-learning-speed-are-often-just-differences-of-opportunity/","title":"Differences in learning speed are often just differences of opportunity","created":"2024-05-12T16:39:23.491+03:00","updated":"2024-05-12T16:41:57.420+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - Previous knowlege could be self-teaching, parental teaching. But they improved at the same rate as other students
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 Recent evidence underscores the importance of conditions for learning.
