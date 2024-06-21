@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/avoid-oversleeping/","title":"Avoid oversleeping","created":"2024-02-23T14:06:08.237+03:00","updated":"2024-02-23T14:06:08.237+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/avoid-oversleeping/","title":"Avoid oversleeping","created":"2024-02-23T14:02:32.144+03:00","updated":"2024-02-23T14:06:08.237+03:00"}
 ---
 
 
