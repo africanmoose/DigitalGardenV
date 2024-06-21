@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-thoughts-you-entertain-most-often-will-have-the-biggest-impact-on-who-you-are-as-a-person-friedrich-nietzshce/","title":"quote","created":"2024-02-22T23:39:59.872+03:00","updated":"2024-02-22T23:39:59.872+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-thoughts-you-entertain-most-often-will-have-the-biggest-impact-on-who-you-are-as-a-person-friedrich-nietzshce/","title":"quote","created":"2024-02-22T23:38:10.834+03:00","updated":"2024-02-22T23:39:59.872+03:00"}
 ---
 
 
