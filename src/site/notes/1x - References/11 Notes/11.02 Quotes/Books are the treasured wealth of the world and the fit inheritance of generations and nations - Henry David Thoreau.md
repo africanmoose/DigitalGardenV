@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/books-are-the-treasured-wealth-of-the-world-and-the-fit-inheritance-of-generations-and-nations-henry-david-thoreau/","title":"Books are the treasured wealth of the world and the fit inheritance of generations and nations - Henry David Thoreau","created":"2024-02-25T22:22:13.814+03:00","updated":"2024-02-25T22:22:13.814+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/books-are-the-treasured-wealth-of-the-world-and-the-fit-inheritance-of-generations-and-nations-henry-david-thoreau/","title":"Books are the treasured wealth of the world and the fit inheritance of generations and nations - Henry David Thoreau","created":"2024-02-25T22:20:29.859+03:00","updated":"2024-02-25T22:22:13.814+03:00"}
 ---
 
 
