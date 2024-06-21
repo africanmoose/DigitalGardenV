@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/nobody-wins-unless-everybody-wins-bruce-springsteen/","title":"Nobody wins unless everybody wins - Bruce Springsteen","created":"2024-04-21T22:54:21.916+03:00","updated":"2024-04-21T22:54:21.916+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/nobody-wins-unless-everybody-wins-bruce-springsteen/","title":"Nobody wins unless everybody wins - Bruce Springsteen","created":"2024-04-21T22:53:08.701+03:00","updated":"2024-04-21T22:54:21.916+03:00"}
 ---
 
 
