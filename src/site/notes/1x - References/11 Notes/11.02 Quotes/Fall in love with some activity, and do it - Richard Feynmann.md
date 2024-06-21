@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/fall-in-love-with-some-activity-and-do-it-richard-feynmann/","title":"Fall in love with some activity, and do it - Richard Feynmann","created":"2024-06-10T14:10:02.894+03:00","updated":"2024-06-10T17:31:35.505+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/fall-in-love-with-some-activity-and-do-it-richard-feynmann/","title":"Fall in love with some activity, and do it - Richard Feynmann","created":"2024-06-10T14:14:01.802+03:00","updated":"2024-06-10T17:31:35.505+03:00"}
 ---
 
 
