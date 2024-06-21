@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/any-fool-can-capitalize-on-gains-the-important-thing-is-to-profit-from-your-losses-william-bolitho/","title":"Any fool can capitalize on gains. The important thing is to profit from your losses - William Bolitho","created":"2024-02-18T16:36:59.895+03:00","updated":"2024-02-18T16:36:59.895+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/any-fool-can-capitalize-on-gains-the-important-thing-is-to-profit-from-your-losses-william-bolitho/","title":"Any fool can capitalize on gains. The important thing is to profit from your losses - William Bolitho","created":"2024-02-18T16:34:56.179+03:00","updated":"2024-02-18T16:36:59.895+03:00"}
 ---
 
 
