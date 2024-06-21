@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/growth-is-uncomfortable/","title":"Growth is uncomfortable","created":"2024-05-22T19:48:21.665+03:00","updated":"2024-05-22T19:48:21.665+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/growth-is-uncomfortable/","title":"Growth is uncomfortable","created":"2024-05-22T19:42:25.469+03:00","updated":"2024-05-22T19:48:21.665+03:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 - The more mistakes you make the faster the improvement, and the less the mistakes bother us.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 Becoming a creature of discomfort can unlock hidden potential in many different types of learning. Summoning the nerve to face discomfort is a character skill—an especially important form of determination. It takes three kinds of courage: to abandon your tried-and-true methods, to put yourself in the ring before you feel ready, and to make more mistakes than others make attempts. The best way to accelerate growth is to embrace, seek, and amplify discomfort.
