@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/immersion-learning/","title":"Immersion learning","created":"2024-02-14T20:18:29.407+03:00","updated":"2024-06-20T12:08:34.022+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/immersion-learning/","title":"Immersion learning","created":"2024-06-20T12:08:34.022+03:00","updated":"2024-06-20T12:08:34.022+03:00"}
 ---
 
 ---
