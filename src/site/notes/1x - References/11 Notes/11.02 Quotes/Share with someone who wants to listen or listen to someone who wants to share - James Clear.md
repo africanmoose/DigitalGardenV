@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/share-with-someone-who-wants-to-listen-or-listen-to-someone-who-wants-to-share-james-clear/","title":"Share with someone who wants to listen or listen to someone who wants to share - James Clear","created":"2024-04-26T08:40:39.294+03:00","updated":"2024-04-26T08:40:39.294+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/share-with-someone-who-wants-to-listen-or-listen-to-someone-who-wants-to-share-james-clear/","title":"Share with someone who wants to listen or listen to someone who wants to share - James Clear","created":"2024-04-26T08:38:40.753+03:00","updated":"2024-04-26T08:40:39.294+03:00"}
 ---
 
 
