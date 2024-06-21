@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/first-principles-ask-why-five-times/","title":"First principles - ask why five times","created":"2024-04-10T20:44:54.403+03:00","updated":"2024-04-10T20:44:54.403+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/first-principles-ask-why-five-times/","title":"First principles - ask why five times","created":"2024-04-10T20:41:30.510+03:00","updated":"2024-04-10T20:44:54.403+03:00"}
 ---
 
 
