@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ask-for-advice-instead-of-feedback/","title":"Ask for advice instead of feedback","created":"2024-05-30T07:57:06.045+03:00","updated":"2024-06-11T10:06:31.795+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ask-for-advice-instead-of-feedback/","title":"Ask for advice instead of feedback","created":"2024-05-29T20:04:09.601+03:00","updated":"2024-06-11T10:06:31.795+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - Advice allows the giver to focus on what we could improve next time
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 
