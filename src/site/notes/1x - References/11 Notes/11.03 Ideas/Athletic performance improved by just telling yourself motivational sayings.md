@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/athletic-performance-improved-by-just-telling-yourself-motivational-sayings/","title":"Athletic performance improved by just telling yourself motivational sayings","created":"2024-04-01T22:07:17.782+03:00","updated":"2024-04-01T22:07:17.782+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/athletic-performance-improved-by-just-telling-yourself-motivational-sayings/","title":"Athletic performance improved by just telling yourself motivational sayings","created":"2024-04-01T22:00:50.994+03:00","updated":"2024-04-01T22:07:17.782+03:00"}
 ---
 
 
