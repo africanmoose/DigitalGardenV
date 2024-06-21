@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/to-have-blessings-and-to-prize-them-is-to-be-in-heaven-to-have-them-and-not-to-prize-them-is-to-be-in-hell-to-prize-them-and-not-to-have-them-is-to-be-in-hell-thomas-traherne/","title":"To have blessings and to prize them is to be in Heaven, to have them and not to prize them is to be in Hell. . . . To prize them and not to have them is to be in Hell - Thomas Traherne","created":"2024-03-13T21:10:44.894+03:00","updated":"2024-03-13T21:10:44.894+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/to-have-blessings-and-to-prize-them-is-to-be-in-heaven-to-have-them-and-not-to-prize-them-is-to-be-in-hell-to-prize-them-and-not-to-have-them-is-to-be-in-hell-thomas-traherne/","title":"To have blessings and to prize them is to be in Heaven, to have them and not to prize them is to be in Hell. . . . To prize them and not to have them is to be in Hell - Thomas Traherne","created":"2024-03-13T21:08:47.411+03:00","updated":"2024-03-13T21:10:44.894+03:00"}
 ---
 
 
