@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-believe-the-way-toward-mastery-of-any-endeavor-is-to-work-toward-simplicity-replace-complex-technology-with-knowledge-yvon-chouinard/","title":"I believe the way toward mastery of any endeavor is to work toward simplicity- replace complex technology with knowledge - Yvon Chouinard","created":"2024-03-10T17:04:50.784+03:00","updated":"2024-03-10T17:04:50.784+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-believe-the-way-toward-mastery-of-any-endeavor-is-to-work-toward-simplicity-replace-complex-technology-with-knowledge-yvon-chouinard/","title":"I believe the way toward mastery of any endeavor is to work toward simplicity- replace complex technology with knowledge - Yvon Chouinard","created":"2024-03-10T17:03:04.854+03:00","updated":"2024-03-10T17:04:50.784+03:00"}
 ---
 
 
