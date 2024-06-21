@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-get-a-chance-to-act-in-a-room-that-somebody-else-has-paid-rent-for-then-you-re-given-a-free-chance-to-practice-your-craft-and-in-that-moment-you-should-act-as-well-as-you-can-philip-seymour-hoffman/","title":"if you get a chance to act in a room that somebody else has paid rent for, then you're given a free chance to practice your craft. And in that moment, you should act as well as you can - Philip Seymour Hoffman","created":"2024-05-17T13:10:16.077+03:00","updated":"2024-05-17T13:10:16.077+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-get-a-chance-to-act-in-a-room-that-somebody-else-has-paid-rent-for-then-you-re-given-a-free-chance-to-practice-your-craft-and-in-that-moment-you-should-act-as-well-as-you-can-philip-seymour-hoffman/","title":"if you get a chance to act in a room that somebody else has paid rent for, then you're given a free chance to practice your craft. And in that moment, you should act as well as you can - Philip Seymour Hoffman","created":"2024-05-17T13:09:05.965+03:00","updated":"2024-05-17T13:10:16.077+03:00"}
 ---
 
 
