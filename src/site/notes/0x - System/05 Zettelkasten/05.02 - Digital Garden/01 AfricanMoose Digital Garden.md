@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-17T07:10:42.020+03:00","updated":"2024-06-20T18:26:18.513+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-06-21T22:46:18.014+03:00"}
 ---
 
-## Pic of the week
-![PXL_20240519_073431662.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240519_073431662.jpg)
-Student joints are the best - super cheap and super good food. With my Sunday morning field service partner Julius in for a cup of tea and chapos before we go to the meeting.
+## Pic of the week![PXL_20240619_153034354.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240619_153034354.jpg)
+
+Why is the ocean so cathartic? I only got 10 minutes here but it improved my mental health immeasureably.
 
 ## What is this site for?
 
@@ -28,6 +28,7 @@ Student joints are the best - super cheap and super good food. With my Sunday mo
 
 ## Interesting Persons
 
+- [[]]
 - [[1x - References/11 Notes/11.05 Persons/Tadao Ando\|Tadao Ando]]
 - [[1x - References/11 Notes/11.05 Persons/Shizo Kanakuri\|Shizo Kanakuri]]
 - [[1x - References/11 Notes/11.05 Persons/Bobbi Gibb\|Bobbi Gibb]]
@@ -50,7 +51,7 @@ Student joints are the best - super cheap and super good food. With my Sunday mo
 
 ## Book Reviews
 
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
