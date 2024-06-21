@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ignore-the-cnn-effect-availability-to-too-much-information/","title":"Ignore the CNN effect - availability to too much information","created":"2024-03-10T09:34:13.479+03:00","updated":"2024-03-10T09:34:13.479+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ignore-the-cnn-effect-availability-to-too-much-information/","title":"Ignore the CNN effect - availability to too much information","created":"2024-03-10T09:24:53.363+03:00","updated":"2024-03-10T09:34:13.479+03:00"}
 ---
 
 
