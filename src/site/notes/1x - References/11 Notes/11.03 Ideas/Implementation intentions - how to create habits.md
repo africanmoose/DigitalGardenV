@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/implementation-intentions-how-to-create-habits/","title":"Implementation intentions - how to create habits","created":"2024-04-10T20:58:25.490+03:00","updated":"2024-04-10T20:58:25.490+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/implementation-intentions-how-to-create-habits/","title":"Implementation intentions - how to create habits","created":"2024-04-10T20:52:08.927+03:00","updated":"2024-04-10T20:58:25.490+03:00"}
 ---
 
 
