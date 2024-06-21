@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/improve-patience-by-doing-things-that-take-long-to-accomplish/","title":"Improve patience by doing things that take long to accomplish","created":"2024-02-18T16:09:19.836+03:00","updated":"2024-02-18T16:09:19.836+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/improve-patience-by-doing-things-that-take-long-to-accomplish/","title":"Improve patience by doing things that take long to accomplish","created":"2024-02-18T16:06:15.383+03:00","updated":"2024-02-18T16:09:19.836+03:00"}
 ---
 
 
