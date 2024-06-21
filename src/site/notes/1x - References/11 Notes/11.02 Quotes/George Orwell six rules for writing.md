@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/george-orwell-six-rules-for-writing/","title":"George Orwell six rules for writing","created":"2024-04-22T13:46:59.795+03:00","updated":"2024-04-22T13:46:59.795+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/george-orwell-six-rules-for-writing/","title":"George Orwell six rules for writing","created":"2024-04-22T13:42:14.869+03:00","updated":"2024-04-22T13:46:59.795+03:00"}
 ---
 
 
