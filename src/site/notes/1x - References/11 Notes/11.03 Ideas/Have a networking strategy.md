@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/have-a-networking-strategy/","title":"Have a networking strategy","created":"2024-03-03T21:00:49.531+03:00","updated":"2024-03-03T21:00:49.531+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/have-a-networking-strategy/","title":"Have a networking strategy","created":"2024-03-03T20:52:43.552+03:00","updated":"2024-03-03T21:00:49.531+03:00"}
 ---
 
 
