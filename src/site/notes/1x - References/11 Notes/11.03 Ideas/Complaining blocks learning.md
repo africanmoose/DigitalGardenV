@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/complaining-blocks-learning/","title":"Complaining blocks learning","created":"2024-06-20T13:52:38.759+03:00","updated":"2024-06-20T13:58:21.015+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/complaining-blocks-learning/","title":"Complaining blocks learning","created":"2024-06-20T13:58:21.015+03:00","updated":"2024-06-20T13:58:21.015+03:00"}
 ---
 
 
