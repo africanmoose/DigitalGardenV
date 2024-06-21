@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/how-you-talk-about-your-experiences-will-dictate-how-you-feel-about-them-reframing-our-goals-and-rewriting-our-stories-are-powerful-tools-alexi-pappas/","title":"How you talk about your experiences will dictate how you feel about them. Reframing our goals and rewriting our stories are powerful tools - Alexi Pappas","created":"2024-06-10T14:15:30.185+03:00","updated":"2024-06-10T17:31:33.508+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/how-you-talk-about-your-experiences-will-dictate-how-you-feel-about-them-reframing-our-goals-and-rewriting-our-stories-are-powerful-tools-alexi-pappas/","title":"How you talk about your experiences will dictate how you feel about them. Reframing our goals and rewriting our stories are powerful tools - Alexi Pappas","created":"2024-06-10T14:48:57.048+03:00","updated":"2024-06-10T17:31:33.508+03:00"}
 ---
 
 
