@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/build-capacity-in-many-instead-of-perpetuating-dependence-on-the-few-sabina-nawa-b/","title":"build capacity in many instead of perpetuating dependence on the few - Sabina NawaB","created":"2024-04-29T07:15:30.439+03:00","updated":"2024-04-29T07:15:30.439+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/build-capacity-in-many-instead-of-perpetuating-dependence-on-the-few-sabina-nawa-b/","title":"build capacity in many instead of perpetuating dependence on the few - Sabina NawaB","created":"2024-04-29T07:13:01.436+03:00","updated":"2024-04-29T07:15:30.439+03:00"}
 ---
 
 
