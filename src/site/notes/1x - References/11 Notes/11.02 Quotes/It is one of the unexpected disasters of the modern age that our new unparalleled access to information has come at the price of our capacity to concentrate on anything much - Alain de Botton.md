@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-is-one-of-the-unexpected-disasters-of-the-modern-age-that-our-new-unparalleled-access-to-information-has-come-at-the-price-of-our-capacity-to-concentrate-on-anything-much-alain-de-botton/","title":"It is one of the unexpected disasters of the modern age that our new unparalleled access to information has come at the price of our capacity to concentrate on anything much - Alain de Botton","created":"2024-02-23T14:25:28.760+03:00","updated":"2024-02-23T14:25:28.760+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-is-one-of-the-unexpected-disasters-of-the-modern-age-that-our-new-unparalleled-access-to-information-has-come-at-the-price-of-our-capacity-to-concentrate-on-anything-much-alain-de-botton/","title":"It is one of the unexpected disasters of the modern age that our new unparalleled access to information has come at the price of our capacity to concentrate on anything much - Alain de Botton","created":"2024-02-23T14:23:35.210+03:00","updated":"2024-02-23T14:25:28.760+03:00"}
 ---
 
 
