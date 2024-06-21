@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-are-engineered-as-goal-seeking-mechanisms-maxwell-maltz/","title":"We are engineered as goal-seeking mechanisms - Maxwell Maltz","created":"2024-02-21T20:04:18.753+03:00","updated":"2024-02-21T20:04:18.753+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-are-engineered-as-goal-seeking-mechanisms-maxwell-maltz/","title":"We are engineered as goal-seeking mechanisms - Maxwell Maltz","created":"2024-02-21T20:02:34.309+03:00","updated":"2024-02-21T20:04:18.753+03:00"}
 ---
 
 
