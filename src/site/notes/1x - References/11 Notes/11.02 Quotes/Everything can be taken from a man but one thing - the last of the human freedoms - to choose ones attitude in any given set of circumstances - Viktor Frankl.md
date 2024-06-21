@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/everything-can-be-taken-from-a-man-but-one-thing-the-last-of-the-human-freedoms-to-choose-ones-attitude-in-any-given-set-of-circumstances-viktor-frankl/","title":"Everything can be taken from a man but one thing - the last of the human freedoms - to choose ones attitude in any given set of circumstances - Viktor Frankl","created":"2024-04-04T21:20:45.843+03:00","updated":"2024-04-04T21:20:45.843+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/everything-can-be-taken-from-a-man-but-one-thing-the-last-of-the-human-freedoms-to-choose-ones-attitude-in-any-given-set-of-circumstances-viktor-frankl/","title":"Everything can be taken from a man but one thing - the last of the human freedoms - to choose ones attitude in any given set of circumstances - Viktor Frankl","created":"2024-04-04T21:17:58.975+03:00","updated":"2024-04-04T21:20:45.843+03:00"}
 ---
 
 
