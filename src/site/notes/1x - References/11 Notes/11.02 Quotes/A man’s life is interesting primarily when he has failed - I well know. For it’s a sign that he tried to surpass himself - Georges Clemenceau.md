@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/a-man-s-life-is-interesting-primarily-when-he-has-failed-i-well-know-for-it-s-a-sign-that-he-tried-to-surpass-himself-georges-clemenceau/","title":"A man’s life is interesting primarily when he has failed - I well know. For it’s a sign that he tried to surpass himself - Georges Clemenceau","created":"2024-02-23T14:39:38.635+03:00","updated":"2024-02-23T14:39:38.635+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/a-man-s-life-is-interesting-primarily-when-he-has-failed-i-well-know-for-it-s-a-sign-that-he-tried-to-surpass-himself-georges-clemenceau/","title":"A man’s life is interesting primarily when he has failed - I well know. For it’s a sign that he tried to surpass himself - Georges Clemenceau","created":"2024-02-23T14:38:37.263+03:00","updated":"2024-02-23T14:39:38.635+03:00"}
 ---
 
 
