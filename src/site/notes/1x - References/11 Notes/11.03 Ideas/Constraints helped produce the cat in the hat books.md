@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/constraints-helped-produce-the-cat-in-the-hat-books/","title":"Constraints helped produce the cat in the hat books","created":"2024-04-22T13:37:09.895+03:00","updated":"2024-04-22T13:37:09.895+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/constraints-helped-produce-the-cat-in-the-hat-books/","title":"Constraints helped produce the cat in the hat books","created":"2024-04-22T13:32:58.462+03:00","updated":"2024-04-22T13:37:09.895+03:00"}
 ---
 
 
