@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-choose-to-go-to-the-moon-j-f-kennedy/","title":"We choose to go to the moon - J. F. Kennedy","created":"2024-04-21T22:51:20.655+03:00","updated":"2024-04-21T22:51:20.655+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-choose-to-go-to-the-moon-j-f-kennedy/","title":"We choose to go to the moon - J. F. Kennedy","created":"2024-04-21T22:47:45.661+03:00","updated":"2024-04-21T22:51:20.655+03:00"}
 ---
 
 
