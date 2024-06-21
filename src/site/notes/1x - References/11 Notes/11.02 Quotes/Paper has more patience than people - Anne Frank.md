@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/paper-has-more-patience-than-people-anne-frank/","title":"Paper has more patience than people - Anne Frank","created":"2024-03-10T09:36:37.360+03:00","updated":"2024-03-10T09:36:37.360+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/paper-has-more-patience-than-people-anne-frank/","title":"Paper has more patience than people - Anne Frank","created":"2024-03-10T09:34:58.481+03:00","updated":"2024-03-10T09:36:37.360+03:00"}
 ---
 
 
