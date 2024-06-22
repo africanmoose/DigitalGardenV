@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/some-decisions-are-better-of-made-with-reality-in-view-rather-than-optimization/","title":"Some decisions are better of made with reality in view rather than optimization","created":"2024-06-06T07:55:17.562+03:00","updated":"2024-06-13T12:52:53.866+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/some-decisions-are-better-of-made-with-reality-in-view-rather-than-optimization/","title":"Some decisions are better of made with reality in view rather than optimization","created":"2024-06-13T12:52:53.866+03:00","updated":"2024-06-13T12:52:53.866+03:00"}
 ---
 
 
