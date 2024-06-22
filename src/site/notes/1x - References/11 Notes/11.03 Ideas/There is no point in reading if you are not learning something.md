@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/there-is-no-point-in-reading-if-you-are-not-learning-something/","title":"There is no point in reading if you are not learning something","created":"2024-03-10T09:55:37.750+03:00","updated":"2024-03-10T09:55:37.750+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/there-is-no-point-in-reading-if-you-are-not-learning-something/","title":"There is no point in reading if you are not learning something","created":"2024-03-10T09:51:49.848+03:00","updated":"2024-03-10T09:55:37.750+03:00"}
 ---
 
 
