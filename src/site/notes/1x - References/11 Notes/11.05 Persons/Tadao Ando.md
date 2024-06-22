@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/tadao-ando/","title":"Ando","created":"2024-05-30T07:57:06.050+03:00","updated":"2024-05-30T07:57:06.050+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/tadao-ando/","title":"Ando","created":"2024-05-29T20:33:05.943+03:00","updated":"2024-05-30T07:57:06.050+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - His style is marked by clean and simple lines, and fitting in with the natural lines of the land surrounding them.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [wikipedia]()
 
 ### Quotes
