@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-relation-between-energy-costs-and-food-production/","title":"The relation between energy costs and food production","created":"2024-05-10T20:09:10.767+03:00","updated":"2024-05-10T20:09:10.767+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-relation-between-energy-costs-and-food-production/","title":"The relation between energy costs and food production","created":"2024-05-10T19:23:39.661+03:00","updated":"2024-05-10T20:09:10.767+03:00"}
 ---
 
 
