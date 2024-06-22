@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/memory-improves-if-we-take-a-short-break-after-learning/","title":"Memory improves if we take a short break after learning","created":"2024-06-20T12:31:39.198+03:00","updated":"2024-06-20T13:09:13.993+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/memory-improves-if-we-take-a-short-break-after-learning/","title":"Memory improves if we take a short break after learning","created":"2024-06-20T13:09:13.993+03:00","updated":"2024-06-20T13:09:13.993+03:00"}
 ---
 
 
