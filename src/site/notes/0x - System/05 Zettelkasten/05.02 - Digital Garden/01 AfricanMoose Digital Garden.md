@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-06-21T22:46:18.014+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-06-22T22:32:08.352+03:00"}
 ---
 
 ## Pic of the week![PXL_20240619_153034354.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240619_153034354.jpg)
@@ -28,16 +28,14 @@ Why is the ocean so cathartic? I only got 10 minutes here but it improved my men
 
 ## Interesting Persons
 
-- [[]]
+- [[1x - References/11 Notes/11.05 Persons/Benoit Mandelbrot\|Benoit Mandelbrot]]
+- [[1x - References/11 Notes/11.05 Persons/Jose Hernandez\|Jose Hernandez]]
 - [[1x - References/11 Notes/11.05 Persons/Tadao Ando\|Tadao Ando]]
 - [[1x - References/11 Notes/11.05 Persons/Shizo Kanakuri\|Shizo Kanakuri]]
 - [[1x - References/11 Notes/11.05 Persons/Bobbi Gibb\|Bobbi Gibb]]
 - [[1x - References/11 Notes/11.05 Persons/William Gladstone\|William Gladstone]]
 - [[1x - References/11 Notes/11.05 Persons/Winston Churchill\|Winston Churchill]]
 - [[1x - References/11 Notes/11.05 Persons/Fibonacci (Leonardo of Pisa)\|Fibonacci (Leonardo of Pisa)]]
-- [[1x - References/11 Notes/11.05 Persons/Julius Yego\|Julius Yego]]
-- [[1x - References/11 Notes/11.05 Persons/Yo-Yo Ma\|Yo-Yo Ma]]
-
 
 ## Interesting Ideas
 
