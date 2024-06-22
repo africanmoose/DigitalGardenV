@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/professionals-always-seek-to-improve-their-craft/","title":"Professionals always seek to improve their craft","created":"2024-02-25T22:20:08.919+03:00","updated":"2024-02-25T22:20:08.919+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/professionals-always-seek-to-improve-their-craft/","title":"Professionals always seek to improve their craft","created":"2024-02-25T22:08:59.830+03:00","updated":"2024-02-25T22:20:08.919+03:00"}
 ---
 
 
