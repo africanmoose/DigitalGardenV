@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/working-for-long-is-not-the-same-as-working-hard/","title":"Working for long is not the same as working hard","created":"2024-06-20T12:14:33.822+03:00","updated":"2024-06-20T12:18:43.997+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/working-for-long-is-not-the-same-as-working-hard/","title":"Working for long is not the same as working hard","created":"2024-06-20T12:18:43.997+03:00","updated":"2024-06-20T12:18:43.997+03:00"}
 ---
 
 
