@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/single-loop-learning-vs-double-loop-learning/","title":"Single-loop learning vs. double-loop learning","created":"2024-06-20T13:23:28.914+03:00","updated":"2024-06-20T13:51:51.645+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/single-loop-learning-vs-double-loop-learning/","title":"Single-loop learning vs. double-loop learning","created":"2024-06-20T13:51:51.645+03:00","updated":"2024-06-20T13:51:51.645+03:00"}
 ---
 
 
