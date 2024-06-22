@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/proximal-goals-more-effective-than-long-term-goals/","title":"Proximal goals more effective than long-term goals","created":"2024-04-16T08:02:43.528+03:00","updated":"2024-04-16T08:02:43.528+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/proximal-goals-more-effective-than-long-term-goals/","title":"Proximal goals more effective than long-term goals","created":"2024-04-16T07:57:34.540+03:00","updated":"2024-04-16T08:02:43.528+03:00"}
 ---
 
 
