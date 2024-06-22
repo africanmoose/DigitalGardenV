@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/practice-failure/","title":"Practice failure","created":"2024-04-05T19:35:55.537+03:00","updated":"2024-04-05T19:35:55.537+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/practice-failure/","title":"Practice failure","created":"2024-04-05T19:33:58.210+03:00","updated":"2024-04-05T19:35:55.537+03:00"}
 ---
 
 
