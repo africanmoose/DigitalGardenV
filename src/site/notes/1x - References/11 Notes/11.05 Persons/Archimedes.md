@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/archimedes/","title":"Archiemedes","created":"2024-02-27T08:05:04.308+03:00","updated":"2024-02-27T08:05:04.308+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/archimedes/","title":"Archiemedes","created":"2024-02-27T07:49:16.579+03:00","updated":"2024-02-27T08:05:04.308+03:00"}
 ---
 
 ![Archimedes_1620.jpg](/img/user/1x%20-%20References/11%20Notes/11.05%20Persons/Archimedes_1620.jpg)
