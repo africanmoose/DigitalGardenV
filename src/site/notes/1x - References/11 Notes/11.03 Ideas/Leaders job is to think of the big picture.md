@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/leaders-job-is-to-think-of-the-big-picture/","title":"Leaders job is to think of the big picture","created":"2024-03-08T21:33:51.528+03:00","updated":"2024-03-08T21:33:51.528+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/leaders-job-is-to-think-of-the-big-picture/","title":"Leaders job is to think of the big picture","created":"2024-03-08T21:29:00.504+03:00","updated":"2024-03-08T21:33:51.528+03:00"}
 ---
 
 
