@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-sun-is-ridiculously-powerful/","title":"The sun is ridiculously powerful","created":"2024-05-08T21:36:51.382+03:00","updated":"2024-05-08T21:36:51.382+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-sun-is-ridiculously-powerful/","title":"The sun is ridiculously powerful","created":"2024-05-08T21:32:12.996+03:00","updated":"2024-05-08T21:36:51.382+03:00"}
 ---
 
 
