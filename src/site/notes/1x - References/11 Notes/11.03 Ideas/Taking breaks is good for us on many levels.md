@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/taking-breaks-is-good-for-us-on-many-levels/","title":"Taking breaks is good for us on many levels","created":"2024-06-05T23:34:39.722+03:00","updated":"2024-06-05T23:34:39.722+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/taking-breaks-is-good-for-us-on-many-levels/","title":"Taking breaks is good for us on many levels","created":"2024-06-05T17:32:44.031+03:00","updated":"2024-06-05T23:34:39.722+03:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 - Breaks help our brain to improve recall
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 It turns out that taking breaks has at least three benefits. First, timeaway from practice helps to sustain harmonious passion. Research indicates that even micro-breaks of five to ten minutes are enough to reduce fatigue and raise energy. It’s not just about preventing burnout: research reveals that when we work nights and weekends, our interest and enjoyment in our tasks drops
