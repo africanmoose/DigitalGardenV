@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/crack-the-funding-code-how-investors-think-and-what-they-need-to-hear-to-fund-your-startup-judy-robinett/","title":"Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett","created":"2024-03-03T21:03:38.188+03:00","updated":"2024-03-03T21:03:38.188+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/crack-the-funding-code-how-investors-think-and-what-they-need-to-hear-to-fund-your-startup-judy-robinett/","title":"Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett","created":"2024-03-02T12:00:59.314+03:00","updated":"2024-03-03T21:03:38.188+03:00"}
 ---
 
 
