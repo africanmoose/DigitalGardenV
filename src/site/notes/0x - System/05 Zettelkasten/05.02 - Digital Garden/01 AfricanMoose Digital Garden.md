@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-06-23T20:23:45.025+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-06-23T20:27:22.643+03:00"}
 ---
 
 ## Pic of the week![PXL_20240619_153034354.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240619_153034354.jpg)
@@ -18,13 +18,13 @@ Why is the ocean so cathartic? I only got 10 minutes here but it improved my men
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Be less curious about people and more curious about ideas - Marie Curie\|Be less curious about people and more curious about ideas - Marie Curie]]
 - [[1x - References/11 Notes/11.02 Quotes/There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman\|There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman]]
 - [[1x - References/11 Notes/11.02 Quotes/How you talk about your experiences will dictate how you feel about them. Reframing our goals and rewriting our stories are powerful tools - Alexi Pappas\|How you talk about your experiences will dictate how you feel about them. Reframing our goals and rewriting our stories are powerful tools - Alexi Pappas]]
 - [[1x - References/11 Notes/11.02 Quotes/You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman\|You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman]]
 - [[1x - References/11 Notes/11.02 Quotes/I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh\|I am always doing what I can't do yet in order to learn how to do it - Vincent Van Gogh]]
 - [[1x - References/11 Notes/11.02 Quotes/It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk\|It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace - Chuck Palahniuk]]
 - [[1x - References/11 Notes/11.02 Quotes/The producer of old age is habit - Edith Wharton\|The producer of old age is habit - Edith Wharton]]
-- [[1x - References/11 Notes/11.02 Quotes/Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes\|Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish - Conor Barnes]]
 
 ## Interesting Persons
 
