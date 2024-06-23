@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/a-short-history-of-nearly-everything-bill-bryson/","title":"A Short History of Nearly Everything - Bill Bryson","created":"2024-02-14T20:17:41.094+03:00","updated":"2024-02-14T20:17:41.094+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/a-short-history-of-nearly-everything-bill-bryson/","title":"A Short History of Nearly Everything - Bill Bryson","created":"2023-08-28T19:40:37.332+03:00","updated":"2024-02-14T20:17:41.094+03:00"}
 ---
 
 ![A Short History of Nearly Everything - Bill Bryson.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/A%20Short%20History%20of%20Nearly%20Everything%20-%20Bill%20Bryson.jpg)
