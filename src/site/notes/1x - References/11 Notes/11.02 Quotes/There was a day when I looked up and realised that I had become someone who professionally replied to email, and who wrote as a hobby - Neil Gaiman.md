@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/there-was-a-day-when-i-looked-up-and-realised-that-i-had-become-someone-who-professionally-replied-to-email-and-who-wrote-as-a-hobby-neil-gaiman/","title":"There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman","created":"2024-06-23T20:19:14.971+03:00","updated":"2024-06-23T20:22:50.490+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/there-was-a-day-when-i-looked-up-and-realised-that-i-had-become-someone-who-professionally-replied-to-email-and-who-wrote-as-a-hobby-neil-gaiman/","title":"There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman","created":"2024-06-23T20:19:14.971+03:00","updated":"2024-06-24T18:35:37.679+03:00"}
 ---
 
 
