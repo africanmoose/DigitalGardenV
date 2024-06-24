@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/experts-vs-imitators/","title":"Experts vs Imitators","created":"2024-06-23T21:18:52.257+03:00","updated":"2024-06-23T21:35:52.884+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/experts-vs-imitators/","title":"Experts vs Imitators","created":"2024-06-23T21:18:52.257+03:00","updated":"2024-06-24T18:35:37.820+03:00"}
 ---
 
 
