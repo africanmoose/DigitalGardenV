@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/be-less-curious-about-people-and-more-curious-about-ideas-marie-curie/","title":"Be less curious about people and more curious about ideas - Marie Curie","created":"2024-06-23T20:24:30.058+03:00","updated":"2024-06-23T20:26:31.062+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/be-less-curious-about-people-and-more-curious-about-ideas-marie-curie/","title":"Be less curious about people and more curious about ideas - Marie Curie","created":"2024-06-23T20:24:30.058+03:00","updated":"2024-06-24T18:35:37.675+03:00"}
 ---
 
 
