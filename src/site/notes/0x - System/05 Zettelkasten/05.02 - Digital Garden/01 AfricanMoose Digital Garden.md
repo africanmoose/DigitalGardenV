@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-06-23T20:27:22.643+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-06-24T21:18:36.876+03:00"}
 ---
 
 ## Pic of the week![PXL_20240619_153034354.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240619_153034354.jpg)
 
-Why is the ocean so cathartic? I only got 10 minutes here but it improved my mental health immeasureably.
+Why is the ocean so cathartic? I only got 10 minutes here but it improved my mental health immeasurably.
 
 ## What is this site for?
 
 - A digital garden is like a physical garden, but for your mind. You collect ideas like so many seeds, you tend them by feeding them on related knowledge, and thoughts sprout like new fruits. It requires consistency and patience, but each interaction with your garden is unique
 - Many of the ideas written here are not quite fully formed, but in the spirit of working with the door open, I am publishing them here
-- A place to share interesting quotes, book reviews, music I like and any other random information
+- A place to share
+- interesting quotes, book reviews, music I like and any other random information
 - A place to share interesting workflows, productivity tools and ideas on how to work
 - I update this site usually a few times a week, so feel free to come back often, or use the RSS feed at the bottom of the page
 - Some links may not be accessible - I haven't shared everything publicly, so this is normal.
@@ -39,6 +40,7 @@ Why is the ocean so cathartic? I only got 10 minutes here but it improved my men
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Experts vs Imitators\|Experts vs Imitators]]
 - [[1x - References/11 Notes/11.03 Ideas/Complaining blocks learning\|Complaining blocks learning]]
 - [[1x - References/11 Notes/11.03 Ideas/Single-loop learning vs. double-loop learning\|Single-loop learning vs. double-loop learning]]
 - [[1x - References/11 Notes/11.03 Ideas/10 years to get good at anything\|10 years to get good at anything]]
