@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/benoit-mandelbrot/","title":"Benoit Mandelbrot","created":"2024-06-22T12:00:18.957+03:00","updated":"2024-06-23T10:00:59.622+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/benoit-mandelbrot/","title":"Benoit Mandelbrot","created":"2024-06-22T12:00:18.957+03:00","updated":"2024-06-24T18:35:37.634+03:00"}
 ---
 
 
