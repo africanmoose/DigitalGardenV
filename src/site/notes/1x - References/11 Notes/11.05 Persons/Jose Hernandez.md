@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/jose-hernandez/","title":"Jose Hernandez","created":"2024-06-14T21:03:33.497+03:00","updated":"2024-06-21T22:42:32.091+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/jose-hernandez/","title":"Jose Hernandez","created":"2024-06-14T21:03:33.497+03:00","updated":"2024-06-24T18:35:37.654+03:00"}
 ---
 
 
