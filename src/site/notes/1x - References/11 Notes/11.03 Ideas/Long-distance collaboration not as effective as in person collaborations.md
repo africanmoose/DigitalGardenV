@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/long-distance-collaboration-not-as-effective-as-in-person-collaborations/","title":"Long-distance colloboration not as effective as in person collaborations","created":"2024-06-26T19:07:54.243+03:00","updated":"2024-06-26T21:17:31.432+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/long-distance-collaboration-not-as-effective-as-in-person-collaborations/","title":"Long-distance colloboration not as effective as in person collaborations","created":"2024-06-26T19:07:54.243+03:00","updated":"2024-06-26T22:18:42.023+03:00"}
 ---
 
 
