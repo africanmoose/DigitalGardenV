@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-have-more-projects-than-you-have-time-for-you-are-not-going-to-be-an-unhappy-person-eleanor-roosevelt/","title":"If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt","created":"2023-10-21T09:54:42.000+03:00","updated":"2024-02-14T20:18:42.505+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-have-more-projects-than-you-have-time-for-you-are-not-going-to-be-an-unhappy-person-eleanor-roosevelt/","title":"If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt","created":"2024-07-03T16:53:58.928+03:00","updated":"2024-07-03T16:53:58.928+03:00"}
 ---
 
 
@@ -17,6 +17,6 @@
 - [[1x - References/11 Notes/11.02 Quotes/Work for love of work not love of money - Charles Schwab\|Work for love of work not love of money - Charles Schwab]]
 - [[3x - Spiritual/33 Ministry/33.03 Ministry groups/Throw your bread on the water\|Throw your bread on the water]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[1x - References/11 Notes/11.03 Ideas/Happiness comes when we are otherwise engaged\|Happiness comes when we are otherwise engaged]]
 - [[1x - References/11 Notes/11.02 Quotes/Happiness is not in the mere possession of money but in the thrill of creative effort - Franklin D. Roosevelt\|Happiness is not in the mere possession of money but in the thrill of creative effort - Franklin D. Roosevelt]]

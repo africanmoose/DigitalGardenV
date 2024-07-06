@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-only-failure-is-to-avoid-creating-in-the-first-place/","title":"The only failure is to avoid creating in the first place","created":"2022-11-08T22:36:28.000+03:00","updated":"2024-02-14T20:18:22.071+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-only-failure-is-to-avoid-creating-in-the-first-place/","title":"The only failure is to avoid creating in the first place","created":"2024-07-03T16:53:59.315+03:00","updated":"2024-07-03T16:53:59.315+03:00"}
 ---
 
 
@@ -18,5 +18,5 @@
 - "The only failure there would be avoiding creating in the first place."
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[Do things by yourself\|Do things by yourself]]

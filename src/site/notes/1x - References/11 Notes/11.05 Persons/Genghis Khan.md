@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/genghis-khan/","title":"Genghis Khan","created":"2024-06-25T21:24:32.737+03:00","updated":"2024-06-30T21:52:02.326+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/genghis-khan/","title":"Genghis Khan","created":"2024-06-25T21:24:32.737+03:00","updated":"2024-07-02T08:30:36.181+03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/begin-badly-anywhere/","title":"Begin badly anywhere","created":"2023-06-05T22:09:27.000+03:00","updated":"2024-02-14T20:18:35.613+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/begin-badly-anywhere/","title":"Begin badly anywhere","created":"2024-07-03T16:53:59.192+03:00","updated":"2024-07-03T16:53:59.192+03:00"}
 ---
 
 
@@ -20,7 +20,7 @@
 - the maverick composer John Cage: “Begin anywhere.”
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[1x - References/11 Notes/11.02 Quotes/The harder i work the luckier i get - Samuel Goldwyn\|The harder i work the luckier i get - Samuel Goldwyn]]
 - [[3x - Spiritual/33 Ministry/33.03 Ministry groups/Jah judges based on work not results\|Jah judges based on work not results]]
 - [[1x - References/11 Notes/11.02 Quotes/The great men keep working - Pritchett\|The great men keep working - Pritchett]]

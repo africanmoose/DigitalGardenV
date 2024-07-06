@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/humility-engenders-learning-because-it-beats-back-the-arrogance-that-puts-blinders-on-wynton-marsalis/","title":"Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis","created":"2024-06-30T21:47:04.561+03:00","updated":"2024-06-30T21:48:10.899+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/humility-engenders-learning-because-it-beats-back-the-arrogance-that-puts-blinders-on-wynton-marsalis/","title":"Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis","created":"2024-06-30T21:47:04.561+03:00","updated":"2024-07-02T08:30:36.160+03:00"}
 ---
 
 

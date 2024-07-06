@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/complete-what-you-can-then-circle-back-to-hard-parts/","title":"Complete what you can then circle back to hard parts","created":"2023-03-26T19:04:46.000+03:00","updated":"2024-02-14T20:18:34.281+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/complete-what-you-can-then-circle-back-to-hard-parts/","title":"Complete what you can then circle back to hard parts","created":"2024-07-03T16:53:59.202+03:00","updated":"2024-07-03T16:53:59.202+03:00"}
 ---
 
 
@@ -15,6 +15,6 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Deep work\|Deep work]]
 - [[1x - References/11 Notes/11.03 Ideas/Limit work in progress\|Limit work in progress]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
 - [[1x - References/11 Notes/11.03 Ideas/Agile Principles\|Agile Principles]]

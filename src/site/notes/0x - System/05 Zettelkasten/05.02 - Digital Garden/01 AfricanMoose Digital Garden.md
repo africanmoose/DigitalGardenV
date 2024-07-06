@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-06-30T21:51:57.930+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-07-01T20:07:56.268+03:00"}
 ---
 
 ## Pic of the week
 
-![PXL_20240628_033640626.jpg](/img/user/PXL_20240628_033640626.jpg)
+![2024-06-28_033640626.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/2024-06-28_033640626.jpg)
 Every morning I pass this field on the way to work, and it is always pretty.
 
 ## What is this site for?

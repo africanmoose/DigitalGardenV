@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/everything-is-hard-what-is-worth-the-effort/","title":"Everything is hard - what is worth the effort","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:32.792+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/everything-is-hard-what-is-worth-the-effort/","title":"Everything is hard - what is worth the effort","created":"2024-07-03T16:53:59.216+03:00","updated":"2024-07-03T16:53:59.216+03:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Deep work\|Deep work]]
 - [[1x - References/11 Notes/11.02 Quotes/The harder i work the luckier i get - Samuel Goldwyn\|The harder i work the luckier i get - Samuel Goldwyn]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[Do things by yourself\|Do things by yourself]]
 - [[1x - References/11 Notes/11.02 Quotes/Do it right - Popular Mechanics\|Do it right - Popular Mechanics]]
 - [[1x - References/11 Notes/11.02 Quotes/Door of happiness - Helen Keller\|Door of happiness - Helen Keller]]

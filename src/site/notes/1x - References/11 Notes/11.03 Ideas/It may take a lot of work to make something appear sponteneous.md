@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/it-may-take-a-lot-of-work-to-make-something-appear-sponteneous/","title":"It may take a lot of work to make something appear sponteneous","created":"2023-03-26T21:34:45.000+03:00","updated":"2024-02-14T20:18:29.095+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/it-may-take-a-lot-of-work-to-make-something-appear-sponteneous/","title":"It may take a lot of work to make something appear sponteneous","created":"2024-07-03T16:53:59.272+03:00","updated":"2024-07-03T16:53:59.272+03:00"}
 ---
 
 
@@ -14,6 +14,6 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Deep work\|Deep work]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[1x - References/11 Notes/11.02 Quotes/The harder i work the luckier i get - Samuel Goldwyn\|The harder i work the luckier i get - Samuel Goldwyn]]

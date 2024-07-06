@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-only-way-to-stand-out-when-doing-undifferentiated-work-is-to-work-harder/","title":"The only way to stand out when doing undifferentiated work is to work harder","created":"2023-12-01T12:10:46.000+03:00","updated":"2024-02-14T20:18:22.066+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-only-way-to-stand-out-when-doing-undifferentiated-work-is-to-work-harder/","title":"The only way to stand out when doing undifferentiated work is to work harder","created":"2024-07-03T16:53:59.338+03:00","updated":"2024-07-03T16:53:59.338+03:00"}
 ---
 
 
@@ -19,6 +19,6 @@ work harder than everyone else. Imagine a team of ditchdiggers working with thei
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/The standard pace is for average\|The standard pace is for average]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Originals How Non-Conformists Move the World - Adam Grant\|Originals How Non-Conformists Move the World - Adam Grant]]
 - [[Long term thinking\|Long term thinking]]

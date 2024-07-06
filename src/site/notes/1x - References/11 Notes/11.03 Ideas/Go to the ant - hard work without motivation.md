@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/go-to-the-ant-hard-work-without-motivation/","title":"Go to the ant - hard work without motivation","created":"2023-01-15T10:20:36.000+03:00","updated":"2024-02-14T20:18:31.601+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/go-to-the-ant-hard-work-without-motivation/","title":"Go to the ant - hard work without motivation","created":"2024-07-03T16:53:59.242+03:00","updated":"2024-07-03T16:53:59.242+03:00"}
 ---
 
 
@@ -27,6 +27,6 @@ Go to the ant, you lazy one; Observe its ways and become wise.
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Work in harmony with Jehovahs purpose and time\|Work in harmony with Jehovahs purpose and time]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[1x - References/11 Notes/11.02 Quotes/The harder i work the luckier i get - Samuel Goldwyn\|The harder i work the luckier i get - Samuel Goldwyn]]
 - [[1x - References/11 Notes/11.02 Quotes/Inspiration vs Work - Pablo Picasso\|Inspiration vs Work - Pablo Picasso]]

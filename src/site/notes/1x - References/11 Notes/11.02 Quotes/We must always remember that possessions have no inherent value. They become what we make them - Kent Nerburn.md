@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-must-always-remember-that-possessions-have-no-inherent-value-they-become-what-we-make-them-kent-nerburn/","title":"We must always remember that possessions have no inherent value. They become what we make them - Kent Nerburn","created":"2024-06-29T07:04:26.566+03:00","updated":"2024-06-29T13:18:36.956+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-must-always-remember-that-possessions-have-no-inherent-value-they-become-what-we-make-them-kent-nerburn/","title":"We must always remember that possessions have no inherent value. They become what we make them - Kent Nerburn","created":"2024-06-29T07:04:26.566+03:00","updated":"2024-07-02T08:30:36.180+03:00"}
 ---
 
 

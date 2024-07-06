@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/be-both-reflective-and-reactive/","title":"Be both reflective and reactive","created":"2023-07-30T12:18:47.413+03:00","updated":"2024-02-14T20:18:35.726+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/be-both-reflective-and-reactive/","title":"Be both reflective and reactive","created":"2024-07-03T16:53:59.175+03:00","updated":"2024-07-03T16:53:59.175+03:00"}
 ---
 
 
@@ -22,6 +22,6 @@
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]
 - [[1x - References/11 Notes/11.03 Ideas/Give yourself space for thinking\|Give yourself space for thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/First principles and simple actions - Winston Churchill\|First principles and simple actions - Winston Churchill]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[1x - References/11 Notes/11.03 Ideas/Dont make decisions by following your gut instinct\|Dont make decisions by following your gut instinct]]
 - [[1x - References/11 Notes/11.03 Ideas/Need to do reviews\|Need to do reviews]]

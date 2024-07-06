@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-happiness-of-pleasure-grace-and-excellence/","title":"The happiness of pleasure grace and excellence","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:22.148+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-happiness-of-pleasure-grace-and-excellence/","title":"The happiness of pleasure grace and excellence","created":"2024-07-03T16:53:59.304+03:00","updated":"2024-07-03T16:53:59.304+03:00"}
 ---
 
 
@@ -23,4 +23,4 @@
 ### Related
 - [[4x - Reading/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
 - [[1x - References/11 Notes/11.03 Ideas/Deep work\|Deep work]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]

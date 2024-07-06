@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/as-our-island-of-knowledge-grows-so-does-the-shore-of-our-ignorance-john-wheeler/","title":"As our island of knowledge grows, so does the shore of our ignorance - John Wheeler","created":"2024-06-30T21:44:26.369+03:00","updated":"2024-06-30T21:45:46.525+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/as-our-island-of-knowledge-grows-so-does-the-shore-of-our-ignorance-john-wheeler/","title":"As our island of knowledge grows, so does the shore of our ignorance - John Wheeler","created":"2024-06-30T21:44:26.369+03:00","updated":"2024-07-02T08:30:36.178+03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/do-it-right-popular-mechanics/","title":"Do it right - Popular Mechanics","created":"2022-11-08T22:18:07.000+03:00","updated":"2024-02-14T20:18:45.880+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/do-it-right-popular-mechanics/","title":"Do it right - Popular Mechanics","created":"2024-07-03T16:53:58.856+03:00","updated":"2024-07-03T16:53:58.856+03:00"}
 ---
 
 
@@ -15,4 +15,4 @@ Popular mechanics
 Popular Machanics
 
 ## Related
-[[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+[[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]

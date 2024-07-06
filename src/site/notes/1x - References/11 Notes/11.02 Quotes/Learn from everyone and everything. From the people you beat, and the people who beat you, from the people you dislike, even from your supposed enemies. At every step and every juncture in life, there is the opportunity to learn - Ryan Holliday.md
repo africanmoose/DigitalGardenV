@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/learn-from-everyone-and-everything-from-the-people-you-beat-and-the-people-who-beat-you-from-the-people-you-dislike-even-from-your-supposed-enemies-at-every-step-and-every-juncture-in-life-there-is-the-opportunity-to-learn-ryan-holliday/","title":"Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday","created":"2024-06-30T21:49:22.544+03:00","updated":"2024-06-30T21:50:46.438+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/learn-from-everyone-and-everything-from-the-people-you-beat-and-the-people-who-beat-you-from-the-people-you-dislike-even-from-your-supposed-enemies-at-every-step-and-every-juncture-in-life-there-is-the-opportunity-to-learn-ryan-holliday/","title":"Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday","created":"2024-06-30T21:49:22.544+03:00","updated":"2024-07-02T08:30:36.163+03:00"}
 ---
 
 

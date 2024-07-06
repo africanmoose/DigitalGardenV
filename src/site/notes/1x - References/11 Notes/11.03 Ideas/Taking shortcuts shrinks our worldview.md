@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/taking-shortcuts-shrinks-our-worldview/","title":"Taking shortcuts shrinks our worldview","created":"2023-03-23T18:46:48.000+03:00","updated":"2024-02-14T20:18:23.026+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/taking-shortcuts-shrinks-our-worldview/","title":"Taking shortcuts shrinks our worldview","created":"2024-07-03T16:53:59.288+03:00","updated":"2024-07-03T16:53:59.288+03:00"}
 ---
 
 
@@ -19,4 +19,4 @@
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Listen patiently as Jehovah listened to Abraham\|Listen patiently as Jehovah listened to Abraham]]
 - [[1x - References/11 Notes/11.03 Ideas/When you listen to people listen fully\|When you listen to people listen fully]]
 - [[1x - References/11 Notes/11.03 Ideas/Deep work\|Deep work]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]

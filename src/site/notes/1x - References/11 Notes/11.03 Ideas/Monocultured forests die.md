@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/monocultured-forests-die/","title":"Monocultured forests die","created":"2024-05-01T21:05:49.079+03:00","updated":"2024-06-30T22:27:40.396+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/monocultured-forests-die/","title":"Monocultured forests die","created":"2024-05-01T21:05:49.079+03:00","updated":"2024-07-02T08:30:36.183+03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-are-going-to-spend-1000x-more-time-in-your-surrounding-5-blocks-than-you-will-in-any-other-neighborhood-in-your-city-phil-levin/","title":"You are going to spend 1000x more time in your surrounding 5 blocks than you will in any other neighborhood in your city - Phil Levin","created":"2024-06-28T23:33:02.200+03:00","updated":"2024-06-28T23:35:14.253+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-are-going-to-spend-1000x-more-time-in-your-surrounding-5-blocks-than-you-will-in-any-other-neighborhood-in-your-city-phil-levin/","title":"You are going to spend 1000x more time in your surrounding 5 blocks than you will in any other neighborhood in your city - Phil Levin","created":"2024-06-28T23:33:02.200+03:00","updated":"2024-07-02T08:30:35.105+03:00"}
 ---
 
 
