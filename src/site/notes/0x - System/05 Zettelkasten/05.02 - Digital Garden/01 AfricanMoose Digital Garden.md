@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-07-01T20:07:56.268+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-07-07T09:09:10.298+03:00"}
 ---
 
 ## Pic of the week
 
-![2024-06-28_033640626.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/2024-06-28_033640626.jpg)
-Every morning I pass this field on the way to work, and it is always pretty.
+## ![PXL_20240705_102549219.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240705_102549219.jpg)
+What makes some spaces interesting? Why does some design look so amazing and others with similar elements not?
 
 ## What is this site for?
 
