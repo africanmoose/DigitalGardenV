@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/email-inbox-is-the-priority-list-of-other-people/","title":"Email inbox is the priority list of other people","created":"2024-07-01T11:30:55.780+03:00","updated":"2024-07-06T20:45:44.080+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/email-inbox-is-the-priority-list-of-other-people/","title":"Email inbox is the priority list of other people","created":"2024-07-01T11:30:55.780+03:00","updated":"2024-07-06T23:48:29.253+03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-pygmalian-effect-expectations-influence-results/","title":"The Pygmalian effect - expectations influence results","created":"2024-07-07T08:40:06.833+03:00","updated":"2024-07-07T09:01:10.697+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-pygmalian-effect-expectations-influence-results/","title":"The Pygmalian effect - expectations influence results","created":"2024-07-07T08:40:06.833+03:00","updated":"2024-07-07T09:43:47.145+03:00"}
 ---
 
 
