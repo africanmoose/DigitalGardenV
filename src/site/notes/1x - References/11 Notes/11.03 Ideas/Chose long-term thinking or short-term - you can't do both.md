@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/chose-long-term-thinking-or-short-term-you-can-t-do-both/","title":"Chose long-term thinking or short-term - you can't do both","created":"2023-12-22T20:06:34.000+03:00","updated":"2024-02-14T20:18:34.721+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/chose-long-term-thinking-or-short-term-you-can-t-do-both/","title":"Chose long-term thinking or short-term - you can't do both","created":"2023-12-22T20:06:34.000+03:00","updated":"2024-07-08T21:38:51.471+03:00"}
 ---
 
 
@@ -20,6 +20,6 @@ but not both. Any energy that’s channeled toward short-term solutions depletes
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Dont define solutions in binary terms\|Dont define solutions in binary terms]]
 - [[1x - References/11 Notes/11.03 Ideas/Measure your life in energy not in money\|Measure your life in energy not in money]]
-- [[Long term thinking\|Long term thinking]]
+- [[1x - References/11 Notes/11.03 Ideas/Long term thinking is a powerful tool\|Long term thinking is a powerful tool]]
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]
 - [[1x - References/11 Notes/11.03 Ideas/Review values and long term goals regularly\|Review values and long term goals regularly]]
