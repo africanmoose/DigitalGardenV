@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-07-14T10:21:08.752+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-06-20T18:59:33.927+03:00","updated":"2024-07-08T21:13:53.138+03:00"}
 ---
 
 ## Pic of the week
 
-![PXL_20240708_034436920.jpg](/img/user/PXL_20240708_034436920.jpg)
-One advantage of having to wake up early is the lovely sunrises.
+## ![PXL_20240705_102549219.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240705_102549219.jpg)
+What makes some spaces interesting? Why does some design look so amazing and others with similar elements not?
 
 ## What is this site for?
 
@@ -41,14 +41,14 @@ One advantage of having to wake up early is the lovely sunrises.
 
 ## Interesting Ideas
 
-- [[0x - System/01 Index/01.02 Inbox/Cognitive inertia - difficulty in changing our minds\|Cognitive inertia - difficulty in changing our minds]]
-- [[1x - References/11 Notes/11.03 Ideas/Schedule time to think\|Schedule time to think]]
 - [[1x - References/11 Notes/11.03 Ideas/The Pygmalian effect - expectations influence results\|The Pygmalian effect - expectations influence results]]
 - [[1x - References/11 Notes/11.03 Ideas/Experts vs Imitators\|Experts vs Imitators]]
 - [[1x - References/11 Notes/11.03 Ideas/Complaining blocks learning\|Complaining blocks learning]]
 - [[1x - References/11 Notes/11.03 Ideas/Single-loop learning vs. double-loop learning\|Single-loop learning vs. double-loop learning]]
 - [[1x - References/11 Notes/11.03 Ideas/10 years to get good at anything\|10 years to get good at anything]]
 - [[1x - References/11 Notes/11.03 Ideas/Working for long is not the same as working hard\|Working for long is not the same as working hard]]
+- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
+- [[1x - References/11 Notes/11.03 Ideas/Growth is uncomfortable\|Growth is uncomfortable]]
 
 ## Book Reviews
 
