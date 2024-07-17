@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/the-first-law-of-ecology-we-can-never-do-just-one-thing/","title":"The first law of ecology - we can never do just one thing","created":"2024-07-16T22:09:45.251+03:00","updated":"2024-07-16T22:27:33.558+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/the-first-law-of-ecology-we-can-never-do-just-one-thing/","title":"The first law of ecology - we can never do just one thing","created":"2024-07-16T22:09:45.251+03:00","updated":"2024-07-17T18:26:23.738+03:00"}
 ---
 
 

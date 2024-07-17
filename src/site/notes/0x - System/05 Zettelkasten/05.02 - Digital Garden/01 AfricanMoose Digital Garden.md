@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-17T17:59:29.485+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-17T20:08:50.277+03:00"}
 ---
 
 ## Pic of the week
