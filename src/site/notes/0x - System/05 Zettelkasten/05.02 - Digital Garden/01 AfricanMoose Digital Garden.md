@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-17T10:19:40.714+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"Finance Ideas","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-17T17:59:29.485+03:00"}
 ---
 
 ## Pic of the week
@@ -41,14 +41,14 @@ What makes some spaces interesting? Why does some design look so amazing and oth
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/The first law of ecology - we can never do just one thing\|The first law of ecology - we can never do just one thing]]
+- [[1x - References/11 Notes/11.03 Ideas/Cognitive inertia - difficulty in changing our minds\|Cognitive inertia - difficulty in changing our minds]]
 - [[1x - References/11 Notes/11.03 Ideas/The Pygmalian effect - expectations influence results\|The Pygmalian effect - expectations influence results]]
 - [[1x - References/11 Notes/11.03 Ideas/Experts vs Imitators\|Experts vs Imitators]]
 - [[1x - References/11 Notes/11.03 Ideas/Complaining blocks learning\|Complaining blocks learning]]
 - [[1x - References/11 Notes/11.03 Ideas/Single-loop learning vs. double-loop learning\|Single-loop learning vs. double-loop learning]]
 - [[1x - References/11 Notes/11.03 Ideas/10 years to get good at anything\|10 years to get good at anything]]
 - [[1x - References/11 Notes/11.03 Ideas/Working for long is not the same as working hard\|Working for long is not the same as working hard]]
-- [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
-- [[1x - References/11 Notes/11.03 Ideas/Growth is uncomfortable\|Growth is uncomfortable]]
 
 # Book Reviews
 
