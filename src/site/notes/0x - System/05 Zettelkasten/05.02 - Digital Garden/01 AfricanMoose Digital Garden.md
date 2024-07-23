@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-17T20:08:50.277+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-23T19:37:31.617+03:00"}
 ---
 
 ## Pic of the week
-
-## ![PXL_20240705_102549219.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240705_102549219.jpg)
-What makes some spaces interesting? Why does some design look so amazing and others with similar elements not?
+![PXL_20240628_033640626.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240628_033640626.jpg)
+New place is pretty cold....foggy mornings as I bike to work! But lovely sunrises.
 
 # What is this site for?
 
@@ -20,13 +19,13 @@ What makes some spaces interesting? Why does some design look so amazing and oth
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt\|The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt]]
 - [[1x - References/11 Notes/11.02 Quotes/Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday\|Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday]]
 - [[1x - References/11 Notes/11.02 Quotes/Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis\|Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis]]
 - [[1x - References/11 Notes/11.02 Quotes/As our island of knowledge grows, so does the shore of our ignorance - John Wheeler\|As our island of knowledge grows, so does the shore of our ignorance - John Wheeler]]
 - [[1x - References/11 Notes/11.02 Quotes/Be less curious about people and more curious about ideas - Marie Curie\|Be less curious about people and more curious about ideas - Marie Curie]]
 - [[1x - References/11 Notes/11.02 Quotes/There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman\|There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman]]
 - [[1x - References/11 Notes/11.02 Quotes/How you talk about your experiences will dictate how you feel about them. Reframing our goals and rewriting our stories are powerful tools - Alexi Pappas\|How you talk about your experiences will dictate how you feel about them. Reframing our goals and rewriting our stories are powerful tools - Alexi Pappas]]
-- [[1x - References/11 Notes/11.02 Quotes/You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman\|You have to finish things - thats what you learn from, you learn by finishing things - Neil Gaiman]]
 
 # Interesting Persons
 
@@ -41,14 +40,14 @@ What makes some spaces interesting? Why does some design look so amazing and oth
 
 # Interesting Ideas
 
-- [[1x - References/11 Notes/The first law of ecology - we can never do just one thing\|The first law of ecology - we can never do just one thing]]
+- [[1x - References/11 Notes/11.03 Ideas/Good conversations lead to higher feelings of happiness\|Good conversations lead to higher feelings of happiness]]
+- [[1x - References/11 Notes/11.03 Ideas/Avoid phubbing - phone snubbing to have better conversations\|Avoid phubbing - phone snubbing to have better conversations]]
+- [[1x - References/11 Notes/11.03 Ideas/Use follow up questions to keep a conversation going\|Use follow up questions to keep a conversation going]]
+- [[1x - References/11 Notes/11.03 Ideas/The first law of ecology - we can never do just one thing\|The first law of ecology - we can never do just one thing]]
 - [[1x - References/11 Notes/11.03 Ideas/Cognitive inertia - difficulty in changing our minds\|Cognitive inertia - difficulty in changing our minds]]
 - [[1x - References/11 Notes/11.03 Ideas/The Pygmalian effect - expectations influence results\|The Pygmalian effect - expectations influence results]]
 - [[1x - References/11 Notes/11.03 Ideas/Experts vs Imitators\|Experts vs Imitators]]
 - [[1x - References/11 Notes/11.03 Ideas/Complaining blocks learning\|Complaining blocks learning]]
-- [[1x - References/11 Notes/11.03 Ideas/Single-loop learning vs. double-loop learning\|Single-loop learning vs. double-loop learning]]
-- [[1x - References/11 Notes/11.03 Ideas/10 years to get good at anything\|10 years to get good at anything]]
-- [[1x - References/11 Notes/11.03 Ideas/Working for long is not the same as working hard\|Working for long is not the same as working hard]]
 
 # Book Reviews
 
