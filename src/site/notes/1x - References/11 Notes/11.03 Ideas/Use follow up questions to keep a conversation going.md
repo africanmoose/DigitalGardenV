@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-follow-up-questions-to-keep-a-conversation-going/","title":"Use follow up questions to keep a conversation going","created":"2024-07-23T19:21:35.038+03:00","updated":"2024-07-23T19:26:13.288+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-follow-up-questions-to-keep-a-conversation-going/","title":"Use follow up questions to keep a conversation going","created":"2024-07-23T19:21:35.038+03:00","updated":"2024-07-23T21:25:57.982+03:00"}
 ---
 
 

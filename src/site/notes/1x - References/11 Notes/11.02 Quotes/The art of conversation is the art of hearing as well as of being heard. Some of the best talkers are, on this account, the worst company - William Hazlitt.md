@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-art-of-conversation-is-the-art-of-hearing-as-well-as-of-being-heard-some-of-the-best-talkers-are-on-this-account-the-worst-company-william-hazlitt/","title":"The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt","created":"2024-07-23T19:16:04.523+03:00","updated":"2024-07-23T19:20:17.505+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-art-of-conversation-is-the-art-of-hearing-as-well-as-of-being-heard-some-of-the-best-talkers-are-on-this-account-the-worst-company-william-hazlitt/","title":"The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt","created":"2024-07-23T19:16:04.523+03:00","updated":"2024-07-23T21:25:57.978+03:00"}
 ---
 
 

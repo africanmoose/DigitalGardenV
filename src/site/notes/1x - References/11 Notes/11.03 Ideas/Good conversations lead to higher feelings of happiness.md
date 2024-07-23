@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/good-conversations-lead-to-higher-feelings-of-happiness/","title":"Good conversations lead to higher feelings of happiness","created":"2024-07-23T19:31:55.735+03:00","updated":"2024-07-23T19:37:11.143+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/good-conversations-lead-to-higher-feelings-of-happiness/","title":"Good conversations lead to higher feelings of happiness","created":"2024-07-23T19:31:55.735+03:00","updated":"2024-07-23T21:25:57.981+03:00"}
 ---
 
 

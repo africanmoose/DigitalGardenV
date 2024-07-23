@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/avoid-phubbing-phone-snubbing-to-have-better-conversations/","title":"Avoid phubbing - phone snubbing to have better conversations","created":"2024-07-23T19:26:47.924+03:00","updated":"2024-07-23T19:31:11.615+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/avoid-phubbing-phone-snubbing-to-have-better-conversations/","title":"Avoid phubbing - phone snubbing to have better conversations","created":"2024-07-23T19:26:47.924+03:00","updated":"2024-07-23T21:25:57.979+03:00"}
 ---
 
 
