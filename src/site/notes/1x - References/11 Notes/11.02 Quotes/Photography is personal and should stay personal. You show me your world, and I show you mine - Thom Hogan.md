@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/photography-is-personal-and-should-stay-personal-you-show-me-your-world-and-i-show-you-mine-thom-hogan/","title":"Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan","created":"2024-07-23T21:29:22.534+03:00","updated":"2024-07-23T21:31:01.402+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/photography-is-personal-and-should-stay-personal-you-show-me-your-world-and-i-show-you-mine-thom-hogan/","title":"Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan","created":"2024-07-23T21:29:22.534+03:00","updated":"2024-07-24T06:17:59.239+03:00"}
 ---
 
 
