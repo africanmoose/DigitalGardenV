@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/find-the-highest-leverage-version-of-your-role-elliot-starr/","title":"Find the highest leverage version of your role - Elliot Starr","created":"2024-07-23T22:11:08.069+03:00","updated":"2024-07-23T22:13:14.529+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/find-the-highest-leverage-version-of-your-role-elliot-starr/","title":"Find the highest leverage version of your role - Elliot Starr","created":"2024-07-23T22:11:08.069+03:00","updated":"2024-07-25T04:25:54.272+03:00"}
 ---
 
 
