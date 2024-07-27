@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-23T21:31:22.582+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-27T08:03:57.050+03:00"}
 ---
 
 ## Pic of the week
@@ -19,13 +19,13 @@ New place is pretty cold....foggy mornings as I bike to work! But lovely sunrise
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton\|A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton]]
 - [[1x - References/11 Notes/11.02 Quotes/Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan\|Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan]]
 - [[1x - References/11 Notes/11.02 Quotes/The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt\|The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt]]
 - [[1x - References/11 Notes/11.02 Quotes/Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday\|Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday]]
 - [[1x - References/11 Notes/11.02 Quotes/Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis\|Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis]]
 - [[1x - References/11 Notes/11.02 Quotes/As our island of knowledge grows, so does the shore of our ignorance - John Wheeler\|As our island of knowledge grows, so does the shore of our ignorance - John Wheeler]]
 - [[1x - References/11 Notes/11.02 Quotes/Be less curious about people and more curious about ideas - Marie Curie\|Be less curious about people and more curious about ideas - Marie Curie]]
-- [[1x - References/11 Notes/11.02 Quotes/There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman\|There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman]]
 
 # Interesting Persons
 
