@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/a-man-is-already-of-consequence-in-the-world-when-it-is-known-that-we-can-implicitly-rely-upon-him-edward-bulwer-lytton/","title":"A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton","created":"2024-07-27T08:00:03.253+03:00","updated":"2024-07-27T08:03:32.650+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/a-man-is-already-of-consequence-in-the-world-when-it-is-known-that-we-can-implicitly-rely-upon-him-edward-bulwer-lytton/","title":"A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton","created":"2024-07-27T08:00:03.253+03:00","updated":"2024-07-28T18:20:11.811+03:00"}
 ---
 
 

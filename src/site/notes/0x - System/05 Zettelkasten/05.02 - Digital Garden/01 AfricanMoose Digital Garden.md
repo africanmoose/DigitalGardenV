@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-27T08:03:57.050+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-17T10:19:40.714+03:00","updated":"2024-07-29T20:21:28.066+03:00"}
 ---
 
 ## Pic of the week
-![PXL_20240628_033640626.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240628_033640626.jpg)
-New place is pretty cold....foggy mornings as I bike to work! But lovely sunrises.
+![_DSC9557 1.jpg](/img/user/_DSC9557%201.jpg)
+Bad weather is sometimes better for photography than good.
 
 # What is this site for?
 
@@ -40,14 +40,15 @@ New place is pretty cold....foggy mornings as I bike to work! But lovely sunrise
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Optimize for interestingness\|Optimize for interestingness]]
+- [[1x - References/11 Notes/11.03 Ideas/How to choose an area of interest to focus on\|How to choose an area of interest to focus on]]
 - [[1x - References/11 Notes/11.03 Ideas/Good conversations lead to higher feelings of happiness\|Good conversations lead to higher feelings of happiness]]
 - [[1x - References/11 Notes/11.03 Ideas/Avoid phubbing - phone snubbing to have better conversations\|Avoid phubbing - phone snubbing to have better conversations]]
 - [[1x - References/11 Notes/11.03 Ideas/Use follow up questions to keep a conversation going\|Use follow up questions to keep a conversation going]]
 - [[1x - References/11 Notes/11.03 Ideas/The first law of ecology - we can never do just one thing\|The first law of ecology - we can never do just one thing]]
 - [[1x - References/11 Notes/11.03 Ideas/Cognitive inertia - difficulty in changing our minds\|Cognitive inertia - difficulty in changing our minds]]
 - [[1x - References/11 Notes/11.03 Ideas/The Pygmalian effect - expectations influence results\|The Pygmalian effect - expectations influence results]]
-- [[1x - References/11 Notes/11.03 Ideas/Experts vs Imitators\|Experts vs Imitators]]
-- [[1x - References/11 Notes/11.03 Ideas/Complaining blocks learning\|Complaining blocks learning]]
+
 
 # Book Reviews
 
