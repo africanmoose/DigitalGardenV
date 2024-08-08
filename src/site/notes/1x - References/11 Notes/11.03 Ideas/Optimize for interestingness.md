@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/optimize-for-interestingness/","title":"Optimize for interestingness","created":"2024-07-29T20:16:39.008+03:00","updated":"2024-07-29T20:19:12.630+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/optimize-for-interestingness/","title":"Optimize for interestingness","created":"2024-07-29T20:16:39.008+03:00","updated":"2024-07-30T20:24:30.929+03:00"}
 ---
 
 

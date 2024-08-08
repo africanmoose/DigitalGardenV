@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/be-guided-by-beauty-it-s-a-beautiful-thing-to-do-something-right-jim-simmons/","title":"Be guided by beauty...It's a beautiful thing to do something right - Jim Simmons","created":"2024-07-24T12:55:26.468+03:00","updated":"2024-07-24T22:26:18.471+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/be-guided-by-beauty-it-s-a-beautiful-thing-to-do-something-right-jim-simmons/","title":"Be guided by beauty...It's a beautiful thing to do something right - Jim Simmons","created":"2024-07-31T19:21:24.714+03:00","updated":"2024-07-31T19:21:24.714+03:00"}
 ---
 
 
@@ -19,4 +19,4 @@ Investor and mathematician **Jim Simons**
 - [[1x - References/11 Notes/11.02 Quotes/I think of beauty as an absolute necessity - Toni Morrison\|I think of beauty as an absolute necessity - Toni Morrison]]
 - [[1x - References/11 Notes/11.02 Quotes/There is a deep human need for beauty - Roger Scruton\|There is a deep human need for beauty - Roger Scruton]]
 - [[1x - References/11 Notes/11.03 Ideas/Look at things through new eyes to recognize beauty\|Look at things through new eyes to recognize beauty]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]

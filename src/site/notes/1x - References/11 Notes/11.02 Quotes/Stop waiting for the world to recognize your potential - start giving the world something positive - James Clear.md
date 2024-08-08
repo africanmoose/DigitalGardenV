@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/stop-waiting-for-the-world-to-recognize-your-potential-start-giving-the-world-something-positive-james-clear/","title":"Stop waiting for the world to recognize your potential - start giving the world something positive - James Clear","created":"2024-07-28T22:19:28.201+03:00","updated":"2024-07-29T06:14:48.329+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/stop-waiting-for-the-world-to-recognize-your-potential-start-giving-the-world-something-positive-james-clear/","title":"Stop waiting for the world to recognize your potential - start giving the world something positive - James Clear","created":"2024-07-31T19:21:24.766+03:00","updated":"2024-07-31T19:21:24.766+03:00"}
 ---
 
 
@@ -18,5 +18,5 @@ James Clear
 
 ## Related
 - [[Do things by yourself\|Do things by yourself]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Giving helps your finances\|Giving helps your finances]]

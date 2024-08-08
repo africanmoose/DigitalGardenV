@@ -17,7 +17,7 @@
 This progress-tracking can have a profound effect. In 2016, researchers combined 138 studies consisting of almost 20,000 participants to conduct a meta-analysis of its effects. They found that tracking progress, whether through writing down progress goals (like whether you completed the training sessions you aimed to do) or writing down output goals (like your 5km time), dramatically increases your chances of actually attaining that goal. Why? First, because tracking your progress helps you identify any areas where you may be falling behind, or where you need to make adjustments. By monitoring your progress, you can identify patterns, habits or obstacles that may be hindering your progress. 
 
 ### Related
-- [[5x - Arts/54 Writing/54.xx substack articles/lessons from running\|lessons from running]]
+- [[5x - Arts/54 Writing/54.10 substack articles written/lessons from running\|lessons from running]]
 - [[5x - Arts/54 Writing/54.08 Productivity book/01 Make it visible\|01 Make it visible]]
 - [[1x - References/11 Notes/11.03 Ideas/Track your progress\|Track your progress]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Track your financial progress\|Track your financial progress]]

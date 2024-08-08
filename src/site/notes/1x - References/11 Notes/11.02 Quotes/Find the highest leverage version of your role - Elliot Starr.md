@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/find-the-highest-leverage-version-of-your-role-elliot-starr/","title":"Find the highest leverage version of your role - Elliot Starr","created":"2024-07-23T22:11:08.069+03:00","updated":"2024-07-25T04:25:54.272+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/find-the-highest-leverage-version-of-your-role-elliot-starr/","title":"Find the highest leverage version of your role - Elliot Starr","created":"2024-07-31T19:21:24.732+03:00","updated":"2024-07-31T19:21:24.732+03:00"}
 ---
 
 
@@ -13,5 +13,5 @@ Elliott Starr
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Creativity is labor intensive - John Adams\|Creativity is labor intensive - John Adams]]
-- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
 - [[1x - References/11 Notes/11.03 Ideas/The quality of your decisions depends on the quality of your thinking\|The quality of your decisions depends on the quality of your thinking]]
