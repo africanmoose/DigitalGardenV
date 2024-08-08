@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-29T20:21:28.066+03:00","updated":"2024-07-29T20:21:28.066+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-29T20:21:28.066+03:00","updated":"2024-08-08T22:46:48.851+03:00"}
 ---
 
 ## Pic of the week
@@ -64,6 +64,7 @@ Bad weather is sometimes better for photography than good.
 
 # Work in Progress
 
+- Processing _[[0x - System/01 Index/01.04 Notes in process/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]_
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Einstein: His life and universe_
