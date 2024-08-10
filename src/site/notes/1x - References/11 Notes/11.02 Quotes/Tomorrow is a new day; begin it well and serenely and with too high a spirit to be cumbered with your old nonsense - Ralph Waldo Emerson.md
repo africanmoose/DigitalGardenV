@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/tomorrow-is-a-new-day-begin-it-well-and-serenely-and-with-too-high-a-spirit-to-be-cumbered-with-your-old-nonsense-ralph-waldo-emerson/","title":"Tomorrow is a new day; begin it well and serenely and with too high a spirit to be cumbered with your old nonsense - Ralph Waldo Emerson","created":"2024-08-08T08:54:23.580+03:00","updated":"2024-08-08T08:56:12.243+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/tomorrow-is-a-new-day-begin-it-well-and-serenely-and-with-too-high-a-spirit-to-be-cumbered-with-your-old-nonsense-ralph-waldo-emerson/","title":"Tomorrow is a new day; begin it well and serenely and with too high a spirit to be cumbered with your old nonsense - Ralph Waldo Emerson","created":"2024-08-08T08:54:23.580+03:00","updated":"2024-08-08T20:49:54.843+03:00"}
 ---
 
 

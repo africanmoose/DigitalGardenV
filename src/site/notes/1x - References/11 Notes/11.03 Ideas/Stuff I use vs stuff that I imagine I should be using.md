@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/stuff-i-use-vs-stuff-that-i-imagine-i-should-be-using/","title":"Stuff I use vs stuff that I imagine I should be using","created":"2024-08-08T21:27:52.242+03:00","updated":"2024-08-08T22:39:24.219+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/stuff-i-use-vs-stuff-that-i-imagine-i-should-be-using/","title":"Stuff I use vs stuff that I imagine I should be using","created":"2024-08-08T21:27:52.242+03:00","updated":"2024-08-09T06:18:04.424+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - Keep the former, get rid of the latter
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 
 ### Quotes
 > But there were really only two categories I could see: the stuff I used, and the stuff I wanted the ideal version of myself to use.
