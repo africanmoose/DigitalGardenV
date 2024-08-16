@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-07-29T20:21:28.066+03:00","updated":"2024-08-08T22:46:48.851+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-08-13T13:18:04.313+03:00","updated":"2024-08-16T21:32:38.980+03:00"}
 ---
 
 ## Pic of the week
-![_DSC9557 1.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC9557%201.jpg)
-Bad weather is sometimes better for photography than good.
+![PXL_20240813_034618234 copy.jpg](/img/user/PXL_20240813_034618234%20copy.jpg)
+Mt Meru in all it's glory.
 
 # What is this site for?
 
@@ -52,6 +52,8 @@ Bad weather is sometimes better for photography than good.
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
@@ -64,7 +66,7 @@ Bad weather is sometimes better for photography than good.
 
 # Work in Progress
 
-- Processing _[[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]_
+- Processing _[[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]_
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Einstein: His life and universe_

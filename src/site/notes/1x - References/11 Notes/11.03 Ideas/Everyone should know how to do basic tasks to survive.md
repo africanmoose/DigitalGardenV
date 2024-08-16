@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/everyone-should-know-how-to-do-basic-tasks-to-survive/","title":"Everyone should know how to do basic tasks to survive","created":"2024-08-09T11:05:30.009+03:00","updated":"2024-08-09T14:05:36.366+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/everyone-should-know-how-to-do-basic-tasks-to-survive/","title":"Everyone should know how to do basic tasks to survive","created":"2024-08-13T08:43:23.950+03:00","updated":"2024-08-13T08:43:23.950+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - To depend on a machine for basic needs is foolish.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/A Year of Living Simply - The joys of a life less complicated by Kate Humble\|A Year of Living Simply - The joys of a life less complicated by Kate Humble]]
+- [[A Year of Living Simply - The joys of a life less complicated by Kate Humble - notes\|A Year of Living Simply - The joys of a life less complicated by Kate Humble - notes]]
 
 ### Quotes
 >  everyone should know how to hand-wash their clothes. To depend on any machine to take care of a basic need is foolhardy
