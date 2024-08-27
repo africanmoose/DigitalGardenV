@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/cues-master-the-secret-language-of-charismatic-communication-vanessa-van-edwards/","title":"Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards","created":"2024-08-14T13:01:40.423+03:00","updated":"2024-08-18T21:24:24.807+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/cues-master-the-secret-language-of-charismatic-communication-vanessa-van-edwards/","title":"Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards","created":"2024-08-14T13:01:40.423+03:00","updated":"2024-08-27T22:50:11.291+03:00"}
 ---
 
 ![Cues - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Cues%20-%20cover.jpg)
@@ -27,6 +27,10 @@
 - [[1x - References/11 Notes/11.03 Ideas/Touch releases Oxytocin which makes us feel connected\|Touch releases Oxytocin which makes us feel connected]]
 - [[1x - References/11 Notes/11.03 Ideas/Laugh with someone to feel better connected to them\|Laugh with someone to feel better connected to them]]
 - [[1x - References/11 Notes/11.03 Ideas/Chose your seat wisely\|Chose your seat wisely]]
+- [[1x - References/11 Notes/11.03 Ideas/Avoid phubbing - phone snubbing to have better conversations\|Avoid phubbing - phone snubbing to have better conversations]]
+- [[1x - References/11 Notes/11.03 Ideas/It's okay to show feeling when negotiating for a deal\|It's okay to show feeling when negotiating for a deal]]
+- [[1x - References/11 Notes/11.03 Ideas/Avoid verbal fillers like um\|Avoid verbal fillers like um]]
+- 
 
 ### References
 - 

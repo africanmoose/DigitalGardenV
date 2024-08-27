@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-08-13T13:18:04.313+03:00","updated":"2024-08-18T20:25:34.123+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-08-13T13:18:04.313+03:00","updated":"2024-08-27T22:50:33.587+03:00"}
 ---
 
 ## Pic of the week
-![PXL_20240813_034618234 copy.jpg](/img/user/PXL_20240813_034618234%20copy.jpg)
+![PXL_20240813_034618234 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/PXL_20240813_034618234%20copy.jpg)
 Mt Meru in all it's glory.
 
 # What is this site for?
@@ -39,13 +39,13 @@ Mt Meru in all it's glory.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Avoid verbal fillers like um\|Avoid verbal fillers like um]]
 - [[1x - References/11 Notes/11.03 Ideas/When we listen fully the speaker communicates differently\|When we listen fully the speaker communicates differently]]
 - [[1x - References/11 Notes/11.03 Ideas/Optimize for interestingness\|Optimize for interestingness]]
 - [[1x - References/11 Notes/11.03 Ideas/How to choose an area of interest to focus on\|How to choose an area of interest to focus on]]
 - [[1x - References/11 Notes/11.03 Ideas/Good conversations lead to higher feelings of happiness\|Good conversations lead to higher feelings of happiness]]
 - [[1x - References/11 Notes/11.03 Ideas/Avoid phubbing - phone snubbing to have better conversations\|Avoid phubbing - phone snubbing to have better conversations]]
 - [[1x - References/11 Notes/11.03 Ideas/Use follow up questions to keep a conversation going\|Use follow up questions to keep a conversation going]]
-- [[1x - References/11 Notes/11.03 Ideas/The first law of ecology - we can never do just one thing\|The first law of ecology - we can never do just one thing]]
 
 
 # Book Reviews

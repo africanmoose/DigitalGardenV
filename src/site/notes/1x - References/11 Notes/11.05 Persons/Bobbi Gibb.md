@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/bobbi-gibb/","title":"Bobbi Gibb","created":"2024-03-18T10:16:06.925+03:00","updated":"2024-03-18T10:39:10.738+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/bobbi-gibb/","title":"Bobbi Gibb","created":"2024-03-18T10:16:06.925+03:00","updated":"2024-08-22T20:16:06.024+03:00"}
 ---
 
-
+![gibb.webp](/img/user/5x%20-%20Arts/54%20Writing/54.10%20substack%20articles%20written/gibb.webp)
 ### Summary
 - 1942 - 
 - First woman to run the Boston Marathon in 1966, at a time when it was believed that women were physically not capable of running a marathon.

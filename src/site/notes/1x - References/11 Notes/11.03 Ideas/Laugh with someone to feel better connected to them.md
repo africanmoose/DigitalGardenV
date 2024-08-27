@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/laugh-with-someone-to-feel-better-connected-to-them/","title":"Laugh with someone to feel better connected to them","created":"2024-08-18T20:28:38.513+03:00","updated":"2024-08-18T20:47:34.204+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/laugh-with-someone-to-feel-better-connected-to-them/","title":"Laugh with someone to feel better connected to them","created":"2024-08-18T20:28:38.513+03:00","updated":"2024-08-18T21:22:06.499+03:00"}
 ---
 
 

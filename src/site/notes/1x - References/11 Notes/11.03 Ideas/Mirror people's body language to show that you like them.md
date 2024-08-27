@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/mirror-people-s-body-language-to-show-that-you-like-them/","title":"Mirror people's body language to show that you like them","created":"2024-08-18T21:24:42.409+03:00","updated":"2024-08-18T23:46:08.480+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/mirror-people-s-body-language-to-show-that-you-like-them/","title":"Mirror people's body language to show that you like them","created":"2024-08-18T21:24:42.409+03:00","updated":"2024-08-19T19:42:32.713+03:00"}
 ---
 
 
