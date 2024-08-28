@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/cues-master-the-secret-language-of-charismatic-communication-vanessa-van-edwards/","title":"Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards","created":"2024-08-14T13:01:40.423+03:00","updated":"2024-08-27T22:50:11.291+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/cues-master-the-secret-language-of-charismatic-communication-vanessa-van-edwards/","title":"Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards","created":"2024-08-14T13:01:40.423+03:00","updated":"2024-08-28T23:01:47.705+03:00"}
 ---
 
 ![Cues - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Cues%20-%20cover.jpg)
@@ -30,7 +30,9 @@
 - [[1x - References/11 Notes/11.03 Ideas/Avoid phubbing - phone snubbing to have better conversations\|Avoid phubbing - phone snubbing to have better conversations]]
 - [[1x - References/11 Notes/11.03 Ideas/It's okay to show feeling when negotiating for a deal\|It's okay to show feeling when negotiating for a deal]]
 - [[1x - References/11 Notes/11.03 Ideas/Avoid verbal fillers like um\|Avoid verbal fillers like um]]
-- 
+- [[1x - References/11 Notes/11.03 Ideas/Pause while speaking\|Pause while speaking]]
+- [[1x - References/11 Notes/11.03 Ideas/Call attention to the idea rather than to yourself\|Call attention to the idea rather than to yourself]]
+- [[1x - References/11 Notes/11.03 Ideas/Warmth and competence signal different people\|Warmth and competence signal different people]]
 
 ### References
 - 

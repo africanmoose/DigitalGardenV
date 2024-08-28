@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-08-13T13:18:04.313+03:00","updated":"2024-08-27T22:50:33.587+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-08-13T13:18:04.313+03:00","updated":"2024-08-28T23:02:21.459+03:00"}
 ---
 
 ## Pic of the week
@@ -39,13 +39,13 @@ Mt Meru in all it's glory.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Call attention to the idea rather than to yourself\|Call attention to the idea rather than to yourself]]
 - [[1x - References/11 Notes/11.03 Ideas/Avoid verbal fillers like um\|Avoid verbal fillers like um]]
 - [[1x - References/11 Notes/11.03 Ideas/When we listen fully the speaker communicates differently\|When we listen fully the speaker communicates differently]]
 - [[1x - References/11 Notes/11.03 Ideas/Optimize for interestingness\|Optimize for interestingness]]
 - [[1x - References/11 Notes/11.03 Ideas/How to choose an area of interest to focus on\|How to choose an area of interest to focus on]]
 - [[1x - References/11 Notes/11.03 Ideas/Good conversations lead to higher feelings of happiness\|Good conversations lead to higher feelings of happiness]]
 - [[1x - References/11 Notes/11.03 Ideas/Avoid phubbing - phone snubbing to have better conversations\|Avoid phubbing - phone snubbing to have better conversations]]
-- [[1x - References/11 Notes/11.03 Ideas/Use follow up questions to keep a conversation going\|Use follow up questions to keep a conversation going]]
 
 
 # Book Reviews
