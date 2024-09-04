@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/warmth-and-competence-signal-different-people/","title":"Warmth and competence signal different people","created":"2024-08-28T22:58:05.264+03:00","updated":"2024-08-28T23:01:16.454+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/warmth-and-competence-signal-different-people/","title":"Warmth and competence signal different people","created":"2024-08-28T22:58:05.264+03:00","updated":"2024-08-29T18:50:12.381+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - Mix both in your presentations to appeal to both types
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 >  Warmth and competence cues can signal the right people. People who respond to warmth want to be inspired. They like stories, jokes, metaphors, and social proof.

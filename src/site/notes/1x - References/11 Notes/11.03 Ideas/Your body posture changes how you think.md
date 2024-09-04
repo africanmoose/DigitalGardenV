@@ -12,7 +12,7 @@
 - uncrossing your arms makes you more creative
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > In a mind-blowing study, researchers in 2017 found that the way you hold your body changes the way you think. Participants were asked to complete creative tasks in different body postures. When participants sat in an open posture, they were significantly more creative! Bottom line: Closed body posture makes us less creative and less open-minded.

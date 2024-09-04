@@ -10,7 +10,7 @@
 - Make a point of turning towards someone when they are speaking.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > When something first catches our attention, we turn our head toward it. Biologically it’s easier and takes less energy to move just our head. If we’re really interested, we turn our torso—all the better to be prepared to engage or embrace the object of our attention. And if we want to give it our full attention and maybe even get closer to investigate, we turn our toes as well.

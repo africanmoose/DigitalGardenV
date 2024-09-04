@@ -11,7 +11,7 @@
 - Use body language to show your genuine interest or disinterest in something
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Most people make the mistake of not looking too excited when negotiating for something they want. This actually works against you! Using nonverbal warmth and competence both builds rapport with your negotiator and helps them respect you—which might get you a better deal.

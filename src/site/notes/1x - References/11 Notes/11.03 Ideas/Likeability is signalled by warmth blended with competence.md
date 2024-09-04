@@ -10,7 +10,7 @@
 - Can apply to online presence: show statistics and charts that signal competence, and pictures to signal warmth
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Highly charismatic people exhibit the perfect blend of warmth and competence. They immediately signal trust and credibility. We see them as friendly and smart, impressive and collaborative. They earn both our respect and admiration.

@@ -12,7 +12,7 @@
 - clear thought leads to clear action
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > There are two important cues we can learn from Konnikova. The first is the importance of fluidity and precision of movement. Powerful and confident people don’t waste energy on purposeless movement. They move with intention. They don’t hesitate. They don’t stall. They aren’t jerky. They know exactly what they want. People with clear thought take clear action. Researchers have found this to be true beyond the poker table as well.

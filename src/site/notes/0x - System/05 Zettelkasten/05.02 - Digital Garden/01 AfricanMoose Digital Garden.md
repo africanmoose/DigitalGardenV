@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-08-13T13:18:04.313+03:00","updated":"2024-08-28T23:02:21.459+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-03T19:52:03.816+03:00","updated":"2024-09-03T19:52:03.816+03:00"}
 ---
 
 ## Pic of the week
-![PXL_20240813_034618234 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/PXL_20240813_034618234%20copy.jpg)
-Mt Meru in all it's glory.
+![PXL_20240831_083208455.jpg](/img/user/PXL_20240831_083208455.jpg)
+Some parts of Nairobi are really really beautiful.
 
 # What is this site for?
 
@@ -50,19 +50,21 @@ Mt Meru in all it's glory.
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
 # Work in Progress
 
-- Processing _[[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]_
+- Reading _Pound Foolish: Exposing the Dark Side of the Personal Finance Industry_
+- Reading _100 Ways to Improve Your Writing: Proven Professional Techniques for Writing With Style and Power_
+- Reading _Kanban and Scrum - making the most of both_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Einstein: His life and universe_
 

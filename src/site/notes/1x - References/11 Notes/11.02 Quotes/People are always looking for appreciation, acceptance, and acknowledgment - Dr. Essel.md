@@ -10,7 +10,7 @@
 Dr. Essel
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+[[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Appreciate older ones\|Appreciate older ones]]

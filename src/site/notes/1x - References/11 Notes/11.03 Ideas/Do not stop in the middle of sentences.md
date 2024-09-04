@@ -10,7 +10,7 @@
 - It could be a sign of lying or being very nervous
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > As you can see, a halt cue is when someone adds an out-of-place pause in the middle of a sentence. Liars halt. So do the very nervous. Since our brains can’t tell the difference, we protectively and instinctively worry that someone is being dishonest. 

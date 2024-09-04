@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-05-10T20:22:00.262+03:00","updated":"2024-08-18T20:24:50.237+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-09-03T19:50:05.874+03:00","updated":"2024-09-03T19:50:05.874+03:00"}
 ---
 
  
@@ -11,6 +11,7 @@
 
 
 ## Recommended 
+- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Wool omnibus - Hugh Howey\|Wool omnibus - Hugh Howey]]
