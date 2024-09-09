@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-03T19:52:03.816+03:00","updated":"2024-09-03T19:52:03.816+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-03T19:52:03.816+03:00","updated":"2024-09-09T21:15:59.196+03:00"}
 ---
 
 ## Pic of the week
-![PXL_20240831_083208455.jpg](/img/user/PXL_20240831_083208455.jpg)
-Some parts of Nairobi are really really beautiful.
+![PXL_20240908_055855335.MP.jpg](/img/user/PXL_20240908_055855335.MP.jpg)
+Nairobi City Marathon - my first marathon. I will be back, perhaps for a longer run this time...
 
 # What is this site for?
 
