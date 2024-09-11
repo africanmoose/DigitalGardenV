@@ -21,7 +21,7 @@ Your body needs to be shocked to become resilient,” Eric explained. Follow the
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Time like open tap\|Time like open tap]]
 - [[1x - References/11 Notes/11.03 Ideas/Ability to do hard things is an asset\|Ability to do hard things is an asset]]
-- [[Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Chose long-term thinking or short-term - you can't do both\|Chose long-term thinking or short-term - you can't do both]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Plough ahead of time\|Plough ahead of time]]
 - [[3x - Spiritual/32 Teaching/32.16 CD spiritual point ideas/Patiently take time to complete the work\|Patiently take time to complete the work]]

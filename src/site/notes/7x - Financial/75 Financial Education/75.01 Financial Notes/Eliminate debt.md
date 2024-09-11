@@ -16,7 +16,7 @@
 - [Simple Dollar](https://web.archive.org/web/20110902020254/http://www.thesimpledollar.com/)
 
 ### Related
-- [[Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]
 - [[1x - References/11 Notes/11.03 Ideas/Sudden insights often the result of long-term thinking and study\|Sudden insights often the result of long-term thinking and study]]
 - [[1x - References/11 Notes/11.02 Quotes/Someone’s sitting in the shade today because someone planted a tree a long time ago - Warren Buffett\|Someone’s sitting in the shade today because someone planted a tree a long time ago - Warren Buffett]]

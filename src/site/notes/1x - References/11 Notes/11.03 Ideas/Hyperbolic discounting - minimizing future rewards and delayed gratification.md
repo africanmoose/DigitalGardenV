@@ -19,5 +19,5 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Cognitive Tools\|Cognitive Tools]]
-- [[Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]

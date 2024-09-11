@@ -14,7 +14,7 @@ fs.blog email Jul 7, 2024
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Think about before making a decision\|Think about before making a decision]]
-- [[Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Happiness comes when we are otherwise engaged\|Happiness comes when we are otherwise engaged]]
 - [[1x - References/11 Notes/11.02 Quotes/Happiness is not in the mere possession of money but in the thrill of creative effort - Franklin D. Roosevelt\|Happiness is not in the mere possession of money but in the thrill of creative effort - Franklin D. Roosevelt]]
 - [[1x - References/11 Notes/11.02 Quotes/The secret to happiness is to lower your expectations - Charlie Munger\|The secret to happiness is to lower your expectations - Charlie Munger]]

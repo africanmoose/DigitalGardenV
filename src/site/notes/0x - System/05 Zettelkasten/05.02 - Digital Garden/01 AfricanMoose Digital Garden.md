@@ -3,7 +3,7 @@
 ---
 
 ## Pic of the week
-![PXL_20240908_055855335.MP.jpg](/img/user/PXL_20240908_055855335.MP.jpg)
+![PXL_20240908_055855335.MP.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/PXL_20240908_055855335.MP.jpg)
 Nairobi City Marathon - my first marathon. I will be back, perhaps for a longer run this time...
 
 # What is this site for?

@@ -13,7 +13,7 @@ Entrepreneur and investor **Matt Griswold** 
 3-2-1 email James Clear Jan 4, 2024
 
 ## Related
-- [[Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]
 - [[1x - References/11 Notes/11.03 Ideas/Chose long-term thinking or short-term - you can't do both\|Chose long-term thinking or short-term - you can't do both]]
 - [[1x - References/11 Notes/11.03 Ideas/Review values and long term goals regularly\|Review values and long term goals regularly]]

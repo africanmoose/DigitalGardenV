@@ -15,6 +15,6 @@ James Clear
 ## Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Time like open tap\|Time like open tap]]
 - [[1x - References/11 Notes/11.03 Ideas/Thinking is hard work\|Thinking is hard work]]
-- [[Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Plan but dont overplan\|Plan but dont overplan]]
 - [[1x - References/11 Notes/11.03 Ideas/Review values and long term goals regularly\|Review values and long term goals regularly]]
