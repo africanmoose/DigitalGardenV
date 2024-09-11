@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-03T19:52:03.816+03:00","updated":"2024-09-09T21:15:59.196+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-03T19:52:03.816+03:00","updated":"2024-09-11T22:41:49.178+03:00"}
 ---
 
 ## Pic of the week
@@ -62,6 +62,7 @@ Nairobi City Marathon - my first marathon. I will be back, perhaps for a longer 
 
 # Work in Progress
 
+- Processing _[[0x - System/01 Index/01.04 Notes in process/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - Reading _Pound Foolish: Exposing the Dark Side of the Personal Finance Industry_
 - Reading _100 Ways to Improve Your Writing: Proven Professional Techniques for Writing With Style and Power_
 - Reading _Kanban and Scrum - making the most of both_
