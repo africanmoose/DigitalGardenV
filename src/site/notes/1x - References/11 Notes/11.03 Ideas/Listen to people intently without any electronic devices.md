@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/listen-to-people-intently-without-any-electronic-devices/","title":"Listen to people intently without any electronic devices","created":"2024-09-11T22:36:21.970+03:00","updated":"2024-09-11T22:39:31.803+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/listen-to-people-intently-without-any-electronic-devices/","title":"Listen to people intently without any electronic devices","created":"2024-09-11T22:36:21.970+03:00","updated":"2024-09-12T00:03:43.796+03:00"}
 ---
 
 
