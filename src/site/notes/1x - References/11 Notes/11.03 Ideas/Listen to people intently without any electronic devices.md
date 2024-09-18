@@ -11,7 +11,7 @@
 - Even looking at a smart watch instantly loses the person
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 
 ### Quotes
 > To listen intently, make sure you leave the technology in the car or at least in another room. I’m old school—I bring a pad of paper and a pen to take notes. I do not, under any circumstances, use an electronic device in front of clients. That includes cell phones, tablets, smart watches, and headphones with music. If I divert my attention every few minutes to check my email or look at an incoming text message, my clients sense my lack of interest. If you must have your device with you, put it on airplane mode and turn off the ringer and vibrator. Think how offensive it is if someone is pouring out his heart out to you and you respond by looking down at your buzzing watch. He now thinks something else is more important than he is, and is less inclined to trust you with his most treasured items as a result.

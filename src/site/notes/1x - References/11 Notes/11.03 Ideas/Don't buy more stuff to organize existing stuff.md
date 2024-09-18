@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/don-t-buy-more-stuff-to-organize-existing-stuff/","title":"Don't buy more stuff to organize existing stuff","created":"2024-09-12T20:22:13.103+03:00","updated":"2024-09-12T20:25:14.451+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/don-t-buy-more-stuff-to-organize-existing-stuff/","title":"Don't buy more stuff to organize existing stuff","created":"2024-09-12T20:22:13.103+03:00","updated":"2024-09-12T21:06:10.118+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - It is illogical that getting more stuff will help us organize our stuff. The correct thing to do is get rid of stuff
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 
 ### Quotes
 > I understood the impulse. It was clear what he was getting at, although I don’t think he knew it—he wanted to buy organizing supplies as a way to avoid the scary feeling of starting to declutter. But I told him that he didn’t need to buy a bunch of bins and fancy labeling systems. More important, he shouldn’t! Getting more stuff is a particularly bad way to have less stuff. Indeed, for many people, too much consumption is what got us into our cluttered situation in the first place.
