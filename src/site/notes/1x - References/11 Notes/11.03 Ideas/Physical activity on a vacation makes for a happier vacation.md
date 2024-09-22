@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/physical-activity-on-a-vacation-makes-for-a-happier-vacation/","title":"Physical activity on a vacation makes for a happier vacation","created":"2024-09-21T20:34:54.342+03:00","updated":"2024-09-21T20:36:32.694+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/physical-activity-on-a-vacation-makes-for-a-happier-vacation/","title":"Physical activity on a vacation makes for a happier vacation","created":"2024-09-21T20:34:54.342+03:00","updated":"2024-09-22T09:14:59.120+03:00"}
 ---
 
 
 ### Summary
-- 
+- Being pssive on a vacation leads to loneliness, boredom and mental space to focus on work even when we are away.
+- A physical activity leads to more happiness
 
 ### Details
-- 
+- When our mind is unoccuped, it is often self-absorbed, and generally not happy.
+- When we are focussed on something physical our mind has not time to think of itself
 
 ### References
 - [article from the atlantic](https://www.theatlantic.com/health/archive/2022/08/exercising-on-vacation-psychological-benefits/671036/)
@@ -20,4 +22,7 @@
 >When we are _really_ engaged in activities, we have less opportunity to worry and feel bad. That might be because focusing on a task temporarily quiets the [default network](https://www.pnas.org/doi/abs/10.1073/pnas.1119598109), a set of interconnected brain regions that is most active when a person is self-focused, thinking about the past or imagining the future. The default network is deactivated when people focus on the outside world—and, intriguingly, when they use [psychedelics](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00020/full). In other words, when our full attention is taken up by something outside of ourselves, we are freed from the uncomfortable burden of self-awareness.
 
 ### Related
-- 
+- [[1x - References/11 Notes/11.03 Ideas/Happiness comes when we are otherwise engaged\|Happiness comes when we are otherwise engaged]]
+- [[1x - References/11 Notes/11.02 Quotes/Happiness is not in the mere possession of money but in the thrill of creative effort - Franklin D. Roosevelt\|Happiness is not in the mere possession of money but in the thrill of creative effort - Franklin D. Roosevelt]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovah created us to get more happiness from giving than receiving so that we can influence our own happiness\|Jehovah created us to get more happiness from giving than receiving so that we can influence our own happiness]]
+- [[1x - References/11 Notes/11.03 Ideas/Narcissism\|Narcissism]]
