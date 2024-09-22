@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-art-of-conversation-is-the-art-of-hearing-as-well-as-of-being-heard-some-of-the-best-talkers-are-on-this-account-the-worst-company-william-hazlitt/","title":"The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt","created":"2024-07-23T19:16:04.523+03:00","updated":"2024-07-23T21:25:57.978+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-art-of-conversation-is-the-art-of-hearing-as-well-as-of-being-heard-some-of-the-best-talkers-are-on-this-account-the-worst-company-william-hazlitt/","title":"The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt","created":"2024-07-23T19:16:04.523+03:00","updated":"2024-09-21T18:30:28.007+03:00"}
 ---
 
 
@@ -13,6 +13,7 @@
 ## Reference
 - _On the Conversation of Authors_, published in 1820
 - [wired](https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/?category=fascinating_stories&position=4&scheduled_corpus_item_id=73458899-9c01-4b9f-871f-1acc17eecdef&sponsored=0&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fthe-science-of-having-a-great-conversation-research-social-connection%2F)
+- Hazlitt noted that many of his literary acquaintances—who included Samuel Taylor Coleridge, Stendhal, and William Wordsworth—were so keen to show off their wit and intelligence that they lacked the basic civility of listening to others. He instead recommended that we imitate the painter James Northcote, who, he claimed, was the best listener and—as a result—the best converser that he knew. “I never ate or drank with Mr Northcote; but I have lived on his conversation with undiminished relish ever since I can remember,” 
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/I like to have nice conversations with a man that teach me something, make me mad, make me curious - Renee Zellweiger\|I like to have nice conversations with a man that teach me something, make me mad, make me curious - Renee Zellweiger]]
