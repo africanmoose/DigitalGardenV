@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/physical-activity-on-a-vacation-makes-for-a-happier-vacation/","title":"Physical activity on a vacation makes for a happier vacation","created":"2024-09-21T20:34:54.342+03:00","updated":"2024-09-22T09:14:59.120+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/physical-activity-on-a-vacation-makes-for-a-happier-vacation/","title":"Physical activity on a vacation makes for a happier vacation","created":"2024-09-21T20:34:54.342+03:00","updated":"2024-09-22T09:15:32.015+03:00"}
 ---
 
 
 ### Summary
-- Being pssive on a vacation leads to loneliness, boredom and mental space to focus on work even when we are away.
+- Being passive on a vacation leads to loneliness, boredom and mental space to focus on work even when we are away.
 - A physical activity leads to more happiness
 
 ### Details

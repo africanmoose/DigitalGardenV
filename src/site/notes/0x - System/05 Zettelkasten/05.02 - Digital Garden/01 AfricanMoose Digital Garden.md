@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-17T19:39:36.238+03:00","updated":"2024-09-18T17:44:34.923+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-17T19:39:36.238+03:00","updated":"2024-09-22T17:49:12.197+03:00"}
 ---
 
 ## Pic of the week
@@ -28,6 +28,7 @@ Nairobi City Marathon - my first marathon. I will be back, perhaps for a longer 
 
 # Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Bruce Lee\|Bruce Lee]]
 - [[1x - References/11 Notes/11.05 Persons/Genghis Khan\|Genghis Khan]]
 - [[1x - References/11 Notes/11.05 Persons/Paul Erdős\|Paul Erdős]]
 - [[1x - References/11 Notes/11.05 Persons/Benoit Mandelbrot\|Benoit Mandelbrot]]
@@ -35,7 +36,6 @@ Nairobi City Marathon - my first marathon. I will be back, perhaps for a longer 
 - [[1x - References/11 Notes/11.05 Persons/Tadao Ando\|Tadao Ando]]
 - [[1x - References/11 Notes/11.05 Persons/Shizo Kanakuri\|Shizo Kanakuri]]
 - [[1x - References/11 Notes/11.05 Persons/Bobbi Gibb\|Bobbi Gibb]]
-- [[1x - References/11 Notes/11.05 Persons/William Gladstone\|William Gladstone]]
 
 # Interesting Ideas
 
