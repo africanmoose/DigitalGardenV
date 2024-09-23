@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-17T19:39:36.238+03:00","updated":"2024-09-22T17:49:12.197+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-17T19:39:36.238+03:00","updated":"2024-09-23T07:58:47.668+03:00"}
 ---
 
-## Pic of the week
-![PXL_20240908_055855335.MP.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/PXL_20240908_055855335.MP.jpg)
-Nairobi City Marathon - my first marathon. I will be back, perhaps for a longer run this time...
+## Pic of the week 
+![PXL_20240920_152749513 copy.jpg](/img/user/PXL_20240920_152749513%20copy.jpg)
+Mt Kenya showed herself for a few minutes in the evening.
 
 # What is this site for?
 
