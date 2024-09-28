@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/physical-activity-on-a-vacation-makes-for-a-happier-vacation/","title":"Physical activity on a vacation makes for a happier vacation","created":"2024-09-21T20:34:54.342+03:00","updated":"2024-09-22T09:15:32.015+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/physical-activity-on-a-vacation-makes-for-a-happier-vacation/","title":"Physical activity on a vacation makes for a happier vacation","created":"2024-09-21T20:34:54.342+03:00","updated":"2024-09-23T15:17:46.584+03:00"}
 ---
 
 

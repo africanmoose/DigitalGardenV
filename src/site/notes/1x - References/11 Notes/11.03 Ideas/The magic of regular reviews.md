@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-magic-of-regular-reviews/","title":"The magic of regular reviews","created":"2024-09-21T18:02:11.933+03:00","updated":"2024-09-21T18:11:11.296+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-magic-of-regular-reviews/","title":"The magic of regular reviews","created":"2024-09-21T18:02:11.933+03:00","updated":"2024-09-23T15:17:45.786+03:00"}
 ---
 
 

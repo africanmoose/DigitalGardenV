@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-having-a-conversation-give-your-full-attention-to-the-person/","title":"permanent note","created":"2024-09-21T19:32:35.620+03:00","updated":"2024-09-21T19:43:43.378+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-having-a-conversation-give-your-full-attention-to-the-person/","title":"permanent note","created":"2024-09-21T19:32:35.620+03:00","updated":"2024-09-23T15:17:47.543+03:00"}
 ---
 
 

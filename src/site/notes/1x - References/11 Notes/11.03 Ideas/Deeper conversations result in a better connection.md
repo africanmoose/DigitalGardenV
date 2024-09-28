@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/deeper-conversations-result-in-a-better-connection/","title":"Deeper conversations result in a better connection","created":"2024-09-21T19:53:47.613+03:00","updated":"2024-09-21T20:12:23.068+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/deeper-conversations-result-in-a-better-connection/","title":"Deeper conversations result in a better connection","created":"2024-09-21T19:53:47.613+03:00","updated":"2024-09-23T15:17:46.606+03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/novelty-penalty-people-prefer-to-hear-about-familiar-ideas-and-experiences/","title":"Novelty penalty - people prefer to hear about familiar ideas and experiences","created":"2024-09-21T20:14:57.176+03:00","updated":"2024-09-21T20:20:49.554+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/novelty-penalty-people-prefer-to-hear-about-familiar-ideas-and-experiences/","title":"Novelty penalty - people prefer to hear about familiar ideas and experiences","created":"2024-09-21T20:14:57.176+03:00","updated":"2024-09-23T15:17:45.808+03:00"}
 ---
 
 

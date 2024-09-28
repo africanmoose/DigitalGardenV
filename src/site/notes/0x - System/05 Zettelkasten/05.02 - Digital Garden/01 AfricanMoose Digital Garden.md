@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-17T19:39:36.238+03:00","updated":"2024-09-23T07:58:47.668+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-09-26T17:33:12.288+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20240920_152749513 copy.jpg](/img/user/PXL_20240920_152749513%20copy.jpg)
+![PXL_20240920_152749513 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/PXL_20240920_152749513%20copy.jpg)
 Mt Kenya showed herself for a few minutes in the evening.
 
 # What is this site for?
@@ -39,14 +39,13 @@ Mt Kenya showed herself for a few minutes in the evening.
 
 # Interesting Ideas
 
-- [[1x - References/11 Notes/11.03 Ideas/Call attention to the idea rather than to yourself\|Call attention to the idea rather than to yourself]]
-- [[1x - References/11 Notes/11.03 Ideas/Avoid verbal fillers like um\|Avoid verbal fillers like um]]
-- [[1x - References/11 Notes/11.03 Ideas/When we listen fully the speaker communicates differently\|When we listen fully the speaker communicates differently]]
-- [[1x - References/11 Notes/11.03 Ideas/Optimize for interestingness\|Optimize for interestingness]]
-- [[1x - References/11 Notes/11.03 Ideas/How to choose an area of interest to focus on\|How to choose an area of interest to focus on]]
-- [[1x - References/11 Notes/11.03 Ideas/Good conversations lead to higher feelings of happiness\|Good conversations lead to higher feelings of happiness]]
-- [[1x - References/11 Notes/11.03 Ideas/Avoid phubbing - phone snubbing to have better conversations\|Avoid phubbing - phone snubbing to have better conversations]]
-
+- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Keep it simple\|Programming principles that work in real life - Keep it simple]]
+- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use principles instead of rules\|Programming principles that work in real life - Use principles instead of rules]]
+- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Dont be emotionally attached to your code\|Programming principles that work in real life - Dont be emotionally attached to your code]]
+- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use consistent standards\|Programming principles that work in real life - Use consistent standards]]
+- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Code for humans\|Programming principles that work in real life - Code for humans]]
+- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Communicate well\|Programming principles that work in real life - Communicate well]]
+- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Slow down to speed up\|Programming principles that work in real life - Slow down to speed up]]
 
 # Book Reviews
 

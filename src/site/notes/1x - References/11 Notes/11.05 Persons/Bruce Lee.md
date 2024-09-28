@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/bruce-lee/","title":"Bruce Lee","created":"2024-09-22T17:23:25.044+03:00","updated":"2024-09-23T07:56:25.945+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/bruce-lee/","title":"Bruce Lee","created":"2024-09-22T17:23:25.044+03:00","updated":"2024-09-23T15:17:49.618+03:00"}
 ---
 
 ![](https://proxy-prod.omnivore-image-cache.app/600x338,sPGDUH90L-Eh0x36NKqXyNzPdH5GJlW0xO-qxl9_qUGo/https://content.artofmanliness.com/uploads/2024/07/bruce-6.webp)

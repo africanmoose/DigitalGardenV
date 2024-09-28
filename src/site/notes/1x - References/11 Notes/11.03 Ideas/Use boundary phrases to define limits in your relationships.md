@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-boundary-phrases-to-define-limits-in-your-relationships/","title":"Use boundary phrases to define limits in your relationships","created":"2024-09-22T17:07:27.147+03:00","updated":"2024-09-22T17:15:36.839+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-boundary-phrases-to-define-limits-in-your-relationships/","title":"Use boundary phrases to define limits in your relationships","created":"2024-09-22T17:07:27.147+03:00","updated":"2024-09-23T15:17:49.221+03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-a-new-language-causes-one-to-take-on-a-new-personality/","title":"Learning a new language causes one to take on a new personality","created":"2024-09-20T19:30:48.392+03:00","updated":"2024-09-20T21:17:02.678+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-a-new-language-causes-one-to-take-on-a-new-personality/","title":"Learning a new language causes one to take on a new personality","created":"2024-09-20T19:30:48.392+03:00","updated":"2024-09-23T15:17:46.594+03:00"}
 ---
 
 

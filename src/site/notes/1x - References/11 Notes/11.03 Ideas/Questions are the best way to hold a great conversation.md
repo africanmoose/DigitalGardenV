@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/questions-are-the-best-way-to-hold-a-great-conversation/","title":"Questions are the best way to hold a great conversation","created":"2024-09-21T18:32:40.657+03:00","updated":"2024-09-21T19:28:24.140+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/questions-are-the-best-way-to-hold-a-great-conversation/","title":"Questions are the best way to hold a great conversation","created":"2024-09-21T18:32:40.657+03:00","updated":"2024-09-23T15:17:46.567+03:00"}
 ---
 
 

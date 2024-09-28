@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-a-language-is-exceedingly-complex/","title":"Learning a language is exceedingly complex","created":"2024-09-20T19:14:15.612+03:00","updated":"2024-09-20T19:25:55.145+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-a-language-is-exceedingly-complex/","title":"Learning a language is exceedingly complex","created":"2024-09-20T19:14:15.612+03:00","updated":"2024-09-23T15:17:46.599+03:00"}
 ---
 
 

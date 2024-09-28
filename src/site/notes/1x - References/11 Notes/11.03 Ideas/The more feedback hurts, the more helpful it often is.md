@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-more-feedback-hurts-the-more-helpful-it-often-is/","title":"The more feedback hurts, the more helpful it often is","created":"2024-09-20T21:28:02.889+03:00","updated":"2024-09-20T21:38:11.438+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-more-feedback-hurts-the-more-helpful-it-often-is/","title":"The more feedback hurts, the more helpful it often is","created":"2024-09-20T21:28:02.889+03:00","updated":"2024-09-23T15:17:47.539+03:00"}
 ---
 
 
