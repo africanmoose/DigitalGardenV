@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-09-26T17:33:12.288+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-09-29T09:48:01.774+03:00"}
 ---
 
 ## Pic of the week 
@@ -39,30 +39,28 @@ Mt Kenya showed herself for a few minutes in the evening.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Infuse your writing with your opinion\|Infuse your writing with your opinion]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Keep it simple\|Programming principles that work in real life - Keep it simple]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use principles instead of rules\|Programming principles that work in real life - Use principles instead of rules]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Dont be emotionally attached to your code\|Programming principles that work in real life - Dont be emotionally attached to your code]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use consistent standards\|Programming principles that work in real life - Use consistent standards]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Code for humans\|Programming principles that work in real life - Code for humans]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Communicate well\|Programming principles that work in real life - Communicate well]]
-- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Slow down to speed up\|Programming principles that work in real life - Slow down to speed up]]
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
 # Work in Progress
 
-- Reading _Pound Foolish: Exposing the Dark Side of the Personal Finance Industry_
-- Reading _100 Ways to Improve Your Writing: Proven Professional Techniques for Writing With Style and Power_
 - Reading _Kanban and Scrum - making the most of both_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Einstein: His life and universe_

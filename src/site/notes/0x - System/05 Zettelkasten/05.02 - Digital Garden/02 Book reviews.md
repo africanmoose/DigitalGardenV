@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-09-17T19:39:44.987+03:00","updated":"2024-09-17T19:39:44.987+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2024-09-17T19:39:44.987+03:00","updated":"2024-09-29T09:22:54.399+03:00"}
 ---
 
  
@@ -52,6 +52,8 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey\|Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+
 
 ## Interesting but dont go out of your way
  - [[4x - Reading/41 Books/41.02 Book reviews/Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett\|Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett]]
