@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/100-ways-to-improve-your-writing-proven-professional-techniques-for-writing-with-style-and-power-gary-provost/","title":"100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost","created":"2024-09-19T20:36:29.073+03:00","updated":"2024-09-29T10:05:01.888+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/100-ways-to-improve-your-writing-proven-professional-techniques-for-writing-with-style-and-power-gary-provost/","title":"100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost","created":"2024-09-19T20:36:29.073+03:00","updated":"2024-09-29T20:54:07.209+03:00"}
 ---
 
 ![100 ways - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/100%20ways%20-%20cover.jpg)

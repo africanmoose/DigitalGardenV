@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-09-29T21:46:53.478+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-09-29T22:07:44.379+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20240924_145705077 copy.jpg](/img/user/PXL_20240924_145705077%20copy.jpg)
+![PXL_20240924_145705077 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240924_145705077%20copy.jpg)
 Upcountry kilifi at sunset.
 
 # What is this site for?
@@ -39,13 +39,13 @@ Upcountry kilifi at sunset.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Extensive planning only works for achievements that can be described in advance\|Extensive planning only works for achievements that can be described in advance]]
 - [[1x - References/11 Notes/11.03 Ideas/Infuse your writing with your opinion\|Infuse your writing with your opinion]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Keep it simple\|Programming principles that work in real life - Keep it simple]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use principles instead of rules\|Programming principles that work in real life - Use principles instead of rules]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Dont be emotionally attached to your code\|Programming principles that work in real life - Dont be emotionally attached to your code]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use consistent standards\|Programming principles that work in real life - Use consistent standards]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Code for humans\|Programming principles that work in real life - Code for humans]]
-- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Communicate well\|Programming principles that work in real life - Communicate well]]
 
 # Book Reviews
 
