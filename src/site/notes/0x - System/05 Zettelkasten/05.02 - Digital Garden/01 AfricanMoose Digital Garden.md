@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-09-29T09:48:01.774+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-09-29T10:45:30.136+03:00"}
 ---
 
 ## Pic of the week 
@@ -49,7 +49,7 @@ Mt Kenya showed herself for a few minutes in the evening.
 
 # Book Reviews
 
-- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost]]
+- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]

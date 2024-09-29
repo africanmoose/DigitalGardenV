@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/write-short-paragraphs/","title":"Write short paragraphs","created":"2024-09-29T09:05:54.862+03:00","updated":"2024-09-29T09:07:29.311+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/write-short-paragraphs/","title":"Write short paragraphs","created":"2024-09-29T09:05:54.862+03:00","updated":"2024-09-29T10:45:30.619+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - Helps make writing clear, easy to read and easy to understand.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost]]
+- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 
 ### Quotes
 > Your writing will be faster, livelier, and clearer if you write short paragraphs. The reader will welcome the break and the white space. You will be less likely to get tied up in verbal knots. Your thoughts will be better organized and more succinctly expressed. You and the reader will find it easier to locate specific statements.

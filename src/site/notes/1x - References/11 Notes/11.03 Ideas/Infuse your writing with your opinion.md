@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/infuse-your-writing-with-your-opinion/","title":"Infuse your writing with your opinion","created":"2024-09-29T09:17:37.341+03:00","updated":"2024-09-29T09:19:36.196+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/infuse-your-writing-with-your-opinion/","title":"Infuse your writing with your opinion","created":"2024-09-29T09:17:37.341+03:00","updated":"2024-09-29T10:45:30.752+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - Be fair: include the opinions of those who dont agree with you
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and PowerGary Provost]]
+- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 
 ### Quotes
 > Few things are duller than a man or woman without an opinion. Your opinion is not always appropriate, but often it is the thing that gives writing its life and color. In fact, it is frequently dishonest to hide your opinion because it will find its way into your writing anyhow by influencing your choice of what material to include and what to ignore. I often color my stories with my opinion. I think it makes for moreinteresting writing. But I try to be fair, also. If I put my opinion into the story, I also include opinions of people who don’t agree with me
