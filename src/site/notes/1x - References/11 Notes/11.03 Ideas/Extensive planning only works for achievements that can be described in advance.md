@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/extensive-planning-only-works-for-achievements-that-can-be-described-in-advance/","title":"Extensive planning only works for achievements that can be described in advance","created":"2024-09-29T22:04:33.104+03:00","updated":"2024-09-29T22:07:24.840+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/extensive-planning-only-works-for-achievements-that-can-be-described-in-advance/","title":"Extensive planning only works for achievements that can be described in advance","created":"2024-09-29T22:04:33.104+03:00","updated":"2024-09-30T17:55:54.439+03:00"}
 ---
 
 

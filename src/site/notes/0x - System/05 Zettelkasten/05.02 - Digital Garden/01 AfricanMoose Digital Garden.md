@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-09-29T22:07:44.379+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-02T21:29:16.752+03:00"}
 ---
 
 ## Pic of the week 
@@ -18,13 +18,13 @@ Upcountry kilifi at sunset.
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/When you're procrastinating in units of years, you can get a lot not done - Paul Graham\|When you're procrastinating in units of years, you can get a lot not done - Paul Graham]]
 - [[1x - References/11 Notes/11.02 Quotes/People are always looking for appreciation, acceptance, and acknowledgment - Dr. Essel\|People are always looking for appreciation, acceptance, and acknowledgment - Dr. Essel]]
 - [[1x - References/11 Notes/11.02 Quotes/A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton\|A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton]]
 - [[1x - References/11 Notes/11.02 Quotes/Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan\|Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan]]
 - [[1x - References/11 Notes/11.02 Quotes/The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt\|The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt]]
 - [[1x - References/11 Notes/11.02 Quotes/Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday\|Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday]]
 - [[1x - References/11 Notes/11.02 Quotes/Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis\|Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis]]
-- [[1x - References/11 Notes/11.02 Quotes/As our island of knowledge grows, so does the shore of our ignorance - John Wheeler\|As our island of knowledge grows, so does the shore of our ignorance - John Wheeler]]
 
 # Interesting Persons
 
@@ -39,13 +39,13 @@ Upcountry kilifi at sunset.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Don't be too choosy about what work you want to do, but finish what you start\|Don't be too choosy about what work you want to do, but finish what you start]]
 - [[1x - References/11 Notes/11.03 Ideas/Extensive planning only works for achievements that can be described in advance\|Extensive planning only works for achievements that can be described in advance]]
 - [[1x - References/11 Notes/11.03 Ideas/Infuse your writing with your opinion\|Infuse your writing with your opinion]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Keep it simple\|Programming principles that work in real life - Keep it simple]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use principles instead of rules\|Programming principles that work in real life - Use principles instead of rules]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Dont be emotionally attached to your code\|Programming principles that work in real life - Dont be emotionally attached to your code]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use consistent standards\|Programming principles that work in real life - Use consistent standards]]
-- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Code for humans\|Programming principles that work in real life - Code for humans]]
 
 # Book Reviews
 

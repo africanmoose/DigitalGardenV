@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-worry-if-your-tastes-are-different-from-other-people/","title":"Dont worry if your tastes are different from other people","created":"2024-09-29T22:00:37.203+03:00","updated":"2024-09-29T22:03:30.503+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-worry-if-your-tastes-are-different-from-other-people/","title":"Dont worry if your tastes are different from other people","created":"2024-09-29T22:00:37.203+03:00","updated":"2024-09-30T17:55:53.421+03:00"}
 ---
 
 
