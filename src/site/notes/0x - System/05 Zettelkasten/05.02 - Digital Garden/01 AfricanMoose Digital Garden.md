@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-02T21:29:16.752+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-02T22:25:46.981+03:00"}
 ---
 
 ## Pic of the week 
@@ -89,7 +89,7 @@ Apparently, my top artists of 2023 are:
 
 [Africanmoose Travel Blog](https://africanmoose.blogspot.com)
 [Africanmoose Photography](http://Africanmoose.com)
-[Africanmoose Substack - an article about every week or so](africanmoose.substack.com)
+[Africanmoose Substack - an article about every week or so](https://africanmoose.substack.com)
 
 # RSS feed
 
