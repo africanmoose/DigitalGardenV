@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-02T22:25:46.981+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-13T08:51:46.847+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20240924_145705077 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240924_145705077%20copy.jpg)
-Upcountry kilifi at sunset.
+![PXL_20240925_143106416.jpg](/img/user/PXL_20240925_143106416.jpg)
+Golden hour in Kilifi.
 
 # What is this site for?
 
@@ -39,23 +39,22 @@ Upcountry kilifi at sunset.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Start small and create successive versions\|Start small and create successive versions]]
 - [[1x - References/11 Notes/11.03 Ideas/Don't be too choosy about what work you want to do, but finish what you start\|Don't be too choosy about what work you want to do, but finish what you start]]
 - [[1x - References/11 Notes/11.03 Ideas/Extensive planning only works for achievements that can be described in advance\|Extensive planning only works for achievements that can be described in advance]]
 - [[1x - References/11 Notes/11.03 Ideas/Infuse your writing with your opinion\|Infuse your writing with your opinion]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Keep it simple\|Programming principles that work in real life - Keep it simple]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use principles instead of rules\|Programming principles that work in real life - Use principles instead of rules]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Dont be emotionally attached to your code\|Programming principles that work in real life - Dont be emotionally attached to your code]]
-- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use consistent standards\|Programming principles that work in real life - Use consistent standards]]
 
 # Book Reviews
-
+- [[0x - System/01 Index/01.04 Notes in process/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]]
 - [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
