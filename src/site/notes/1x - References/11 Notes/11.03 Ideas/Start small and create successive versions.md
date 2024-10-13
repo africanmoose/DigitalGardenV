@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/start-small-and-create-successive-versions/","title":"Start small and create successive versions","created":"2024-10-13T07:59:24.457+03:00","updated":"2024-10-13T08:09:04.420+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/start-small-and-create-successive-versions/","title":"Start small and create successive versions","created":"2024-10-13T07:59:24.457+03:00","updated":"2024-10-13T08:42:13.980+03:00"}
 ---
 
 

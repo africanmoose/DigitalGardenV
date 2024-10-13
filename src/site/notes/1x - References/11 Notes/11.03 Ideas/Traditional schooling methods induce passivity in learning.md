@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/traditional-schooling-methods-induce-passivity-in-learning/","title":"Traditional schooling methods induce passivity in learning","created":"2024-10-13T08:14:59.544+03:00","updated":"2024-10-13T08:30:42.741+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/traditional-schooling-methods-induce-passivity-in-learning/","title":"Traditional schooling methods induce passivity in learning","created":"2024-10-13T08:14:59.544+03:00","updated":"2024-10-13T08:42:13.984+03:00"}
 ---
 
 

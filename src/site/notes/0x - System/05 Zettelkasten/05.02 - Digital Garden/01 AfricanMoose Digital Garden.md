@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-13T08:51:46.847+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-13T19:28:08.991+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20240925_143106416.jpg](/img/user/PXL_20240925_143106416.jpg)
+![PXL_20240925_143106416.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240925_143106416.jpg)
 Golden hour in Kilifi.
 
 # What is this site for?
@@ -18,13 +18,14 @@ Golden hour in Kilifi.
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/It's never too late to do something you love - Pharrel Williams\|It's never too late to do something you love - Pharrel Williams]]
 - [[1x - References/11 Notes/11.02 Quotes/When you're procrastinating in units of years, you can get a lot not done - Paul Graham\|When you're procrastinating in units of years, you can get a lot not done - Paul Graham]]
 - [[1x - References/11 Notes/11.02 Quotes/People are always looking for appreciation, acceptance, and acknowledgment - Dr. Essel\|People are always looking for appreciation, acceptance, and acknowledgment - Dr. Essel]]
 - [[1x - References/11 Notes/11.02 Quotes/A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton\|A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton]]
 - [[1x - References/11 Notes/11.02 Quotes/Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan\|Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan]]
 - [[1x - References/11 Notes/11.02 Quotes/The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt\|The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt]]
 - [[1x - References/11 Notes/11.02 Quotes/Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday\|Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday]]
-- [[1x - References/11 Notes/11.02 Quotes/Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis\|Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis]]
+
 
 # Interesting Persons
 
@@ -48,7 +49,7 @@ Golden hour in Kilifi.
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Dont be emotionally attached to your code\|Programming principles that work in real life - Dont be emotionally attached to your code]]
 
 # Book Reviews
-- [[0x - System/01 Index/01.04 Notes in process/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]]
+- [[4x - Reading/43 Blog Reading/43.02 Blog Notes/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]]
 - [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]

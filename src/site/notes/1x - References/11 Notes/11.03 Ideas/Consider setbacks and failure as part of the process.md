@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/consider-setbacks-and-failure-as-part-of-the-process/","title":"Consider setbacks and failure as part of the process","created":"2024-10-13T08:34:18.560+03:00","updated":"2024-10-13T08:36:22.116+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/consider-setbacks-and-failure-as-part-of-the-process/","title":"Consider setbacks and failure as part of the process","created":"2024-10-13T08:34:18.560+03:00","updated":"2024-10-13T09:09:22.565+03:00"}
 ---
 
 

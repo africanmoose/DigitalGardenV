@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/if-you-are-smart-its-dangerous-not-to-be-productive/","title":"If you are smart, its dangerous not to be productive","created":"2024-10-13T08:36:51.766+03:00","updated":"2024-10-13T08:40:24.624+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/if-you-are-smart-its-dangerous-not-to-be-productive/","title":"If you are smart, its dangerous not to be productive","created":"2024-10-13T08:36:51.766+03:00","updated":"2024-10-13T09:09:22.543+03:00"}
 ---
 
 
