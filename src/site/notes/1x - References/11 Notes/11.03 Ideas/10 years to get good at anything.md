@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/10-years-to-get-good-at-anything/","title":"10 years to get good at anything","created":"2024-06-20T12:29:32.428+03:00","updated":"2024-06-20T12:29:32.428+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/10-years-to-get-good-at-anything/","title":"10 years to get good at anything","created":"2024-06-20T12:29:32.428+03:00","updated":"2024-10-19T15:49:28.296+03:00"}
 ---
 
 
@@ -38,3 +38,5 @@ In followup studies, Hayes found similar patterns among famous painters and popu
 - [[1x - References/11 Notes/11.03 Ideas/Variable practise helps learn better\|Variable practise helps learn better]]
 - [[1x - References/11 Notes/11.03 Ideas/Intentional practise needed to improve\|Intentional practise needed to improve]]
 - [[1x - References/11 Notes/11.03 Ideas/Time is a tool\|Time is a tool]]
+- [[1x - References/11 Notes/11.03 Ideas/Learning skills takes time\|Learning skills takes time]]
+- 

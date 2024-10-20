@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-13T19:28:08.991+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-20T21:44:22.677+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20240925_143106416.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240925_143106416.jpg)
-Golden hour in Kilifi.
+![PXL_20230209_113656612 copy.jpg](/img/user/PXL_20230209_113656612%20copy.jpg)
+More complexity in one tree than in any man-made object.
 
 # What is this site for?
 
@@ -18,13 +18,13 @@ Golden hour in Kilifi.
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/The good artist's or thinker's imagination is continually producing things good, mediocre and bad - Friedrich Nietzsche\|The good artist's or thinker's imagination is continually producing things good, mediocre and bad - Friedrich Nietzsche]]
 - [[1x - References/11 Notes/11.02 Quotes/It's never too late to do something you love - Pharrel Williams\|It's never too late to do something you love - Pharrel Williams]]
 - [[1x - References/11 Notes/11.02 Quotes/When you're procrastinating in units of years, you can get a lot not done - Paul Graham\|When you're procrastinating in units of years, you can get a lot not done - Paul Graham]]
 - [[1x - References/11 Notes/11.02 Quotes/People are always looking for appreciation, acceptance, and acknowledgment - Dr. Essel\|People are always looking for appreciation, acceptance, and acknowledgment - Dr. Essel]]
 - [[1x - References/11 Notes/11.02 Quotes/A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton\|A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton]]
 - [[1x - References/11 Notes/11.02 Quotes/Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan\|Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan]]
 - [[1x - References/11 Notes/11.02 Quotes/The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt\|The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt]]
-- [[1x - References/11 Notes/11.02 Quotes/Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday\|Learn from everyone and everything. From the people you beat, and the people who beat you, from the people you dislike, even from your supposed enemies. At every step and every juncture in life, there is the opportunity to learn - Ryan Holliday]]
 
 
 # Interesting Persons
@@ -40,28 +40,28 @@ Golden hour in Kilifi.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Belief has power - How George Dantzig solved two unsolvable math problems\|Belief has power - How George Dantzig solved two unsolvable math problems]]
 - [[1x - References/11 Notes/11.03 Ideas/Start small and create successive versions\|Start small and create successive versions]]
 - [[1x - References/11 Notes/11.03 Ideas/Don't be too choosy about what work you want to do, but finish what you start\|Don't be too choosy about what work you want to do, but finish what you start]]
 - [[1x - References/11 Notes/11.03 Ideas/Extensive planning only works for achievements that can be described in advance\|Extensive planning only works for achievements that can be described in advance]]
 - [[1x - References/11 Notes/11.03 Ideas/Infuse your writing with your opinion\|Infuse your writing with your opinion]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Keep it simple\|Programming principles that work in real life - Keep it simple]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use principles instead of rules\|Programming principles that work in real life - Use principles instead of rules]]
-- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Dont be emotionally attached to your code\|Programming principles that work in real life - Dont be emotionally attached to your code]]
 
 # Book Reviews
+
+- [[0x - System/01 Index/01.04 Notes in process/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 - [[4x - Reading/43 Blog Reading/43.02 Blog Notes/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]]
 - [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
 # Work in Progress
 
-- Reading _Kanban and Scrum - making the most of both_
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Einstein: His life and universe_
 

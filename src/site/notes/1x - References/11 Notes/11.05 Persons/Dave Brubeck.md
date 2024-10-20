@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/dave-brubeck/","title":"Dave Brubeck","created":"2024-02-04T14:43:38.874+03:00","updated":"2024-02-14T20:18:18.920+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/dave-brubeck/","title":"Dave Brubeck","created":"2024-02-04T14:43:38.874+03:00","updated":"2024-10-17T20:37:45.253+03:00"}
 ---
 
-
+![dave brubeck.jpg](/img/user/1x%20-%20References/11%20Notes/11.05%20Persons/dave%20brubeck.jpg)
 ### Summary
 - 1920-2012
 - Pianist

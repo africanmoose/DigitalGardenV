@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/daily-rituals-how-artists-work-by-mason-currey/","title":"Daily Rituals How Artists Work by Mason Currey","created":"2023-11-29T20:32:03.000+03:00","updated":"2024-02-14T20:17:40.902+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/daily-rituals-how-artists-work-by-mason-currey/","title":"Daily Rituals How Artists Work by Mason Currey","created":"2023-11-29T20:32:03.000+03:00","updated":"2024-10-19T16:35:49.514+03:00"}
 ---
 
 
@@ -27,7 +27,7 @@
 - [[1x - References/11 Notes/11.05 Persons/Frank Lloyd Wright\|Frank Lloyd Wright]] never seemed to work, but he did his work early in the morning, and much of that inside his head.
 - The prolific [[1x - References/11 Notes/11.05 Persons/P G Wodehouse\|P G Wodehouse]] wrote more than 90 books in his career
 - I learned about the unusual photography habit of [[1x - References/11 Notes/11.05 Persons/William Gass\|William Gass]]
-- [[1x - References/11 Notes/11.05 Persons/Twyla Tharp\|Twyla Tharp]] dancer, choreographer, writer: She deliverabely limits her social life in order to create
+- [[1x - References/11 Notes/11.05 Persons/Twyla Tharp\|Twyla Tharp]] dancer, choreographer, writer: She deliberately limits her social life in order to create
 - [[1x - References/11 Notes/11.05 Persons/Maira Kalman\|Maira Kalman]] clears her studio of any kind of distraction so she can focus.
 
 ### Quotes
