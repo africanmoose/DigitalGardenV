@@ -10,7 +10,7 @@
 - For example, we slip up in a diet, and then spiral and eat a whole pie.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 
 ### Quotes
 > Research on the aptly named “what-the-hell effect” has demonstrated that even small failures, such as missing a daily diet goal by a few calories, can lead to downward spirals in behavior—such as eating a whole apple pie. This will sound familiar if you’ve ever given in to temptation in the morning (say, grabbing a proffered donut at a breakfast meeting) and then, having slipped up once, decided “What the hell. I already goofed, so all bets are off.” A minor mistake can tank your confidence, making you believe you’ll never succeed. Unfortunately, the more ambitious your goals, the higher the risk of a small but ultimately devastating failure.

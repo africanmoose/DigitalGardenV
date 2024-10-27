@@ -12,7 +12,7 @@
 - Sometimes, our belief that we can do something has a direct relationship to whether we can or not
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 
 ### Quotes
 > One of my favorite stories illustrating the power of our beliefs involves the Berkeley math doctoral student George Dantzig. The story goes that George arrived late to his statistics class in 1939 and assumed the two math problems on the chalkboard were homework. So he copied them down to solve that night. He found the problems more difficult than usual, but he returned to class with the answers after a few days and apologized to his professor for taking so long. Soon afterward, the professor tracked George down, brimming with excitement. As it turned out, George had solved two “unsolvable” open problems in statistical theory because he believed they were merely difficult homework assignments with known answers.

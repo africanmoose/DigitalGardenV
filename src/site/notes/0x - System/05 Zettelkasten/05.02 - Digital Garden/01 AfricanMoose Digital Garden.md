@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-20T21:44:22.677+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-27T23:14:38.711+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20230209_113656612 copy.jpg](/img/user/PXL_20230209_113656612%20copy.jpg)
-More complexity in one tree than in any man-made object.
+![20241026_164208 copy.jpg](/img/user/20241026_164208%20copy.jpg)
+Looking out at Mt. Suswa from the SGR train to Suswa town.
 
 # What is this site for?
 
@@ -50,7 +50,7 @@ More complexity in one tree than in any man-made object.
 
 # Book Reviews
 
-- [[0x - System/01 Index/01.04 Notes in process/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 - [[4x - Reading/43 Blog Reading/43.02 Blog Notes/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]]
 - [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
@@ -62,6 +62,7 @@ More complexity in one tree than in any man-made object.
 
 # Work in Progress
 
+- Processing _Right Kind of Wrong: The Science of Failing Well - Amy C. Edmondson
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Einstein: His life and universe_
 
