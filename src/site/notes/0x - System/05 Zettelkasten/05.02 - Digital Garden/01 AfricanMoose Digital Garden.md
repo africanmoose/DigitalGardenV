@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-27T23:14:38.711+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-28T21:10:03.929+03:00"}
 ---
 
 ## Pic of the week 
@@ -29,14 +29,13 @@ Looking out at Mt. Suswa from the SGR train to Suswa town.
 
 # Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Arthur Wharton\|Arthur Wharton]]
 - [[1x - References/11 Notes/11.05 Persons/Bruce Lee\|Bruce Lee]]
 - [[1x - References/11 Notes/11.05 Persons/Genghis Khan\|Genghis Khan]]
 - [[1x - References/11 Notes/11.05 Persons/Paul Erdős\|Paul Erdős]]
 - [[1x - References/11 Notes/11.05 Persons/Benoit Mandelbrot\|Benoit Mandelbrot]]
 - [[1x - References/11 Notes/11.05 Persons/Jose Hernandez\|Jose Hernandez]]
 - [[1x - References/11 Notes/11.05 Persons/Tadao Ando\|Tadao Ando]]
-- [[1x - References/11 Notes/11.05 Persons/Shizo Kanakuri\|Shizo Kanakuri]]
-- [[1x - References/11 Notes/11.05 Persons/Bobbi Gibb\|Bobbi Gibb]]
 
 # Interesting Ideas
 
