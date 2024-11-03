@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/arthur-wharton/","title":"Arthur Wharton","created":"2024-10-28T20:59:12.370+03:00","updated":"2024-10-28T21:07:28.946+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/arthur-wharton/","title":"Arthur Wharton","created":"2024-10-30T16:42:40.278+03:00","updated":"2024-10-30T16:42:40.278+03:00"}
 ---
 
-![Pasted image 20241028205951.png](/img/user/Pasted%20image%2020241028205951.png)
+![arthur wharton.png](/img/user/1x%20-%20References/11%20Notes/11.05%20Persons/arthur%20wharton.png)
 ### Summary
 - Born in Jamestown, Ghana in 1865. Moved to England to train as a missionary, but then began an incredible sporting career.
 

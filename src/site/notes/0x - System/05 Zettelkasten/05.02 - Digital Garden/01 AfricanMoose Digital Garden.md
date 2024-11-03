@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-09-26T17:33:12.288+03:00","updated":"2024-10-28T21:10:03.929+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-10-31T11:35:06.642+03:00","updated":"2024-11-03T20:44:26.164+03:00"}
 ---
 
 ## Pic of the week 
-![20241026_164208 copy.jpg](/img/user/20241026_164208%20copy.jpg)
+![20241026_164208 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/20241026_164208%20copy.jpg)
 Looking out at Mt. Suswa from the SGR train to Suswa town.
 
 # What is this site for?
@@ -18,13 +18,13 @@ Looking out at Mt. Suswa from the SGR train to Suswa town.
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom\|Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom]]
+- [[1x - References/11 Notes/11.02 Quotes/The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear\|The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear]]
+- [[1x - References/11 Notes/11.02 Quotes/If you dig a hole and it's in the wrong place, digging it deeper isn't going to help - Seymour Chwast\|If you dig a hole and it's in the wrong place, digging it deeper isn't going to help - Seymour Chwast]]
+- [[1x - References/11 Notes/11.02 Quotes/In many cases, you'll find the only thing preventing you from learning is your ego - James Clear\|In many cases, you'll find the only thing preventing you from learning is your ego - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/The good artist's or thinker's imagination is continually producing things good, mediocre and bad - Friedrich Nietzsche\|The good artist's or thinker's imagination is continually producing things good, mediocre and bad - Friedrich Nietzsche]]
 - [[1x - References/11 Notes/11.02 Quotes/It's never too late to do something you love - Pharrel Williams\|It's never too late to do something you love - Pharrel Williams]]
 - [[1x - References/11 Notes/11.02 Quotes/When you're procrastinating in units of years, you can get a lot not done - Paul Graham\|When you're procrastinating in units of years, you can get a lot not done - Paul Graham]]
-- [[1x - References/11 Notes/11.02 Quotes/People are always looking for appreciation, acceptance, and acknowledgment - Dr. Essel\|People are always looking for appreciation, acceptance, and acknowledgment - Dr. Essel]]
-- [[1x - References/11 Notes/11.02 Quotes/A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton\|A man is already of consequence in the world when it is known that we can implicitly rely upon him - Edward Bulwer-Lytton]]
-- [[1x - References/11 Notes/11.02 Quotes/Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan\|Photography is personal and should stay personal. You show me your world, and I show you mine - Thom Hogan]]
-- [[1x - References/11 Notes/11.02 Quotes/The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt\|The art of conversation is the art of hearing as well as of being heard. Some of the best talkers are, on this account, the worst company - William Hazlitt]]
 
 
 # Interesting Persons
@@ -39,13 +39,13 @@ Looking out at Mt. Suswa from the SGR train to Suswa town.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Build a network by helping people\|Build a network by helping people]]
+- [[1x - References/11 Notes/11.03 Ideas/Focus is a force multiplier\|Focus is a force multiplier]]
+- [[1x - References/11 Notes/11.03 Ideas/Show up in person when its important\|Show up in person when its important]]
 - [[1x - References/11 Notes/11.03 Ideas/Belief has power - How George Dantzig solved two unsolvable math problems\|Belief has power - How George Dantzig solved two unsolvable math problems]]
 - [[1x - References/11 Notes/11.03 Ideas/Start small and create successive versions\|Start small and create successive versions]]
 - [[1x - References/11 Notes/11.03 Ideas/Don't be too choosy about what work you want to do, but finish what you start\|Don't be too choosy about what work you want to do, but finish what you start]]
 - [[1x - References/11 Notes/11.03 Ideas/Extensive planning only works for achievements that can be described in advance\|Extensive planning only works for achievements that can be described in advance]]
-- [[1x - References/11 Notes/11.03 Ideas/Infuse your writing with your opinion\|Infuse your writing with your opinion]]
-- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Keep it simple\|Programming principles that work in real life - Keep it simple]]
-- [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Use principles instead of rules\|Programming principles that work in real life - Use principles instead of rules]]
 
 # Book Reviews
 
