@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/build-a-network-by-helping-people/","title":"Build a network by helping people","created":"2024-11-03T16:54:06.442+03:00","updated":"2024-11-03T16:56:53.722+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/build-a-network-by-helping-people/","title":"Build a network by helping people","created":"2024-11-03T16:54:06.442+03:00","updated":"2024-11-04T14:39:15.306+03:00"}
 ---
 
 

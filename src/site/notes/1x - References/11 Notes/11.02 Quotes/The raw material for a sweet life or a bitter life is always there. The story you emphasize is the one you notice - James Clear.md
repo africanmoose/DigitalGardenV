@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-raw-material-for-a-sweet-life-or-a-bitter-life-is-always-there-the-story-you-emphasize-is-the-one-you-notice-james-clear/","title":"The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear","created":"2024-11-03T20:38:27.621+03:00","updated":"2024-11-03T20:42:04.556+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-raw-material-for-a-sweet-life-or-a-bitter-life-is-always-there-the-story-you-emphasize-is-the-one-you-notice-james-clear/","title":"The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear","created":"2024-11-03T20:38:27.621+03:00","updated":"2024-11-04T14:39:15.307+03:00"}
 ---
 
 

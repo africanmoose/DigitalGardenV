@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/worry-does-not-empty-tomorrow-of-its-sorrow-it-empties-today-of-its-strength-corrie-ten-boom/","title":"Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom","created":"2024-11-03T20:42:39.417+03:00","updated":"2024-11-03T20:44:09.861+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/worry-does-not-empty-tomorrow-of-its-sorrow-it-empties-today-of-its-strength-corrie-ten-boom/","title":"Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom","created":"2024-11-03T20:42:39.417+03:00","updated":"2024-11-04T14:39:15.308+03:00"}
 ---
 
 
