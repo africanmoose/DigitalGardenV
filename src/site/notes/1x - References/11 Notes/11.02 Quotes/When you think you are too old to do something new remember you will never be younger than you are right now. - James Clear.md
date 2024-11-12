@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/when-you-think-you-are-too-old-to-do-something-new-remember-you-will-never-be-younger-than-you-are-right-now-james-clear/","title":"When you think you are too old to do something new remember you will never be younger than you are right now. - James Clear","created":"2024-11-07T20:54:20.917+03:00","updated":"2024-11-07T20:56:00.115+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/when-you-think-you-are-too-old-to-do-something-new-remember-you-will-never-be-younger-than-you-are-right-now-james-clear/","title":"When you think you are too old to do something new remember you will never be younger than you are right now. - James Clear","created":"2024-11-07T20:54:20.917+03:00","updated":"2024-11-07T22:15:15.126+03:00"}
 ---
 
 
