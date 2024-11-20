@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-10-31T11:35:06.642+03:00","updated":"2024-11-03T20:44:26.164+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-10-31T11:35:06.642+03:00","updated":"2024-11-16T13:09:24.902+03:00"}
 ---
 
 ## Pic of the week 
@@ -18,13 +18,13 @@ Looking out at Mt. Suswa from the SGR train to Suswa town.
 
 # Interesting Quotes
 
+= [[1x - References/11 Notes/11.02 Quotes/On what friends bring out in each other - C.S. Lewis\|On what friends bring out in each other - C.S. Lewis]]
 - [[1x - References/11 Notes/11.02 Quotes/Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom\|Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom]]
 - [[1x - References/11 Notes/11.02 Quotes/The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear\|The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/If you dig a hole and it's in the wrong place, digging it deeper isn't going to help - Seymour Chwast\|If you dig a hole and it's in the wrong place, digging it deeper isn't going to help - Seymour Chwast]]
 - [[1x - References/11 Notes/11.02 Quotes/In many cases, you'll find the only thing preventing you from learning is your ego - James Clear\|In many cases, you'll find the only thing preventing you from learning is your ego - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/The good artist's or thinker's imagination is continually producing things good, mediocre and bad - Friedrich Nietzsche\|The good artist's or thinker's imagination is continually producing things good, mediocre and bad - Friedrich Nietzsche]]
 - [[1x - References/11 Notes/11.02 Quotes/It's never too late to do something you love - Pharrel Williams\|It's never too late to do something you love - Pharrel Williams]]
-- [[1x - References/11 Notes/11.02 Quotes/When you're procrastinating in units of years, you can get a lot not done - Paul Graham\|When you're procrastinating in units of years, you can get a lot not done - Paul Graham]]
 
 
 # Interesting Persons
@@ -92,6 +92,4 @@ Apparently, my top artists of 2023 are:
 [Africanmoose Substack - an article about every week or so](https://africanmoose.substack.com)
 
 # RSS feed
-
-*UPDATE March 3rd, 2024* Copy and paste this URL into your RSS Feed reader. It's been a real pain getting this working, but I think now it is ready to take out of experimental phase. Also has pictures now. If you had done this before, please update your feed link with this one:
 [RSS feed](https://africanmoose.netlify.app/feed.xml)

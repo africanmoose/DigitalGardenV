@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-waste-energy-worrying-about-what-you-dont-have/","title":"Dont waste energy worrying about what you dont have","created":"2022-11-10T20:58:08.000+03:00","updated":"2024-02-14T20:18:33.175+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-waste-energy-worrying-about-what-you-dont-have/","title":"Dont waste energy worrying about what you dont have","created":"2022-11-10T20:58:08.000+03:00","updated":"2024-11-14T20:18:04.567+03:00"}
 ---
 
 
@@ -19,6 +19,6 @@
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Appreciate not expect everything\|Appreciate not expect everything]]
-- [[3x - Spiritual/31 Notes/31.02 Illustrations/Show appreciation to Jehovah\|Show appreciation to Jehovah]]
+- [[3x - Spiritual/31 Notes/31.02 Illustrations/Show appreciation to Jehovah - if we woke up with only the things we thanked him, for what would we end up with\|Show appreciation to Jehovah - if we woke up with only the things we thanked him, for what would we end up with]]
 - [[1x - References/11 Notes/11.02 Quotes/Showing people that they are appreciated\|Showing people that they are appreciated]]
 - [[3x - Spiritual/36 Study/36.01 Study Projects/Joy - Study Project\|Joy - Study Project]]
