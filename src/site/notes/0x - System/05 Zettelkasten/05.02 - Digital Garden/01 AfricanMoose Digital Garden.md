@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-10-31T11:35:06.642+03:00","updated":"2024-11-24T10:28:46.201+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-12-03T16:12:59.957+03:00","updated":"2024-12-08T19:20:27.845+03:00"}
 ---
 
 ## Pic of the week 
-![20241123_134210.jpg](/img/user/20241123_134210.jpg)
-With my masai friend, John.
+![20241208_060606 copy.jpg](/img/user/20241208_060606%20copy.jpg)
+Early morning peaceful beaches. 
 
 # What is this site for?
 
@@ -18,13 +18,13 @@ With my masai friend, John.
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Nothing is a waste of time if you use the experience wisely - Auguste Rodin\|Nothing is a waste of time if you use the experience wisely - Auguste Rodin]]
+- [[1x - References/11 Notes/11.02 Quotes/The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire\|The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire]]
+- [[1x - References/11 Notes/11.02 Quotes/The easy, conversational tone of good writing comes only on the eighth rewrite - Paul Graham\|The easy, conversational tone of good writing comes only on the eighth rewrite - Paul Graham]]
 - [[1x - References/11 Notes/11.02 Quotes/Always walk through life as if you have something new to learn and you will - Vernon Howard\|Always walk through life as if you have something new to learn and you will - Vernon Howard]]
 - [[1x - References/11 Notes/11.02 Quotes/On what friends bring out in each other - C.S. Lewis\|On what friends bring out in each other - C.S. Lewis]]
 - [[1x - References/11 Notes/11.02 Quotes/Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom\|Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom]]
 - [[1x - References/11 Notes/11.02 Quotes/The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear\|The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear]]
-- [[1x - References/11 Notes/11.02 Quotes/If you dig a hole and it's in the wrong place, digging it deeper isn't going to help - Seymour Chwast\|If you dig a hole and it's in the wrong place, digging it deeper isn't going to help - Seymour Chwast]]
-- [[1x - References/11 Notes/11.02 Quotes/In many cases, you'll find the only thing preventing you from learning is your ego - James Clear\|In many cases, you'll find the only thing preventing you from learning is your ego - James Clear]]
-- [[1x - References/11 Notes/11.02 Quotes/The good artist's or thinker's imagination is continually producing things good, mediocre and bad - Friedrich Nietzsche\|The good artist's or thinker's imagination is continually producing things good, mediocre and bad - Friedrich Nietzsche]]
 
 
 # Interesting Persons
@@ -39,13 +39,13 @@ With my masai friend, John.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Use multiple sources to learn and to bolster retention\|Use multiple sources to learn and to bolster retention]]
+- [[1x - References/11 Notes/11.03 Ideas/Maintain a to-learn list\|Maintain a to-learn list]]
 - [[1x - References/11 Notes/11.03 Ideas/Use every opportunity to revisit great content\|Use every opportunity to revisit great content]]
 - [[1x - References/11 Notes/11.03 Ideas/Be a high volume reader\|Be a high volume reader]]
 - [[1x - References/11 Notes/11.03 Ideas/Build a network by helping people\|Build a network by helping people]]
 - [[1x - References/11 Notes/11.03 Ideas/Focus is a force multiplier\|Focus is a force multiplier]]
 - [[1x - References/11 Notes/11.03 Ideas/Show up in person when its important\|Show up in person when its important]]
-- [[1x - References/11 Notes/11.03 Ideas/Belief has power - How George Dantzig solved two unsolvable math problems\|Belief has power - How George Dantzig solved two unsolvable math problems]]
-- [[1x - References/11 Notes/11.03 Ideas/Start small and create successive versions\|Start small and create successive versions]]
 
 # Book Reviews
 

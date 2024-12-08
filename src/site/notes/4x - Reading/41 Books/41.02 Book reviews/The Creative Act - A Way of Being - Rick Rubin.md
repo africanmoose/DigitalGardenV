@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-creative-act-a-way-of-being-rick-rubin/","title":"The Creative Act - A Way of Being - Rick Rubin","created":"2023-03-26T22:14:02.000+03:00","updated":"2024-02-14T20:17:40.470+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-creative-act-a-way-of-being-rick-rubin/","title":"The Creative Act - A Way of Being - Rick Rubin","created":"2024-12-01T18:18:07.760+03:00","updated":"2024-12-01T18:18:07.760+03:00"}
 ---
 
 
@@ -28,7 +28,7 @@
 	- The seed phase - [[1x - References/11 Notes/11.03 Ideas/Collecting new ideas for creativity\|Collecting new ideas for creativity]] 
 	- Experimentation - which of the ideas is going to grow?
 	- Crafting - make adjustments and trim the growing idea 
-	- “Completion - the final edit stage
+	- Completion - the final edit stage
 - [[1x - References/11 Notes/11.03 Ideas/The goal of art is to share who we are\|The goal of art is to share who we are]]
 - [[1x - References/11 Notes/11.03 Ideas/How to view feedback on our art\|How to view feedback on our art]]
 - [[1x - References/11 Notes/11.03 Ideas/Feed the river of inspiration\|Feed the river of inspiration]]
