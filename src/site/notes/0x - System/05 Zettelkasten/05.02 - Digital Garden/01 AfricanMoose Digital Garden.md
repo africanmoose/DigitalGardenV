@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-12-03T16:12:59.957+03:00","updated":"2024-12-08T19:20:27.845+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-12-09T11:05:01.129+03:00","updated":"2024-12-12T14:57:35.759+03:00"}
 ---
 
 ## Pic of the week 
-![20241208_060606 copy.jpg](/img/user/20241208_060606%20copy.jpg)
+![20241208_060606 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20241208_060606%20copy.jpg)
 Early morning peaceful beaches. 
 
 # What is this site for?
@@ -18,13 +18,13 @@ Early morning peaceful beaches.
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/For who is there who, shooting all day, will not sometimes hit the mark - Marcus Tullius Cicero\|For who is there who, shooting all day, will not sometimes hit the mark - Marcus Tullius Cicero]]
 - [[1x - References/11 Notes/11.02 Quotes/Nothing is a waste of time if you use the experience wisely - Auguste Rodin\|Nothing is a waste of time if you use the experience wisely - Auguste Rodin]]
 - [[1x - References/11 Notes/11.02 Quotes/The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire\|The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire]]
 - [[1x - References/11 Notes/11.02 Quotes/The easy, conversational tone of good writing comes only on the eighth rewrite - Paul Graham\|The easy, conversational tone of good writing comes only on the eighth rewrite - Paul Graham]]
 - [[1x - References/11 Notes/11.02 Quotes/Always walk through life as if you have something new to learn and you will - Vernon Howard\|Always walk through life as if you have something new to learn and you will - Vernon Howard]]
 - [[1x - References/11 Notes/11.02 Quotes/On what friends bring out in each other - C.S. Lewis\|On what friends bring out in each other - C.S. Lewis]]
 - [[1x - References/11 Notes/11.02 Quotes/Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom\|Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom]]
-- [[1x - References/11 Notes/11.02 Quotes/The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear\|The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice - James Clear]]
 
 
 # Interesting Persons
@@ -49,19 +49,18 @@ Early morning peaceful beaches.
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 - [[4x - Reading/43 Blog Reading/43.02 Blog Notes/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]]
 - [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
 
 # Work in Progress
 
-- Processing _Right Kind of Wrong: The Science of Failing Well - Amy C. Edmondson
 - Reading _Cognitive Behavior Therapy: Basics and Beyond_
 - Reading _Einstein: His life and universe_
 
