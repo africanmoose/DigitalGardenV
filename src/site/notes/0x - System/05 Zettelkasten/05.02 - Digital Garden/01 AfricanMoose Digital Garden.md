@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-12-09T11:05:01.129+03:00","updated":"2024-12-12T14:57:35.759+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-12-09T11:05:01.129+03:00","updated":"2024-12-22T23:45:45.879+03:00"}
 ---
 
 ## Pic of the week 
-![20241208_060606 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20241208_060606%20copy.jpg)
-Early morning peaceful beaches. 
+![20241128_183401 copy.jpg](/img/user/20241128_183401%20copy.jpg)
+Evening peaceful beaches. 
 
 # What is this site for?
 
@@ -39,13 +39,13 @@ Early morning peaceful beaches.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Never let more than 2 days pass when trying to establish a habit\|Never let more than 2 days pass when trying to establish a habit]]
 - [[1x - References/11 Notes/11.03 Ideas/Use multiple sources to learn and to bolster retention\|Use multiple sources to learn and to bolster retention]]
 - [[1x - References/11 Notes/11.03 Ideas/Maintain a to-learn list\|Maintain a to-learn list]]
 - [[1x - References/11 Notes/11.03 Ideas/Use every opportunity to revisit great content\|Use every opportunity to revisit great content]]
 - [[1x - References/11 Notes/11.03 Ideas/Be a high volume reader\|Be a high volume reader]]
 - [[1x - References/11 Notes/11.03 Ideas/Build a network by helping people\|Build a network by helping people]]
 - [[1x - References/11 Notes/11.03 Ideas/Focus is a force multiplier\|Focus is a force multiplier]]
-- [[1x - References/11 Notes/11.03 Ideas/Show up in person when its important\|Show up in person when its important]]
 
 # Book Reviews
 

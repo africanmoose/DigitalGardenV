@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-03-03T09:32:54.423+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-12-22T21:16:03.663+03:00"}
 ---
 
 ![365 days - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/365%20days%20-%20cover.jpg)
@@ -15,7 +15,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Focus on where you are going not what you should avoid\|Focus on where you are going not what you should avoid]]
 - Incredible story of [[1x - References/11 Notes/11.05 Persons/Julius Yego\|Julius Yego]], the youtube taught Javelin thrower
 - [[1x - References/11 Notes/11.03 Ideas/Monitoring and tracking makes change more likely\|Monitoring and tracking makes change more likely]]
-- [[1x - References/11 Notes/11.03 Ideas/You cannot change bad habits. You can only change the habit to something positive\|You cannot change bad habits. You can only change the habit to something positive]]
+- [[1x - References/11 Notes/11.03 Ideas/You cannot remove bad habits. You can only change the habit to something positive\|You cannot remove bad habits. You can only change the habit to something positive]]
 - [[1x - References/11 Notes/11.02 Quotes/You can recall everything you have worked hard and patiently for in your life, but how many things that you have attained with little or no effort can you remember - Thomas Sterner\|You can recall everything you have worked hard and patiently for in your life, but how many things that you have attained with little or no effort can you remember - Thomas Sterner]]
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Working towards goals like driving in foggy weather. We may not see everything, but we can still make progress\|Working towards goals like driving in foggy weather. We may not see everything, but we can still make progress]]
 - [[1x - References/11 Notes/11.02 Quotes/We are engineered as goal-seeking mechanisms - Maxwell Maltz\|We are engineered as goal-seeking mechanisms - Maxwell Maltz]]

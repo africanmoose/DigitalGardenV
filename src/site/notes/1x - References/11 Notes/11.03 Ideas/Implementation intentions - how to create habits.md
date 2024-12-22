@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/implementation-intentions-how-to-create-habits/","title":"Implementation intentions - how to create habits","created":"2024-04-10T20:52:08.927+03:00","updated":"2024-04-10T20:58:25.490+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/implementation-intentions-how-to-create-habits/","title":"Implementation intentions - how to create habits","created":"2024-04-10T20:52:08.927+03:00","updated":"2024-12-22T21:16:03.551+03:00"}
 ---
 
 
@@ -33,4 +33,4 @@ If you decide beforehand when you’re going to do something, you’re much more
 - [[1x - References/11 Notes/11.02 Quotes/Habit is as second nature - Cicero\|Habit is as second nature - Cicero]]
 - [[1x - References/11 Notes/11.02 Quotes/Excellence is a habit - Aristotle\|Excellence is a habit - Aristotle]]
 - [[1x - References/11 Notes/11.03 Ideas/Success a product of habit more than skill\|Success a product of habit more than skill]]
-- [[1x - References/11 Notes/11.03 Ideas/You cannot change bad habits. You can only change the habit to something positive\|You cannot change bad habits. You can only change the habit to something positive]]
+- [[1x - References/11 Notes/11.03 Ideas/You cannot remove bad habits. You can only change the habit to something positive\|You cannot remove bad habits. You can only change the habit to something positive]]
