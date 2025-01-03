@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-12-09T11:05:01.129+03:00","updated":"2024-12-22T23:45:45.879+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-12-30T13:07:15.377+03:00","updated":"2024-12-30T13:07:15.377+03:00"}
 ---
 
 ## Pic of the week 
-![20241128_183401 copy.jpg](/img/user/20241128_183401%20copy.jpg)
-Evening peaceful beaches. 
+![20241227_175134 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/20241227_175134%20copy.jpg)
+Beautiful forest hidden on Ngong road.
 
 # What is this site for?
 
@@ -18,6 +18,7 @@ Evening peaceful beaches.
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/All the energy you put into arguing with reality comes at the expense of improving your situation - James Clear\|All the energy you put into arguing with reality comes at the expense of improving your situation - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/For who is there who, shooting all day, will not sometimes hit the mark - Marcus Tullius Cicero\|For who is there who, shooting all day, will not sometimes hit the mark - Marcus Tullius Cicero]]
 - [[1x - References/11 Notes/11.02 Quotes/Nothing is a waste of time if you use the experience wisely - Auguste Rodin\|Nothing is a waste of time if you use the experience wisely - Auguste Rodin]]
 - [[1x - References/11 Notes/11.02 Quotes/The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire\|The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire]]
@@ -39,13 +40,13 @@ Evening peaceful beaches.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Be stubborn about your goals but flexible about your methods\|Be stubborn about your goals but flexible about your methods]]
 - [[1x - References/11 Notes/11.03 Ideas/Never let more than 2 days pass when trying to establish a habit\|Never let more than 2 days pass when trying to establish a habit]]
 - [[1x - References/11 Notes/11.03 Ideas/Use multiple sources to learn and to bolster retention\|Use multiple sources to learn and to bolster retention]]
 - [[1x - References/11 Notes/11.03 Ideas/Maintain a to-learn list\|Maintain a to-learn list]]
 - [[1x - References/11 Notes/11.03 Ideas/Use every opportunity to revisit great content\|Use every opportunity to revisit great content]]
 - [[1x - References/11 Notes/11.03 Ideas/Be a high volume reader\|Be a high volume reader]]
 - [[1x - References/11 Notes/11.03 Ideas/Build a network by helping people\|Build a network by helping people]]
-- [[1x - References/11 Notes/11.03 Ideas/Focus is a force multiplier\|Focus is a force multiplier]]
 
 # Book Reviews
 
@@ -61,7 +62,9 @@ Evening peaceful beaches.
 
 # Work in Progress
 
-- Reading _Cognitive Behavior Therapy: Basics and Beyond_
+- Processing _The Art Thief_
+- Reading _Strategy - Seth Godin_
+- Processing _Come up for air_
 - Reading _Einstein: His life and universe_
 
 # Finance Ideas
@@ -76,12 +79,20 @@ Evening peaceful beaches.
 
 # Currently listening to
 
-Apparently, my top artists of 2023 are:
+According to Spotify, my top artists of 2024 are:
 - [Samm Henshaw](https://www.youtube.com/watch?v=I_8-P4eZ1jA)
 - [Greg Spero (and MonoNeon)](https://www.youtube.com/watch?v=S6_EMdSs45k)
 - [Aaron Taylor](https://www.youtube.com/watch?v=7Tln_B11HgQ)
 - [Jon Batiste](https://www.youtube.com/watch?v=ze4xcmBFvaE)
 - [Manu Dibangu](https://www.youtube.com/watch?v=HV2hfn-TS14)
+
+According to me:
+- Jon Batiste
+- Irma
+- Scary Pockets
+- Sauti Sol
+- 
+
 - More of my favorite music here [[0x - System/05 Zettelkasten/05.02 - Digital Garden/04 Music I enjoy\|04 Music I enjoy]]
 
 # Africanmoose Stuff
