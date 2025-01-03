@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2024-12-30T13:07:15.377+03:00","updated":"2024-12-30T13:07:15.377+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-03T15:40:42.401+03:00","updated":"2025-01-03T15:40:42.401+03:00"}
 ---
 
 ## Pic of the week 
@@ -58,7 +58,7 @@ Beautiful forest hidden on Ngong road.
 - [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
-- Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books\|06 2023 Top books]]
+- Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
