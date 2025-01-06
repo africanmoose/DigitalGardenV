@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/07-2024-top-books/","title":"2024 Top books","created":"2025-01-03T15:41:01.991+03:00","updated":"2025-01-03T16:14:20.449+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/07-2024-top-books/","title":"2024 Top books","created":"2025-01-03T15:41:01.991+03:00","updated":"2025-01-03T17:00:24.832+03:00"}
 ---
 
 
-# My favorite books of 2024:
+Not in any particular order....
 
 ### [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 

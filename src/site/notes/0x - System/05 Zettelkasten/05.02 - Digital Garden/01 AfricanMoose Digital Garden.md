@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-03T15:40:42.401+03:00","updated":"2025-01-03T15:40:42.401+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-03T15:40:42.401+03:00","updated":"2025-01-03T16:42:41.470+03:00"}
 ---
 
 ## Pic of the week 
@@ -91,7 +91,6 @@ According to me:
 - Irma
 - Scary Pockets
 - Sauti Sol
-- 
 
 - More of my favorite music here [[0x - System/05 Zettelkasten/05.02 - Digital Garden/04 Music I enjoy\|04 Music I enjoy]]
 
