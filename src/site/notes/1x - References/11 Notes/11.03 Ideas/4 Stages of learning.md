@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/4-stages-of-learning/","title":"4 Stages of learning","created":"2022-10-30T21:23:40.000+03:00","updated":"2024-02-14T20:18:36.289+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/4-stages-of-learning/","title":"4 Stages of learning","created":"2025-01-07T11:57:09.494+03:00","updated":"2025-01-07T11:57:09.494+03:00"}
 ---
 
 ---
@@ -28,3 +28,5 @@
 ### Interesting Related
 - [[1x - References/11 Notes/11.02 Quotes/Keep learning - James Clear\|Keep learning - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/How to learn - Pablo Picasso\|How to learn - Pablo Picasso]]
+- [[1x - References/11 Notes/11.03 Ideas/Learning requires work\|Learning requires work]]
+- 

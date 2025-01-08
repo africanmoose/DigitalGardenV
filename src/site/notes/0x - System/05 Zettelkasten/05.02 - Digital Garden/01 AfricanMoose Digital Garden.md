@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-03T15:40:42.401+03:00","updated":"2025-01-03T16:42:41.470+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-03T15:40:42.401+03:00","updated":"2025-01-08T22:46:30.494+03:00"}
 ---
 
 ## Pic of the week 
@@ -50,18 +50,19 @@ Beautiful forest hidden on Ngong road.
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.01 Book Notes/Love in Africa - Jeffrey Gettleman\|Love in Africa - Jeffrey Gettleman]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 - [[4x - Reading/43 Blog Reading/43.02 Blog Notes/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]]
 - [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
-- [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
+- Processing [[0x - System/01 Index/01.04 Notes in process/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 - Processing _The Art Thief_
 - Reading _Strategy - Seth Godin_
 - Processing _Come up for air_
@@ -92,6 +93,7 @@ According to me:
 - Scary Pockets
 - Sauti Sol
 
+- A detailed breakdown of [[0x - System/05 Zettelkasten/05.02 - Digital Garden/08 2024 Music stats\|08 2024 Music stats]]
 - More of my favorite music here [[0x - System/05 Zettelkasten/05.02 - Digital Garden/04 Music I enjoy\|04 Music I enjoy]]
 
 # Africanmoose Stuff

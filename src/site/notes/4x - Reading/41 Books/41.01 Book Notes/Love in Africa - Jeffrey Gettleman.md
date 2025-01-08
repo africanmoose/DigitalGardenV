@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-01-book-notes/love-in-africa-jeffrey-gettleman/","title":"Love in Africa - Jeffrey Gettleman","created":"2025-01-06T21:16:22.312+03:00","updated":"2025-01-06T21:30:50.102+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-01-book-notes/love-in-africa-jeffrey-gettleman/","title":"Love in Africa - Jeffrey Gettleman","created":"2025-01-06T21:16:22.312+03:00","updated":"2025-01-07T09:38:49.504+03:00"}
 ---
 
 ![Love in Africa - cover.png](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Love%20in%20Africa%20-%20cover.png)
