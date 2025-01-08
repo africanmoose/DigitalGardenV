@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-03T15:40:42.401+03:00","updated":"2025-01-08T22:46:30.494+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-03T15:40:42.401+03:00","updated":"2025-01-08T22:48:18.125+03:00"}
 ---
 
 ## Pic of the week 
-![20241227_175134 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/20241227_175134%20copy.jpg)
-Beautiful forest hidden on Ngong road.
+![20250104_181707.jpg](/img/user/20250104_181707.jpg)
+Surprising beauty lies everywhere, even in a crowded city.
 
 # What is this site for?
 
