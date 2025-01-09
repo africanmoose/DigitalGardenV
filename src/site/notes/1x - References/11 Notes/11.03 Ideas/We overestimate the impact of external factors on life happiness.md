@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-overestimate-the-impact-of-external-factors-on-life-happiness/","title":"We overestimate the impact of external factors on life happiness","created":"2025-01-08T22:40:11.135+03:00","updated":"2025-01-08T22:45:04.307+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-overestimate-the-impact-of-external-factors-on-life-happiness/","title":"We overestimate the impact of external factors on life happiness","created":"2025-01-08T22:40:11.135+03:00","updated":"2025-01-09T19:59:38.784+03:00"}
 ---
 
 
