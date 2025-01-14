@@ -17,7 +17,7 @@
 - research shows that our interactions with others result in happiness.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 
 ### Quotes
 > One thing to keep in mind is that our brains are not wired to think optimistically. Instead, they’re wired with a negativity bias. Anything that’s bad is going to be stronger and more attention-getting than something good.

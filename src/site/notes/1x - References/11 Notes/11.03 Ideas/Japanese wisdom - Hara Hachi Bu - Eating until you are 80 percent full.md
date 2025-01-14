@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/japanese-wisdom-hara-hachi-bu-eating-until-you-are-80-percent-full/","title":"Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full","created":"2023-08-12T09:02:48.096+03:00","updated":"2024-02-14T20:18:29.086+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/japanese-wisdom-hara-hachi-bu-eating-until-you-are-80-percent-full/","title":"Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full","created":"2025-01-13T10:30:57.087+03:00","updated":"2025-01-13T10:30:57.087+03:00"}
 ---
 
 ### Summary
@@ -13,9 +13,14 @@
 
 ### References
 - [Art of manliness](https://www.artofmanliness.com/character/advice/7-japanese-concepts-that-can-improve-your-life/)
+- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+
+### Quotes
+> Know just how much food is enough. Aim to stop when you are about 80 per cent full. If you make sure to truly enjoy each bite of food, you may find that you feel full and satisfied much sooner. Learn to do this and you will never overeat again.
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Self-control\|Self-control]]
 - [[1x - References/11 Notes/11.03 Ideas/Self-control is not a learned skill\|Self-control is not a learned skill]]
 - [[1x - References/11 Notes/11.03 Ideas/Self-control leads to greater happiness\|Self-control leads to greater happiness]]
 - [[1x - References/11 Notes/11.02 Quotes/Dont drain the reservoir - Henry Miller\|Dont drain the reservoir - Henry Miller]]
+- [[1x - References/11 Notes/11.02 Quotes/Fear less, hope more; eat less, chew more; whine less, breathe more; talk less, say more; love more, and all good things will be yours - Swedish Proverb\|Fear less, hope more; eat less, chew more; whine less, breathe more; talk less, say more; love more, and all good things will be yours - Swedish Proverb]]

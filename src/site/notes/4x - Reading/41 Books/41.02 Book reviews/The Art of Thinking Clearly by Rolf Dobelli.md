@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-art-of-thinking-clearly-by-rolf-dobelli/","title":"The Art of Thinking Clearly by Rolf Dobelli","created":"2023-01-01T18:05:03.000+03:00","updated":"2024-02-14T20:17:40.532+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-art-of-thinking-clearly-by-rolf-dobelli/","title":"The Art of Thinking Clearly by Rolf Dobelli","created":"2025-01-13T08:38:09.356+03:00","updated":"2025-01-13T08:38:09.356+03:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 	- [[1x - References/11 Notes/11.03 Ideas/Survivorship Bias\|Only seeing survivors makes us believe that the odds of success are very high]]
 	- [[1x - References/11 Notes/11.03 Ideas/The clustering illusion - seeing patterns where none exist\|We tend to think we have identified patterns even though none actually exists]]. Like how our favorite football team wins when we have coffee and cake at 5pm exactly that day.....
 	- Avoid the [[1x - References/11 Notes/11.03 Ideas/Sunk cost fallacy\|Sunk cost fallacy]]
-	- Don't accept the free drink! Understanding the [[1x - References/11 Notes/11.03 Ideas/Principle of reciprocity\|Principle of reciprocity]]
+	- Don't accept the free drink! Understanding the [[1x - References/11 Notes/11.03 Ideas/Principle of reciprocity in advertising\|Principle of reciprocity in advertising]]
 	- Work hard to avoid [[1x - References/11 Notes/11.03 Ideas/Confirmation Bias\|Confirmation Bias]]. Try to seek conflicting viewpoints.
 	- The [[1x - References/11 Notes/11.03 Ideas/Contrast effect\|Contrast effect]] changes how we judge
 	- Beware of the [[1x - References/11 Notes/11.03 Ideas/Authority Bias\|Authority Bias]]

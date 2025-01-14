@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-03T15:40:42.401+03:00","updated":"2025-01-08T22:48:18.125+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-13T10:44:27.138+03:00","updated":"2025-01-14T22:18:06.870+03:00"}
 ---
 
 ## Pic of the week 
-![20250104_181707.jpg](/img/user/20250104_181707.jpg)
+![20250104_181707.jpg](/img/user/2x%20-%20Planning/20250104_181707.jpg)
 Surprising beauty lies everywhere, even in a crowded city.
 
 # What is this site for?
@@ -40,32 +40,31 @@ Surprising beauty lies everywhere, even in a crowded city.
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/When you have few things, you tend to be sure that they are better quality\|When you have few things, you tend to be sure that they are better quality]]
+- [[1x - References/11 Notes/11.03 Ideas/Rubbish is only what you treat as rubbish\|Rubbish is only what you treat as rubbish]]
+- [[1x - References/11 Notes/11.03 Ideas/Interact with nature at every opportunity\|Interact with nature at every opportunity]]
 - [[1x - References/11 Notes/11.03 Ideas/Be stubborn about your goals but flexible about your methods\|Be stubborn about your goals but flexible about your methods]]
 - [[1x - References/11 Notes/11.03 Ideas/Never let more than 2 days pass when trying to establish a habit\|Never let more than 2 days pass when trying to establish a habit]]
 - [[1x - References/11 Notes/11.03 Ideas/Use multiple sources to learn and to bolster retention\|Use multiple sources to learn and to bolster retention]]
 - [[1x - References/11 Notes/11.03 Ideas/Maintain a to-learn list\|Maintain a to-learn list]]
-- [[1x - References/11 Notes/11.03 Ideas/Use every opportunity to revisit great content\|Use every opportunity to revisit great content]]
-- [[1x - References/11 Notes/11.03 Ideas/Be a high volume reader\|Be a high volume reader]]
-- [[1x - References/11 Notes/11.03 Ideas/Build a network by helping people\|Build a network by helping people]]
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Love in Africa - Jeffrey Gettleman\|Love in Africa - Jeffrey Gettleman]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 - [[4x - Reading/43 Blog Reading/43.02 Blog Notes/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]]
 - [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 - Processing _The Art Thief_
 - Reading _Strategy - Seth Godin_
-- Processing _Come up for air_
+- Processing [[0x - System/01 Index/01.04 Notes in process/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 - Reading _Einstein: His life and universe_
 
 # Finance Ideas

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-12-22T21:16:03.663+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2025-01-14T22:09:43.924+03:00","updated":"2025-01-14T22:09:43.924+03:00"}
 ---
 
 ![365 days - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/365%20days%20-%20cover.jpg)
@@ -34,7 +34,7 @@
 - [[1x - References/11 Notes/11.02 Quotes/In the midst of chaos, there is also opportunity - Sun Tzu\|In the midst of chaos, there is also opportunity - Sun Tzu]]
 - [[1x - References/11 Notes/11.02 Quotes/Be impeccable with your word. Use the power of your word in the direction of truth and love - Miguel Angel Ruiz\|Be impeccable with your word. Use the power of your word in the direction of truth and love - Miguel Angel Ruiz]]
 - [[1x - References/11 Notes/11.02 Quotes/The thoughts you entertain most often will have the biggest impact on who you are as a person - Friedrich Nietzshce\|The thoughts you entertain most often will have the biggest impact on who you are as a person - Friedrich Nietzshce]]
-- [[1x - References/11 Notes/11.02 Quotes/A growing body of research suggests that as little as 5 percent of our behaviors are consciously self-directed. We are creatures of habit and as much as 95 percent of what we do occurs automatically or in reaction to a demand or an anxiety - Jim Loehr\|A growing body of research suggests that as little as 5 percent of our behaviors are consciously self-directed. We are creatures of habit and as much as 95 percent of what we do occurs automatically or in reaction to a demand or an anxiety - Jim Loehr]]
+- [[1x - References/11 Notes/11.02 Quotes/A growing body of research suggests that as little as 5 percent of our behaviors are consciously self-directed - Jim Loehr\|A growing body of research suggests that as little as 5 percent of our behaviors are consciously self-directed - Jim Loehr]]
 - [[1x - References/11 Notes/11.02 Quotes/It is one of the unexpected disasters of the modern age that our new unparalleled access to information has come at the price of our capacity to concentrate on anything much - Alain de Botton\|It is one of the unexpected disasters of the modern age that our new unparalleled access to information has come at the price of our capacity to concentrate on anything much - Alain de Botton]]
 - [[1x - References/11 Notes/11.02 Quotes/A man’s life is interesting primarily when he has failed - I well know. For it’s a sign that he tried to surpass himself - Georges Clemenceau\|A man’s life is interesting primarily when he has failed - I well know. For it’s a sign that he tried to surpass himself - Georges Clemenceau]]
 - [[1x - References/11 Notes/11.02 Quotes/Rare indulgence produces greater pleasure - Juvenal\|Rare indulgence produces greater pleasure - Juvenal]]

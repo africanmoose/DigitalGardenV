@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/chindogu-the-japanese-art-of-eccentric-invention/","title":"Chindogu - the Japanese art of eccentric invention","created":"2025-01-09T22:38:10.262+03:00","updated":"2025-01-09T22:58:00.985+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/chindogu-the-japanese-art-of-eccentric-invention/","title":"Chindogu - the Japanese art of eccentric invention","created":"2025-01-09T22:38:10.262+03:00","updated":"2025-01-09T23:01:04.587+03:00"}
 ---
 
 
@@ -23,7 +23,7 @@
 	10. Chindogu for All: Chindogu are without prejudice. All should have a free and equal chance to enjoy each and every Chindogu.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 
 ### Quotes
 > The chopstick fan. A baby mop onesie. Solar-powered flashlights. A toilet paper tissue hat.
