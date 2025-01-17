@@ -10,7 +10,7 @@
 - Just spending 15 % more time in flow cna result in doubling productivity.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 
 ### Quotes
 >  A McKinsey & Company study found that you are five times more productive in a flow state than out of one. That means you can double your productivity by spending just 15 to 20 percent more time in flow.7
