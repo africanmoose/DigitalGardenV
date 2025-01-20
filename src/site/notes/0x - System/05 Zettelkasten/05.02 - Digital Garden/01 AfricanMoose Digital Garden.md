@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-16T17:26:21.173+03:00","updated":"2025-01-16T17:26:21.173+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-16T17:26:21.173+03:00","updated":"2025-01-20T22:44:50.126+03:00"}
 ---
 
 ## Pic of the week 
-![20250104_181707.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/20250104_181707.jpg)
-Surprising beauty lies everywhere, even in a crowded city.
+![20250116_151052 copy.jpg](/img/user/20250116_151052%20copy.jpg)
+The old baobab tree. These trees are 100s of years old, and massive. Look at the full grown man standing there for scale.
 
 # What is this site for?
 
@@ -78,19 +78,7 @@ Surprising beauty lies everywhere, even in a crowded city.
 
 # Currently listening to
 
-According to Spotify, my top artists of 2024 are:
-- [Samm Henshaw](https://www.youtube.com/watch?v=I_8-P4eZ1jA)
-- [Greg Spero (and MonoNeon)](https://www.youtube.com/watch?v=S6_EMdSs45k)
-- [Aaron Taylor](https://www.youtube.com/watch?v=7Tln_B11HgQ)
-- [Jon Batiste](https://www.youtube.com/watch?v=ze4xcmBFvaE)
-- [Manu Dibangu](https://www.youtube.com/watch?v=HV2hfn-TS14)
-
-According to me:
-- Jon Batiste
-- Irma
-- Scary Pockets
-- Sauti Sol
-
+I did not like my spotify wrapped this year - it was too shallow. So then i found receiptify, an app that gives you old school details from spotify. Here's the results:
 - A detailed breakdown of [[0x - System/05 Zettelkasten/05.02 - Digital Garden/08 2024 Music stats\|08 2024 Music stats]]
 - More of my favorite music here [[0x - System/05 Zettelkasten/05.02 - Digital Garden/04 Music I enjoy\|04 Music I enjoy]]
 

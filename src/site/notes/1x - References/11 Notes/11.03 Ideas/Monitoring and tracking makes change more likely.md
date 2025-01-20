@@ -20,4 +20,4 @@
 - [[1x - References/11 Notes/11.03 Ideas/Track your progress\|Track your progress]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Track your financial progress\|Track your financial progress]]
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Specific prayers like tracking number\|Specific prayers like tracking number]]
-- [[5x - Arts/54 Writing/54.08 Productivity book/01 Make it visible - notes\|01 Make it visible - notes]]
+- [[5x - Arts/54 Writing/54.12 Productivty book notes/01 Make it visible - notes\|01 Make it visible - notes]]
