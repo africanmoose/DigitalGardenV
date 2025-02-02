@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/brian-may/","title":"Brian May","created":"2023-10-24T21:45:28.000+03:00","updated":"2024-02-14T20:18:19.039+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/brian-may/","title":"Brian May","created":"2023-10-24T21:45:28.000+03:00","updated":"2025-01-29T17:35:24.129+03:00"}
 ---
 
-
+![[Queen_+_Adam_Lambert_5_(38119549814).jpg\|Queen_+_Adam_Lambert_5_(38119549814).jpg]]
 ### Summary
 - Lead guitarist for Queen
 

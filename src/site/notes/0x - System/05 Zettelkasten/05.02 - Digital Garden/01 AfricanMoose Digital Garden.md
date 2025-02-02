@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-16T17:26:21.173+03:00","updated":"2025-01-26T09:22:52.450+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-16T17:26:21.173+03:00","updated":"2025-02-02T23:22:30.503+03:00"}
 ---
 
-## Pic of the week 
-![20250116_151052 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20250116_151052%20copy.jpg)
-The old baobab tree. These trees are 100s of years old, and massive. Look at the full grown man standing there for scale.
+## Pic of the week  ![20250115_183823.jpg](/img/user/20250115_183823.jpg)
+Super hard to get a nice picture out of the train. Why don't they clean their windows???
 
 # What is this site for?
 
@@ -30,13 +29,13 @@ The old baobab tree. These trees are 100s of years old, and massive. Look at the
 
 # Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Nikki Giovanni\|Nikki Giovanni]]
 - [[1x - References/11 Notes/11.05 Persons/Arthur Wharton\|Arthur Wharton]]
 - [[1x - References/11 Notes/11.05 Persons/Bruce Lee\|Bruce Lee]]
 - [[1x - References/11 Notes/11.05 Persons/Genghis Khan\|Genghis Khan]]
 - [[1x - References/11 Notes/11.05 Persons/Paul Erdős\|Paul Erdős]]
 - [[1x - References/11 Notes/11.05 Persons/Benoit Mandelbrot\|Benoit Mandelbrot]]
 - [[1x - References/11 Notes/11.05 Persons/Jose Hernandez\|Jose Hernandez]]
-- [[1x - References/11 Notes/11.05 Persons/Tadao Ando\|Tadao Ando]]
 
 # Interesting Ideas
 
