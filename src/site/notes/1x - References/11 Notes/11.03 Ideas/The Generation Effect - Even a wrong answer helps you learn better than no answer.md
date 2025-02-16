@@ -24,4 +24,4 @@ Being forced to generate answers improves subsequent learning even if the genera
 - [[1x - References/11 Notes/11.03 Ideas/Learning requires work\|Learning requires work]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning new skills changes the way you think\|Learning new skills changes the way you think]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning is best done slowly to accumulate lasting knowledge even if it means doing badly in the short term\|Learning is best done slowly to accumulate lasting knowledge even if it means doing badly in the short term]]
-- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]

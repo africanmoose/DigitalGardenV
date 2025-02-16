@@ -20,7 +20,7 @@
 - "We are so opposed to being with ourselves, in a study13 done by the University of Virginia, over 700 people were asked to just sit in a room alone with their thoughts for 6-15 minutes alongside a shock button that they could press if ever they wanted out. 67% of men and 25% of women chose to shock themselves rather than sit quietly and think."
 
 ### Related
-- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Reading is Thinking\|Reading is Thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Work alone\|Work alone]]
 

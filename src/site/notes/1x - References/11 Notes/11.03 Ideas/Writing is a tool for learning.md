@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-a-tool-for-learning/","title":"Writing is a tool for learning","created":"2024-05-20T20:43:19.180+03:00","updated":"2024-05-20T20:44:52.768+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-a-tool-for-learning/","title":"Writing is a tool for learning","created":"2025-02-15T14:12:40.785+03:00","updated":"2025-02-15T14:12:40.785+03:00"}
 ---
 
 
@@ -18,6 +18,6 @@ naturally to them. What they overlook is that writing is more than a vehicle for
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Feynman technique of learning\|Feynman technique of learning]]
-- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|Writing is thinking]]
+- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|1x - References/11 Notes/11.03 Ideas/Writing is thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Writing notes in your own words has power\|Writing notes in your own words has power]]
 - [[1x - References/11 Notes/11.02 Quotes/Writing gives poor thinking nowhere to hide.\|Writing gives poor thinking nowhere to hide.]]

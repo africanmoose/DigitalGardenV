@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-sonke-ahrens/","title":"How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens","created":"2023-11-10T21:45:51.000+03:00","updated":"2024-02-14T20:17:40.787+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-sonke-ahrens/","title":"How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens","created":"2025-02-15T14:12:40.801+03:00","updated":"2025-02-15T14:12:40.801+03:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 ### Details
 - [[1x - References/11 Notes/11.03 Ideas/Single most important factor in success is not intelligence\|Single most important factor in success is not intelligence]]
 - [[1x - References/11 Notes/11.03 Ideas/Studying to pass the exam vs to learn\|Studying to pass the exam vs to learn]] or 'planners' vs 'experts'. Smart notes are a tool for the latter
-- Writing notes is important, because [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|Writing is thinking]]
+- Writing notes is important, because [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|1x - References/11 Notes/11.03 Ideas/Writing is thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Principle of Atomicity in Notetaking\|Principle of Atomicity in Notetaking]]
 - [[1x - References/11 Notes/11.03 Ideas/Feedback loops critical for growth and learning\|Feedback loops critical for growth and learning]]
 - [[1x - References/11 Notes/11.03 Ideas/Flexible focus better than relentless focus\|Flexible focus better than relentless focus]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/keep-notes-in-a-commonplace-book/","title":"Keep notes in a commonplace book","created":"2023-09-15T16:47:16.677+03:00","updated":"2024-05-11T10:00:14.146+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/keep-notes-in-a-commonplace-book/","title":"Keep notes in a commonplace book","created":"2025-02-15T14:12:40.767+03:00","updated":"2025-02-15T14:12:40.767+03:00"}
 ---
 
 
@@ -23,7 +23,7 @@ Centuries ago, when books were rare, those who owned them would lend them to fri
 - [[1x - References/11 Notes/11.03 Ideas/Writing notes in your own words has power\|Writing notes in your own words has power]]
 - [[1x - References/11 Notes/11.10 Lessons Learned/Lessons from writing notes fully electronically\|Lessons from writing notes fully electronically]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
-- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|Writing is thinking]]
+- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|1x - References/11 Notes/11.03 Ideas/Writing is thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Writing gives poor thinking nowhere to hide.\|Writing gives poor thinking nowhere to hide.]]
 - [[1x - References/11 Notes/11.02 Quotes/Advice on writing - Alan Watts\|Advice on writing - Alan Watts]]
   

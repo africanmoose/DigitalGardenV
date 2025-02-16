@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/building-a-second-brain-thiago-forte/","title":"Building a Second Brain - Thiago Forte","created":"2023-09-11T21:04:08.569+03:00","updated":"2024-02-14T20:17:40.946+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/building-a-second-brain-thiago-forte/","title":"Building a Second Brain - Thiago Forte","created":"2025-02-15T14:12:40.797+03:00","updated":"2025-02-15T14:12:40.797+03:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Shift as much time as possible from consuming to creating\|Shift as much time as possible from consuming to creating]]
 - [[1x - References/11 Notes/11.03 Ideas/Consider ideas that are opposed to each other\|Consider ideas that are opposed to each other]]
 - [[1x - References/11 Notes/11.03 Ideas/Writing notes in your own words has power\|Writing notes in your own words has power]]
-- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|Writing is thinking]]
+- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|1x - References/11 Notes/11.03 Ideas/Writing is thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/The cathedral effect - our surroundings affect how we think\|The cathedral effect - our surroundings affect how we think]]
 - The inspiring story of [[1x - References/11 Notes/11.05 Persons/Octavia Estelle Butler\|Octavia Estelle Butler]]
 - [[1x - References/11 Notes/11.03 Ideas/Polanyi Paradox - We know more than we can explain\|Polanyi Paradox - We know more than we can explain]]

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-16T17:26:21.173+03:00","updated":"2025-02-02T23:22:30.503+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-16T17:26:21.173+03:00","updated":"2025-02-08T21:03:06.232+03:00"}
 ---
 
-## Pic of the week  ![20250115_183823.jpg](/img/user/20250115_183823.jpg)
+## Pic of the week  ![20250115_183823.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/20250115_183823.jpg)
 Super hard to get a nice picture out of the train. Why don't they clean their windows???
 
 # What is this site for?
@@ -39,23 +39,24 @@ Super hard to get a nice picture out of the train. Why don't they clean their wi
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Creation of art leads to a state of flow\|Creation of art leads to a state of flow]]
+- [[1x - References/11 Notes/11.03 Ideas/During sleep, your brain cleans itself of toxins\|During sleep, your brain cleans itself of toxins]]
 - [[1x - References/11 Notes/11.03 Ideas/When you have few things, you tend to be sure that they are better quality\|When you have few things, you tend to be sure that they are better quality]]
 - [[1x - References/11 Notes/11.03 Ideas/Rubbish is only what you treat as rubbish\|Rubbish is only what you treat as rubbish]]
 - [[1x - References/11 Notes/11.03 Ideas/Interact with nature at every opportunity\|Interact with nature at every opportunity]]
 - [[1x - References/11 Notes/11.03 Ideas/Be stubborn about your goals but flexible about your methods\|Be stubborn about your goals but flexible about your methods]]
 - [[1x - References/11 Notes/11.03 Ideas/Never let more than 2 days pass when trying to establish a habit\|Never let more than 2 days pass when trying to establish a habit]]
-- [[1x - References/11 Notes/11.03 Ideas/Use multiple sources to learn and to bolster retention\|Use multiple sources to learn and to bolster retention]]
-- [[1x - References/11 Notes/11.03 Ideas/Maintain a to-learn list\|Maintain a to-learn list]]
+
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom\|Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Love in Africa - Jeffrey Gettleman\|Love in Africa - Jeffrey Gettleman]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
-- [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 

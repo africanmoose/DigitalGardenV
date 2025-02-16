@@ -18,6 +18,6 @@
 > “Letter to Shareholders, 1985.” BerkshireHathaway.com. Retrieved from: http://www.berkshirehathaway.com/letters/1985.html
 
 ### Related
-- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]
 - [[1x - References/11 Notes/11.03 Ideas/Long term thinking is a powerful tool\|Long term thinking is a powerful tool]]

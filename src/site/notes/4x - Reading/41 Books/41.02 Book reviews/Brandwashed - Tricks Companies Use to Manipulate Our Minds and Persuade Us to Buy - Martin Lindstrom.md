@@ -21,4 +21,4 @@
 - [[1x - References/11 Notes/11.02 Quotes/Not everything that is faced can be changed, but nothing can be changed until it is faced\|Not everything that is faced can be changed, but nothing can be changed until it is faced]]
 
 ### Related
-- [[0x - System/01 Index/01.04 Notes in process/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]

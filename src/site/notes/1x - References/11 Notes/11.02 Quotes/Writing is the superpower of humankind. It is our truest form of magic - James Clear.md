@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/writing-is-the-superpower-of-humankind-it-is-our-truest-form-of-magic-james-clear/","title":"Writing is the superpower of humankind. It is our truest form of magic - James Clear","created":"2025-01-06T14:45:13.494+03:00","updated":"2025-01-06T19:43:14.128+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/writing-is-the-superpower-of-humankind-it-is-our-truest-form-of-magic-james-clear/","title":"Writing is the superpower of humankind. It is our truest form of magic - James Clear","created":"2025-02-15T14:12:40.738+03:00","updated":"2025-02-15T14:12:40.738+03:00"}
 ---
 
 
@@ -17,7 +17,7 @@ James Clear
 3-2-1 email Jan 5, 2025
 
 ## Related
-- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|Writing is thinking]]
+- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|1x - References/11 Notes/11.03 Ideas/Writing is thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Writing is a tool for learning\|Writing is a tool for learning]]
 - [[1x - References/11 Notes/11.03 Ideas/Writing notes in your own words has power\|Writing notes in your own words has power]]
 - [[1x - References/11 Notes/11.03 Ideas/Infuse your writing with your opinion\|Infuse your writing with your opinion]]

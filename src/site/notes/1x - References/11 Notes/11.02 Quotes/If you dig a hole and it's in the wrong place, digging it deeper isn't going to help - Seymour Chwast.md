@@ -16,7 +16,7 @@ Graphic designer and illustrator **Seymour Chwast** r
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Think about before making a decision\|Think about before making a decision]]
-- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Long term thinking is a powerful tool\|Long term thinking is a powerful tool]]
 - [[1x - References/11 Notes/11.03 Ideas/Plan but dont overplan\|Plan but dont overplan]]
 - [[1x - References/11 Notes/11.03 Ideas/Common Sense Planning\|Common Sense Planning]]

@@ -20,5 +20,5 @@
 - [[3x - Spiritual/31 Notes/31.05 Bethel Lectures/Do you see the big picture - V. Benjamin\|Do you see the big picture - V. Benjamin]]
 - [[1x - References/11 Notes/11.03 Ideas/Leaders job is to think of the big picture\|Leaders job is to think of the big picture]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/David saw the bigger picture\|David saw the bigger picture]]
-- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Long term thinking is a powerful tool\|Long term thinking is a powerful tool]]

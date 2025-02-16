@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-value-of-keeping-a-journal/","title":"The value of keeping a journal","created":"2024-03-10T09:37:47.184+03:00","updated":"2024-03-10T09:46:23.342+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-value-of-keeping-a-journal/","title":"The value of keeping a journal","created":"2025-02-15T14:12:40.772+03:00","updated":"2025-02-15T14:12:40.772+03:00"}
 ---
 
 
@@ -25,7 +25,7 @@ The list of people, ancient and modern, who practiced the art of journaling is a
 Some did it in the morning. Some did it sporadically. Some, like Leonardo da Vinci, kept their notebooks on their person at all times. John F. Kennedy kept a diary during his travels before World War II, and then as president was more of a notetaker and a doodler (which is shown in studies to improve memory) on White House stationery both to clarify his thinking and to keep a record of it.
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|Writing is thinking]]
+- [[1x - References/11 Notes/11.03 Ideas/Writing is thinking\|1x - References/11 Notes/11.03 Ideas/Writing is thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Writing notes in your own words has power\|Writing notes in your own words has power]]
 - [[1x - References/11 Notes/11.02 Quotes/Writing gives poor thinking nowhere to hide.\|Writing gives poor thinking nowhere to hide.]]
 - [[1x - References/11 Notes/11.02 Quotes/Paper has more patience than people - Anne Frank\|Paper has more patience than people - Anne Frank]]

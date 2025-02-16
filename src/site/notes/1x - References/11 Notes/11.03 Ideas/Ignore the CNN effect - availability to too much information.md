@@ -26,7 +26,7 @@ The point is, it’s very difficult to think or act clearly (to say nothing of b
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/If you wish to improve be content to appear clueless or stupid in extraneous matters - Epictetus\|If you wish to improve be content to appear clueless or stupid in extraneous matters - Epictetus]]
 - [[1x - References/11 Notes/11.03 Ideas/Napoleon would wait 3 weeks before opening any mail\|Napoleon would wait 3 weeks before opening any mail]]
-- [[5x - Arts/54 Writing/54.11 Substack articles in progress/Long term thinking\|Long term thinking]]
+- [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]
 - [[1x - References/11 Notes/11.03 Ideas/Chose long-term thinking or short-term - you can't do both\|Chose long-term thinking or short-term - you can't do both]]
 - [[1x - References/11 Notes/11.03 Ideas/Sudden insights often the result of long-term thinking and study\|Sudden insights often the result of long-term thinking and study]]
