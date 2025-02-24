@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-01-16T17:26:05.631+03:00","updated":"2025-02-08T21:03:32.698+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-01-16T17:26:05.631+03:00","updated":"2025-02-24T20:37:17.420+03:00"}
 ---
 
  
@@ -11,10 +11,10 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 - [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
  - [[4x - Reading/43 Blog Reading/43.02 Blog Notes/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]] (not a book, but a long form article. still excellent!)
+- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 
 
 ## Recommended
-
 - [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]

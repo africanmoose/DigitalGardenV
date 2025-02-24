@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-a-tool-for-learning/","title":"Writing is a tool for learning","created":"2025-02-15T14:12:40.785+03:00","updated":"2025-02-15T14:12:40.785+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-a-tool-for-learning/","title":"Writing is a tool for learning","created":"2025-02-20T18:17:01.298+03:00","updated":"2025-02-20T18:17:01.298+03:00"}
 ---
 
 
@@ -13,8 +13,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
-I’ve seen many people shy away from writing because it doesn’t come
-naturally to them. What they overlook is that writing is more than a vehicle for communicating—it’s a tool for learning. Writing exposes gaps in your knowledge and logic. It pushes you to articulate assumptions and consider counterarguments. Unclear writing is a sign of unclear thinking. 
+I’ve seen many people shy away from writing because it doesn’t come naturally to them. What they overlook is that writing is more than a vehicle for communicating—it’s a tool for learning. Writing exposes gaps in your knowledge and logic. It pushes you to articulate assumptions and consider counterarguments. Unclear writing is a sign of unclear thinking. 
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Feynman technique of learning\|Feynman technique of learning]]

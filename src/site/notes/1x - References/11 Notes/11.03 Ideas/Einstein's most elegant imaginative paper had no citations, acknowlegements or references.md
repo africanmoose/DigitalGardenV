@@ -10,7 +10,7 @@
 - The insight he had was that time cannot be absolutely defined.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
 
 ### Quotes
 > Then something delightful happened. Albert Einstein, while talking with friend, took one of the most elegant imaginative leaps in the history of physics.
