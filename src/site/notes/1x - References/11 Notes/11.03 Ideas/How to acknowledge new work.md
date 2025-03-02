@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-to-acknowledge-new-work/","title":"How to acknowlege new work","created":"2025-02-24T21:14:45.750+03:00","updated":"2025-02-24T21:24:55.587+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-to-acknowledge-new-work/","title":"How to acknowlege new work","created":"2025-02-24T21:14:45.750+03:00","updated":"2025-02-24T22:29:12.522+03:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 - estimate how long you will take to complete this work
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 
 ### Quotes
 > When adding a new project to your holding tank, it’s important to update the source of this new obligation about what they should expect. To do so, send an acknowledgment message that formally acknowledges the project that you’re committing to complete, but that also includes the following three pieces of extra information: (1) a request for any additional details you need from the source before you can start the project, (2) a count of the number of existing projects already on your lists, and (3) an estimate of when you expect to complete this new work.

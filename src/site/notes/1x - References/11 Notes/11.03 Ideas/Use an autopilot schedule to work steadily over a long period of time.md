@@ -10,7 +10,7 @@
 - Instead of working on things when they are just about to be due, this allows you to produce work steadily with a minimum of thinking
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 
 ### Quotes
 > my twenties, when my writing focused on student advice, I used to frequently recommend an organizational strategy called an autopilot schedule. The idea was to assign regularly occurring classwork to specific times on specific days, and sometimes even specific locations, each week. Maybe you always do your English lit reading after your 10:00 a.m. class on Tuesdays and Thursdays, using the same table, on the same floor of the same nearby library. This strategy worked because it countered many students’ default tendency to work only on what was urgently due. It’s rare the undergraduate, for example, who spontaneously thinks, “Maybe I should get started working on that problem set three days in advance.” But if this task is on his autopilot schedule for the current day, he will, without much consideration, simply work on it. “Once you get to the point where your regular work is getting done with minimum of thinking,” I wrote in one of my early articles on this topic, “you’ve hit that low-stress sweet spot where you can start turning your attention to the bigger things.”

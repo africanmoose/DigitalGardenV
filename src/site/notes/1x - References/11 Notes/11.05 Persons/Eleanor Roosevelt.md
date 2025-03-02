@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/eleanor-roosevelt/","title":"Eleanor Roosevelt","created":"2023-10-20T19:16:37.000+03:00","updated":"2024-02-14T20:18:18.705+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/eleanor-roosevelt/","title":"Eleanor Roosevelt","created":"2023-10-20T19:16:37.000+03:00","updated":"2025-03-01T13:52:28.556+03:00"}
 ---
 
-
+![Eleanor Roosevelt.png](/img/user/1x%20-%20References/11%20Notes/11.05%20Persons/Eleanor%20Roosevelt.png)
 ### Summary
 - 1884-1962
 - First lady of the US from 1933 - 1945

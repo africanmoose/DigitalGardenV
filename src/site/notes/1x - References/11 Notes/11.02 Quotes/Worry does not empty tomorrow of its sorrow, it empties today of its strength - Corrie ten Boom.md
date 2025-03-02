@@ -16,5 +16,5 @@ _Source:_ [_Clippings from My Notebook_](https://click.convertkit-mail4.com/r8u
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Worrying can be addictive\|Worrying can be addictive]]
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Worry like a rocking chair\|Worry like a rocking chair]]
-- [[1x - References/11 Notes/11.02 Quotes/A growing body of research suggests that as little as 5 percent of our behaviors are consciously self-directed - Jim Loehr\|A growing body of research suggests that as little as 5 percent of our behaviors are consciously self-directed - Jim Loehr]]
+- [[A growing body of research suggests that as little as 5 percent of our behaviors are consciously self-directed - Jim Loehr\|A growing body of research suggests that as little as 5 percent of our behaviors are consciously self-directed - Jim Loehr]]
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Focus on Positive\|Focus on Positive]]
