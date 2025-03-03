@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/focus-on-diminishing-the-gap-between-your-taste-and-your-ability/","title":"permanent note","created":"2025-03-02T22:07:46.205+03:00","updated":"2025-03-02T22:20:26.570+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/focus-on-diminishing-the-gap-between-your-taste-and-your-ability/","title":"permanent note","created":"2025-03-02T22:07:46.205+03:00","updated":"2025-03-02T23:10:40.110+03:00"}
 ---
 
 

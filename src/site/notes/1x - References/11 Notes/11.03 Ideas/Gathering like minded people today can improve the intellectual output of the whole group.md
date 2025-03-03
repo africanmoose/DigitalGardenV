@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/gathering-like-minded-people-today-can-improve-the-intellectual-output-of-the-whole-group/","title":"permanent note","created":"2025-03-02T22:21:26.755+03:00","updated":"2025-03-02T23:07:58.381+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/gathering-like-minded-people-today-can-improve-the-intellectual-output-of-the-whole-group/","title":"permanent note","created":"2025-03-02T22:21:26.755+03:00","updated":"2025-03-02T23:10:40.113+03:00"}
 ---
 
 

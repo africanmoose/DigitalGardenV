@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-16T17:26:21.173+03:00","updated":"2025-03-02T23:15:08.727+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-16T17:26:21.173+03:00","updated":"2025-03-03T19:20:04.580+03:00"}
 ---
 
 ## Pic of the week 
@@ -51,20 +51,19 @@ Baobab trees are always amazing. They can live more than 1,000 years.
 
 # Book Reviews
 
--  [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom\|Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
-
-
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
+= Processing Never Eat Alone
 
 # Finance Ideas
 
