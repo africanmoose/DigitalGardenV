@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/human-connection-makes-your-brain-work-better/","title":"Human connection makes your brain work better","created":"2023-07-29T18:44:42.647+03:00","updated":"2024-02-14T20:18:30.208+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/human-connection-makes-your-brain-work-better/","title":"Human connection makes your brain work better","created":"2025-03-16T19:44:41.075+03:00","updated":"2025-03-16T19:44:41.075+03:00"}
 ---
 
 
@@ -14,6 +14,6 @@
 
 ### Related
 - [[4x - Reading/41 Books/41.01 Book Notes/The influential mind - What the brain reveals about our power to change others\|The influential mind - What the brain reveals about our power to change others]]
-- [[1x - References/11 Notes/11.03 Ideas/Little bits of human connection\|Little bits of human connection]]
+- [[1x - References/11 Notes/11.03 Ideas/Appreciate human connection even if its brief\|Appreciate human connection even if its brief]]
 - [[1x - References/11 Notes/11.03 Ideas/How to use questions that foster deeper connections\|How to use questions that foster deeper connections]]
 - [[Build real friendships\|Build real friendships]]

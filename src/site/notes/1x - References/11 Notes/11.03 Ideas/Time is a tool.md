@@ -18,5 +18,5 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Decisions are like hats, haircuts or tattoos\|Decisions are like hats, haircuts or tattoos]]
 - [[1x - References/11 Notes/11.03 Ideas/Every decision reverberates\|Every decision reverberates]]
-- [[Plan spending ahead of time\|Plan spending ahead of time]]
+- [[1x - References/11 Notes/11.03 Ideas/Plan spending ahead of time\|Plan spending ahead of time]]
 - [[1x - References/11 Notes/11.03 Ideas/Decision tool - What would my future self like\|Decision tool - What would my future self like]]

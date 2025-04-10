@@ -16,7 +16,7 @@ Albert Einstein
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Curiousity is a powerful learning tool\|Curiousity is a powerful learning tool]]
-- [[0x - System/01 Index/01.02 Inbox/Get curious, not furious\|Get curious, not furious]]
+- [[Get curious, not furious\|Get curious, not furious]]
 - [[1x - References/11 Notes/11.02 Quotes/Be less curious about people and more curious about ideas - Marie Curie\|Be less curious about people and more curious about ideas - Marie Curie]]
 - [[1x - References/11 Notes/11.02 Quotes/Replace judgement with curiousity - Nottage\|Replace judgement with curiousity - Nottage]]
 - [[1x - References/11 Notes/11.02 Quotes/The cure for boredom is curiosity. There is no cure for curiosity - Dorothy Parker\|The cure for boredom is curiosity. There is no cure for curiosity - Dorothy Parker]]

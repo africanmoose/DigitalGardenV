@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-06-structure-notes/trent-hamms-14-money-principles/","title":"Trent Hamms 14 money principles","created":"2022-11-01T13:53:13.000+03:00","updated":"2024-02-14T20:18:17.990+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-06-structure-notes/trent-hamms-14-money-principles/","title":"Trent Hamms 14 money principles","created":"2025-04-09T21:51:37.484+03:00","updated":"2025-04-09T21:51:37.484+03:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Track your financial progress\|Track your financial progress]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Take care of your stuff\|Take care of your stuff]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Learn how to do things for yourself\|Learn how to do things for yourself]]
-- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Plan ahead for all spending\|Plan ahead for all spending]]
+- [[1x - References/11 Notes/11.03 Ideas/Plan spending ahead of time\|Plan spending ahead of time]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Build good relationships and real friends\|Build good relationships and real friends]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Improve yourself at every opportunity\|Improve yourself at every opportunity]]

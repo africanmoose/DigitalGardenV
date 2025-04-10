@@ -18,4 +18,4 @@
 - [[1x - References/11 Notes/11.02 Quotes/Writing gives poor thinking nowhere to hide.\|Writing gives poor thinking nowhere to hide.]]
 - [[1x - References/11 Notes/11.10 Lessons Learned/Lessons from writing notes fully electronically\|Lessons from writing notes fully electronically]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Spend less than you earn\|Spend less than you earn]]
-- [[Plan spending ahead of time\|Plan spending ahead of time]]
+- [[1x - References/11 Notes/11.03 Ideas/Plan spending ahead of time\|Plan spending ahead of time]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/invest-in-good-tools-to-improve-the-quality-of-your-product/","title":"permanent note","created":"2025-03-02T23:10:58.095+03:00","updated":"2025-03-02T23:12:49.325+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/invest-in-good-tools-to-improve-the-quality-of-your-product/","title":"permanent note","created":"2025-03-02T23:10:58.095+03:00","updated":"2025-03-03T19:12:30.653+03:00"}
 ---
 
 

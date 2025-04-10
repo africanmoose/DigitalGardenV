@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/upfront-planning-or-start-and-adjust-as-you-go/","title":"Upfront planning or start and adjust as you go","created":"2024-07-29T09:10:21.235+03:00","updated":"2024-07-29T12:31:17.652+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/upfront-planning-or-start-and-adjust-as-you-go/","title":"Upfront planning or start and adjust as you go","created":"2025-04-09T21:50:35.876+03:00","updated":"2025-04-09T21:50:35.876+03:00"}
 ---
 
 
@@ -24,6 +24,6 @@ Do you need early action or early planning?"
 - [[1x - References/11 Notes/11.03 Ideas/Kanban\|Kanban]]
 - [[1x - References/11 Notes/11.03 Ideas/Planning fallacy\|Planning fallacy]]
 - [[1x - References/11 Notes/11.03 Ideas/Plan but dont overplan\|Plan but dont overplan]]
-- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Plan ahead for all spending\|Plan ahead for all spending]]
+- [[1x - References/11 Notes/11.03 Ideas/Plan spending ahead of time\|Plan spending ahead of time]]
 - [[1x - References/11 Notes/11.02 Quotes/Not plan for specific situation - James Clear\|Not plan for specific situation - James Clear]]
 - [[1x - References/11 Notes/11.03 Ideas/Positioning yourself\|Positioning yourself]]

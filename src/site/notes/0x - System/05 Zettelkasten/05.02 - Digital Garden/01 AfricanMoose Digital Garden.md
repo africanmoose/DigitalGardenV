@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-01-16T17:26:21.173+03:00","updated":"2025-03-03T19:20:04.580+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-04-09T14:47:43.247+03:00","updated":"2025-04-09T14:47:43.247+03:00"}
 ---
 
 ## Pic of the week 
-![20250219_170926 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/20250219_170926%20copy.jpg)
-Baobab trees are always amazing. They can live more than 1,000 years.
+![20250407_205438.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/20250407_205438.jpg)
+Downtown Madrid at Sol is a tremendously pretty place to visit at any time of day, but especially just after the sun sets.
 
 # What is this site for?
 
@@ -18,52 +18,49 @@ Baobab trees are always amazing. They can live more than 1,000 years.
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Commitment is inherent in any genuinely loving relationship - M. Scott Peck\|Commitment is inherent in any genuinely loving relationship - M. Scott Peck]]
+- [[1x - References/11 Notes/11.02 Quotes/Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith\|Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith]]
+- [[1x - References/11 Notes/11.02 Quotes/The currency of real networking is not greed but generosity - Keith Ferrazzi\|The currency of real networking is not greed but generosity - Keith Ferrazzi]]
+- [[1x - References/11 Notes/11.02 Quotes/To be in business today, our most important job is to be head marketer for the brand called You - Tom Peters\|To be in business today, our most important job is to be head marketer for the brand called You - Tom Peters]]
 - [[1x - References/11 Notes/11.02 Quotes/All the energy you put into arguing with reality comes at the expense of improving your situation - James Clear\|All the energy you put into arguing with reality comes at the expense of improving your situation - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/For who is there who, shooting all day, will not sometimes hit the mark - Marcus Tullius Cicero\|For who is there who, shooting all day, will not sometimes hit the mark - Marcus Tullius Cicero]]
 - [[1x - References/11 Notes/11.02 Quotes/Nothing is a waste of time if you use the experience wisely - Auguste Rodin\|Nothing is a waste of time if you use the experience wisely - Auguste Rodin]]
 - [[1x - References/11 Notes/11.02 Quotes/The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire\|The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire]]
-- [[1x - References/11 Notes/11.02 Quotes/The easy, conversational tone of good writing comes only on the eighth rewrite - Paul Graham\|The easy, conversational tone of good writing comes only on the eighth rewrite - Paul Graham]]
-- [[1x - References/11 Notes/11.02 Quotes/Always walk through life as if you have something new to learn and you will - Vernon Howard\|Always walk through life as if you have something new to learn and you will - Vernon Howard]]
-- [[1x - References/11 Notes/11.02 Quotes/On what friends bring out in each other - C.S. Lewis\|On what friends bring out in each other - C.S. Lewis]]
-- [[1x - References/11 Notes/11.02 Quotes/Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom\|Worry does not empty tomorrow of its sorrow, it empties today of its strength - Corrie ten Boom]]
-
 
 # Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Ronald Fisher\|Ronald Fisher]]
+- [[1x - References/11 Notes/11.05 Persons/Emile Leray\|Emile Leray]]
 - [[1x - References/11 Notes/11.05 Persons/Nikki Giovanni\|Nikki Giovanni]]
 - [[1x - References/11 Notes/11.05 Persons/Arthur Wharton\|Arthur Wharton]]
 - [[1x - References/11 Notes/11.05 Persons/Bruce Lee\|Bruce Lee]]
 - [[1x - References/11 Notes/11.05 Persons/Genghis Khan\|Genghis Khan]]
 - [[1x - References/11 Notes/11.05 Persons/Paul Erdős\|Paul Erdős]]
-- [[1x - References/11 Notes/11.05 Persons/Benoit Mandelbrot\|Benoit Mandelbrot]]
-- [[1x - References/11 Notes/11.05 Persons/Jose Hernandez\|Jose Hernandez]]
 
 # Interesting Ideas
-
-- [[1x - References/11 Notes/11.03 Ideas/Creation of art leads to a state of flow\|Creation of art leads to a state of flow]]
-- [[1x - References/11 Notes/11.03 Ideas/During sleep, your brain cleans itself of toxins\|During sleep, your brain cleans itself of toxins]]
-- [[1x - References/11 Notes/11.03 Ideas/When you have few things, you tend to be sure that they are better quality\|When you have few things, you tend to be sure that they are better quality]]
-- [[1x - References/11 Notes/11.03 Ideas/Rubbish is only what you treat as rubbish\|Rubbish is only what you treat as rubbish]]
-- [[1x - References/11 Notes/11.03 Ideas/Interact with nature at every opportunity\|Interact with nature at every opportunity]]
-- [[1x - References/11 Notes/11.03 Ideas/Be stubborn about your goals but flexible about your methods\|Be stubborn about your goals but flexible about your methods]]
-- [[1x - References/11 Notes/11.03 Ideas/Never let more than 2 days pass when trying to establish a habit\|Never let more than 2 days pass when trying to establish a habit]]
-
+- [[1x - References/11 Notes/11.03 Ideas/All dogs are mixed breed dogs\|All dogs are mixed breed dogs]]
+- [[1x - References/11 Notes/11.03 Ideas/Serve the smallest viable audience with something they love\|Serve the smallest viable audience with something they love]]
+- [[1x - References/11 Notes/11.03 Ideas/Your circle of people and time should always be expanding\|Your circle of people and time should always be expanding]]
+- [[1x - References/11 Notes/11.03 Ideas/Trying to win at social media is like working for free for youtube, tiktok or instagram\|Trying to win at social media is like working for free for youtube, tiktok or instagram]]
+- [[1x - References/11 Notes/11.03 Ideas/Forward movement with optionality gives the best futures\|Forward movement with optionality gives the best futures]]
+- [[1x - References/11 Notes/11.03 Ideas/Give a stranger a compliment every single day\|Give a stranger a compliment every single day]]
+- [[1x - References/11 Notes/11.03 Ideas/Ask people what they are working on that most excites them\|Ask people what they are working on that most excites them]]
 
 # Book Reviews
 
+- [[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom\|Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
-- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
-= Processing Never Eat Alone
+- Processing 
 
 # Finance Ideas
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/slow-productivity-cal-newport/","title":"Slow productivity - Cal Newport","created":"2025-02-20T17:37:26.193+03:00","updated":"2025-03-02T23:14:39.128+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/slow-productivity-cal-newport/","title":"Slow productivity - Cal Newport","created":"2025-02-20T17:37:26.193+03:00","updated":"2025-03-03T19:12:30.655+03:00"}
 ---
 
 ![Slow productivity.png](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Slow%20productivity.png)

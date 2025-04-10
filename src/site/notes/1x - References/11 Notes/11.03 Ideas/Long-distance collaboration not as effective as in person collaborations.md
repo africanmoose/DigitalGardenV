@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/long-distance-collaboration-not-as-effective-as-in-person-collaborations/","title":"Long-distance colloboration not as effective as in person collaborations","created":"2024-06-26T19:07:54.243+03:00","updated":"2024-06-26T22:18:42.023+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/long-distance-collaboration-not-as-effective-as-in-person-collaborations/","title":"Long-distance colloboration not as effective as in person collaborations","created":"2025-03-16T19:44:41.087+03:00","updated":"2025-03-16T19:44:41.087+03:00"}
 ---
 
 
@@ -26,7 +26,7 @@ that merely connecting people online leads to the growth of new ideas. “There�
 —Lingfei Wu University of Pittsburgh
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Human connection makes your brain work better\|Human connection makes your brain work better]]
-- [[1x - References/11 Notes/11.03 Ideas/Little bits of human connection\|Little bits of human connection]]
+- [[1x - References/11 Notes/11.03 Ideas/Appreciate human connection even if its brief\|Appreciate human connection even if its brief]]
 - [[1x - References/11 Notes/11.03 Ideas/Collaboration vs compromise\|Collaboration vs compromise]]
 - [[1x - References/11 Notes/11.03 Ideas/If you always agree with a collaborator one of you is unnecessary\|If you always agree with a collaborator one of you is unnecessary]]
 - [[1x - References/11 Notes/11.03 Ideas/Art is about collaboration not competition or comparison\|Art is about collaboration not competition or comparison]]

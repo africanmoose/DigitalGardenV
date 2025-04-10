@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-01-16T17:26:05.631+03:00","updated":"2025-03-02T23:15:22.565+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-04-09T14:48:11.610+03:00","updated":"2025-04-09T14:48:11.610+03:00"}
 ---
 
  
@@ -12,6 +12,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
  - [[4x - Reading/43 Blog Reading/43.02 Blog Notes/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]] (not a book, but a long form article. still excellent!)
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 
 
 ## Recommended
@@ -63,6 +64,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 
 
 ## Interesting but dont go out of your way
@@ -83,5 +85,5 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel\|Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell\|The Lazy Person's Guide to Investing - Paul Farrell]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
-
+- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 

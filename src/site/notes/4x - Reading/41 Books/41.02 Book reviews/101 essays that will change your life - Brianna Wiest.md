@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/101-essays-that-will-change-your-life-brianna-wiest/","title":"101 essays that will change your life - Brianna Wiest","created":"2022-11-15T10:56:19.000+03:00","updated":"2024-02-14T20:17:41.109+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/101-essays-that-will-change-your-life-brianna-wiest/","title":"101 essays that will change your life - Brianna Wiest","created":"2025-03-16T19:44:41.091+03:00","updated":"2025-03-16T19:44:41.091+03:00"}
 ---
 
 
@@ -17,7 +17,7 @@ A few highlights:
 - [[1x - References/11 Notes/11.03 Ideas/Questioning yourself means you are open to growth\|Questioning yourself means you are open to growth]]
 - [[1x - References/11 Notes/11.03 Ideas/You dont need many close friends\|When it comes to friends, quality is better than quantity]]
 - I enjoyed this idea a lot: [[1x - References/11 Notes/11.03 Ideas/The happiness of pleasure grace and excellence\|The happiness that comes from the pursuit of excellence]]
-- [[1x - References/11 Notes/11.03 Ideas/Little bits of human connection\|Appreciate little bits of human connection that happen to us in a day]]
+- [[1x - References/11 Notes/11.03 Ideas/Appreciate human connection even if its brief\|Appreciate little bits of human connection that happen to us in a day]]
 - [[1x - References/11 Notes/11.03 Ideas/Help people in small ways\|Help people in small ways]]
 - [[1x - References/11 Notes/11.03 Ideas/Everything is hard - what is worth the effort\|Everything is hard, the question is what do we think is worth the effort]]
 - [[1x - References/11 Notes/11.03 Ideas/How to argue and disagree\|Express disagreement eloquently, deepend connection instead of putting people on the defensive]]

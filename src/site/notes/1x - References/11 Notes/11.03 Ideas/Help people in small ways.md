@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/help-people-in-small-ways/","title":"Help people in small ways","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:30.905+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/help-people-in-small-ways/","title":"Help people in small ways","created":"2025-03-16T19:44:41.059+03:00","updated":"2025-03-16T19:44:41.059+03:00"}
 ---
 
 
@@ -17,5 +17,5 @@
 
 ### Related
 - [[Build real friendships\|Build real friendships]]
-- [[1x - References/11 Notes/11.03 Ideas/Little bits of human connection\|Little bits of human connection]]
+- [[1x - References/11 Notes/11.03 Ideas/Appreciate human connection even if its brief\|Appreciate human connection even if its brief]]
 - [[3x - Spiritual/36 Study/36.01 Study Projects/Joy - Study Project\|Joy - Study Project]]
