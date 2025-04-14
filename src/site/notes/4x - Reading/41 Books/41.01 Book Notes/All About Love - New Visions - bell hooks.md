@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-01-book-notes/all-about-love-new-visions-bell-hooks/","title":"All About Love - New Visions - bell hooks","created":"2025-03-27T22:51:45.026+03:00","updated":"2025-04-10T10:34:26.284+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-01-book-notes/all-about-love-new-visions-bell-hooks/","title":"All About Love - New Visions - bell hooks","created":"2025-03-27T22:51:45.026+03:00","updated":"2025-04-14T19:39:37.103+03:00"}
 ---
 
 ![All about love - cover.png](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/All%20about%20love%20-%20cover.png)
@@ -14,7 +14,7 @@
 
 ### Details
 - When we are loving we openly and honestly express care, affection, responsibility, respect, commitment, and trust.
-- [[1x - References/11 Notes/11.03 Ideas/Organized religion espouses the values of a secular society\|Organized religion espouses the values of a secular society]]
+- [[1x - References/11 Notes/11.03 Ideas/Most organized religion espouses the values of a secular society\|Most organized religion espouses the values of a secular society]]
 - [[1x - References/11 Notes/11.03 Ideas/Unethical behaviour does not lead to happiness\|Unethical behaviour does not lead to happiness]]
 - [[1x - References/11 Notes/11.03 Ideas/Love is based on knowlege\|Love is based on knowlege]]
 - [[1x - References/11 Notes/11.03 Ideas/Materialism leads to a world of narcissism\|Materialism leads to a world of narcissism]]
