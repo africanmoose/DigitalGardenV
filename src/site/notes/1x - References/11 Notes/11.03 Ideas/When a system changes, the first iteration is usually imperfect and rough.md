@@ -10,7 +10,7 @@
 - Only after multiple iterations does the product start to look polished and finished
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > This is the story of every new software innovation. In fact it’s the story of almost everything engineers have ever created.

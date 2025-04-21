@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/most-organized-religion-espouses-the-values-of-a-secular-society/","title":"Organized religion espouses the values of a secular society","created":"2025-03-27T20:56:51.801+03:00","updated":"2025-04-14T18:04:14.911+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/most-organized-religion-espouses-the-values-of-a-secular-society/","title":"Organized religion espouses the values of a secular society","created":"2025-03-27T20:56:51.801+03:00","updated":"2025-04-14T20:16:50.645+03:00"}
 ---
 
 

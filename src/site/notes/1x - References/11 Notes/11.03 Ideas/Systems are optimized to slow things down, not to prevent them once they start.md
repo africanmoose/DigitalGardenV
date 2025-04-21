@@ -11,7 +11,7 @@
 - See: Moses in New York, Donald Trump, AirBnB and Uber
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > Stake driving: Moses would begin actual construction work on a project as quickly as possible, often starting with driving actual stakes into the ground before he had permits or funding. This made the projects seem inevitable and more difficult to oppose or alter. Systems are often optimized to slow things down, not to undo things that are already happening.

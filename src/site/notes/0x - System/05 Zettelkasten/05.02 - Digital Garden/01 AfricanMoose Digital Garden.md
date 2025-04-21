@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-04-09T14:47:43.247+03:00","updated":"2025-04-09T14:47:43.247+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-04-16T20:30:37.278+03:00","updated":"2025-04-18T22:51:51.044+03:00"}
 ---
 
 ## Pic of the week 
-![20250407_205438.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/20250407_205438.jpg)
-Downtown Madrid at Sol is a tremendously pretty place to visit at any time of day, but especially just after the sun sets.
+![20250331_185238.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.06%20Daily%20logs/20250331_185238.jpg)We came across this lovely Citroen DS parked next to the Prado museum. They were filming a period movie - when we went round the corner we saw all the actors dressed up in period correct outfits.
 
 # What is this site for?
 
@@ -38,6 +37,7 @@ Downtown Madrid at Sol is a tremendously pretty place to visit at any time of da
 - [[1x - References/11 Notes/11.05 Persons/Paul Erdős\|Paul Erdős]]
 
 # Interesting Ideas
+
 - [[1x - References/11 Notes/11.03 Ideas/All dogs are mixed breed dogs\|All dogs are mixed breed dogs]]
 - [[1x - References/11 Notes/11.03 Ideas/Serve the smallest viable audience with something they love\|Serve the smallest viable audience with something they love]]
 - [[1x - References/11 Notes/11.03 Ideas/Your circle of people and time should always be expanding\|Your circle of people and time should always be expanding]]
@@ -48,19 +48,20 @@ Downtown Madrid at Sol is a tremendously pretty place to visit at any time of da
 
 # Book Reviews
 
-- [[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/A Place of My Own - Michael Pollan\|A Place of My Own - Michael Pollan]]
+- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 - [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom\|Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
-- Processing 
+- Processing [[0x - System/01 Index/01.04 Notes in process/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- Processing [[0x - System/01 Index/01.04 Notes in process/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 # Finance Ideas
 

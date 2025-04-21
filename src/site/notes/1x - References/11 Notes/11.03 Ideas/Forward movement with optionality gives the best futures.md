@@ -10,7 +10,7 @@
 - Ideally, you want to try a new thing that gives you the option to undo, or change direction later
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > more useful approach is to seek out and embrace optionality. If we can try something, experience something, or launch something that comes with an undo button, that path is far more resilient than irrevocable decisions that can’t be undone.

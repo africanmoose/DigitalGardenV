@@ -11,7 +11,7 @@
 - Make a habit of walking through your work mentally before embarking on a job
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/A Place of My Own - Michael Pollan\|A Place of My Own - Michael Pollan]]
+- [[4x - Reading/41 Books/41.02 Book reviews/A Place of My Own - Michael Pollan\|A Place of My Own - Michael Pollan]]
 
 ### Quotes
 > There being no “Undo Sawing” command, the carpenter who makes a mistake is apt to call, in jest, for the “wood stretcher”—a tool that of course doesn’t exist. The irreversibility of an action taken in wood is how the carpenter comes by his patience and deliberation, his habit of pausing to mentally walk through all the consequences of any action—to consider fully the implications for, say, the trimming of a doorjamb next month of a cut made in a rafter today. These were alien habits of mind, but ones I’d resolved to learn. So I followed Joe out the door, trudging back into the snow to double-check our measurements.

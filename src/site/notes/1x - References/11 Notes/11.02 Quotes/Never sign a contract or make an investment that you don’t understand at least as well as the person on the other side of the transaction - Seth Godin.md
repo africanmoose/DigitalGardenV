@@ -10,7 +10,7 @@ Never sign a contract or make an investment that you don’t understand at least
 Seth Godin
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+[[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Have a contract to strengthen your family relationships\|Have a contract to strengthen your family relationships]]

@@ -13,7 +13,7 @@
 - This principle can also apply to ideas, planning, knowlege, and our knowlege of individuals
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > A toddler wants what they want. Right now. Or a tantrum ensues.

@@ -11,7 +11,7 @@
 - If they dont love your product, then you need a new product or a better product
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > This is the mantra of the self-absorbed, short-term, hype-hustling promoter calling themselves a marketer. They say a good idea needs endless promotion because people deserve to hear about it.

@@ -10,7 +10,7 @@
 - A business that has a small advantage may end up receiving more capital that allows it to widen the gap on its competitors, leading to an even bigger advantage.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > As a system matures, a small head start can lead to more assets, allowing investment, patient decisions, and the building of trust. The feedback loop amplifies small advantages. People want to buy from the market leader, giving that leader even more of an advantage.

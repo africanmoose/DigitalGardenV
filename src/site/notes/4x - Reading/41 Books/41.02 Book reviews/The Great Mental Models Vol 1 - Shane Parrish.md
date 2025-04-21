@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-great-mental-models-vol-1-shane-parrish/","title":"The Great Mental Models Vol 1 - Shane Parrish","created":"2024-12-11T20:06:19.857+03:00","updated":"2024-12-12T21:08:06.323+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-great-mental-models-vol-1-shane-parrish/","title":"The Great Mental Models Vol 1 - Shane Parrish","created":"2024-12-11T20:06:19.857+03:00","updated":"2025-04-18T22:48:54.724+03:00"}
 ---
 
 ![The great mental modesl - cover.png](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/The%20great%20mental%20modesl%20-%20cover.png)
@@ -18,7 +18,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/How to know your circle of competence\|How to know your circle of competence]]
 - [[1x - References/11 Notes/11.03 Ideas/Use a journal to monitor progress\|Use a journal to monitor progress]]
 - [[1x - References/11 Notes/11.03 Ideas/Consider second order effects of your actions\|Consider second order effects of your actions]]
-- Learn how to fail properly: never take a risk that will take you out completley. And seocndly, learn from failure. 
+- Learn how to fail properly: never take a risk that will take you out completley. And secondly, learn from failure. 
 - [[1x - References/11 Notes/11.03 Ideas/Occam's razor - The simplest explanation is most likely to be correct\|Occam's razor - The simplest explanation is most likely to be correct]]
 - [[1x - References/11 Notes/11.03 Ideas/Hanlon's razor - Don't attribute to malice that which is more likely stupidity\|Hanlon's razor - Don't attribute to malice that which is more likely stupidity]]
 - [[1x - References/11 Notes/11.03 Ideas/Bayes Theorem\|Bayes Theorem]]

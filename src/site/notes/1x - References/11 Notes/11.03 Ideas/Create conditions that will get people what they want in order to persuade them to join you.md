@@ -10,7 +10,7 @@
 - Example of dorothy in the Wizard of Oz persuading the Lion, tin Man and scarecrow to join her.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > How did Dorothy persuade the Lion, Tin Man, and Scarecrow to join her on the trip to see the Wizard? Did she make a case about how much she missed home?
