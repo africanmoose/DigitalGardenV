@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/everyone-is-expected-to-maximise-their-potential/","title":"Everyone is expected to maximise their potential","created":"2023-02-11T15:05:37.000+03:00","updated":"2024-02-14T20:18:32.795+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/everyone-is-expected-to-maximise-their-potential/","title":"Everyone is expected to maximise their potential","created":"2025-04-24T20:51:42.013+03:00","updated":"2025-04-24T20:51:42.013+03:00"}
 ---
 
 
@@ -20,4 +20,4 @@
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalist gives us the space to change\|Minimalist gives us the space to change]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Modesty\|Modesty]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Modesty\|3x - Spiritual/31 Notes/31.03 Structure Notes/Modesty]]

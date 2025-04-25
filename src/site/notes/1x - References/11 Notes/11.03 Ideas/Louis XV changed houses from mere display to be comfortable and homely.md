@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/louis-xv-changed-houses-from-mere-display-to-be-comfortable-and-homely/","title":"Louis XV changed houses from mere display to be comfortable and homely","created":"2025-04-21T20:03:15.270+03:00","updated":"2025-04-21T20:10:14.503+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/louis-xv-changed-houses-from-mere-display-to-be-comfortable-and-homely/","title":"Louis XV changed houses from mere display to be comfortable and homely","created":"2025-04-21T20:03:15.270+03:00","updated":"2025-04-21T20:21:48.594+03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/activation-energy-required-to-start-or-change-behaviour/","title":"Activation energy required to start or change behaviour","created":"2025-04-21T19:53:42.943+03:00","updated":"2025-04-21T20:01:56.734+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/activation-energy-required-to-start-or-change-behaviour/","title":"Activation energy required to start or change behaviour","created":"2025-04-21T19:53:42.943+03:00","updated":"2025-04-21T20:21:48.592+03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/the-great-mental-models-volume-2-physics-chemistry-and-biology/","title":"The Great Mental Models Volume 2 - Physics, Chemistry and Biology","created":"2025-04-18T22:45:33.776+03:00","updated":"2025-04-21T20:16:28.486+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/the-great-mental-models-volume-2-physics-chemistry-and-biology/","title":"The Great Mental Models Volume 2 - Physics, Chemistry and Biology","created":"2025-04-25T11:41:54.245+03:00","updated":"2025-04-25T11:41:54.245+03:00"}
 ---
 
 ![Pasted image 20250418224616.png](/img/user/Pasted%20image%2020250418224616.png)
@@ -21,6 +21,10 @@
 - [[1x - References/11 Notes/11.03 Ideas/Keep other people wanting what you have\|Keep other people wanting what you have]]
 - [[1x - References/11 Notes/11.03 Ideas/Activation energy required to start or change behaviour\|Activation energy required to start or change behaviour]]
 - [[1x - References/11 Notes/11.03 Ideas/Louis XV changed houses from mere display to be comfortable and homely\|Louis XV changed houses from mere display to be comfortable and homely]]
+- [[1x - References/11 Notes/11.05 Persons/Leonardo da Vinci\|Leonardo da Vinci]]
+- [[1x - References/11 Notes/11.03 Ideas/Adaptability - Do what you can, with what you have, where you are\|Adaptability - Do what you can, with what you have, where you are]]
+- 
+
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/It is good to know something of the customs of various peoples, so as to judge our own more soundly - Descartes\|It is good to know something of the customs of various peoples, so as to judge our own more soundly - Descartes]]
 - [[1x - References/11 Notes/11.02 Quotes/You’ll learn from them—if you want to. Just as someday, if you have something to offer, someone will learn something from you. It’s a beautiful reciprocal arrangement - J.D. Salinger\|You’ll learn from them—if you want to. Just as someday, if you have something to offer, someone will learn something from you. It’s a beautiful reciprocal arrangement - J.D. Salinger]]
