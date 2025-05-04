@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/internal-communication-platforms-are-better-than-email/","title":"Internal communication platforms are better than email","created":"2025-01-15T20:09:46.497+03:00","updated":"2025-01-17T22:52:16.841+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/internal-communication-platforms-are-better-than-email/","title":"Internal communication platforms are better than email","created":"2025-01-15T20:09:46.497+03:00","updated":"2025-05-04T21:12:16.489+03:00"}
 ---
 
 

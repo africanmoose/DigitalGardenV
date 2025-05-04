@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/clear-thinking-turning-ordinary-moments-into-extraordinary-results-shane-parrish/","title":"Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish","created":"2023-12-25T17:35:40.943+03:00","updated":"2024-02-14T20:17:40.942+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/clear-thinking-turning-ordinary-moments-into-extraordinary-results-shane-parrish/","title":"Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish","created":"2023-12-25T17:35:40.943+03:00","updated":"2025-05-04T21:11:27.297+03:00"}
 ---
 
 ![Clear Thinking - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Clear%20Thinking%20-%20cover.jpg)
@@ -39,7 +39,6 @@
 - [[1x - References/11 Notes/11.03 Ideas/ASAP principle vs ALAP principle - when to make decisions fast and when to make them slow\|ASAP principle vs ALAP principle - when to make decisions fast and when to make them slow]]
 - [[1x - References/11 Notes/11.03 Ideas/Preserve optionality even if it makes you look stupid in the short term\|Preserve optionality even if it makes you look stupid in the short term]]
 - [[1x - References/11 Notes/11.03 Ideas/Commanders intent - formulate, communicate, interpret and implement\|Commanders intent - formulate, communicate, interpret and implement]]
-
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/Anyone can steer the ship when the sea is calm - Publilius Syrus\|Anyone can steer the ship when the sea is calm - Publilius Syrus]]
 - [[1x - References/11 Notes/11.02 Quotes/The mind should have someone whom it can respect - Seneca\|The mind should have someone whom it can respect - Seneca]]

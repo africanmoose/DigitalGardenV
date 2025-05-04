@@ -19,7 +19,7 @@ These two are kept in the National Library of Madrid:
 - He readily combined the experiences adn knowlege from diverse disciplines
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ### Quotes
 > To really explain knowledge as an alloy, something that is strengthened when we mix certain components in, we can look at the life of Leonardo da Vinci.* In Walter Isaacson’s account, he explains that Leonardo was able to conceive of things in an extraordinary way leading him to discover or validate concepts that were often hundreds of years ahead of his time.7

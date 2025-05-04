@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-can-carve-out-a-very-good-career-simply-by-being-the-most-reliable-person-on-the-team-james-clear/","title":"You can carve out a very good career simply by being the most reliable person on the team - James Clear","created":"2024-09-12T07:47:58.310+03:00","updated":"2024-09-12T13:23:14.474+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-can-carve-out-a-very-good-career-simply-by-being-the-most-reliable-person-on-the-team-james-clear/","title":"You can carve out a very good career simply by being the most reliable person on the team - James Clear","created":"2024-09-12T07:47:58.310+03:00","updated":"2025-05-04T21:13:03.979+03:00"}
 ---
 
 

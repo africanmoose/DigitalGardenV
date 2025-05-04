@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/programming-principles-that-work-in-real-life-communicate-well/","title":"Programming principles that work in real life - Communicate well","created":"2024-09-26T17:31:40.434+03:00","updated":"2024-09-28T07:59:41.996+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/programming-principles-that-work-in-real-life-communicate-well/","title":"Programming principles that work in real life - Communicate well","created":"2024-09-26T17:31:40.434+03:00","updated":"2025-05-04T21:12:49.045+03:00"}
 ---
 
 

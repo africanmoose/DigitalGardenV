@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/great-communication-is-an-easy-way-to-improve-business-efficiency/","title":"Great communication is an easy way to improve business efficiency","created":"2025-01-13T11:34:52.207+03:00","updated":"2025-01-14T20:05:25.276+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/great-communication-is-an-easy-way-to-improve-business-efficiency/","title":"Great communication is an easy way to improve business efficiency","created":"2025-01-13T11:34:52.207+03:00","updated":"2025-05-04T21:12:00.633+03:00"}
 ---
 
 

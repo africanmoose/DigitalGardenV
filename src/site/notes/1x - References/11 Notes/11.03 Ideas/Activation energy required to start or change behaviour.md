@@ -12,7 +12,7 @@
 - Sometimes we invest too little energy and then we slip back into the behaviour
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ### Quotes
 > The bigger and more challenging an action is, the more activation energy required. And it’s important to remember that the buildup to doing something is part of the activation energy required—this build up includes everything on the camel, not just the straw.

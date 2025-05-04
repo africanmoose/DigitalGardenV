@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/making-a-statement-into-a-question-is-a-sign-of-low-confidence/","title":"Making a statement into a question is a sign of low confidence","created":"2024-08-13T11:42:03.530+03:00","updated":"2024-08-16T20:51:09.544+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/making-a-statement-into-a-question-is-a-sign-of-low-confidence/","title":"Making a statement into a question is a sign of low confidence","created":"2024-08-13T11:42:03.530+03:00","updated":"2025-05-04T21:12:29.402+03:00"}
 ---
 
 
@@ -17,5 +17,5 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Dont misinterpret confidence for competence\|Dont misinterpret confidence for competence]]
-- [[1x - References/11 Notes/11.03 Ideas/Overconfidence Bias\|Overconfidence Bias]]
+- [[Overconfidence Bias]
 - [[1x - References/11 Notes/11.03 Ideas/Commanders intent - formulate, communicate, interpret and implement\|Commanders intent - formulate, communicate, interpret and implement]]

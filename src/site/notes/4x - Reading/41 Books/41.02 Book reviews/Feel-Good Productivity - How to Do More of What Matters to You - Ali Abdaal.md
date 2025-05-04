@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/feel-good-productivity-how-to-do-more-of-what-matters-to-you-ali-abdaal/","title":"Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal","created":"2024-03-20T22:06:32.701+03:00","updated":"2024-04-16T07:56:41.752+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/feel-good-productivity-how-to-do-more-of-what-matters-to-you-ali-abdaal/","title":"Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal","created":"2024-03-20T22:06:32.701+03:00","updated":"2025-05-04T21:11:01.949+03:00"}
 ---
 
 ![Feel-good productivity-cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Feel-good%20productivity-cover.jpg)
@@ -22,7 +22,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Extrinsic motivation vs Intrinsic motivation\|Extrinsic motivation vs Intrinsic motivation]]
 - [[1x - References/11 Notes/11.03 Ideas/Do three random acts of kindness a day\|Do three random acts of kindness a day]]
 - [[1x - References/11 Notes/11.03 Ideas/How to give negative feedback objectively\|How to give negative feedback objectively]]
-- [[1x - References/11 Notes/11.03 Ideas/Commanders intent\|Commanders intent]]
+- [[1x - References/11 Notes/11.03 Ideas/Commanders intent - formulate, communicate, interpret and implement\|Commanders intent - formulate, communicate, interpret and implement]]
 - [[1x - References/11 Notes/11.03 Ideas/First principles - ask why five times\|First principles - ask why five times]]
 - [[1x - References/11 Notes/11.03 Ideas/Implementation intentions - how to create habits\|Implementation intentions - how to create habits]]
 - [[1x - References/11 Notes/11.03 Ideas/Tracking progress increases chances of achieving a goal\|Tracking progress increases chances of achieving a goal]]
