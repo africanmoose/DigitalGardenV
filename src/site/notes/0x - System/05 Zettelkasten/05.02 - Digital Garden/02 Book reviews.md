@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-04-16T20:30:44.894+03:00","updated":"2025-05-04T23:45:27.409+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-04-16T20:30:44.894+03:00","updated":"2025-05-17T10:32:45.842+03:00"}
 ---
 
  
@@ -13,6 +13,7 @@
  - [[4x - Reading/43 Blog Reading/43.02 Blog Notes/How to Do Great Work - Paul Graham\|How to Do Great Work - Paul Graham]] (not a book, but a long form article. still excellent!)
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 
 
 ## Recommended

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/law-of-the-minimum-the-yield-of-a-crop-will-be-dictated-by-the-essential-nutrient-available-at-the-lowest-level/","title":"Law of the minimum - the yield of a crop will be dictated by the essential nutrient available at the lowest level","created":"2025-05-04T18:55:22.473+03:00","updated":"2025-05-04T21:03:37.924+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/law-of-the-minimum-the-yield-of-a-crop-will-be-dictated-by-the-essential-nutrient-available-at-the-lowest-level/","title":"Law of the minimum - the yield of a crop will be dictated by the essential nutrient available at the lowest level","created":"2025-05-04T18:55:22.473+03:00","updated":"2025-05-05T07:12:47.104+03:00"}
 ---
 
 

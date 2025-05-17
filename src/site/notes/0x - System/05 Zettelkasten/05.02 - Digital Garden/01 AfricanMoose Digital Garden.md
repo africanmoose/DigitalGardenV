@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-04-16T20:30:37.278+03:00","updated":"2025-05-04T23:46:18.050+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-04-16T20:30:37.278+03:00","updated":"2025-05-17T10:38:32.243+03:00"}
 ---
 
 ## Pic of the week 
-![20250423_182655.jpg](/img/user/20250423_182655.jpg)
+![0x - System/05 Zettelkasten/05.03 - Publish digital garden resource folder/20250425_063336.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20250425_063336.jpg)
 Lamu: The oldest continuously inhabited place in Kenya
 
 # What is this site for?
@@ -18,14 +18,13 @@ Lamu: The oldest continuously inhabited place in Kenya
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman\|Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman]]
+- [[1x - References/11 Notes/11.02 Quotes/If you're busy showing off your brains, youre probably not listening closely enough, thinking hard enough or reaching the smartest conclusions - Strauss Zelnick\|If you're busy showing off your brains, youre probably not listening closely enough, thinking hard enough or reaching the smartest conclusions - Strauss Zelnick]]
 - [[1x - References/11 Notes/11.02 Quotes/Commitment is inherent in any genuinely loving relationship - M. Scott Peck\|Commitment is inherent in any genuinely loving relationship - M. Scott Peck]]
 - [[1x - References/11 Notes/11.02 Quotes/Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith\|Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith]]
 - [[1x - References/11 Notes/11.02 Quotes/The currency of real networking is not greed but generosity - Keith Ferrazzi\|The currency of real networking is not greed but generosity - Keith Ferrazzi]]
 - [[1x - References/11 Notes/11.02 Quotes/To be in business today, our most important job is to be head marketer for the brand called You - Tom Peters\|To be in business today, our most important job is to be head marketer for the brand called You - Tom Peters]]
 - [[1x - References/11 Notes/11.02 Quotes/All the energy you put into arguing with reality comes at the expense of improving your situation - James Clear\|All the energy you put into arguing with reality comes at the expense of improving your situation - James Clear]]
-- [[1x - References/11 Notes/11.02 Quotes/For who is there who, shooting all day, will not sometimes hit the mark - Marcus Tullius Cicero\|For who is there who, shooting all day, will not sometimes hit the mark - Marcus Tullius Cicero]]
-- [[1x - References/11 Notes/11.02 Quotes/Nothing is a waste of time if you use the experience wisely - Auguste Rodin\|Nothing is a waste of time if you use the experience wisely - Auguste Rodin]]
-- [[1x - References/11 Notes/11.02 Quotes/The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire\|The more I read, the more I acquire, the more certain I am that I know nothing - Voltaire]]
 
 # Interesting Persons
 
@@ -39,6 +38,7 @@ Lamu: The oldest continuously inhabited place in Kenya
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Compounding applies to knowledge, experience and relationships and not just money\|Compounding applies to knowledge, experience and relationships and not just money]]
 - [[1x - References/11 Notes/11.03 Ideas/Democracy is based on millions of people acting in their own short term self-interest\|Democracy is based on millions of people acting in their own short term self-interest]]
 - [[1x - References/11 Notes/11.03 Ideas/Commanders intent - formulate, communicate, interpret and implement\|Commanders intent - formulate, communicate, interpret and implement]]
 - [[1x - References/11 Notes/11.03 Ideas/All dogs are mixed breed dogs\|All dogs are mixed breed dogs]]
@@ -50,19 +50,20 @@ Lamu: The oldest continuously inhabited place in Kenya
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Place of My Own - Michael Pollan\|A Place of My Own - Michael Pollan]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 - [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- Working on a book on productivity
+- 
 
 # Finance Ideas
 
@@ -72,6 +73,7 @@ Lamu: The oldest continuously inhabited place in Kenya
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Build good relationships and real friends\|Build good relationships and real friends]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Dont worry about what you are investing in - just invest in something\|Dont worry about what you are investing in - just invest in something]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
+- [[1x - References/11 Notes/11.03 Ideas/Debt also compounds like savings\|Debt also compounds like savings]]
 - Full list of financial ideas - [[0x - System/05 Zettelkasten/05.02 - Digital Garden/03 Improve your finances\|03 Improve your finances]]
 
 # Currently listening to
@@ -82,7 +84,7 @@ I did not like my spotify wrapped this year - it was too shallow. So then i foun
 
 # Africanmoose Stuff
 
-[Africanmoose Travel Blog](https://africanmoose.blogspot.com)
+[Africanmoose Travel Blog](https://africanmoosetravel.substack.com)
 [Africanmoose Photography](http://Africanmoose.com)
 [Africanmoose Substack - an article about every week or so](https://africanmoose.substack.com)
 

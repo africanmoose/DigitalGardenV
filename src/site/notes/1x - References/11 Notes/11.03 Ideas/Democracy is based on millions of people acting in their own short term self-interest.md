@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/democracy-is-based-on-millions-of-people-acting-in-their-own-short-term-self-interest/","title":"Democracy is based on millions of people acting in their own short term self-interest","created":"2025-05-04T23:08:05.498+03:00","updated":"2025-05-04T23:11:33.467+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/democracy-is-based-on-millions-of-people-acting-in-their-own-short-term-self-interest/","title":"Democracy is based on millions of people acting in their own short term self-interest","created":"2025-05-04T23:08:05.498+03:00","updated":"2025-05-05T07:12:47.095+03:00"}
 ---
 
 

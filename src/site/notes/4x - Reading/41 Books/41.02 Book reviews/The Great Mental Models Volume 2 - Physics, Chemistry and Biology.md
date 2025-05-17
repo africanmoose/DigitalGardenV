@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-great-mental-models-volume-2-physics-chemistry-and-biology/","title":"The Great Mental Models Volume 2 - Physics, Chemistry and Biology","created":"2025-04-25T11:41:54.245+03:00","updated":"2025-05-04T23:43:10.903+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-great-mental-models-volume-2-physics-chemistry-and-biology/","title":"The Great Mental Models Volume 2 - Physics, Chemistry and Biology","created":"2025-04-25T11:41:54.245+03:00","updated":"2025-05-05T07:12:45.511+03:00"}
 ---
 
 ![The Great Mental Models 2 - cover.png](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/The%20Great%20Mental%20Models%202%20-%20cover.png)
@@ -42,5 +42,5 @@
 
 ### Related
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
-- [[0x - System/01 Index/01.04 Notes in process/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 

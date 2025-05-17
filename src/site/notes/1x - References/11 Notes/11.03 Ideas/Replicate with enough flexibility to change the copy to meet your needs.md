@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/replicate-with-enough-flexibility-to-change-the-copy-to-meet-your-needs/","title":"Replicate with enough flexibility to change the copy to meet your needs","created":"2025-05-04T21:22:32.621+03:00","updated":"2025-05-04T22:43:17.088+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/replicate-with-enough-flexibility-to-change-the-copy-to-meet-your-needs/","title":"Replicate with enough flexibility to change the copy to meet your needs","created":"2025-05-04T21:22:32.621+03:00","updated":"2025-05-05T07:12:47.090+03:00"}
 ---
 
 

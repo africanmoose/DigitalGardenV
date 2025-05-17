@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/cooperation-is-better-than-competition/","title":"Cooperation is better than competition","created":"2025-05-04T22:45:12.187+03:00","updated":"2025-05-04T23:06:36.212+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/cooperation-is-better-than-competition/","title":"Cooperation is better than competition","created":"2025-05-04T22:45:12.187+03:00","updated":"2025-05-05T07:12:47.099+03:00"}
 ---
 
 
