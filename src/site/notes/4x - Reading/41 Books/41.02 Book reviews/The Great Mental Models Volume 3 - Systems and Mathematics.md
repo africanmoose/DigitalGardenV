@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-great-mental-models-volume-3-systems-and-mathematics/","title":"The Great Mental Models Volume 3 - Systems and Mathematics","created":"2025-05-08T11:51:41.349+03:00","updated":"2025-05-17T10:29:57.026+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-great-mental-models-volume-3-systems-and-mathematics/","title":"The Great Mental Models Volume 3 - Systems and Mathematics","created":"2025-05-08T11:51:41.349+03:00","updated":"2025-05-17T12:23:59.182+03:00"}
 ---
 
 
