@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/the-notebook-a-history-of-thinking-on-paper-roland-allen/","title":"The Notebook - A History of Thinking on Paper - Roland Allen","created":"2025-05-23T21:19:30.847+03:00","updated":"2025-05-23T21:19:30.847+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/the-notebook-a-history-of-thinking-on-paper-roland-allen/","title":"The Notebook - A History of Thinking on Paper - Roland Allen","created":"2025-05-23T21:19:30.847+03:00","updated":"2025-05-25T20:55:03.558+03:00"}
 ---
 
 ![Pasted image 20250523210145.png](/img/user/Pasted%20image%2020250523210145.png)
@@ -16,6 +16,7 @@
 
 ### Details
 - [[1x - References/11 Notes/11.03 Ideas/Copying text makes you become more intimate with the passage\|Copying text makes you become more intimate with the passage]]
+- [[1x - References/11 Notes/11.03 Ideas/The value of repetition and obsession with an idea\|The value of repetition and obsession with an idea]]
 
 ### References
 - [goodreads](https://www.goodreads.com/book/show/148014534-the-notebook)
