@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/delegation-requires-upfront-investment/","title":"Delegation requires upfront investment","created":"2025-06-07T09:44:56.168+03:00","updated":"2025-06-07T09:47:07.083+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/delegation-requires-upfront-investment/","title":"Delegation requires upfront investment","created":"2025-06-07T09:44:56.168+03:00","updated":"2025-06-07T16:37:02.387+03:00"}
 ---
 
 

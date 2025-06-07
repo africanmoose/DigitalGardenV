@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-07T09:52:21.744+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-07T20:08:31.950+03:00"}
 ---
 
 ## Pic of the week 
-![0x - System/05 Zettelkasten/05.03 - Publish digital garden resource folder/20250425_063336.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20250425_063336.jpg)
+
 Lamu: The oldest continuously inhabited place in Kenya
 
 # What is this site for?
