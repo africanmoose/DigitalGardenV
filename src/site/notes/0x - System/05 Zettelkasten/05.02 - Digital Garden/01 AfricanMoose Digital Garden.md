@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-05-23T12:23:01.172+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-07T09:52:21.744+03:00"}
 ---
 
 ## Pic of the week 
@@ -50,6 +50,7 @@ Lamu: The oldest continuously inhabited place in Kenya
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/The Flinch - Julien Smith\|The Flinch - Julien Smith]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
@@ -63,7 +64,7 @@ Lamu: The oldest continuously inhabited place in Kenya
 # Work in Progress
 
 - Working on a book on productivity
-- 
+- processing [[0x - System/01 Index/01.04 Notes in process/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
 
 # Finance Ideas
 

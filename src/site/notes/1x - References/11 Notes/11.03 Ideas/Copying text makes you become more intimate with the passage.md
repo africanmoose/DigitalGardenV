@@ -11,7 +11,7 @@
 - You likely will only copy the bits that you really like
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Notebook - A History of Thinking on Paper - Roland Allen\|The Notebook - A History of Thinking on Paper - Roland Allen]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Notebook - A History of Thinking on Paper - Roland Allen\|The Notebook - A History of Thinking on Paper - Roland Allen]]
 
 ### Quotes
 > We should note, too, that the labour involved in copying out a chunk of literature changes the way the copyist relates to it. Transcribing a poem or letter forces the writer to read it multiple times, paying attention to the fine details of word selection and word order, and to consequently enjoy what one scholar calls ‘a more intimate and meaningful experience than they could have with purchased texts’. You only take on the significant labour of such copying if you really enjoy the text, and you then find that you come to know it and appreciate it much better.
