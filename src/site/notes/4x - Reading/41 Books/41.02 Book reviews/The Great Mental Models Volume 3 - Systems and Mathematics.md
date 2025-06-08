@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-great-mental-models-volume-3-systems-and-mathematics/","title":"The Great Mental Models Volume 3 - Systems and Mathematics","created":"2025-05-08T11:51:41.349+03:00","updated":"2025-06-08T07:43:34.673+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-great-mental-models-volume-3-systems-and-mathematics/","title":"The Great Mental Models Volume 3 - Systems and Mathematics","created":"2025-05-08T11:51:41.349+03:00","updated":"2025-06-08T08:47:27.764+03:00"}
 ---
 
 
@@ -22,7 +22,7 @@
 - [[1x - References/11 Notes/11.05 Persons/Ching Shih\|Ching Shih]], Chinese pirate extraordinaire
 - [[1x - References/11 Notes/11.03 Ideas/Compounding applies to knowledge, experience and relationships and not just money\|Compounding applies to knowledge, experience and relationships and not just money]]
 - [[1x - References/11 Notes/11.03 Ideas/Debt also compounds like savings\|Debt also compounds like savings]]
-- [[1x - References/11 Notes/11.02 Quotes/Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest - Naval Ravikant\|Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest - Naval Ravikant]]
+- [[1x - References/11 Notes/11.02 Quotes/Play iterated games. All the returns in life whether in wealth relationships or knowledge come from compound interest - Naval Ravikant\|Play iterated games. All the returns in life whether in wealth relationships or knowledge come from compound interest - Naval Ravikant]]
 
 ### References
 - 
