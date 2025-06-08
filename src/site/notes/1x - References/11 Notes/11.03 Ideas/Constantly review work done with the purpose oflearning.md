@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/constantly-review-work-done-with-the-purpose-oflearning/","title":"Constantly review work done with the purpose oflearning","created":"2025-05-09T23:41:08.610+03:00","updated":"2025-06-08T07:43:37.081+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/constantly-review-work-done-with-the-purpose-oflearning/","title":"Constantly review work done with the purpose oflearning","created":"2025-05-09T23:41:08.610+03:00","updated":"2025-06-08T07:47:19.178+03:00"}
 ---
 
 
