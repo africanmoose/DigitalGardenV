@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-re-busy-showing-off-your-brains-you-are-probably-not-listening-closely-enough-thinking-hard-enough-or-reaching-the-smartest-conclusions-strauss-zelnick/","title":"If you're busy showing off your brains, you're probably not listening closely enough, thinking hard enough or reaching the smartest conclusions - Strauss Zelnick","created":"2025-05-13T11:49:22.586+03:00","updated":"2025-06-07T22:50:56.095+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-re-busy-showing-off-your-brains-you-are-probably-not-listening-closely-enough-thinking-hard-enough-or-reaching-the-smartest-conclusions-strauss-zelnick/","title":"If you're busy showing off your brains, you're probably not listening closely enough, thinking hard enough or reaching the smartest conclusions - Strauss Zelnick","created":"2025-05-13T11:49:22.586+03:00","updated":"2025-06-07T23:58:07.902+03:00"}
 ---
 
 
