@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-07T22:50:53.755+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-09T18:27:30.119+03:00"}
 ---
 
 ## Pic of the week 
-![20250607_122148 copy.jpg](/img/user/20250607_122148%20copy.jpg)
+![20250607_122148 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20250607_122148%20copy.jpg)
 I have been to Karura probably 100s of times. Today I discovered that there are 2 sections, and the lesser known Thigiri section is way prettier!
 
 # What is this site for?
@@ -18,6 +18,7 @@ I have been to Karura probably 100s of times. Today I discovered that there are 
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Look for pockets of low competition - James Clear\|Look for pockets of low competition - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman\|Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman]]
 - [[1x - References/11 Notes/11.02 Quotes/If you're busy showing off your brains, you are probably not listening closely enough, thinking hard enough or reaching the smartest conclusions - Strauss Zelnick\|If you're busy showing off your brains, you are probably not listening closely enough, thinking hard enough or reaching the smartest conclusions - Strauss Zelnick]]
 - [[1x - References/11 Notes/11.02 Quotes/Commitment is inherent in any genuinely loving relationship - M. Scott Peck\|Commitment is inherent in any genuinely loving relationship - M. Scott Peck]]
