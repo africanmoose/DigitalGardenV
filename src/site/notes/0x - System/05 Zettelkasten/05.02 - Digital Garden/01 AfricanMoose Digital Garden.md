@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-09T19:12:51.317+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-09T19:28:27.308+03:00"}
 ---
 
 ## Pic of the week 
@@ -20,7 +20,7 @@ I have been to Karura probably 100s of times. Today I discovered that there are 
 
 - [[1x - References/11 Notes/11.02 Quotes/Look for pockets of low competition - James Clear\|Look for pockets of low competition - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman\|Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman]]
-- [[1x - References/11 Notes/11.02 Quotes/If you are busy showing off your brains, you are probably not listening closely enough, thinking hard enough or reaching the smartest conclusions - Strauss Zelnick\|If you are busy showing off your brains, you are probably not listening closely enough, thinking hard enough or reaching the smartest conclusions - Strauss Zelnick]]
+- [[1x - References/11 Notes/11.02 Quotes/If you are busy showing off your brains, you are probably not listening closely enough... - Strauss Zelnick\|If you are busy showing off your brains, you are probably not listening closely enough... - Strauss Zelnick]]
 - [[1x - References/11 Notes/11.02 Quotes/Commitment is inherent in any genuinely loving relationship - M. Scott Peck\|Commitment is inherent in any genuinely loving relationship - M. Scott Peck]]
 - [[1x - References/11 Notes/11.02 Quotes/Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith\|Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith]]
 - [[1x - References/11 Notes/11.02 Quotes/The currency of real networking is not greed but generosity - Keith Ferrazzi\|The currency of real networking is not greed but generosity - Keith Ferrazzi]]
