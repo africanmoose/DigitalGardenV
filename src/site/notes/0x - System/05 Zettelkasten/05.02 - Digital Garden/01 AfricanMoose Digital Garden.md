@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-10T20:01:01.776+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-21T09:37:45.408+03:00"}
 ---
 
 ## Pic of the week 
@@ -18,24 +18,24 @@ I have been to Karura probably 100s of times. Today I discovered that there are 
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine\|Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine]]
 - [[1x - References/11 Notes/11.02 Quotes/Look for pockets of low competition - James Clear\|Look for pockets of low competition - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman\|Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman]]
 - [[1x - References/11 Notes/11.02 Quotes/If you are busy showing off your brains you are probably not listening closely enough - Strauss Zelnick\|If you are busy showing off your brains you are probably not listening closely enough - Strauss Zelnick]]
 - [[1x - References/11 Notes/11.02 Quotes/Commitment is inherent in any genuinely loving relationship - M. Scott Peck\|Commitment is inherent in any genuinely loving relationship - M. Scott Peck]]
 - [[1x - References/11 Notes/11.02 Quotes/Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith\|Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith]]
 - [[1x - References/11 Notes/11.02 Quotes/The currency of real networking is not greed but generosity - Keith Ferrazzi\|The currency of real networking is not greed but generosity - Keith Ferrazzi]]
-- [[1x - References/11 Notes/11.02 Quotes/To be in business today, our most important job is to be head marketer for the brand called You - Tom Peters\|To be in business today, our most important job is to be head marketer for the brand called You - Tom Peters]]
-- [[1x - References/11 Notes/11.02 Quotes/All the energy you put into arguing with reality comes at the expense of improving your situation - James Clear\|All the energy you put into arguing with reality comes at the expense of improving your situation - James Clear]]
+
 
 # Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Ching Shih\|Ching Shih]]
 - [[1x - References/11 Notes/11.05 Persons/Ronald Fisher\|Ronald Fisher]]
 - [[1x - References/11 Notes/11.05 Persons/Emile Leray\|Emile Leray]]
 - [[1x - References/11 Notes/11.05 Persons/Nikki Giovanni\|Nikki Giovanni]]
 - [[1x - References/11 Notes/11.05 Persons/Arthur Wharton\|Arthur Wharton]]
 - [[1x - References/11 Notes/11.05 Persons/Bruce Lee\|Bruce Lee]]
 - [[1x - References/11 Notes/11.05 Persons/Genghis Khan\|Genghis Khan]]
-- [[1x - References/11 Notes/11.05 Persons/Paul Erdős\|Paul Erdős]]
 
 # Interesting Ideas
 
@@ -51,21 +51,20 @@ I have been to Karura probably 100s of times. Today I discovered that there are 
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Flinch - Julien Smith\|The Flinch - Julien Smith]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Place of My Own - Michael Pollan\|A Place of My Own - Michael Pollan]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
-- [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
 - Working on a book on productivity
-- processing [[0x - System/01 Index/01.04 Notes in process/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
+- Processing [[0x - System/01 Index/01.04 Notes in process/Co-intelligence\|Co-intelligence]]
 
 # Finance Ideas
 

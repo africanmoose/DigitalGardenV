@@ -12,7 +12,7 @@ Gotthold Ephraim Lessing (1729–81)
 
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
+[[4x - Reading/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Sleep is good for you\|Sleep is good for you]]
