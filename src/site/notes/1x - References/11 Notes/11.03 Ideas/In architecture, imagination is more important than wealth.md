@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/in-architecture-imagination-is-more-important-than-wealth/","title":"In architecture, imagination is more important than wealth","created":"2025-06-21T09:28:12.459+03:00","updated":"2025-06-21T09:32:36.864+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/in-architecture-imagination-is-more-important-than-wealth/","title":"In architecture, imagination is more important than wealth","created":"2025-06-21T09:28:12.459+03:00","updated":"2025-06-21T10:06:26.796+03:00"}
 ---
 
 

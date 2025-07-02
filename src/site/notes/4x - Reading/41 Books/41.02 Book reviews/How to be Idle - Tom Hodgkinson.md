@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/how-to-be-idle-tom-hodgkinson/","title":"How to be Idle - Tom Hodgkinson","created":"2025-06-09T12:45:17.255+03:00","updated":"2025-06-21T09:35:53.662+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/how-to-be-idle-tom-hodgkinson/","title":"How to be Idle - Tom Hodgkinson","created":"2025-06-09T12:45:17.255+03:00","updated":"2025-06-21T10:06:26.783+03:00"}
 ---
 
 ![How to be idle - tom hodgkinson.png](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/How%20to%20be%20idle%20-%20tom%20hodgkinson.png)

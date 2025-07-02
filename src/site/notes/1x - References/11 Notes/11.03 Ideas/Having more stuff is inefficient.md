@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/having-more-stuff-is-inefficient/","title":"More stuff is inefficient","created":"2025-06-21T09:32:46.018+03:00","updated":"2025-06-21T09:35:44.781+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/having-more-stuff-is-inefficient/","title":"More stuff is inefficient","created":"2025-06-21T09:32:46.018+03:00","updated":"2025-06-21T10:06:26.791+03:00"}
 ---
 
 

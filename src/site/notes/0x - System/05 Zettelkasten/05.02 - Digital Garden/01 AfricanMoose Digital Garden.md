@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-05-23T12:23:01.172+03:00","updated":"2025-06-21T09:37:45.408+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-06-30T17:15:27.500+03:00","updated":"2025-07-02T22:00:36.331+03:00"}
 ---
 
 ## Pic of the week 
-![20250607_122148 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20250607_122148%20copy.jpg)
+![20250607_121317 copy.jpg](/img/user/20250607_121317%20copy.jpg)
 I have been to Karura probably 100s of times. Today I discovered that there are 2 sections, and the lesser known Thigiri section is way prettier!
 
 # What is this site for?
@@ -18,18 +18,18 @@ I have been to Karura probably 100s of times. Today I discovered that there are 
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/If you reject the food, ignore the customs, fear the religion, and avoid the people, you might better stay home - James A Michener\|If you reject the food, ignore the customs, fear the religion, and avoid the people, you might better stay home - James A Michener]]
 - [[1x - References/11 Notes/11.02 Quotes/Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine\|Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine]]
 - [[1x - References/11 Notes/11.02 Quotes/Look for pockets of low competition - James Clear\|Look for pockets of low competition - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman\|Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman]]
 - [[1x - References/11 Notes/11.02 Quotes/If you are busy showing off your brains you are probably not listening closely enough - Strauss Zelnick\|If you are busy showing off your brains you are probably not listening closely enough - Strauss Zelnick]]
 - [[1x - References/11 Notes/11.02 Quotes/Commitment is inherent in any genuinely loving relationship - M. Scott Peck\|Commitment is inherent in any genuinely loving relationship - M. Scott Peck]]
 - [[1x - References/11 Notes/11.02 Quotes/Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith\|Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith]]
-- [[1x - References/11 Notes/11.02 Quotes/The currency of real networking is not greed but generosity - Keith Ferrazzi\|The currency of real networking is not greed but generosity - Keith Ferrazzi]]
 
 
 # Interesting Persons
 
-- [[1x - References/11 Notes/11.05 Persons/Ching Shih\|Ching Shih]]
+- [[1x - References/11 Notes/11.05 Persons/Zheng Yi Sao\|Zheng Yi Sao]]
 - [[1x - References/11 Notes/11.05 Persons/Ronald Fisher\|Ronald Fisher]]
 - [[1x - References/11 Notes/11.05 Persons/Emile Leray\|Emile Leray]]
 - [[1x - References/11 Notes/11.05 Persons/Nikki Giovanni\|Nikki Giovanni]]
@@ -51,20 +51,20 @@ I have been to Karura probably 100s of times. Today I discovered that there are 
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Flinch - Julien Smith\|The Flinch - Julien Smith]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Place of My Own - Michael Pollan\|A Place of My Own - Michael Pollan]]
-- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
 - Working on a book on productivity
-- Processing [[0x - System/01 Index/01.04 Notes in process/Co-intelligence\|Co-intelligence]]
+- Processing [[0x - System/01 Index/01.04 Notes in process/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 # Finance Ideas
 

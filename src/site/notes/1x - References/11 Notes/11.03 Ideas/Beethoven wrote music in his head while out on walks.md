@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/beethoven-wrote-music-in-his-head-while-out-on-walks/","title":"Beethoven wrote music in his head while out on walks","created":"2025-06-21T09:24:49.661+03:00","updated":"2025-06-21T09:27:17.275+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/beethoven-wrote-music-in-his-head-while-out-on-walks/","title":"Beethoven wrote music in his head while out on walks","created":"2025-06-21T09:24:49.661+03:00","updated":"2025-06-21T10:06:26.787+03:00"}
 ---
 
 
