@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/stability-sows-the-seeds-for-instability-and-vice-versa/","title":"Stability sows the seeds for instability, and vice versa","created":"2025-07-02T22:03:45.208+03:00","updated":"2025-07-02T22:04:43.433+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/stability-sows-the-seeds-for-instability-and-vice-versa/","title":"Stability sows the seeds for instability, and vice versa","created":"2025-07-02T22:03:45.208+03:00","updated":"2025-07-02T23:03:50.939+03:00"}
 ---
 
 

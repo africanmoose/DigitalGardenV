@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-06-30T17:15:27.500+03:00","updated":"2025-07-02T22:00:36.331+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-06-30T17:15:27.500+03:00","updated":"2025-07-07T22:53:32.120+03:00"}
 ---
 
 ## Pic of the week 
-![20250607_121317 copy.jpg](/img/user/20250607_121317%20copy.jpg)
-I have been to Karura probably 100s of times. Today I discovered that there are 2 sections, and the lesser known Thigiri section is way prettier!
+![20250624_124559 copy.jpg](/img/user/20250624_124559%20copy.jpg)
+A Masai lady contemplates the landscape. She is a member of a village savings and loan group who intend to invest in a small farming project.
 
 # What is this site for?
 
@@ -18,13 +18,13 @@ I have been to Karura probably 100s of times. Today I discovered that there are 
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Invest in preparedness, not in prediction - Nassim Taleb\|Invest in preparedness, not in prediction - Nassim Taleb]]
+- [[1x - References/11 Notes/11.02 Quotes/The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt - Bertrand Russell\|The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt - Bertrand Russell]]
 - [[1x - References/11 Notes/11.02 Quotes/If you reject the food, ignore the customs, fear the religion, and avoid the people, you might better stay home - James A Michener\|If you reject the food, ignore the customs, fear the religion, and avoid the people, you might better stay home - James A Michener]]
 - [[1x - References/11 Notes/11.02 Quotes/Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine\|Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine]]
 - [[1x - References/11 Notes/11.02 Quotes/Look for pockets of low competition - James Clear\|Look for pockets of low competition - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman\|Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman]]
 - [[1x - References/11 Notes/11.02 Quotes/If you are busy showing off your brains you are probably not listening closely enough - Strauss Zelnick\|If you are busy showing off your brains you are probably not listening closely enough - Strauss Zelnick]]
-- [[1x - References/11 Notes/11.02 Quotes/Commitment is inherent in any genuinely loving relationship - M. Scott Peck\|Commitment is inherent in any genuinely loving relationship - M. Scott Peck]]
-- [[1x - References/11 Notes/11.02 Quotes/Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith\|Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams.”  Ashley Smith]]
 
 
 # Interesting Persons
@@ -39,6 +39,7 @@ I have been to Karura probably 100s of times. Today I discovered that there are 
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Growth has a natural rate that is optimum for the organism\|Growth has a natural rate that is optimum for the organism]]
 - [[1x - References/11 Notes/11.03 Ideas/Compounding applies to knowledge, experience and relationships and not just money\|Compounding applies to knowledge, experience and relationships and not just money]]
 - [[1x - References/11 Notes/11.03 Ideas/Democracy is based on millions of people acting in their own short term self-interest\|Democracy is based on millions of people acting in their own short term self-interest]]
 - [[1x - References/11 Notes/11.03 Ideas/Commanders intent - formulate, communicate, interpret and implement\|Commanders intent - formulate, communicate, interpret and implement]]
@@ -46,7 +47,6 @@ I have been to Karura probably 100s of times. Today I discovered that there are 
 - [[1x - References/11 Notes/11.03 Ideas/Serve the smallest viable audience with something they love\|Serve the smallest viable audience with something they love]]
 - [[1x - References/11 Notes/11.03 Ideas/Your circle of people and time should always be expanding\|Your circle of people and time should always be expanding]]
 - [[1x - References/11 Notes/11.03 Ideas/Trying to win at social media is like working for free for youtube, tiktok or instagram\|Trying to win at social media is like working for free for youtube, tiktok or instagram]]
-- [[1x - References/11 Notes/11.03 Ideas/Forward movement with optionality gives the best futures\|Forward movement with optionality gives the best futures]]
 
 
 # Book Reviews
