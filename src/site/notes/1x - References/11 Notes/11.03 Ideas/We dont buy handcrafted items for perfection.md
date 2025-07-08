@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-dont-buy-handcrafted-items-for-perfection/","title":"We dont buy handcrafted items for perfection","created":"2022-11-09T10:44:22.000+03:00","updated":"2024-02-14T20:18:21.249+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-dont-buy-handcrafted-items-for-perfection/","title":"We dont buy handcrafted items for perfection","created":"2022-11-09T10:44:22.000+03:00","updated":"2025-07-08T20:17:50.311+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - Same also applies to humans - people are 'handcrafted' unique, rough a bit round the edges, and thats why we treasure them
 
 ### References
-- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 
 ### Quotes
 - "When a potter makes a series of hand-crafted pots, they are not aiming for perfection in terms of symmetry and uniformity, or else they would use a machine. They aim for natural beauty, the mark of the hand and the infusion of the heart."

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-art-of-thinking-clearly-by-rolf-dobelli/","title":"The Art of Thinking Clearly by Rolf Dobelli","created":"2025-01-13T08:38:09.356+03:00","updated":"2025-01-13T08:38:09.356+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-art-of-thinking-clearly-by-rolf-dobelli/","title":"The Art of Thinking Clearly by Rolf Dobelli","created":"2025-01-13T08:38:09.356+03:00","updated":"2025-07-08T20:30:33.643+03:00"}
 ---
 
 
@@ -44,7 +44,7 @@
 	- [[1x - References/11 Notes/11.03 Ideas/If you have nothing to say say nothing\|If you have nothing to say say nothing]]
 	- Is there such a thing as too much information? see the [[1x - References/11 Notes/11.03 Ideas/Information Bias\|Information Bias]]
 	- Beware your own appraisal of the value of your work: [[1x - References/11 Notes/11.03 Ideas/Effort justification\|Effort justification]]
-	- Want people to behave a certain way - consider the [[1x - References/11 Notes/11.03 Ideas/Rosenthal Effect\|Rosenthal Effect]]
+	- Want people to behave a certain way - consider the [[1x - References/11 Notes/11.03 Ideas/Rosenthal Effect - people become what you expect of them\|Rosenthal Effect - people become what you expect of them]]
 	- [[1x - References/11 Notes/11.03 Ideas/Thinking uses energy\|Thinking uses energy]]
 	- We decide complex questions based on [[1x - References/11 Notes/11.03 Ideas/Affect Heuristic - decisions by emotion\|Affect Heuristic - decisions by emotion]]
 	- Don't always keep choices open - see why [[1x - References/11 Notes/11.03 Ideas/We need to close doors\|We need to close doors]]

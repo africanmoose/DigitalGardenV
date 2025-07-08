@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/look-at-things-through-new-eyes-to-recognize-beauty/","title":"Look at things through new eyes to recognize beauty","created":"2022-11-08T18:08:36.000+03:00","updated":"2024-02-14T20:18:27.856+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/look-at-things-through-new-eyes-to-recognize-beauty/","title":"Look at things through new eyes to recognize beauty","created":"2022-11-08T18:08:36.000+03:00","updated":"2025-07-08T20:35:33.627+03:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 - Beauty can arise in the simplest of things - a conversation, a walk
 
 ### References
-- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Humans like geode beautiful on the inside\|Humans like geode beautiful on the inside]]

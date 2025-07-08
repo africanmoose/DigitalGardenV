@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/hello-habits-fumio-sasaki/","title":"Hello Habits - Fumio Sasaki","created":"2023-01-23T18:35:57.000+03:00","updated":"2024-02-14T20:17:40.792+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/hello-habits-fumio-sasaki/","title":"Hello Habits - Fumio Sasaki","created":"2023-01-23T18:35:57.000+03:00","updated":"2025-07-08T20:26:25.269+03:00"}
 ---
 
 
@@ -25,7 +25,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Take time daily to learn something new\|Take time daily to learn something new]]
 - Meet [[1x - References/11 Notes/11.05 Persons/Anthony Trollope\|Anthony Trollope]] - the man who wrote daily for two and a half hours
 - [[1x - References/11 Notes/11.03 Ideas/Naptime makes you smarter\|Naptime makes you smarter]]
-- [[1x - References/11 Notes/11.03 Ideas/The Sechenov Effect\|The Sechenov Effect]] helps us rest by going into nature
+- [[1x - References/11 Notes/11.03 Ideas/The Sechenov Effect - vigorous exercise is better than resting for calming us\|The Sechenov Effect - vigorous exercise is better than resting for calming us]] helps us rest by going into nature
 - [[1x - References/11 Notes/11.03 Ideas/Give yourself space for thinking\|Give yourself space for thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Intentional practise needed to improve\|Intentional practise needed to improve]]
 - [[1x - References/11 Notes/11.03 Ideas/Keep changing your habits\|Keep changing your habits]] so you dont get bored.

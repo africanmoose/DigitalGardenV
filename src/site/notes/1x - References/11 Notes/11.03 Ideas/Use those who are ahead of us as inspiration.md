@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-those-who-are-ahead-of-us-as-inspiration/","title":"Use those who are ahead of us as inspiration","created":"2022-11-08T18:06:37.000+03:00","updated":"2024-02-14T20:18:21.535+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-those-who-are-ahead-of-us-as-inspiration/","title":"Use those who are ahead of us as inspiration","created":"2022-11-08T18:06:37.000+03:00","updated":"2025-07-08T20:19:07.315+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - View them as an inspiration rather than comparing ourselves to them unfavorably.
 
 ### References
-- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 
 ### Quotes
 - "There will always be some people whoexperience or knowledge than us in a particular field at a particular moment in time. We can choose to look at this as a reflection of lack in ourselves, or an opportunity for inspiration from them."

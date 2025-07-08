@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/joe-dominguez-rules-for-investment/","title":"Joe Dominguez rules for investment","created":"2023-10-17T20:07:57.000+03:00","updated":"2024-02-14T20:17:37.982+03:00"}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/joe-dominguez-rules-for-investment/","title":"Joe Dominguez rules for investment","created":"2023-10-17T20:07:57.000+03:00","updated":"2025-07-08T20:15:55.994+03:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 - Joe Dominguez, author of [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]], gives these basic rules for capital investment
 
 ### Details
-- 1. Your capital must produce income.
+ 1. Your capital must produce income.
 2. Your capital must be absolutely safe.
 3. Your capital must be in a totally liquid investment. You must be able to convert it into cash at a moment’s notice, to handle emergencies.
 4. Your capital must not be diminished at the time of investment by unnecessary commissions, “loads,” “promotional” or “distribution” expenses (often called “12b-1 fees”), management fees or expense fees.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/same-as-ever-a-guide-to-what-never-changes-morgan-housel/","title":"Same as Ever - A guide to what never changes - Morgan Housel","created":"2025-06-25T09:57:47.839+03:00","updated":"2025-07-06T19:07:58.548+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/same-as-ever-a-guide-to-what-never-changes-morgan-housel/","title":"Same as Ever - A guide to what never changes - Morgan Housel","created":"2025-06-25T09:57:47.839+03:00","updated":"2025-07-08T19:53:09.170+03:00"}
 ---
 
 ![Same as Ever - cover.png](/img/user/4x%20-%20Reading/41%20Books/41.03%20Cover%20images/Same%20as%20Ever%20-%20cover.png)
@@ -22,6 +22,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Leave time and space in your schedule for doing nothing\|Leave time and space in your schedule for doing nothing]]
 - [[1x - References/11 Notes/11.03 Ideas/Our forecast of the future just needs to be good enough for us to prepare - we dont need very detailed forecasts\|Our forecast of the future just needs to be good enough for us to prepare - we dont need very detailed forecasts]]
 - [[1x - References/11 Notes/11.03 Ideas/Work hard to produce things that people want to use\|Work hard to produce things that people want to use]]
+- [[1x - References/11 Notes/11.03 Ideas/Permanent information is buried in books instead of headlines\|Permanent information is buried in books instead of headlines]]
 
 
 ### Quotes
@@ -33,7 +34,7 @@
 - [[1x - References/11 Notes/11.02 Quotes/Save like a pessimist and invest like an optimist. Plan like a pessimist and dream like an optimist - Morgan Housel\|Save like a pessimist and invest like an optimist. Plan like a pessimist and dream like an optimist - Morgan Housel]]
 - [[1x - References/11 Notes/11.02 Quotes/The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours - Amos Tversky\|The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours - Amos Tversky]]
 - [[1x - References/11 Notes/11.02 Quotes/Deserve what you want - Charlie Munger\|Deserve what you want - Charlie Munger]]
-- 
+- [[1x - References/11 Notes/11.02 Quotes/If you would persuade, appeal to interest and not to reason - Ben Franklin\|If you would persuade, appeal to interest and not to reason - Ben Franklin]]
 
 ### References
 - [goodreads](https://www.goodreads.com/book/show/125116554-same-as-ever)
