@@ -11,7 +11,7 @@
 - If we spend time and energy trying to forecast precisely, we may not be able to see the big picture values
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ### Quotes
 > I’m confident in other people’s overconfidence, so I know there will be mistakes and accidents and booms and busts along the way.

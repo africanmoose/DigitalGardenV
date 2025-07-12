@@ -10,7 +10,7 @@
 - Mark Twain would read his work to his family. If the audience looked bored, he would cut that section
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ### Quotes
 > Mark Twain was perhaps the best storyteller of modern times. When editing his writing, he would read aloud to his wife and kids. When a passage caused them to look bored, he would cut it. When their eyes widened, when they sat forward or furrowed their brow, he knew he was onto something, and he doubled down.

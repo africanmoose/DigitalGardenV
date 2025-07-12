@@ -10,7 +10,7 @@
 Psychologist Amos Tversky
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+[[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ## Related
 - [[4x - Reading/41 Books/41.01 Book Notes/Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency\|Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency]]

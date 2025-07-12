@@ -10,7 +10,7 @@
 Chris Rock once joked about who actually teaches kids in school
 
 ## Reference
-- [[0x - System/01 Index/01.04 Notes in process/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Teach your children the things you were never taught - Bruce Lee\|Teach your children the things you were never taught - Bruce Lee]]

@@ -10,7 +10,7 @@ You think your pain and your heartbreak are unprecedented in the history of the 
 n 1963, Life magazine interview James Baldwin on where he gets his inspiration. 
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+[[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Inspiration and creativity\|Inspiration and creativity]]

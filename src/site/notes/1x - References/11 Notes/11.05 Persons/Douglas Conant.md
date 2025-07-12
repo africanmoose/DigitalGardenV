@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/douglas-conant/","title":"Douglas Conant","created":"2025-06-30T17:13:08.166+03:00","updated":"2025-07-07T20:04:05.773+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/douglas-conant/","title":"Douglas Conant","created":"2025-07-12T19:17:50.635+03:00","updated":"2025-07-12T19:17:50.635+03:00"}
 ---
 
-![Douglas Conant.png](/img/user/1x%20-%20References/17%20Persons/17.04%20Person%20photos/Douglas%20Conant.png)
+![1x - References/17 Persons/17.04 Person photos/Douglas Conant.png](/img/user/1x%20-%20References/17%20Persons/17.04%20Person%20photos/Douglas%20Conant.png)
 ### Summary
 - Douglas Conant served as CEO of Campbells Soup Company
 - He reversed a decline ane increased diversity and inclusion in the company

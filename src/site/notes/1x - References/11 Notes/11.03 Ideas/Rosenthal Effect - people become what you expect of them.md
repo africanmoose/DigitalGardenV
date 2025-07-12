@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/rosenthal-effect-people-become-what-you-expect-of-them/","title":"Rosenthal Effect - people become what you expect of them","created":"2022-12-24T19:19:27.000+03:00","updated":"2025-07-08T20:30:36.589+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/rosenthal-effect-people-become-what-you-expect-of-them/","title":"Rosenthal Effect - people become what you expect of them","created":"2022-12-24T19:19:27.000+03:00","updated":"2025-07-08T20:58:27.492+03:00"}
 ---
 
 

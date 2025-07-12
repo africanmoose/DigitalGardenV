@@ -10,7 +10,7 @@
 Nassim Taleb
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+[[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Prepare, even when you don't know what is going to happen\|Prepare, even when you don't know what is going to happen]]

@@ -10,7 +10,7 @@
 - Focus more on producing good quality work than on marketing or social engagement. Though you may lose short term gains, in teh long run this is much more sustainable.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ### Quotes
 > coworker of mine at an old employer once hired a social media consultant. During a three-hour session, the consultant walked us through hashtags, what time of day you should post on Twitter, how threading posts increases engagement, and a slew of other hacks.
