@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/good-mentors-help-learning/","title":"Good mentors help learning","created":"2022-11-01T15:00:18.000+03:00","updated":"2024-02-14T20:18:31.538+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/good-mentors-help-learning/","title":"Good mentors help learning","created":"2022-11-01T15:00:18.000+03:00","updated":"2025-07-13T12:45:55.368+03:00"}
 ---
 
----
 
 ### Summary
 - good mentors remedy flaws before they become habits
@@ -15,8 +14,6 @@
 ### References
 - The Science of Rapid Skill Acquisition: Advanced Methods to Learn, Remember, and Master New Skills, Information, and Abilities - [Peter Hollins](https://www.goodreads.com/author/show/16593818.Peter_Hollins)
 
-### Quotes
--
 
 ### Interesting Related
 - [[1x - References/11 Notes/11.03 Ideas/How to learn a skill\|How to learn a skill]]

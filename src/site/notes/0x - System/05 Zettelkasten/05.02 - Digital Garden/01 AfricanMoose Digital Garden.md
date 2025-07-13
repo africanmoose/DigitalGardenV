@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-07-11T08:03:54.731+03:00","updated":"2025-07-12T21:53:07.570+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-07-11T08:03:54.731+03:00","updated":"2025-07-13T12:52:44.559+03:00"}
 ---
 
 ## Pic of the week 
-![0x - System/05 Zettelkasten/05.03 - Publish digital garden resource folder/20250624_124559 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20250624_124559%20copy.jpg)
-A Masai lady contemplates the landscape. She is a member of a village savings and loan group who intend to invest in a small farming project.
+![20250706_095710 copy.jpg](/img/user/20250706_095710%20copy.jpg)
+Nairobi city marathon last week was a vibe
 
 # What is this site for?
 
@@ -64,7 +64,12 @@ A Masai lady contemplates the landscape. She is a member of a village savings an
 # Work in Progress
 
 - Working on a book on productivity
-- Processing [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- Processing _How to know someone_
+- Processing _Vera Rubin  observatory_
+- Processing _Henry Singleton_
+- Processing _Creativity - John Cleese_
+- Processing _Whale fall_
+- Processing _Anna Wintour_
 
 # Finance Ideas
 
