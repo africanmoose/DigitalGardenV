@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-07-11T08:03:54.731+03:00","updated":"2025-07-13T12:52:44.559+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-07-16T15:55:25.273+03:00","updated":"2025-07-17T23:02:39.254+03:00"}
 ---
 
 ## Pic of the week 
-![20250706_095710 copy.jpg](/img/user/20250706_095710%20copy.jpg)
-Nairobi city marathon last week was a vibe
+![vera 1.png](/img/user/vera%201.png)
+The Vera Rubin observatory is up, and its incredible. More on it in a future substack.
 
 # What is this site for?
 
@@ -29,13 +29,13 @@ Nairobi city marathon last week was a vibe
 
 # Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Antoni van Leeuwenhoek\|Antoni van Leeuwenhoek]]
 - [[1x - References/11 Notes/11.05 Persons/Zheng Yi Sao\|Zheng Yi Sao]]
 - [[1x - References/11 Notes/11.05 Persons/Ronald Fisher\|Ronald Fisher]]
 - [[1x - References/11 Notes/11.05 Persons/Emile Leray\|Emile Leray]]
 - [[1x - References/11 Notes/11.05 Persons/Nikki Giovanni\|Nikki Giovanni]]
 - [[1x - References/11 Notes/11.05 Persons/Arthur Wharton\|Arthur Wharton]]
 - [[1x - References/11 Notes/11.05 Persons/Bruce Lee\|Bruce Lee]]
-- [[1x - References/11 Notes/11.05 Persons/Genghis Khan\|Genghis Khan]]
 
 # Interesting Ideas
 
