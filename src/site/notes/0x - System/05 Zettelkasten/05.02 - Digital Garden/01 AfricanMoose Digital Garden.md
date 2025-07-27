@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-07-16T15:55:25.273+03:00","updated":"2025-07-17T23:02:39.254+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-07-16T15:55:25.273+03:00","updated":"2025-07-28T00:02:59.045+03:00"}
 ---
 
 ## Pic of the week 
-![vera 1.png](/img/user/vera%201.png)
+![vera 1.png](/img/user/1x%20-%20References/11%20Notes/11.12%20Scientific%20Information/vera%201.png)
 The Vera Rubin observatory is up, and its incredible. More on it in a future substack.
 
 # What is this site for?
@@ -64,7 +64,7 @@ The Vera Rubin observatory is up, and its incredible. More on it in a future sub
 # Work in Progress
 
 - Working on a book on productivity
-- Processing _How to know someone_
+- Processing [[0x - System/01 Index/01.04 Notes in process/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 - Processing _Vera Rubin  observatory_
 - Processing _Henry Singleton_
 - Processing _Creativity - John Cleese_
