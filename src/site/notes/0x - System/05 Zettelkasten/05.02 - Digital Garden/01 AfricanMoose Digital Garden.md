@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-07-16T15:55:25.273+03:00","updated":"2025-07-28T00:02:59.045+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-08-11T09:33:47.697+03:00","updated":"2025-08-11T21:12:16.606+03:00"}
 ---
 
 ## Pic of the week 
-![vera 1.png](/img/user/1x%20-%20References/11%20Notes/11.12%20Scientific%20Information/vera%201.png)
-The Vera Rubin observatory is up, and its incredible. More on it in a future substack.
+![0x - System/05 Zettelkasten/05.03 - Publish digital garden resource folder/20250807_164523 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20250807_164523%20copy.jpg)Northern Kenya is vast, dry, empty and breathtakingly beautiful
 
 # What is this site for?
 
@@ -18,13 +17,13 @@ The Vera Rubin observatory is up, and its incredible. More on it in a future sub
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/You may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself... - Arthur Schopenhauer\|You may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself... - Arthur Schopenhauer]]
 - [[1x - References/11 Notes/11.02 Quotes/Invest in preparedness, not in prediction - Nassim Taleb\|Invest in preparedness, not in prediction - Nassim Taleb]]
 - [[1x - References/11 Notes/11.02 Quotes/The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt - Bertrand Russell\|The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt - Bertrand Russell]]
 - [[1x - References/11 Notes/11.02 Quotes/If you reject the food, ignore the customs, fear the religion, and avoid the people, you might better stay home - James A Michener\|If you reject the food, ignore the customs, fear the religion, and avoid the people, you might better stay home - James A Michener]]
 - [[1x - References/11 Notes/11.02 Quotes/Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine\|Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine]]
 - [[1x - References/11 Notes/11.02 Quotes/Look for pockets of low competition - James Clear\|Look for pockets of low competition - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman\|Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman]]
-- [[1x - References/11 Notes/11.02 Quotes/If you are busy showing off your brains you are probably not listening closely enough - Strauss Zelnick\|If you are busy showing off your brains you are probably not listening closely enough - Strauss Zelnick]]
 
 
 # Interesting Persons
