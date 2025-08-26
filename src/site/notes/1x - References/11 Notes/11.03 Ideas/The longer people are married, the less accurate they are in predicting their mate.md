@@ -10,7 +10,7 @@
 - Need to work hard to keep learning about your mate
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ### Quotes
 > Intriguingly, Ickes finds that the longer many couples are married, the less accurate they are at reading each other. They lock in some early version of who their spouse is, and over the years, as the other person changes, that version stays fixed—and they know less and less about what’s actually going on in the other’s heart and mind.

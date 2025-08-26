@@ -11,7 +11,7 @@
 - humans are complex and not easily understood
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ### Quotes
 > HOLISTIC ATTITUDE. A great way to mis-see people is to see only a piece of them. Some doctors mis-see their patients when they see only their bodies. Some employers mis-see workers when they see only their productivity. We must resist every urge to simplify in this way. The art historian John Richardson, Pablo Picasso’s biographer, was once asked if Picasso was a misogynist and a bad guy. He would not let his subject be oversimplified or robbed of his contradictions. “That’s a lot of nonsense,” he replied. “Whatever you say about him—you say that he’s a mean bastard—he was also an angelic, compassionate, tender, sweet man. The reverse is always true. You say he was stingy. He was also incredibly generous. You say that he was very bohemian, but also he had a sort of up-tight bourgeois side. I mean, he was a mass of antitheses.” As are we all.

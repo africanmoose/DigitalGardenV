@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/official-cia-advice-on-how-to-ruin-an-organization-hold-bad-meetings/","title":"Official CIA advice on how to ruin an organization","created":"2024-04-20T12:30:28.998+03:00","updated":"2024-04-20T12:37:35.108+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/official-cia-advice-on-how-to-ruin-an-organization-hold-bad-meetings/","title":"Official CIA advice on how to ruin an organization","created":"2025-08-20T13:31:10.887+03:00","updated":"2025-08-20T13:31:10.887+03:00"}
 ---
 
 
@@ -13,6 +13,14 @@
 	- bring up irrelevant issues
 	- give incomplete and misleading instructions
 	- give lengthy and incomprehensible instructions
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+![how to interfere with an organization.png](/img/user/0x%20-%20System/01%20Index/01.02%20Inbox/how%20to%20interfere%20with%20an%20organization.png)
+
+</div></div>
 
 ### References
 - [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]

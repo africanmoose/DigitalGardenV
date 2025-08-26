@@ -10,7 +10,7 @@
 - If you want to retain employees, make them feel heard and valued
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ### Quotes
 > On the other hand, there are few things as fulfilling as that sense of being seen and understood. I often ask people to tell me about times they’ve felt seen, and with glowing eyes they tell me stories about pivotal moments in their life. They talk about a time when someone perceived some talent in them that they themselves weren’t even able to see. They talk about a time when somebody understood exactly what they needed at some exhausted moment—and stepped in, in just the right way, to lighten the load.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learn-to-be-good-at-accompanying-others/","title":"Learn to be good at accompanying others","created":"2025-08-12T19:57:09.043+03:00","updated":"2025-08-12T20:01:45.477+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learn-to-be-good-at-accompanying-others/","title":"Learn to be good at accompanying others","created":"2025-08-12T19:57:09.043+03:00","updated":"2025-08-14T00:18:57.519+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - Show up for someones main events in life
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ### Quotes
 > In normal life, when you’re accompanying someone, you’re signing on to another person’s plan. We’re most familiar with the concept of accompaniment in the world of music. The pianist accompanies the singer. They are partners, making something together, but the accompanist is in the supportive role, subtly working to embellish the beauty of the song and help the singer shine. The accompanist is sensitive to what the singer is doing, begins to get a feel for the experience she is trying to create. Accompaniment is a humble way of being a helpful part of another’s journey, as they go about making their own kind of music.

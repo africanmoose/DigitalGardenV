@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-we-deal-with-something-is-more-important-than-the-thing-that-happened/","title":"How we deal with something is more important than the thing that happened","created":"2025-08-12T20:22:43.858+03:00","updated":"2025-08-12T21:00:56.888+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-we-deal-with-something-is-more-important-than-the-thing-that-happened/","title":"How we deal with something is more important than the thing that happened","created":"2025-08-12T20:22:43.858+03:00","updated":"2025-08-14T00:18:57.521+03:00"}
 ---
 
 

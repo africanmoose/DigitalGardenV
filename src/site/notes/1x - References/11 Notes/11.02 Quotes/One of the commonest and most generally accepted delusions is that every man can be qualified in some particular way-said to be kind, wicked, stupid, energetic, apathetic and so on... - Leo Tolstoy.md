@@ -11,7 +11,7 @@ One of the commonest and most generally accepted delusions is that every man can
 Leo Tolstoy
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+[[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Be holistic in our view of others\|Be holistic in our view of others]]

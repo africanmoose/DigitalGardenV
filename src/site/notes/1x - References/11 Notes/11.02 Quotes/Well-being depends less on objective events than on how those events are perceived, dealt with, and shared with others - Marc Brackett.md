@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/well-being-depends-less-on-objective-events-than-on-how-those-events-are-perceived-dealt-with-and-shared-with-others-marc-brackett/","title":"Well-being depends less on objective events than on how those events are perceived, dealt with, and shared with others - Marc Brackett","created":"2025-08-12T20:04:07.565+03:00","updated":"2025-08-12T20:22:16.816+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/well-being-depends-less-on-objective-events-than-on-how-those-events-are-perceived-dealt-with-and-shared-with-others-marc-brackett/","title":"Well-being depends less on objective events than on how those events are perceived, dealt with, and shared with others - Marc Brackett","created":"2025-08-12T20:04:07.565+03:00","updated":"2025-08-14T00:18:57.514+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
  Yale psychologist Marc Brackett
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+[[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Out well being is based on relationships, purpose and service\|Out well being is based on relationships, purpose and service]]

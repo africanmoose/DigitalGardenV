@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-something-new-is-good-for-your-brain/","title":"Learning something new is good for your brain","created":"2024-06-20T12:08:34.117+03:00","updated":"2024-06-20T12:08:34.117+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-something-new-is-good-for-your-brain/","title":"Learning something new is good for your brain","created":"2024-06-20T12:08:34.117+03:00","updated":"2025-08-24T11:25:08.603+03:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Related
-- [[1x - References/11 Notes/11.02 Quotes/90 year old man who keeps educating himself\|90 year old man who keeps educating himself]]
+- [[1x - References/11 Notes/11.02 Quotes/90 year old man who keeps educating himself - Norman Doidge\|90 year old man who keeps educating himself - Norman Doidge]]
 - [[1x - References/11 Notes/11.03 Ideas/Appreciate older ones\|Appreciate older ones]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning is never done\|Learning is never done]]
 - [[1x - References/11 Notes/11.02 Quotes/Keep learning - James Clear\|Keep learning - James Clear]]

@@ -11,7 +11,7 @@
 - not curious about other people
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ### Quotes
 > EGOTISM. The number one reason people don’t see others is that they are too self-centered to try. I can’t see you because I’m all about myself. Let me tell you my opinion. Let me entertain you with this story about myself. Many people are unable to step outside of their own points of view. They are simply not curious about other people.

@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-08-11T09:33:47.697+03:00","updated":"2025-08-11T21:12:16.606+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-08-11T09:33:47.697+03:00","updated":"2025-08-26T07:57:57.953+03:00"}
 ---
 
 ## Pic of the week 
-![0x - System/05 Zettelkasten/05.03 - Publish digital garden resource folder/20250807_164523 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/20250807_164523%20copy.jpg)Northern Kenya is vast, dry, empty and breathtakingly beautiful
+![20250807_172139.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/20250807_172139.jpg)
+Apparently camels cost about 150,000/- each. For comparison, a cow might be 10 or 15,000/0
 
 # What is this site for?
 
@@ -38,37 +39,37 @@
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Humans are born intrinsically motivated, but learn to become extrinsically motivated\|Humans are born intrinsically motivated, but learn to become extrinsically motivated]]
 - [[1x - References/11 Notes/11.03 Ideas/Growth has a natural rate that is optimum for the organism\|Growth has a natural rate that is optimum for the organism]]
 - [[1x - References/11 Notes/11.03 Ideas/Compounding applies to knowledge, experience and relationships and not just money\|Compounding applies to knowledge, experience and relationships and not just money]]
 - [[1x - References/11 Notes/11.03 Ideas/Democracy is based on millions of people acting in their own short term self-interest\|Democracy is based on millions of people acting in their own short term self-interest]]
 - [[1x - References/11 Notes/11.03 Ideas/Commanders intent - formulate, communicate, interpret and implement\|Commanders intent - formulate, communicate, interpret and implement]]
 - [[1x - References/11 Notes/11.03 Ideas/All dogs are mixed breed dogs\|All dogs are mixed breed dogs]]
 - [[1x - References/11 Notes/11.03 Ideas/Serve the smallest viable audience with something they love\|Serve the smallest viable audience with something they love]]
-- [[1x - References/11 Notes/11.03 Ideas/Your circle of people and time should always be expanding\|Your circle of people and time should always be expanding]]
-- [[1x - References/11 Notes/11.03 Ideas/Trying to win at social media is like working for free for youtube, tiktok or instagram\|Trying to win at social media is like working for free for youtube, tiktok or instagram]]
+
 
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Flinch - Julien Smith\|The Flinch - Julien Smith]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
-- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
 - Working on a book on productivity
-- Processing [[0x - System/01 Index/01.04 Notes in process/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 - Processing _Vera Rubin  observatory_
 - Processing _Henry Singleton_
 - Processing _Creativity - John Cleese_
 - Processing _Whale fall_
 - Processing _Anna Wintour_
+- Processing [[0x - System/01 Index/01.04 Notes in process/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 # Finance Ideas
 
