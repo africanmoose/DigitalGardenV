@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-08-11T09:33:47.697+03:00","updated":"2025-08-26T07:57:57.953+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-08-11T09:33:47.697+03:00","updated":"2025-09-07T22:33:56.039+03:00"}
 ---
 
 ## Pic of the week 
-![20250807_172139.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/20250807_172139.jpg)
-Apparently camels cost about 150,000/- each. For comparison, a cow might be 10 or 15,000/0
+![PXL_20250825_154119777 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/PXL_20250825_154119777%20copy.jpg)
+Kilifi creek sunset
 
 # What is this site for?
 
@@ -18,13 +18,13 @@ Apparently camels cost about 150,000/- each. For comparison, a cow might be 10 o
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Appreciation that we can fly in a plane - Louis C.K.\|Appreciation that we can fly in a plane - Louis C.K.]]
 - [[1x - References/11 Notes/11.02 Quotes/You may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself... - Arthur Schopenhauer\|You may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself... - Arthur Schopenhauer]]
 - [[1x - References/11 Notes/11.02 Quotes/Invest in preparedness, not in prediction - Nassim Taleb\|Invest in preparedness, not in prediction - Nassim Taleb]]
 - [[1x - References/11 Notes/11.02 Quotes/The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt - Bertrand Russell\|The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt - Bertrand Russell]]
 - [[1x - References/11 Notes/11.02 Quotes/If you reject the food, ignore the customs, fear the religion, and avoid the people, you might better stay home - James A Michener\|If you reject the food, ignore the customs, fear the religion, and avoid the people, you might better stay home - James A Michener]]
 - [[1x - References/11 Notes/11.02 Quotes/Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine\|Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you - Saint Augustine]]
 - [[1x - References/11 Notes/11.02 Quotes/Look for pockets of low competition - James Clear\|Look for pockets of low competition - James Clear]]
-- [[1x - References/11 Notes/11.02 Quotes/Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman\|Fall in love with some activity, and do it. Nobody ever figures out what life is all about, and it doesn’t matter - Richard Feynman]]
 
 
 # Interesting Persons
@@ -39,18 +39,18 @@ Apparently camels cost about 150,000/- each. For comparison, a cow might be 10 o
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/When an experience goes wrong it can be just as worthwhile as when all goes right\|When an experience goes wrong it can be just as worthwhile as when all goes right]]
+- [[1x - References/11 Notes/11.03 Ideas/Develop a personality instead of using conspicuous consumption\|Develop a personality instead of using conspicuous consumption]]
 - [[1x - References/11 Notes/11.03 Ideas/Humans are born intrinsically motivated, but learn to become extrinsically motivated\|Humans are born intrinsically motivated, but learn to become extrinsically motivated]]
 - [[1x - References/11 Notes/11.03 Ideas/Growth has a natural rate that is optimum for the organism\|Growth has a natural rate that is optimum for the organism]]
 - [[1x - References/11 Notes/11.03 Ideas/Compounding applies to knowledge, experience and relationships and not just money\|Compounding applies to knowledge, experience and relationships and not just money]]
 - [[1x - References/11 Notes/11.03 Ideas/Democracy is based on millions of people acting in their own short term self-interest\|Democracy is based on millions of people acting in their own short term self-interest]]
 - [[1x - References/11 Notes/11.03 Ideas/Commanders intent - formulate, communicate, interpret and implement\|Commanders intent - formulate, communicate, interpret and implement]]
-- [[1x - References/11 Notes/11.03 Ideas/All dogs are mixed breed dogs\|All dogs are mixed breed dogs]]
-- [[1x - References/11 Notes/11.03 Ideas/Serve the smallest viable audience with something they love\|Serve the smallest viable audience with something they love]]
-
 
 
 # Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
@@ -69,7 +69,6 @@ Apparently camels cost about 150,000/- each. For comparison, a cow might be 10 o
 - Processing _Creativity - John Cleese_
 - Processing _Whale fall_
 - Processing _Anna Wintour_
-- Processing [[0x - System/01 Index/01.04 Notes in process/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 # Finance Ideas
 

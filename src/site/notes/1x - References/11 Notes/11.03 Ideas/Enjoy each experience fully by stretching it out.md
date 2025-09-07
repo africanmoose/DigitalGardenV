@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/enjoy-each-experience-fully-by-stretching-it-out/","title":"Enjoy each experience fully by stretching it out","created":"2025-08-25T08:12:00.958+03:00","updated":"2025-08-25T09:08:59.719+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/enjoy-each-experience-fully-by-stretching-it-out/","title":"Enjoy each experience fully by stretching it out","created":"2025-08-25T08:12:00.958+03:00","updated":"2025-09-01T07:41:24.067+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - be focussed onthe moment to milk maixmum enjoyment
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > By the way, we’re not inferring that you shouldn’t relish your paid-for consumption – in fact it will go much further if you do. Try ordering one espresso at a café and making it last for an hour. Revel in each drop of that oily black dynamite rolling around your taste buds. Have occasional sips of water to refresh the flavour. People-watch while you luxuriantly observe the shifts in your brain chemistry as the caffeine moves in. You’ll feel astounded to witness surrounding tables fill and empty as people hurriedly consume huge meals and multiple coffees, often leaving them unfinished as they pay up and move on, seemingly unmoved by the experience. Yet simply by milking the moment for all that it’s worth, you get to leave feeling like you just had a seriously decadent experience.

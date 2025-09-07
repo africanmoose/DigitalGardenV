@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/cultivate-the-art-of-imparting-new-information-to-listeners/","title":"Cultivate the art of imparting new information to listeners","created":"2025-08-27T18:25:56.318+03:00","updated":"2025-08-27T19:03:46.557+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/cultivate-the-art-of-imparting-new-information-to-listeners/","title":"Cultivate the art of imparting new information to listeners","created":"2025-08-27T18:25:56.318+03:00","updated":"2025-09-01T07:41:51.600+03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - Prepare the thoughts ahead of time in your head
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 >  Knowledge can function in lieu of material goods in other ways too. Your authors would much rather someone showed up for afternoon tea bearing a piping hot tale of something riveting than clutching a bag of danishes, and we’re certain many others feel the same way. Converting your thoughts or discoveries into something tellable not only entertains and enriches your audience, but it clarifies and cements them for you, the teller, too. You’re forced to do a little ordering of the information in your head, noting its most crucial and captivating details. You might spot a few missing links that you’d like to fill in, or even a revelation you’ve come to. The whole process is an art well worth cultivating.

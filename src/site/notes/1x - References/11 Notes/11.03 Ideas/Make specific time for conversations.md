@@ -10,7 +10,7 @@
 - if you automatically meet in a bar or restaurant you may end of spending a lot of money
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > Conversation is surely one of life’s greatest free relishables, and is certainly worth devoting time to. It too benefits from fuller engagement – people become more conversationally nimble and generous when they fully immerse themselves in the pleasure of talk. Help this happen simply by putting aside telephones and other devices of distraction*. You might also like to question the dominance of the restaurant or bar as default catch up venue. As the wining and dining budgets of many of our friends increased with age, your authors started suggesting alternatives to these spending-obligatory social occasions (given that a single event could easily vaporise a quarter of our weekly income). We soon noticed that the conversations we had while walking along the creek, or warming our hands round mugs of tea at a friend’s kitchen table, were generally more engrossing than the distracted ‘consumption-accessorised’ conversations. A couple of people really can have a hell of a good time saying particular words in particular orders – BYO brain, no accessories required.

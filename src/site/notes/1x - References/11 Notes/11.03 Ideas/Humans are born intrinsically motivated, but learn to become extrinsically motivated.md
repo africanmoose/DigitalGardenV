@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/humans-are-born-intrinsically-motivated-but-learn-to-become-extrinsically-motivated/","title":"Humans are born intrinsically motivated, but learn to become extrinsically motivated","created":"2025-08-26T07:48:49.647+03:00","updated":"2025-08-26T07:53:44.951+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/humans-are-born-intrinsically-motivated-but-learn-to-become-extrinsically-motivated/","title":"Humans are born intrinsically motivated, but learn to become extrinsically motivated","created":"2025-08-26T07:48:49.647+03:00","updated":"2025-09-01T07:35:54.083+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - kids learn and are interested in everything naturally for the joy of learning
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > From a tender age society encourages us to lay aside our impetus to do things for their own sake (‘intrinsic’ motivation), and to instead do much of what we do for external reasons. As a young child you were almost certainly an intrinsically-motivated learner, and spent most of your waking hours fascinated by the world, and inventing endless adventures in pursuit of discovering how it all worked. Soon however, schooling converted learning into something you did for external motivations: grades, rewards and punishments.

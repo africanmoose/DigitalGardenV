@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-more-an-item-is-advertised-the-less-money-is-used-on-item-quality/","title":"The more an item is advertised, the less money is used on item quality","created":"2025-08-27T17:34:13.224+03:00","updated":"2025-08-27T17:43:46.396+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-more-an-item-is-advertised-the-less-money-is-used-on-item-quality/","title":"The more an item is advertised, the less money is used on item quality","created":"2025-08-27T17:34:13.224+03:00","updated":"2025-09-01T07:41:51.554+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - The more advertised, the more overpriced it is
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > "Do the maths. Totally invert one of the most basic strategies of advertising by practising this simple habit: when you see a lot of ads for something, consider that a large chunk of the price of that product is paying for those ads, rather than for product quality or value. By this logic, the more it is advertised, the more overpriced it is."

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/anything-that-expands-our-view-of-the-universe-is-pleasurable-to-our-mind/","title":"Anything that expands our view of the universe is pleasurable to our mind","created":"2025-08-27T18:21:21.785+03:00","updated":"2025-08-27T18:25:03.724+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/anything-that-expands-our-view-of-the-universe-is-pleasurable-to-our-mind/","title":"Anything that expands our view of the universe is pleasurable to our mind","created":"2025-08-27T18:21:21.785+03:00","updated":"2025-09-01T07:41:27.366+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - Some pursue this form buying new stuff, but you can just as well get it from other free ways of learning something new
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > Most people love the feeling of getting something new, but forget that it can come as easily from discovery as from consumption. A fascinating fact, a good anecdote, learning how to do something, having an experience you’ve never had before, hearing some gossip – anything that extends our picture of the universe we’re part of.
