@@ -10,7 +10,7 @@
 - The lesson is that we have to be selective about what we allow into our brain. The majority of issues do not require an instant response.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 As a general, Napoleon made it his habit to delay responding to the mail. His secretary was instructed to wait three weeks before opening any correspondence. When he finally did hear what was in a letter, Napoleon loved to note how many supposedly “important” issues had simply resolved themselves and no longer required a reply.
@@ -21,6 +21,6 @@ good news. Bad news, on the other hand—that is to say, an unfolding crisis or 
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Patience\|Patience]]
-- [[4x - Reading/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
 - [[1x - References/11 Notes/11.03 Ideas/Time is a tool\|Time is a tool]]
 - [[1x - References/11 Notes/11.03 Ideas/Focus on what is important\|Focus on what is important]]

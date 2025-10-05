@@ -13,7 +13,7 @@
 - If we think positively about failure, we are less likely to give up and more likely to succeed at what we are attempting.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 In 2016, a NASA-trained engineer named Mark Rober recruited 50,000 people to try out a new computer challenge. He wanted to prove that anyone could learn how to code, he told them. And so he set them off on a series of relatively easy coding challenges. In fact, the experiment was more complicated than Rober let on.
@@ -28,7 +28,7 @@ Purely because there was an arbitrary, meaningless ‘penalty’ of five points 
 - [[1x - References/11 Notes/11.03 Ideas/Failure is a positive sign that you are trying to stretch and do something beyond your current abilities\|Failure is a positive sign that you are trying to stretch and do something beyond your current abilities]]
 - [[1x - References/11 Notes/11.03 Ideas/The only failure is to avoid creating in the first place\|The only failure is to avoid creating in the first place]]
 - [[1x - References/11 Notes/11.03 Ideas/Benefit from failure\|Benefit from failure]]
-- [[4x - Reading/41 Books/41.01 Book Notes/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
 - [[1x - References/11 Notes/11.03 Ideas/The only failure is to avoid creating in the first place\|The only failure is to avoid creating in the first place]]
 - [[1x - References/11 Notes/11.02 Quotes/Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan.\|Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan.]]
 - [[1x - References/11 Notes/11.03 Ideas/Questions to confront fear of failure\|Questions to confront fear of failure]]

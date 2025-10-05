@@ -14,7 +14,7 @@
 - Be interested in the world around you
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > Marketers and networkers alike take heed: Be interesting! All that you've read thus far doesn't relieve you of the responsibility of being someone worth talking to, and even better, worth talking about. Virtually everyone new you meet in a situation is asking themselves a variation on one question: "Would I want to spend an hour eating lunch with this person?" Consultants call it the airport question. In the lengthy interview process that that industry has become famous for—a peppering of complicated case studies and logic-testing puzzles—the one question consultants use to choose one person over a pool of equally talented candidates is the one question they ask only of themselves: "If I were trapped in John F. Kennedy Airport for a few hours [and all travel-weary consultants inevitably spend too much time in airports], would I want to spend it with this person?"

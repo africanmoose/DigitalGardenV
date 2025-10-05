@@ -12,6 +12,6 @@ the house allows one to dream in peace.
 Gaston Bachelard
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/A Place of My Own - Michael Pollan\|A Place of My Own - Michael Pollan]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/A Place of My Own - Michael Pollan\|A Place of My Own - Michael Pollan]]
 1958 book called The Poetics of Space
 ## Related

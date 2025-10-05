@@ -10,7 +10,7 @@
 Dr. Editch Eger
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger\|The Gift - 12 Lessons to save your life - Edith Eger]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger\|The Gift - 12 Lessons to save your life - Edith Eger]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Worrying can be addictive\|Worrying can be addictive]]

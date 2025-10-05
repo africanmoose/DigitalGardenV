@@ -10,7 +10,7 @@
 Bernard Malamud
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Self-control\|Self-control]]

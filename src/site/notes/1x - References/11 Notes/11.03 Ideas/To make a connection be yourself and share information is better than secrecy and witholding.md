@@ -13,7 +13,7 @@
 - Focus on the person in front of you
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > When it comes to making an impression, differentiation is the name of the game. Confound expectation. Shake it up. How? There's one guaranteed way to stand out in the professional world: Be yourself. I believe that vulnerability—yes, vulnerability—is one of the most underappreciated assets in business today. Too many people confuse secrecy with importance. Business schools teach us to keep everything close to our vest. But the world has changed. Power, today, comes from sharing information, not withholding it. More than ever, the lines demarcating the personal and the professional have blurred. We're an open-source society, and that calls for open-source behavior. And as a rule, not many secrets are worth the energy required to keep them secret.

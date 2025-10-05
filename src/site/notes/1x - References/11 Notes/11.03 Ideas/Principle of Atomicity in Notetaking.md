@@ -16,7 +16,7 @@
 ### References
 - https://leananki.com/zettelkasten-method-smart-notes/
 - https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 
 ### Quotes
 > The principle of atomicity: The term was coined by Christian Tietze. It means that each note should contain one idea and one idea only. This makes it possible to link ideas with a laser focus.

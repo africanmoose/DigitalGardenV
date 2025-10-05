@@ -10,7 +10,7 @@ Character isn’t fate or destiny. Character isn’t DNA, decided before birth. 
 Derek Sivers
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]

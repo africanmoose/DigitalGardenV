@@ -10,7 +10,7 @@ Do the things that interest you and do them with all your heart. Don’t be conc
 - [[1x - References/11 Notes/11.05 Persons/Eleanor Roosevelt\|Eleanor Roosevelt]]
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Being interested in something drives producing great work\|Being interested in something drives producing great work]]

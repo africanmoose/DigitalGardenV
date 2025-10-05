@@ -11,7 +11,7 @@ It’s clear that poverty has crippled Kibera,’ ‘but it doesn’t exactly in
 Jean-Pierre Larroque, a documentary filmmaker.
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/The more you try to avoid suffering, the more you suffer - Thomas Merton\|The more you try to avoid suffering, the more you suffer - Thomas Merton]]

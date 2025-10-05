@@ -10,7 +10,7 @@
 Jeff Bezos
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Measure your life in energy not in money\|Measure your life in energy not in money]]

@@ -10,7 +10,7 @@ Amateurs think that if they were inspired all the time, they could be profession
 Philip Pullman
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Amateurs think in absolutes. Professionals think in probabilities - James Clear\|Amateurs think in absolutes. Professionals think in probabilities - James Clear]]

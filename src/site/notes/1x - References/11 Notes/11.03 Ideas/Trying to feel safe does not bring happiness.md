@@ -12,7 +12,7 @@
 - Forcing a romantic relationship or friendship stifles it
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Quotes
 But a recurring theme in the study of happiness is that many of the ways in which we try to feel ‘safe’ don’t ultimately make us happy. We seek financial security, yet above a certain threshold level, more money doesn’t translate into more happiness. We protect ourselves from physical danger by moving to safer neighbourhoods, or even locking ourselves inside gated communities, but the effects of such trends on community life have been demonstrated to have a negative effect on collective levels of happiness. We seek the fulfilment of strong romantic relationships and friendships, yet striving too hard to achieve security in such relationships stifles them; their flourishing depends on a certain degree of not being protected, of being open to experiences both negative and positive. It is possible to be similarly protected from terrorism, as Schneier said, so long as you are happy to shut down the possibility of air travel itself

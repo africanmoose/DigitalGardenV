@@ -10,7 +10,7 @@
 - A small change may allow us to make a bigger change in future. Over time, small changes compound and lead to huge changes.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 
 ### Quotes
 > Something I had learned time and time again was that every small change you make pays compound interest. It helps you make another change, another mind-set shift, another decision to live a new way

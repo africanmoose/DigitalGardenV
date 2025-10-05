@@ -10,7 +10,7 @@
 - When we write, it forces us to be clear in our logic and explanation. If there is an area that is not clear, it forces us to learn it in order to express it better
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 I’ve seen many people shy away from writing because it doesn’t come naturally to them. What they overlook is that writing is more than a vehicle for communicating—it’s a tool for learning. Writing exposes gaps in your knowledge and logic. It pushes you to articulate assumptions and consider counterarguments. Unclear writing is a sign of unclear thinking. 

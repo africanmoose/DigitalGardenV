@@ -22,11 +22,11 @@
 
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/Thomas_Young_(scientist))
-- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Study what interests you the most - Richard Feynmann\|Study what interests you the most - Richard Feynmann]]
 - [[1x - References/11 Notes/11.03 Ideas/Nobel laureates more likely to dabble in other interests\|Nobel laureates more likely to dabble in other interests]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Resist Simplicity - Stephen Carter\|Resist Simplicity - Stephen Carter]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Resist Simplicity - Stephen Carter\|Resist Simplicity - Stephen Carter]]
 - [[1x - References/11 Notes/11.02 Quotes/A human being should be able to - Robert Heinlein\|A human being should be able to - Robert Heinlein]]

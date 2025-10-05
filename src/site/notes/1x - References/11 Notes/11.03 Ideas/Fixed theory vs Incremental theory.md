@@ -11,7 +11,7 @@
 - Related to growth mindset vs fixed mindset?
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Quotes
 Each of us can be placed somewhere on a continuum, Dweck argues, depending on our ‘implicit view’ – or unspoken attitude – about what talent is and where it comes from. Those with a ‘fixed theory’ assume that ability is innate; those with an ‘incremental theory’ believe that it evolves through challenge and hard work. If you’re the kind of person who struggles mightily to avoid the experience of failure, it’s likely that you reside near the ‘fixed’ end of Dweck’s continuum. ‘Fixed theory’ people tend to approach challenges as occasions on which they are called upon to demonstrate their innate abilities, and so they find failure especially horrifying: to them, it’s a sign that they tried to show how good they were, but didn’t measure up. The classic example of a person with a ‘fixed theory’ is the young sports star who is encouraged to think of himself as a ‘natural’ – but who then fails to put in sufficient practice to realise his potential. If talent is innate, his unspoken reasoning goes, then why bother?

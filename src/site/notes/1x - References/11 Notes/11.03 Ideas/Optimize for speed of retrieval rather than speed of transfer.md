@@ -11,7 +11,7 @@
 - Pull communication is more effective than push communication. Push communication is when info is pushed to you when the sender needs to send it. Pull communication is retrieved when it is needed. For example, information stored with a task that needs to be done and that can be called upon when the job needs to be done.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 
 ### Quotes
 > Optimize for the speed of retrieval of information, not transfer. Storing information in the right place is the best way to alleviate the Scavenger Hunt, even if it might take longer in the moment.

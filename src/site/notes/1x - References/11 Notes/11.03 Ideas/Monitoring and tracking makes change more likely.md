@@ -10,7 +10,7 @@
 - This applies to almost everything: our weight, our diet, our work habits, our sleep time
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 - The more carefully and frequently you monitor yourself, the better you’ll control yourself.—Roy Baumeister

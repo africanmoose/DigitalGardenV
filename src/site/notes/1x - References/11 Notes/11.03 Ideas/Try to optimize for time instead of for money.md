@@ -11,7 +11,7 @@
 - Dont scale size wise, but increase charges as demand increases and work less, while maintaining the same income.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 
 ### Quotes
 > I first encountered Jarvis when his editor sent me a copy of his 2019 book, Company of One. I was taken by the boldness of its premise: don’t scale your business. If you’re fortunate enough for your entrepreneurial endeavors to begin to succeed, he argues, leverage this success to gain more freedom instead of more revenue. This dynamic is captured well by a simplified thought experiment. Imagine that you charge $50 an hour as a web designer. Assuming forty hours of work a week, fifty weeks a year, this works out to a $100,000 annual salary. Now imagine that after a few years at this level, your skills expand and the demand for your services increases. The standard move would be to scale your business. If you hired multiple designers, you could grow it to the point where it was bringing in millions in annual revenue and yielding you a salary that was well above $100,000 a year. If you continued this growth, you might even end up one day with an enterprise valuable enough to sell for a healthy seven-figure payday.

@@ -11,7 +11,7 @@
 - Our knowlege may reside in muscle memory that cannot be explained in language.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 
 ### Related

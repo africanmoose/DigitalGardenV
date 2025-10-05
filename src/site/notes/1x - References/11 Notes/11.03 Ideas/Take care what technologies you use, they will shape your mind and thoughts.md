@@ -10,7 +10,7 @@
 - If we are exposed to the internet for hours a day, your thoughts will start to be shape by the 'disconnected shrieking and fury' that is social media today.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]
 
 ### Quotes
 "As I talked with him, I thought: We internalise the texture of the voices we’re exposed to. When you expose yourself to complex stories about the inner lives of other people over long periods of time, that will repattern your consciousness. You too will become more perceptive, open and empathetic. If, by contrast, you expose yourself for hours a day to the disconnected fragments of shrieking and fury that dominate social media, your thoughts will start to be shaped like that. Your internal voices will become cruder, louder, less able to hear more tender and gentle thoughts. Take care what technologies you use, because your consciousness will, over time, come to be shaped like those technologies."

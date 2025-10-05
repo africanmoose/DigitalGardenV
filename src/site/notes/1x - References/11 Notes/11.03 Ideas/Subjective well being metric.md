@@ -14,7 +14,7 @@
 - We may not stop doing tasks that dont make us feel good, but we can spend the minimum time on them, outsource them, find a way to eliminate them, or plan them so that we end with a task that makes us feel good.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Door of happiness - Helen Keller\|Door of happiness - Helen Keller]]

@@ -11,7 +11,7 @@
 - Can also send notes to speakers even if you didnt meet them personally
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > At each conference, I keep a list of three or four people I'd most like to meet on a folded piece of paper in my jacket pocket. I check off each person as I meet them. Beside their name, I'll jot down what we talked about and make a note about how I'm going to contact them later. And, once you've met with and engaged someone, you find yourself chatting again and again throughout the conference.

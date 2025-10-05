@@ -11,7 +11,7 @@
 - This improves the whole group
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 
 ### Quotes
 > When you gather with other people who share similar professional ambitions, the collective taste of the group can be superior to that of any individual. This follows, in part, from the diversity of approaches that people take toward creation in a given field. When you combine the opinions of multiple practitioners of your craft, more possibilities and nuance emerge. There’s also a focusing effect that comes from performing for a crowd. When you want to impress other people, or add to the conversations in a meaningful way, your mind slips into a higher gear than what’s easily accessible in solo introspection. Forming a group of like-minded professionals, all looking to improve what they’re doing, provides a shortcut to improving your taste, an instantaneous upgrade to the standard of quality that you’re pursuing.

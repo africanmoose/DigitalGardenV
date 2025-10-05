@@ -10,7 +10,7 @@
 - A subtle touch incrases trust in all relationships, from social to romantic to professional.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > The moment we touch someone or someone touches us, our chemistry changes. Touch creates the potent chemical oxytocin. As we have learned, oxytocin plays a complicated role in our body, but in interactions it increases trust, warmth, and rapport. Even small touches—a high five, a fist bump, or a pat on the back—produce oxytocin and encourage trust.

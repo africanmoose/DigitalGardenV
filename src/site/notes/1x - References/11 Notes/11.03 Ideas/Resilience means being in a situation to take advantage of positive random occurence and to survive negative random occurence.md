@@ -10,7 +10,7 @@
 - If there is a bad outcome, it doesnt mean we made a bad decision, and vice versa
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > Strategies require decisions, and decisions are about the future. Predicting the future in a complex system is an unreliable venture. As a result, unexpected, unpredicted outcomes are the norm.

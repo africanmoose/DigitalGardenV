@@ -14,7 +14,7 @@
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/Fibonacci)
 - [wikipedia: fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence)
-- [[4x - Reading/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
 
 ### Quotes
 The man who reintroduced zero to the West was Leonardo of Pisa. The son of an Italian trader, he traveled to northern Africa. There the young man—better known as Fibonacci—learned mathematics from the Muslims and soon became a good mathematician in his own right.

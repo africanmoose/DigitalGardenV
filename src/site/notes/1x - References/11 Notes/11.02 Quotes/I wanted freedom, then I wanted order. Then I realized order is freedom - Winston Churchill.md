@@ -11,7 +11,7 @@ I realized that order is freedom.
 Winston Churchill
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Record everything\|Record everything]]

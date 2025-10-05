@@ -10,7 +10,7 @@
 - [[1x - References/11 Notes/11.05 Persons/Eleanor Roosevelt\|Eleanor Roosevelt]]
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Noah kept busy waiting to be let out of the ark\|Noah kept busy waiting to be let out of the ark]]

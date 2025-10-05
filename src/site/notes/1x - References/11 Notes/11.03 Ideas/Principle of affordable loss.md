@@ -10,7 +10,7 @@
 - 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Quotes
 "The principle of affordable loss’: don’t be guided by thoughts of how wonderful the rewards might be if you were spectacularly successful at any given next step. Instead – and there are distinct echoes, here, of the Stoic focus on the worst-case scenario – ask how big the loss would be if you failed. So long as it would be tolerable, that’s all you need to know. Take that next step, and see what happens."

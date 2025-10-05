@@ -10,7 +10,7 @@
 - Ideally, you want to try a new thing that gives you the option to undo, or change direction later
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > more useful approach is to seek out and embrace optionality. If we can try something, experience something, or launch something that comes with an undo button, that path is far more resilient than irrevocable decisions that can’t be undone.
@@ -23,7 +23,7 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Risk is half the process of moving forward - Richard Saul Wurman\|Risk is half the process of moving forward - Richard Saul Wurman]]
 - [[1x - References/11 Notes/11.02 Quotes/Life can only be understood backwards, but it must be lived forwards - Søren Kierkegaard\|Life can only be understood backwards, but it must be lived forwards - Søren Kierkegaard]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 - [[1x - References/11 Notes/11.03 Ideas/Preserve optionality even if it makes you look stupid in the short term\|Preserve optionality even if it makes you look stupid in the short term]]
 - [[1x - References/11 Notes/11.03 Ideas/House loan or mortgage narrows options for the next 30 years\|House loan or mortgage narrows options for the next 30 years]]
 - [[1x - References/11 Notes/11.03 Ideas/Organization is needed when there are many things. Minimalism may be a better option.\|Organization is needed when there are many things. Minimalism may be a better option.]]

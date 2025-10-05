@@ -12,7 +12,7 @@
 - palm down is for giving directions that do not require reply
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > The palm up cue is a signal of openness and trust. It’s a high warmth cue, best used when trying to get people to be more collaborative and open. When I get to the question-and-answer part of my presentations, I always use the palm up gesture to invite questions.

@@ -11,7 +11,7 @@
 - An elegant solution often appears effortless
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 >  Elegance is simplicity, efficiency, and effectiveness. It’s not only a solution that gets a result. It’s arguably a better solution—the least complex and clearest way forward. An elegant strategy offers leverage in service of the change we seek. While it might seem effortless in execution, creating the method requires insight and care.

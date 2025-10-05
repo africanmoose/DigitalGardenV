@@ -10,7 +10,7 @@
 - For example, learning a skill that takes a long time to develop
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 - One way in which you can exercise your patience muscle is by engaging in activities that require patience or by learning a skill that takes a long time to develop. Slow progress will help you develop more humility and understand that some things can’t be rushed, no matter how hard you try to push them

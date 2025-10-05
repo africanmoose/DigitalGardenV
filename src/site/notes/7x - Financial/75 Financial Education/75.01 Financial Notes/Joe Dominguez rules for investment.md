@@ -4,7 +4,7 @@
 
 
 ### Summary
-- Joe Dominguez, author of [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]], gives these basic rules for capital investment
+- Joe Dominguez, author of [[4x - Reading and Learning/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]], gives these basic rules for capital investment
 
 ### Details
  1. Your capital must produce income.
@@ -19,7 +19,7 @@
 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[Simple dollar Rule 2 - Dont over-think you investments\|Simple dollar Rule 2 - Dont over-think you investments]]

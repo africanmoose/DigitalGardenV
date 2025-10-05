@@ -12,7 +12,7 @@
 - If you feel you are on the same page with someone, lean in to show them that.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Highlight: This simple movement activates a specific part of your brain that makes you feel more motivated. In a fascinating experiment, researchers found that when they asked participants to lean forward, they had increased neural activation in the left frontal cortex. This is the part of our brain associated with desire and motivation—it creates an eagerness to move toward something. The control group, who was asked to lean back, didn’t exhibit any increased activation at all.

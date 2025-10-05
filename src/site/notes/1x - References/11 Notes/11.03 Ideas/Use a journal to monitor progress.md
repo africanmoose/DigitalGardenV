@@ -11,7 +11,7 @@
 - This is hard to take since our ego doesnt accept that there are areas for improvement, but we can only improve if we get feedback.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 
 ### Quotes
 > Keeping a journal of your own performance is the easiest and most private way to give self-feedback. Journals allow you to step out of your automatic thinking and ask yourself: What went wrong? How could I do better? Monitoring your own performance allows you to see patterns that you simply couldn’t see before. This type of analysis is painful for the ego, which is also why it helps build a circle of competence. You can’t improve if you don’t know what you’re doing wrong. Finally, you must occasionally solicit external feedback. This helps build a circle, but is also critical for maintaining one.

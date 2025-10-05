@@ -10,7 +10,7 @@
 - Reach out with a personal message to make a connection
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > Nothing comes off as less sincere than receiving a mass e-mail addressed to a long list of recipients. Reaching out to others is not a numbers game. Your goal is to make genuine connections with people you can count on.

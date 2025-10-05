@@ -14,7 +14,7 @@
 	- Allows testing of documented procedures
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 
 ### Quotes
 > I was a trader for eight years, and every year I did this exercise there would be an improvement to my trading book. My colleagues would come in with a completely different perspective and find areas that could be improved or made more efficient. Fresh eyes spark innovation! It’s hard to see the label when you’re inside the jar

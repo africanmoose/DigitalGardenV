@@ -39,7 +39,7 @@
 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 He first saw combat at age twenty-one, and wrote his first bestselling book about it not long after. By twenty-six, he’d been elected to public office and would serve in government for the next six and half decades. He’d write some ten million words and over forty books, paint more than five hundred paintings, and give some twenty-three hundred speeches in the course of his time on this planet. In between all that, he managed to hold the positions of minister of defense, first lord of the admiralty, chancellor of the exchequer, and of course, prime minister of Britain, where he helped save the world from the Nazi menace. Then, to top it off, he spent his twilight years fighting the totalitarian communist menace

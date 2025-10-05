@@ -10,7 +10,7 @@
 - We may be expressing minor details about our day or epic thoughts
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]\
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]\
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Talk less say more\|Talk less say more]]

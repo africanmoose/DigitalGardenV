@@ -10,7 +10,7 @@ Books are the treasured wealth of the world and the fit inheritance of generatio
 Henry David Thoreau
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Two ways change a man - his books and his friends\|Two ways change a man - his books and his friends]]

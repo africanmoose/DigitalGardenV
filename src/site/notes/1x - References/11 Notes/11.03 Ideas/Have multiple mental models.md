@@ -13,7 +13,7 @@
 - the more varied our mental models are, the better
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - "If your only tool is a hammer, all your problems will be nails,” said Mark Twain
@@ -22,5 +22,5 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/If you dont have a plan you will become part of somebody elses plan - Terence Mckenna\|If you dont have a plan you will become part of somebody elses plan - Terence Mckenna]]
 - [[1x - References/11 Notes/11.02 Quotes/Learning Machine - Charlie Munger\|Learning Machine - Charlie Munger]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Poor charles almanack - Charlie Munger\|Poor charles almanack - Charlie Munger]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Poor charles almanack - Charlie Munger\|Poor charles almanack - Charlie Munger]]
 - 

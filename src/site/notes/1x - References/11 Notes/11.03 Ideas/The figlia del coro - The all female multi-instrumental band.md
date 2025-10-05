@@ -13,7 +13,7 @@
 - In many cases, music provided them with an income for the rest of their lives.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [wikipedia](https://en.wikipedia.org/wiki/Ospedale_della_Piet%C3%A0)
 
 ### Quotes
@@ -24,7 +24,7 @@ Instrumental music—music that did not depend on words—underwent a complete r
 Vivaldi’s creativity was facilitated by a particular group of musicians who could learn new music quickly on a staggering array of instruments. They drew emperors, kings, princes, cardinals, and countesses from across Europe to be regaled by the most innovative music of the time. They were the all-female cast known as the figlie del coro, literally, “daughters of the choir.” Leisure activities like horseback riding and field sports were scarce in the floating city, so music bore the full weight of entertainment for its citizens. The sounds of violins, flutes, horns, and voices spilled into the night from every bobbing barge and gondola. And in a time and place seething with music, the figlie 
 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Guitar Zero - The new musician and the science of learning\|Guitar Zero - The new musician and the science of learning]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Guitar Zero - The new musician and the science of learning\|Guitar Zero - The new musician and the science of learning]]
 - [[1x - References/11 Notes/11.03 Ideas/Listen to music with your entire body\|Listen to music with your entire body]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning requires work\|Learning requires work]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning new skills changes the way you think\|Learning new skills changes the way you think]]

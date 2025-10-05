@@ -14,7 +14,7 @@
 	- invest in friendships
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Attach your lives to a goal not people or things - Albert Einstein\|Attach your lives to a goal not people or things - Albert Einstein]]

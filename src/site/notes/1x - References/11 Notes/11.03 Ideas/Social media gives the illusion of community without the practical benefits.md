@@ -10,7 +10,7 @@
  - But the benefits of real contact are lost such as phsical contact like a touch or a hug, giving undivided contact or a slap on the back. 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 
 ### Quotes
 > Social media gives the illusion of community – makes people think they are connected and part of something – and in a way, they are. But nothing beats real contact. You can only tell how someone is doing by hearing their voice or, better still, seeing their face. Comfort comes – proper comfort – from the holding of a hand or a big, squeezing hug. Small personal triumphs, little breakthroughs, should be shared and celebrated. Doubts, despairs and sadnesses can be given a new, perhaps more dealable-with, perspective if talked about with someone who can put the kettle on, push a box of tissues your way and just listen. Give undivided attention. Laughing on your own is rarely the glorious, shoulder-shaking, tears-rolling-down-the-face abandon that it can be with other people. And there are few things more restorative than a good laugh.

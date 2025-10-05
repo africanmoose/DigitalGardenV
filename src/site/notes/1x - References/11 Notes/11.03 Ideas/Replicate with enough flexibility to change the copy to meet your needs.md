@@ -10,7 +10,7 @@
 - We can use existing ideas but adjust them for our specific needs.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ### Quotes
 > Replication as a mental model teaches us that we don’t always need to reinvent the wheel. Often a good starting point is what others are doing. Once you get a sense and a feel for the environment you can adapt to better suit your own needs. What we need to remember is that effective replication requires enough structure and space to produce a copy, but enough flexibility to adapt that copy to changes in the environment. Just because something has worked for a while doesn’t mean that it will continue to be effective in perpetuity. Maintaining a successful approach requires an ability to grow and modify that approach as required.

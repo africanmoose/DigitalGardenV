@@ -13,7 +13,7 @@
 - We have huge control over our happiness in terms of the remaining 40%
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 
 ### Quotes
 > Originally, Lyubomirsky found that about 50 percent of the difference in happiness level between any two people is due to genetics; we all have a biological set point. She estimated that about 10 percent of the difference is due to our circumstances—external factors like age, how much money we make, where we live, and whether we’re single or in a relationship—and that up to 40 percent of that difference is based on activities within our control. Since her original study, other scholars have published work suggesting that these numbers might be slightly different. However, the fact that we tend to overestimate the impact of external factors on our life satisfaction and that intentional actions on our part can increase our level of happiness is not disputed.

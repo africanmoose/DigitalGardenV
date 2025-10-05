@@ -16,7 +16,7 @@
 - You don’t need to fear inflation—you just need to manage it rationally.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Three precious things - gentleness frugality and humility - Lao Tzu\|Three precious things - gentleness frugality and humility - Lao Tzu]]

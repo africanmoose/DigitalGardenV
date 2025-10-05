@@ -11,7 +11,7 @@
 - some things such as learning a skill or investing must necessarily take a long period of time
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ### Quotes
 > Warren Buffett once joked that you can’t make a baby in one month by getting nine women pregnant.

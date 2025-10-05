@@ -10,7 +10,7 @@
 [[1x - References/11 Notes/11.05 Persons/Winston Churchill\|Winston Churchill]]
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/The more breaks you take the more productive you become\|The more breaks you take the more productive you become]]

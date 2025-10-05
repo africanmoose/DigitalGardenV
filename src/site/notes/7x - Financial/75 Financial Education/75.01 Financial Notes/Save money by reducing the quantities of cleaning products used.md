@@ -11,7 +11,7 @@
 - We also do not need a complex range of products: to keep our house, bod and clothes clean
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > Cosmetic and detergent companies would have us believe that if we don’t use large globs of their products on a frequent basis, our friends will all desert us, and we’ll develop a host of communicable diseases. Your authors suspect that they may be keeping their profit margins – rather than our best interests – at heart when doling out advice.

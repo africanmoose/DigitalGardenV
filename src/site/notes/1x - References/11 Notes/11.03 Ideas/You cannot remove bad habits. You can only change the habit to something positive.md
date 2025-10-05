@@ -10,7 +10,7 @@
 - For example, a trigger might be feeling sad, the activity eating junk food, and the reward is a hit of dopamine. We could replace the activity with going for a run instead.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 You can never truly extinguish bad habits. Rather, to change a habit, you must keep the old cue, and deliver the old reward, but insert a new routine. That’s the rule: If you use the same cue, and provide the same reward, you can shift the routine and change the habit. Almost any behavior can be transformed if the cue and reward stay the same.—Charles Duhigg

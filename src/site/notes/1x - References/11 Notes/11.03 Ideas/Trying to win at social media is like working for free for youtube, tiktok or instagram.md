@@ -10,7 +10,7 @@
 - Some people will be able to, but they will be a minority, selected through luck rather than skill and hard work
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > A friend asked about his niece’s career path. She’s spending hours every day on TikTok, developing videos and hoping to build a following.

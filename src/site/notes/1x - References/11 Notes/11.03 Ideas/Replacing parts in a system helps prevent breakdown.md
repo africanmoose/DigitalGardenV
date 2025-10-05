@@ -12,7 +12,7 @@
 - when replacing worn out things, look for an opportunity to upgrade
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 ### Quotes
 > Churn is not something to fear. Replacing components of a system is an inevitable part of keeping a system healthy. New parts can improve functionality. When we use this model as a lens, we see that new people bring new ideas, and counterintuitively, some turnover allows us to maintain stability. Replacing what is worn out also gives us a chance to upgrade and expand our capabilities, creating new opportunities.

@@ -12,7 +12,7 @@
 - Push aside your computer, move your coffee over
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > And she used a little nonverbal trick that involved anti-blocking. “When I would do interviews, I would take my phone. I would put that thing away. I would take my watch off. . . . I wanted that person, whoever it was, to know that I had nowhere to go. And all that mattered, in that moment, was them,” she explained.

@@ -11,7 +11,7 @@
 - Societies that embraced tea and coffee tended to thrive
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Spiders on caffeine make weird webs\|Spiders on caffeine make weird webs]]

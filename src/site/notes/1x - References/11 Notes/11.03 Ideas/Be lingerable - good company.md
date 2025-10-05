@@ -11,7 +11,7 @@
 - allows people to speak their innermost thoughts
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ### Quotes
 > “We do not obtain the most precious gifts by going in search of them but by waiting for them,” Weil wrote. The person who is good at accompaniment is decelerating the pace of social life. I know a couple who treasure friends who are what they call “lingerable.” They are the sort of people you want to linger with at the table after a meal or in chairs outside by the pool, to let things flow, to let the relationship emerge. It’s a great talent—to be someone others consider lingerable.

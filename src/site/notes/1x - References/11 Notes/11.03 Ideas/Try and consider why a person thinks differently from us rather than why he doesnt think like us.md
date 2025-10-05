@@ -11,7 +11,7 @@
 - This requires humility in admitting that a person may have valid reasons for a belief that is different from mine
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ### Quotes
 > The question “Why don’t you agree with me?” can have infinite answers. Sometimes one side is selfish, or stupid, or blind, or uninformed.

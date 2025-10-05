@@ -13,7 +13,7 @@
 
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/Ronald_Fisher)
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 
 ### Quotes
 > When Ronald Fisher offered his colleague tea that day, he was just being polite. It was the 1920s, in England. What could be chummier than a cup of tea? Fisher had no idea he was about to kick up a big fight—much less revolutionize modern science.

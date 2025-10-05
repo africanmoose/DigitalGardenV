@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/wool-omnibus-hugh-howey/","title":"Wool omnibus - Hugh Howey","created":"2024-02-14T20:17:41.151+03:00","updated":"2025-09-23T06:01:57.557+03:00"}
+---
+
+![Wool - cover.jpg](/img/user/4x%20-%20Reading%20and%20Learning/41%20Books/41.03%20Cover%20images/Wool%20-%20cover.jpg)
+### Summary
+- This is a dystopian story about humankind at an unspecified time in the future who are confined to an underground silo as the surface of the planet is totally destroyed. The humans are not just confined, but information is controlled in such a way that no one knows why they are there, what happened, and what their future will be. Anyone who tries to find out is suppressed or killed.
+- If you enjoy Sci-Fi, or just a good story, read this.
+
+### How I discovered it
+- I watched the series and it was pretty riveting. So I figured the book would be at least as interesting, and it did not disappoint.
+
+### How the book changed me
+- I usually don't write reviews on fiction, since they usually don't contribute anything to my knowlege base, but Wool was such a compelling read that I became an instant fan.
+

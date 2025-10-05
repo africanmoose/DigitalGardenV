@@ -12,7 +12,7 @@
 - Interacting with students gives you an opportunity to face questions that expand your knowlege or think about the topic in a new way
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > There's no better way to learn something, and become an expert at it, than to have to teach it. Some of the best CEOs I know refuse to turn away business even when it might call for skills or experience that their company doesn't have. These CEOs see such a scenario as an opportunity. "We can do that," they'll say. In the process, both the CEO and their employees learn skills they need. They jump at trying something new and they get the job done. In fact, after reading this book, there's no reason you couldn't put together a course on relationship building or content creation at your local community college. You'll learn in preparation, and gain even more interacting with students.

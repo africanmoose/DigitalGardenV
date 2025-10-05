@@ -31,5 +31,5 @@ Judah
 - [[1x - References/11 Notes/11.02 Quotes/Be humble about what you know and confident about what you can learn - James Clear\|Be humble about what you know and confident about what you can learn - James Clear]]
 - [[1x - References/11 Notes/11.03 Ideas/Knowing our own strengths and weaknesses\|Knowing our own strengths and weaknesses]]
 - [[1x - References/11 Notes/11.03 Ideas/Improve patience by doing things that take long to accomplish\|Improve patience by doing things that take long to accomplish]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Originals How Non-Conformists Move the World - Adam Grant\|Originals How Non-Conformists Move the World - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Originals How Non-Conformists Move the World - Adam Grant\|Originals How Non-Conformists Move the World - Adam Grant]]
 - [[1x - References/11 Notes/11.03 Ideas/Creativity doesnt happen by chance, we need to have a creative process\|Creativity doesnt happen by chance, we need to have a creative process]]

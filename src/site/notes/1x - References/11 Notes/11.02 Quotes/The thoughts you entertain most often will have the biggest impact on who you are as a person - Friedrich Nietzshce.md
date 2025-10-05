@@ -11,7 +11,7 @@ All truly great thoughts are conceived while walking.
 Friedrich Nietzsche
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Watch your thoughts for they become words - Margaret Thatcher\|Watch your thoughts for they become words - Margaret Thatcher]]

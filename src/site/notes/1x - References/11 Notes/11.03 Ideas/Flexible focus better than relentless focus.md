@@ -10,7 +10,7 @@
 - Ochin Vartanian analysed nobel prize winners and other scientists adn concluded that flexible focus distinguishes them:  “Specifically, the problemsolving behavior of eminent scientists can alternate between extraordinary levels of focus on specific concepts and playful exploration of ideas. This suggests that successful problem solving may be a function of flexible strategy application in relation to task demands.” (Vartanian 2009, 57)
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Focus attention on beautiful things in life\|Focus attention on beautiful things in life]]

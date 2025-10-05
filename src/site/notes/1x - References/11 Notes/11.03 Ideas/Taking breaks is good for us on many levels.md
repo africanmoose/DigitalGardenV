@@ -12,7 +12,7 @@
 - Breaks help our brain to improve recall
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 It turns out that taking breaks has at least three benefits. First, timeaway from practice helps to sustain harmonious passion. Research indicates that even micro-breaks of five to ten minutes are enough to reduce fatigue and raise energy. It’s not just about preventing burnout: research reveals that when we work nights and weekends, our interest and enjoyment in our tasks drops

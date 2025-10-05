@@ -17,7 +17,7 @@
 
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright)
-- [[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Work alone\|Work alone]]

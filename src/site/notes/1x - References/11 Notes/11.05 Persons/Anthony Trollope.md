@@ -16,14 +16,14 @@
 - His mother, Frances Trollope, was also an aiuther. She did not start writing till 53 years old, and then only because she needed the money. She would start each day by writing at 4am.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Habit Change - Leo Babauta\|Habit Change - Leo Babauta]]
 - [[1x - References/11 Notes/11.02 Quotes/Excellence is a habit - Aristotle\|Excellence is a habit - Aristotle]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 #### RSS Data
 <div class='date'>

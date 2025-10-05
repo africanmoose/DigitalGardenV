@@ -15,7 +15,7 @@
 - Her power was so great that she was able to retire peacefully after negotiating terms with the Chinese government
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 ### Quotes
 > Ching Shih* is a pertinent example of how tight systems of rules helped pirates succeed. Born in China in 1775, Ching Shih may have been the most successful pirate to ever live. She began her career as a sex worker in Canton, where she met the pirate Zheng Yi. He proposed to her, and she agreed—provided she had an equal share of his wealth and power aboard his Red Flag fleet. When her husband died, she took full control, becoming one of few female pirates.19 At one point, she oversaw 70,000 to 80,000 pirates and up to 2,000 ships, a fleet of unusual size.20 To give context, the most famous pirate of all, Blackbeard, probably never led more than 700 individuals, with his crew typically numbering a few hundred.21 Ching Shih was essentially leading a floating city that needed to be able to control itself without the help of the standard legal system. After all, a pirate who discovered that a crewmate had stolen his already-stolen plunder couldn’t report them to the police. 

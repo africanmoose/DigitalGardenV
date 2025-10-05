@@ -12,7 +12,7 @@ When one person shares good news with another, both people are happy. And when o
 Swedish proverb
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Share information with fellow workers as Jesus did with the disciples\|Share information with fellow workers as Jesus did with the disciples]]

@@ -10,7 +10,7 @@
 - Mentees and interns can join meetings and learn, and may even contribute new insights.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > The point is I'm constantly looking to include others in whatever I'm doing. It's good for them, good for me, and good for everyone to broaden their circle of friends. Sometimes I'll take potential employees for a workout and conduct the interview over a run. As a makeshift staff meeting, I'll occasionally ask a few employees to share a car ride with me to the airport. I figure out ways to as much as triple my active working day through such multitasking. And, in the process, I'm connecting people from different parts of my "community."

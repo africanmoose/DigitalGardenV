@@ -10,7 +10,7 @@
 - Think of public paths that lead to your house and do your part to keep them clean and presentable.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 
 ### Quotes
 > We have a practice called uchimizu wherein we sprinkle water on to a street or path, cooling down the area as well as damping down dust and other particulates. Uchimizu was originally practised at Shinto shrines.

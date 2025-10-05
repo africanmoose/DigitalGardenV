@@ -31,5 +31,5 @@ Our ability to predict the future is never as certain in the real world as in th
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Financial independence is having enough\|Financial independence is having enough]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - [[1x - References/11 Notes/11.02 Quotes/Experience vs Money - Leonard Lauder\|Experience vs Money - Leonard Lauder]]

@@ -7,7 +7,7 @@
 - If you have too many things, you need to organize them. Better to have few things.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
 
 ### Quotes
 And while I have nothing against professional organizers — they help people to find peace in lives of chaos — I don’t think they’re necessary … if you adopt minimalism. Organizing is only necessary when you have too many things to easily find what you’re looking for.

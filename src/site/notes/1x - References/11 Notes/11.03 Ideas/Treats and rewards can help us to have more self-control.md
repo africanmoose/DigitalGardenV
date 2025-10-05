@@ -11,7 +11,7 @@
 - Treats and rewards keep us happy and thus help us to be positive
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 A treat is different from a reward, which must be justified or earned. A treat is a small pleasure or indulgence that we give to ourselves just because we want it.Treats give us greater vitality, which boosts self-control, which helps us maintain our healthy habits. When we give ourselves treats, we feel energized, cared for, and contented, which in turn boosts self-command. When we don’t get any treats, we feel depleted, resentful, and angry, and we feel justified in self-indulgence. We start to crave comfort — and grab that comfort wherever we can, even if it means breaking good habits.—Gretchen Rubin

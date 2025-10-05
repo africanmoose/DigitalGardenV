@@ -15,7 +15,7 @@
 - He collected and read some 25,000 books in his life
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 - [wikipedia](https://en.wikipedia.org/wiki/William_Ewart_Gladstone)
 
 ### Quotes

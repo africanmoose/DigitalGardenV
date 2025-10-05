@@ -11,7 +11,7 @@ People are usually open, even eager, to be amused while eating.
 Keith Ferrazzi
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Talk less say more\|Talk less say more]]

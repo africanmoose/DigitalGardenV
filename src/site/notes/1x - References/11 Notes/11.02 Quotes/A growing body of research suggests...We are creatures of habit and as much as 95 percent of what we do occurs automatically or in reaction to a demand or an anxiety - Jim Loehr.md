@@ -10,12 +10,12 @@ A growing body of research suggests that as little as 5 percent of our behaviors
 Jim Loehr
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Habit needs all its parts\|Habit needs all its parts]]
 - [[1x - References/11 Notes/11.02 Quotes/Habit is as second nature - Cicero\|Habit is as second nature - Cicero]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - [[1x - References/11 Notes/11.02 Quotes/Excellence is a habit - Aristotle\|Excellence is a habit - Aristotle]]
 - [[1x - References/11 Notes/11.03 Ideas/Success a product of habit more than skill\|Success a product of habit more than skill]]
 - [[1x - References/11 Notes/11.03 Ideas/Replace dysfunctional habits with healthy ones\|Replace dysfunctional habits with healthy ones]]

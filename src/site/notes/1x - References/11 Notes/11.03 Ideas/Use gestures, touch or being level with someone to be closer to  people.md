@@ -13,7 +13,7 @@
 - A touch temporarily crosses into someones personal zone for example shaking hands or a fist bump
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > As humans, we navigate space based on how we feel about others in our environment. The closer we feel to someone, the closer we allow them to come physically.

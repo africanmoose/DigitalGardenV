@@ -10,10 +10,10 @@ A man’s life is interesting primarily when he has failed — I well know. For 
 Georges Clemenceau
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
-- [[4x - Reading/41 Books/41.01 Book Notes/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
 - [[1x - References/11 Notes/11.02 Quotes/Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan.\|Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan.]]
 - [[1x - References/11 Notes/11.03 Ideas/The only failure is to avoid creating in the first place\|The only failure is to avoid creating in the first place]]
 - [[1x - References/11 Notes/11.03 Ideas/Benefit from failure\|Benefit from failure]]

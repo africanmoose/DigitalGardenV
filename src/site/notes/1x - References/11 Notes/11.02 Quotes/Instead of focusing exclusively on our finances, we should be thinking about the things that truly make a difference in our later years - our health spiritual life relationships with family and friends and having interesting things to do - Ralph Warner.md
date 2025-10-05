@@ -13,8 +13,8 @@ Ralph Warner
 
 ## Reference
 - Get a Life: You Don’t Need a Million to Retire Well
-- [[4x - Reading/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell\|The Lazy Person's Guide to Investing - Paul Farrell]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell\|The Lazy Person's Guide to Investing - Paul Farrell]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Focus on what is important\|Focus on what is important]]
-- [[4x - Reading/41 Books/41.01 Book Notes/The psychology of money\|The psychology of money]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/The psychology of money\|The psychology of money]]

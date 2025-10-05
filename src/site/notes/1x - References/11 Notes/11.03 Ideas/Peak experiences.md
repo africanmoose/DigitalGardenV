@@ -13,8 +13,8 @@
 - results: productivity adn efficiency are a byproduct
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
 
 ### Quotes
 - We need to give ourselves credit for laying the groundwork for these peak experiences. If we don’t acknowledge the things that put us in the zone, we dismiss peak experiences as happy accidents, mere flashes of unexpected brilliance. These experiences don’t have to be a rarity, quite the opposite, in fact. Once we understand what causes peak experiences, we can increase their frequency and duration, creating “plateau moments.” When we have clarity over our work and its purpose, plateau moments become common, eventually approaching a constant state of self-actualization. People in a self-actualized state are productive, efficient, and effective as a matter of course.

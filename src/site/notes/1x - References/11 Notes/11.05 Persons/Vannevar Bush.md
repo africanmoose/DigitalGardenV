@@ -19,7 +19,7 @@
 ### References
 - https://en.wikipedia.org/wiki/Vannevar_Bush
 - https://en.wikipedia.org/wiki/As_We_May_Think
-- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 ### Quotes
 >There is a growing mountain of research. But there is increased evidence that we are being bogged down today as specialization extends. The investigator is staggered by the findings and conclusions of thousands of other workers.
 >— Vannevar Bush[3]

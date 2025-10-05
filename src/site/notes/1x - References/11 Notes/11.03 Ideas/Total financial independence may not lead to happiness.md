@@ -10,7 +10,7 @@
 - Depending on others for some things allows us to have social interactions that improve the quality of our lives
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > Your authors have noticed a popular presumption hanging about, that being able to pay for whatever you need, so that you don’t have to rely on anybody else, is a Most Desirable State Of Affairs. But as with so many things, the dose makes the poison : a measure of financial independence is convenient, but make money the dominant mode by which you satisfy needs and wants, and you start missing out on a whole lotta living. You can also become quite a lonely grouch.

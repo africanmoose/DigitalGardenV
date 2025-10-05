@@ -12,7 +12,7 @@
 - Shawn "the greatest predictor of long-term happiness is social connection. social connection is as predictive of how long you will live as obesity, high blood pressure, or smoking"
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 ### Related
 - [[Build real friendships\|Build real friendships]]
 - [[1x - References/11 Notes/11.03 Ideas/You dont need many close friends\|You dont need many close friends]]

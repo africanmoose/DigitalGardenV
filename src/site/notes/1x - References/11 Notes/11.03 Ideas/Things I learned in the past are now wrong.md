@@ -13,7 +13,7 @@
 - It may require humility to admit we don't know something that used to be our area of expertise
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Learning is never done\|Learning is never done]]

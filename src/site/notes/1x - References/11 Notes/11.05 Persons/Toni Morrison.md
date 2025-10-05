@@ -12,8 +12,8 @@
 
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/Toni_Morrison)
-- [[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]

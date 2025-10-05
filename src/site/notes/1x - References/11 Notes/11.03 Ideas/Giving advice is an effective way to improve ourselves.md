@@ -10,7 +10,7 @@
 - When we are given advice, we may take it as a vote of no-confidence and it can result in even worse performance
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 
 ### Quotes
 > The more Lauren reflected on her research on the power of advice giving, the more it made sense. She recognized that being asked to give advice conveyed to people that more was expected of them, boosting their confidence. And based on the interviews she’d conducted, Lauren also knew that even on the spot, with no time to think hard about it—people were capable of producing useful insights about how to better tackle the same goals they, themselves, struggled with. Recall how much good advice she garnered even from underperforming salesmen, mediocre students, and other strivers.

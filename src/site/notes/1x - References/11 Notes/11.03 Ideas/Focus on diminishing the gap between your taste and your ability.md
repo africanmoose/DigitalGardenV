@@ -11,7 +11,7 @@
 - Your good taste can drive you to create a good quality product.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 
 ### Quotes
 > In his exposition, Glass focuses on the gap that often exists between taste and ability—especially early on in a creative career. It’s easier to learn to recognize what’s good, he notes, than to master the skills required to meet this standard. I can see brilliance in the epic three-minute tracking shot that opens Paul Thomas Anderson’s Boogie Nights, but I would have no idea how to film something that good on my own. There’s a fundamental frustration embedded in this reality. Your taste can guide you toward the best work you’re capable of producing at the moment, but it can also fuel a sense of disappointment in your final result. Glass argues that it’s in our desire to squelch this uneasy self-appraisal—to diminish the distance between our taste and our ability—that improvement happens. His exhortation to those just beginning their careers is to keep putting in the work, as it’s only through this deliberate effort that the gap will close.

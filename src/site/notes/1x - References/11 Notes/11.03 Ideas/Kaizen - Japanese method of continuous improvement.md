@@ -13,9 +13,9 @@
 - The Japanese word _kaizen_ means 'change for better', with the inherent meaning of either 'continuous' or 'philosophy' in Japanese dictionaries
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 - [wikipedia](https://en.wikipedia.org/wiki/Kaizen)
-- [[4x - Reading/41 Books/41.02 Book reviews/Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey\|Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey\|Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey]]
 
 ## Quotations
 Kaizen isn’t about change for change’s sake, but about identifying particular goals – both short-term and long-term – and then making small, manageable steps to achieve those goals. Rather than forcing us to make big dramatic changes, the method emphasizes doing things incrementally.

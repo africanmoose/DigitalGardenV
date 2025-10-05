@@ -10,7 +10,7 @@
 - Doctors try to give the minimum medicine that will do good. Its better to err on the side of not strong enough than too strong
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 ### Quotes
 > The difference between medicine and poison is in the dose. Too much of a beneficial substance can be harmful or lethal, and a tiny amount of a harmful substance can have beneficial effects. It’s necessary for doctors to give patients doses of medication that are big enough to be effective but not so big as to be dangerous. Prescribing a bit less than the harmful amount isn’t much good. A patient could take too much or take their doses too close together. 

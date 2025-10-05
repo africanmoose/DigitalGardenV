@@ -11,7 +11,7 @@
 - When something is dirty, wornout or broken then we think of it as 'rubbish'
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 
 ### Quotes
 > What is rubbish exactly? Things that are dirty, worn out, unusable, no longer useful, no longer needed, and so on. And yet nothing starts out as rubbish. Things become rubbish when they are treated as rubbish.

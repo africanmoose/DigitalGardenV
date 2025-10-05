@@ -10,7 +10,7 @@
 - This may involve putting their thoughts in their own words and reflecting back, which is also a sign of a good listener
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Servers who repeat orders back to customers, using their exact words, earn 70 percent more in tips than servers who simply use polite and positive words.

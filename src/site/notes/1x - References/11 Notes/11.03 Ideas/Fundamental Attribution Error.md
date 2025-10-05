@@ -13,7 +13,7 @@
 
 ### References
 - [fundamental attribution](https://online.hbs.edu/blog/post/the-fundamental-attribution-error#:~:text=What%20Is%20the%20Fundamental%20Attribution,factors%20outside%20of%20their%20control.)
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Cognitive Tools\|Cognitive Tools]]

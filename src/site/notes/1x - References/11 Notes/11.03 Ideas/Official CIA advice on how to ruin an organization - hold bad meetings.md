@@ -18,12 +18,12 @@
 
 
 
-![how to interfere with an organization.png](/img/user/0x%20-%20System/01%20Index/01.02%20Inbox/how%20to%20interfere%20with%20an%20organization.png)
+![how to interfere with an organization.png](/img/user/1x%20-%20References/11%20Notes/11.03%20Ideas/how%20to%20interfere%20with%20an%20organization.png)
 
 </div></div>
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 
 ### Quotes
 In the winter of 1944, the world was on fire. At the same time as Allied forces were engaged in

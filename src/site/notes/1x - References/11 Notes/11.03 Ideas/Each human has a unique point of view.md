@@ -10,7 +10,7 @@
 - Everything we see or hear or feel, is interpreted through the lens of our mind
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ### Quotes
 > And this traumatic vignette highlights a central truth about what human beings are: A person is a point of view. Every person you meet is a creative artist who takes the events of life and, over time, creates a very personal way of seeing the world. Like any artist, each person takes the experiences of a lifetime and integrates them into a complex representation of the world. That representation, the subjective consciousness that makes you you, integrates your memories, attitudes, beliefs, convictions, traumas, loves, fears, desires, and goals into your own distinct way of seeing. That representation helps you interpret all the ambiguous data your senses pick up, helps you predict what’s going to happen, helps you discern what really matters in a situation, helps you decide how to feel about any situation, helps shape what you want, who you love, what you admire, who you are, and what you should be doing at any given moment. Your mind creates a world, with beauty and ugliness, excitement, tedium, friends, and enemies, and you live within that construction. People don’t see the world with their eyes; they see it with their entire life.

@@ -12,7 +12,7 @@
 - give credit where due
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 
 ### Quotes
 > But steal small, not big, and don’t steal from just one source. Someone once said that if you steal from one writer, it’s called plagiarism, but if you steal from several, it’s called research. So steal from everybody, but steal only a sentence or a phrase at a time. If you use much more than that, you must get permission and then give credit. Here are two examples of acceptable, honorable ways to steal.

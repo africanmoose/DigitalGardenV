@@ -11,7 +11,7 @@
 - He learned how to do this without a coach, from Youtube.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 - [wikipedia](https://en.wikipedia.org/wiki/Julius_Yego)
 
 ### Quotes

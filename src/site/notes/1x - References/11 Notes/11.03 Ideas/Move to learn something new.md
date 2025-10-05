@@ -15,7 +15,7 @@
 - "Every country has a shared and working philosophy. Dive in and really try to understand it. This is one of the best things you can do for your brain. Stay immersed at least until you feel yourself saying “we” instead of “they.”
 - "Then, if you want to keep your brain actively learning and growing forever, keep moving across the world and immersing yourself like this for the rest of your life."
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Learning new skills changes the way you think\|Learning new skills changes the way you think]]

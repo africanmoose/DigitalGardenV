@@ -10,7 +10,7 @@
 - For example, if our role model for financial discipline is someone who has saved 500$ a year, we will feel that that is a significant amount of money. If we meet someone who saved 5000$, then our mental boundary of what might be possible all of a sudden is increased.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 Our limits come primarily from our surroundings. If your role model of financial self-discipline is your uncle Jimmy (who somehow managed to save $500 this year), his example will set your own threshold — after all, he’s the only person you know who has managed to save money, so $500 saved in a year has to be a huge accomplishment.

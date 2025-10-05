@@ -11,7 +11,7 @@
 - But on teh other hand, the less effort required, the more relevant it will be
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
 - [wikipedia](https://en.wikipedia.org/wiki/Relevance_theory)
 
 ### Related

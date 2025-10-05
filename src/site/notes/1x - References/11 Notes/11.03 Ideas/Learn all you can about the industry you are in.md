@@ -13,7 +13,7 @@
 - Have a program of self-development for that industry
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > Foresight gives you and your company the flexibility to adapt to change. Creativity allows you to take advantage of it. Today, where innovation has become more important than production, not moving forward means going backward. Early adaptors, trendspotters, knowledge brokers, change agents, and all those who know where their industry is heading and what next big ideas are coming down the pike have become the stars of the business world. Identify the people in your industries who always seem to be out in front, and use all the relationship skills you've acquired to connect with them. Take them to lunch. Read their newsletters. In fact, read everything you can. Online, there are hundreds of individuals distilling information, analyzing it, and making prognostications. These armchair analysts are the eyes and ears of innovation. Now get online and read, read, read. Subscribe to magazines, buy books, and talk to the smartest people you can find. Eventually, all this knowledge will build on itself, and you'll start making connections others aren't.

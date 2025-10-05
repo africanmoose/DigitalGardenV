@@ -11,7 +11,7 @@
 Alexander von Humboldt, the great German naturalist
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Caffeine saves us from withdrawal symptoms\|Caffeine saves us from withdrawal symptoms]]

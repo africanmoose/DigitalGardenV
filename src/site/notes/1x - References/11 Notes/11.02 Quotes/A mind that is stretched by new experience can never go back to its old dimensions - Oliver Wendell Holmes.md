@@ -10,7 +10,7 @@
 Oliver Wendell Holmes.
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ## Related
 - [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]

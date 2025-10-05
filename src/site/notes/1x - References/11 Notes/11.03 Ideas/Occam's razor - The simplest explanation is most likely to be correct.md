@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/occam-s-razor-the-simplest-explanation-is-most-likely-to-be-correct/","title":"Occam's razor - The simplest explanation is most likely to be correct","created":"2024-12-12T14:34:25.373+03:00","updated":"2024-12-12T21:08:05.563+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/occam-s-razor-the-simplest-explanation-is-most-likely-to-be-correct/","title":"Occam's razor - The simplest explanation is most likely to be correct","created":"2025-09-21T18:11:42.665+03:00","updated":"2025-09-21T18:11:42.665+03:00"}
 ---
 
 
@@ -8,9 +8,9 @@
 
 ### Details
 - This means that all else being equal, the simplest explanation is most likely the correct explanation.
-
+- **Occam’s Razor**: “Entities must not be multiplied beyond necessity.” 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 
 ### Quotes
 > William of Ockham. 1285-1347 - English philosopher and theologian. He is considered to be one of the major figures of medieval thought, and contributed to many branches of philosophy, like logic and ethics, as well as theology.

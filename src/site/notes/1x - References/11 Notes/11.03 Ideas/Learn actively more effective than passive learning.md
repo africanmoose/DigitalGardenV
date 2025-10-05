@@ -11,7 +11,7 @@
 - The opposite is passive studying which is re reading notes, skimming a text book or listening to a lecture or discussion
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Variable practise helps learn better\|Variable practise helps learn better]]

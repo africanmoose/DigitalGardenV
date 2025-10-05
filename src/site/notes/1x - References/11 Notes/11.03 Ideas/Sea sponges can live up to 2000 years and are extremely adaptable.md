@@ -11,7 +11,7 @@
 - The ability to learn and absorb what is around us can be imitated from sea sponges
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [wikipedia](https://en.wikipedia.org/wiki/Sponge)
 
 ### Quotes

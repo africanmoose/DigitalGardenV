@@ -17,7 +17,7 @@
 	- Many chose 2, but 1 is more probably
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 - [wikipedia](https://en.wikipedia.org/wiki/Conjunction_fallacy)
 
 ### Related

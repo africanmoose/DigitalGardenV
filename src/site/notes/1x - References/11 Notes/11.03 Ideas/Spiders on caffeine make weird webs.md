@@ -11,7 +11,7 @@
 - It was way more fanciful than those spun by spiders high on LSD or cannabis.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Caffeine saves us from withdrawal symptoms\|Caffeine saves us from withdrawal symptoms]]

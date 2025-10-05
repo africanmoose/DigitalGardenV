@@ -10,7 +10,7 @@
 - Even if things pop up and derail us in teh short term, in the long term we will be acting in according with what we care about
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Related
 - [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]

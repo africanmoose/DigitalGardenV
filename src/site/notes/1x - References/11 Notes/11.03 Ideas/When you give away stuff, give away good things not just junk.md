@@ -10,7 +10,7 @@
 - If you have something good that you are not using, consider giving it away instead of selling it.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 
 ### Quotes
 > In fact, I’m going to make the case for why you should donate items you probably haven’t even thought of gifting—your good, intact belongings, not just your junk and throwaways. Giving away your things to neighbors, family members, friends, or people in your community or around the world can greatly enrich and enhance your life and the lives of others. And that, at the end of the day, is what we’re after.

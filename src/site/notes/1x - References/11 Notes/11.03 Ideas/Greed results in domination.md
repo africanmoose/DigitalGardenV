@@ -11,7 +11,7 @@
 - Greed for power resulted in nazi germany and apartheid. Greed for riches resulted in slavery
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > To maintain and satisfy greed, one must support domination. And the world of domination is always a world without love.

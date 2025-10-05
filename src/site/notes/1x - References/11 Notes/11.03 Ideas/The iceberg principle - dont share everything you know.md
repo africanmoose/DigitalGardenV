@@ -11,7 +11,7 @@
 - Similar to the 80/20 rule, or know more than you say, own more than you show, etc.l
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
 
 ### Quotes
 This advice reminds me of other writing advice, this time from Ernest Hemingway:

@@ -12,7 +12,7 @@
 - Her other passion in life is development
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [wikipedia](https://en.wikipedia.org/wiki/Chrissie_Wellington)
 
 ### Quotes

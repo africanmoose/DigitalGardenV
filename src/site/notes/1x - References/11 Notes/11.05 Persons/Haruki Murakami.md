@@ -12,7 +12,7 @@
 - When he started writing in 1981 he gained weight and also was smoking as many as 61 cigarettes a day. He changed his habits completely, quitting smoking, running daily, drinking less and eating veggies and fish
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - [wikipedia](https://en.wikipedia.org/wiki/Haruki_Murakami)
 
 ### Quotes
@@ -23,8 +23,8 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Habit Change - Leo Babauta\|Habit Change - Leo Babauta]]
 - [[1x - References/11 Notes/11.02 Quotes/Habit is as second nature - Cicero\|Habit is as second nature - Cicero]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Deep work - Cal Newport\|Deep work - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Deep work - Cal Newport\|Deep work - Cal Newport]]
 
 #### RSS Data
 <div class='date'>Sun, 30 Apr 2023 12:17:32 GMT</div>

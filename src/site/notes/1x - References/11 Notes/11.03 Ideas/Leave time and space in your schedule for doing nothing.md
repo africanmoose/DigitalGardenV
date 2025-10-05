@@ -10,7 +10,7 @@
 - Leaving time for idling helps us to plan and think of creative ideas, that bolster our planned work time.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ### Quotes
 > Many people strive for efficient lives, where no hour is wasted. But an overlooked skill that doesn’t get enough attention is the idea that wasting time can be a great thing.

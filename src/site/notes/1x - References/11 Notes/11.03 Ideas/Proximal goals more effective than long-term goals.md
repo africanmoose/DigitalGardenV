@@ -10,7 +10,7 @@
 - A study of 7-10 year olds divided into two groups showed the truth of this. One group was given a goal of six pages of math every day, and the other group was given a goal of 42 pages a week. The targets are identical and yet the group with immediate goals performed twice as well as the long-term goal group (80% problems solved vs 40%)
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 My favourite way to integrate long-term values into day-to-day decisions draws upon a simple fact: short-term targets feel much easier to reach than long-term ones. This is something psychologists have understood for decades. In one famous study, researchers asked a group of seven-to-ten-year olds who struggled with maths to set themselves targets for the days ahead. They were split into two groups and each was given a subtly different prompt. The first was told to aim for six pages of math problems in each of the seven sessions to come; the second simply to aim for forty-two pages of problems by the end of all the sessions. Of course, these two sets of targets are just different ways of saying the same thing – in each case, the children ended up doing all forty-two pages. 

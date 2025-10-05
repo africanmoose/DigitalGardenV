@@ -31,6 +31,6 @@ The next results were even more impressive. The participants were asked to liste
 - [[1x - References/11 Notes/11.03 Ideas/Memory decay is exponential\|Memory decay is exponential]]
 - [[1x - References/11 Notes/11.03 Ideas/Sleep is vital for memory consolidation\|Sleep is vital for memory consolidation]]
 - [[1x - References/11 Notes/11.03 Ideas/The spacing effect in memory\|The spacing effect in memory]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 - [[1x - References/11 Notes/11.03 Ideas/Take notes in your own words to increase memory\|Take notes in your own words to increase memory]]
 - [[1x - References/11 Notes/11.02 Quotes/The palest ink is more reliable than the most powerful memory - Chinese proverb\|The palest ink is more reliable than the most powerful memory - Chinese proverb]]

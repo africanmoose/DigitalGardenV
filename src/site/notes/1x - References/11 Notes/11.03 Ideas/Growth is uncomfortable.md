@@ -13,7 +13,7 @@
 - The more mistakes you make the faster the improvement, and the less the mistakes bother us.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 Becoming a creature of discomfort can unlock hidden potential in many different types of learning. Summoning the nerve to face discomfort is a character skill—an especially important form of determination. It takes three kinds of courage: to abandon your tried-and-true methods, to put yourself in the ring before you feel ready, and to make more mistakes than others make attempts. The best way to accelerate growth is to embrace, seek, and amplify discomfort.
@@ -28,4 +28,4 @@ When Benny is ready to start learning a new language, he sets an ambitious goal:
 - [[1x - References/11 Notes/11.03 Ideas/Growth Mindset\|Growth Mindset]]
 - [[1x - References/11 Notes/11.03 Ideas/Questioning yourself means you are open to growth\|Questioning yourself means you are open to growth]]
 - [[1x - References/11 Notes/11.03 Ideas/Discomfort is what happens when we are about to change\|Discomfort is what happens when we are about to change]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Beauty of Discomfort - Amanda Lang\|Beauty of Discomfort - Amanda Lang]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Beauty of Discomfort - Amanda Lang\|Beauty of Discomfort - Amanda Lang]]

@@ -11,7 +11,7 @@
 - Taking a week off to design a shovel looks crazy. Success requires shamelessness.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 The only way to outperform if you’re doing undifferentiated work is to
@@ -20,5 +20,5 @@ work harder than everyone else. Imagine a team of ditchdiggers working with thei
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/The standard pace is for average\|The standard pace is for average]]
 - [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Originals How Non-Conformists Move the World - Adam Grant\|Originals How Non-Conformists Move the World - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Originals How Non-Conformists Move the World - Adam Grant\|Originals How Non-Conformists Move the World - Adam Grant]]
 - [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]

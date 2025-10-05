@@ -10,7 +10,7 @@
 J.D. Salinger
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Learn from multiple sources\|Learn from multiple sources]]

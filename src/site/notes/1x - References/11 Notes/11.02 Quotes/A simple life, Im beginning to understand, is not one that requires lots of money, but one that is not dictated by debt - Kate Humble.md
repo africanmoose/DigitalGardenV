@@ -9,7 +9,7 @@ A simple life, I’m beginning to understand, is not one that requires lots of m
 Kate Humble
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 
 ## Related
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Eliminate debt\|Eliminate debt]]

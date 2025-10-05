@@ -11,11 +11,11 @@
 - When we have to restart and reconfigure it gives us an opportunity to rethink our data, as well as our systems
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Need to do reviews\|Need to do reviews]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalist gives us the space to change\|Minimalist gives us the space to change]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]

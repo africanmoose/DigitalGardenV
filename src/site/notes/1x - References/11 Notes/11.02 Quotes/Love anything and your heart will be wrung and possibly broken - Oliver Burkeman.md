@@ -11,7 +11,7 @@ To love at all is to be vulnerable. Love anything and your heart will be wrung, 
 Oliver Burkeman
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Love\|Love]]

@@ -10,7 +10,7 @@
 - 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 When they first arrived at the lab, the students were told that their objective for the day was to make it to the top of the rock-climbing wall (one of the main features of Clemson’s Outdoor Lab). It was a daunting prospect; most of them had never even seen a climbing wall before. The scientists who were running the study were interested in which students would complete the task – and what might make them more likely to do so. Unbeknown to the children, they’d been split into two groups before their arrival. Group 1 had been shown a short video of someone climbing up a wall that looked very similar to the one at the location, while group 2 hadn’t been shown any videos at all. In every other way, the groups were identical. 

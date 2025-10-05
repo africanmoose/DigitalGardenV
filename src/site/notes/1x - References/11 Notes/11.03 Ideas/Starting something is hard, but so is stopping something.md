@@ -12,7 +12,7 @@
 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 The inertia default pushes us to maintain the status quo. Starting something is hard but so too is stopping something.[1] We resist change even when change is for the best. The Latin word inertia means literally “inertness”: that is, laziness or
@@ -22,7 +22,7 @@ idleness. In physics, “inertia” refers to an object resisting a change in it
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Habit Change - Leo Babauta\|Habit Change - Leo Babauta]]
 - [[1x - References/11 Notes/11.02 Quotes/Habit is as second nature - Cicero\|Habit is as second nature - Cicero]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - [[1x - References/11 Notes/11.02 Quotes/Change and adapt - Sun Tzu\|Change and adapt - Sun Tzu]]
 - [[1x - References/11 Notes/11.02 Quotes/Change yourself instead of changing the world - Leo Tolstoy\|Change yourself instead of changing the world - Leo Tolstoy]]
 - [[1x - References/11 Notes/11.03 Ideas/Keep changing your habits\|Keep changing your habits]]

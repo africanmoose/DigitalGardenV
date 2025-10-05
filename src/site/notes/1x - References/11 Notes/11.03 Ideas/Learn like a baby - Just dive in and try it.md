@@ -11,7 +11,7 @@
 - Same applies to music - use what you know, learn a song that you can play simply. You can learn the rules later
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ### Quotes
 Improv masters learn like babies: dive in and imitate and improvise first, learn the formal rules later. “At the beginning, your mom didn’t give you a book and say, ‘This is a noun, this is a pronoun, this is a dangling participle,’” Cecchini told me. “You acquired the sound first. And then you acquire the grammar later

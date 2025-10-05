@@ -12,7 +12,7 @@
 - “It’s actively anti-social,” she writes. “On the other hand, it is pro-creative.” 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - [wikipedia](https://en.wikipedia.org/wiki/Twyla_Tharp)
 
 ### Quotes

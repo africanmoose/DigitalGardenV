@@ -13,7 +13,7 @@ Adrienne Maree Brown, writer and activist
 
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Test all your ideas\|Test all your ideas]]

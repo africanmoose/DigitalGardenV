@@ -11,7 +11,7 @@
 - It may also give us positive feedback when we see our progress over a long period of time
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 This progress-tracking can have a profound effect. In 2016, researchers combined 138 studies consisting of almost 20,000 participants to conduct a meta-analysis of its effects. They found that tracking progress, whether through writing down progress goals (like whether you completed the training sessions you aimed to do) or writing down output goals (like your 5km time), dramatically increases your chances of actually attaining that goal. Why? First, because tracking your progress helps you identify any areas where you may be falling behind, or where you need to make adjustments. By monitoring your progress, you can identify patterns, habits or obstacles that may be hindering your progress. 

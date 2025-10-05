@@ -11,7 +11,7 @@
 - A rested mind produces good work
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 How did the Zen master Hakuin prepare for his epic lecture, The Records of Old Sokko? He slept. A lot. He slept so much and so soundly that one of his students said that “his snores reverberated through the house like rumblings of thunder.” It went on for more than a month, with Hakuin waking only to see the occasional visitor. But every other minute was spent facedown, passed out in blissful, restful slumber.

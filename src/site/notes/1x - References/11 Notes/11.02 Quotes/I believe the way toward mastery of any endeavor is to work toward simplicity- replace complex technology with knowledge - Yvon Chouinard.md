@@ -14,4 +14,4 @@ fs.blog
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Our life is frittered away by detail…Simplify, simplify, simplify… Simplicity of life and elevation of purpose - Henry David Thoreau\|Our life is frittered away by detail…Simplify, simplify, simplify… Simplicity of life and elevation of purpose - Henry David Thoreau]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel\|Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel\|Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel]]

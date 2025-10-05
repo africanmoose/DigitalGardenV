@@ -11,7 +11,7 @@
 - I can control my feelings, my view and how I react.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/101 essays that will change your life - Brianna Wiest\|101 essays that will change your life - Brianna Wiest]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/101 essays that will change your life - Brianna Wiest\|101 essays that will change your life - Brianna Wiest]]
 
 ### Quotes
 - "I can change my experience just by deciding to see things differently. I may not be in control of what happens around and toward me, but I am always in control of how I see it, how I respond, and how I react. At the end of the day, that is all I am responsible for"

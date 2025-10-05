@@ -11,7 +11,7 @@
 - provide guidance and back and forth to get teh best out of AI
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
 
 ### Quotes
 > One very effective strategy that emerged from the class was treating the AI as a coeditor, engaging in a back-and-forth, conversational process. Students produced impressive essays that far exceeded their initial attempts by constantly refining and redirecting the AI.
@@ -22,4 +22,4 @@
 - [[1x - References/11 Notes/11.03 Ideas/Collaboration vs compromise\|Collaboration vs compromise]]
 - [[1x - References/11 Notes/11.03 Ideas/Art is about collaboration not competition or comparison\|Art is about collaboration not competition or comparison]]
 - [[1x - References/11 Notes/11.03 Ideas/If you always agree with a collaborator one of you is unnecessary\|If you always agree with a collaborator one of you is unnecessary]]
-- [[0x - System/01 Index/01.02 Inbox/AI tools\|AI tools]]
+- [[4x - Reading and Learning/45 Learning/45.02 AI Learning/AI tools\|AI tools]]

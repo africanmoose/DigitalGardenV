@@ -10,12 +10,12 @@
 novelist Anthony Trollope
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Habit Change - Leo Babauta\|Habit Change - Leo Babauta]]
 - [[1x - References/11 Notes/11.02 Quotes/Excellence is a habit - Aristotle\|Excellence is a habit - Aristotle]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
 - [[1x - References/11 Notes/11.02 Quotes/Excellence is a habit - Aristotle\|Excellence is a habit - Aristotle]]
 - [[1x - References/11 Notes/11.03 Ideas/Success a product of habit more than skill\|Success a product of habit more than skill]]
 - [[1x - References/11 Notes/11.02 Quotes/Excellence is not an act but a habit - Will Durant\|Excellence is not an act but a habit - Will Durant]]

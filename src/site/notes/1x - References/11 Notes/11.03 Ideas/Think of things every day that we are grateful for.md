@@ -13,7 +13,7 @@
 - The brain doesnt differentiate between a visualization and an actual experience, so we double the positive experience by recalling it.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Gratitude is born of logic - a happy life is born of gratitude -Brianna West\|Gratitude is born of logic - a happy life is born of gratitude -Brianna West]]

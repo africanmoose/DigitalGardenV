@@ -20,5 +20,5 @@
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Communicate well\|Programming principles that work in real life - Communicate well]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Slow down to speed up\|Programming principles that work in real life - Slow down to speed up]]
 - [[1x - References/11 Notes/11.03 Ideas/Design is not decoration\|Design is not decoration]]
-- [[4x - Reading/41 Books/41.01 Book Notes/the four elements of simple design\|the four elements of simple design]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/the four elements of simple design\|the four elements of simple design]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]

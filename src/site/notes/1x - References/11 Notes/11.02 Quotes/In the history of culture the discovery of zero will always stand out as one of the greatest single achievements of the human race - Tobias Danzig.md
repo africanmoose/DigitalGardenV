@@ -10,7 +10,7 @@ In the history of culture the discovery of zero will always stand out as one of 
 TOBIAS DANZIG, NUMBER: THE LANGUAGE OF SCIENCE
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Zero -The Biography of a Dangerous Idea - Charles Seife\|Zero -The Biography of a Dangerous Idea - Charles Seife]]
 
 ## Related
 [[1x - References/11 Notes/11.02 Quotes/Keep a dozen of your favorite problems constantly present in your mind - Richard Feynmann\|Keep a dozen of your favorite problems constantly present in your mind - Richard Feynmann]]

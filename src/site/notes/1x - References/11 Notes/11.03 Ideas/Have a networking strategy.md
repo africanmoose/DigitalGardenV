@@ -20,7 +20,7 @@
 - connect immediately when you meet them and share something valuable.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett\|Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett\|Crack the Funding Code - How Investors Think and What They Need to Hear to Fund Your Startup - Judy Robinett]]
 
 ### Quotes
 1. Your Networking Strategy a. You have no real strategy. You accept invitations to LinkedIn,

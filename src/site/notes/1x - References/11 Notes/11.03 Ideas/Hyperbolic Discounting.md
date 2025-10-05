@@ -12,7 +12,7 @@
 - They "now" skews things in our brains, even though the two questions are identical. But now makes things more attractive
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 - [wikipedia](https://en.wikipedia.org/wiki/Hyperbolic_discounting)
 
 ### Related

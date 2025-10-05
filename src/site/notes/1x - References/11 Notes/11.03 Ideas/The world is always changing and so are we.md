@@ -13,7 +13,7 @@
 - Thus we can always have new inspiration to create new art
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Creativity Communication and Craftmanship - Joe McNally\|Creativity Communication and Craftmanship - Joe McNally]]

@@ -10,7 +10,7 @@
 - If the leader is not taking time to look at hte big picture, who will?
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 - This is, in fact, the first obligation of a leader and a decision maker. Our job is not to “go with our gut” or fixate on the first impression we form about an issue. No, we need to be strong enough to resist thinking that is too neat, too plausible, and therefore almost always wrong. Because if the leader can’t take the time to develop a clear sense of the bigger picture, who will? If the leader isn’t thinking through all the way to the end, who is?

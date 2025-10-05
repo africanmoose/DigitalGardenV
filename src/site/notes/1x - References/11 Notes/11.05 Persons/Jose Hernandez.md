@@ -14,7 +14,7 @@
 - He didnt learn to speak english until he was 12
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 On a historic evening in 1972, ten-year-old José Hernandez kneeled in front of an old black-and-white television. He gripped the rabbit ears of the antenna, using his body to boost the signal. As the fuzzy image on the screen became clearer, José watched the last Apollo astronauts bound across the surface of the moon.

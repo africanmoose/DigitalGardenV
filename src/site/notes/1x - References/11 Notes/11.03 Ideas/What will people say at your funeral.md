@@ -10,7 +10,7 @@
 - It is unlikely to be 'he made a lot of money' but more likely to be about relationships, character and hobbies
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 In fact, Penn was a student at Stanford Business School taking a famous course, ‘Lives of Consequence’. The professor, Rod Kramer, routinely assigns his students to write their own obituaries as though they have lived an ideal life – the best they can imagine – to its end. ‘The goal of this course is to change the way you think about your

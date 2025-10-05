@@ -16,7 +16,7 @@
 - DNA and proteins need some kind of membrane to contain them. 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 
 ### Quotes
 - "By the laws of probability, proteins shouldn't exist"

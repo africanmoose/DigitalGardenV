@@ -10,7 +10,7 @@ Humility engenders learning because it beats back the arrogance that puts blinde
 Wynton Marsalis
 
 ## Reference
-- [[4x - Reading/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|Humility]]

@@ -10,7 +10,7 @@ It is not enough only to be a student at the beginning. It is a position that on
 Ryan Holliday
 
 ## Reference
-[[4x - Reading/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
+[[4x - Reading and Learning/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
 
 ## Related
 - [[1x - References/11 Notes/11.04 Links/learning\|learning]]

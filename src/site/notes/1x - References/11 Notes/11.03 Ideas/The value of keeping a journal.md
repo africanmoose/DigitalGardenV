@@ -12,7 +12,7 @@
 - Other famous people who have journalled: Oscar Wilde, Susan Sontag, Marcus Aurelius, Queen Victoria, John Quincy Adams, Ralph Waldo Emerson, Virginia Woolf, Joan Didion, Shawn Green, Mary Chesnut, Brian Koppelman, Anaïs Nin, Franz Kafka, Martina Navratilova, and Ben Franklin. 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 According to her father, Otto, Anne didn’t write every day, but she always wrote when she was upset or dealing with a problem. She also wrote when she was confused, when she was curious. She wrote in that journal as a form of therapy, so as not to unload her troubled thoughts on the family and compatriots with whom she shared such unenviable conditions. 

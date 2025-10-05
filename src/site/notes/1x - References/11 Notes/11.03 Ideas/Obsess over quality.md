@@ -10,7 +10,7 @@
 - Better to think long term and produce good quality work
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 
 ### Quotes
 > PRINCIPLE #3: OBSESS OVER QUALITY

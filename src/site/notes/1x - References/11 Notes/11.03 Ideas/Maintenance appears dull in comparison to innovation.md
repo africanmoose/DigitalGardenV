@@ -10,10 +10,10 @@
 - 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 
 ### Quotes
 - Maintenance,’ he writes, insightfully, ‘lacks the glamour of innovation.’ One of the speakers was David Edgerton, a historian of science and technology and 20th-century Britain at King’s College London, and he made the point that ‘maintenance is often dismissed as mere drudgery. But in fact, repairing things is often trickier than making them.’ And I suspect Martine Postma would agree with him.
 
 ### Related
-- [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]

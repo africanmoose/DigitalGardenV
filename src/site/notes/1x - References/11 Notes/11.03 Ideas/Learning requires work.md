@@ -11,7 +11,7 @@
 - When teachers arrange information for us, sort it into categories, they are the ones doing the work and learning, and making it hard for the student ot make these connections himself.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Learning skills takes time\|Learning skills takes time]]

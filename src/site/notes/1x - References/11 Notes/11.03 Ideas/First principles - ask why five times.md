@@ -10,7 +10,7 @@
 - If something broke, he would ask 'why did that loom break?' then the next why for the answer to that question and so on and so forth until the root of the problem was identified.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 One suggestion comes from the production lines of early-twentieth-century Japan. In the West, Sakichi Toyoda is best known for founding the company that bears his name: Toyota. But in Japan, he has an even loftier reputation: first as the man who revolutionised the country’s textiles industry in the late nineteenth century – and second as the father of the Japanese industrial revolution. 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-08-11T09:33:47.697+03:00","updated":"2025-09-07T22:33:56.039+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-10-05T11:34:09.848+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20250825_154119777 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/PXL_20250825_154119777%20copy.jpg)
-Kilifi creek sunset
+![PXL_20250930_162402764 copy.jpg](/img/user/PXL_20250930_162402764%20copy.jpg)
+Nothing better than sunset pictures from a plane over the Sahara
 
 # What is this site for?
 
@@ -39,25 +39,25 @@ Kilifi creek sunset
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Before blaming others, change the things within our control\|Before blaming others, change the things within our control]]
 - [[1x - References/11 Notes/11.03 Ideas/When an experience goes wrong it can be just as worthwhile as when all goes right\|When an experience goes wrong it can be just as worthwhile as when all goes right]]
 - [[1x - References/11 Notes/11.03 Ideas/Develop a personality instead of using conspicuous consumption\|Develop a personality instead of using conspicuous consumption]]
 - [[1x - References/11 Notes/11.03 Ideas/Humans are born intrinsically motivated, but learn to become extrinsically motivated\|Humans are born intrinsically motivated, but learn to become extrinsically motivated]]
 - [[1x - References/11 Notes/11.03 Ideas/Growth has a natural rate that is optimum for the organism\|Growth has a natural rate that is optimum for the organism]]
 - [[1x - References/11 Notes/11.03 Ideas/Compounding applies to knowledge, experience and relationships and not just money\|Compounding applies to knowledge, experience and relationships and not just money]]
 - [[1x - References/11 Notes/11.03 Ideas/Democracy is based on millions of people acting in their own short term self-interest\|Democracy is based on millions of people acting in their own short term self-interest]]
-- [[1x - References/11 Notes/11.03 Ideas/Commanders intent - formulate, communicate, interpret and implement\|Commanders intent - formulate, communicate, interpret and implement]]
 
 
 # Book Reviews
 
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
-- [[4x - Reading/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Flinch - Julien Smith\|The Flinch - Julien Smith]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Managing up - How to get what you need from the people in charge - Melody Wilding\|Managing up - How to get what you need from the people in charge - Melody Wilding]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Flinch - Julien Smith\|The Flinch - Julien Smith]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 

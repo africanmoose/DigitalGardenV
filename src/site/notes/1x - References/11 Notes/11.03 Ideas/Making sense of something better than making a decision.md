@@ -10,7 +10,7 @@
 - 'hunches held lightly' would allow him to adjust as the situation changed
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 ### Quotes
 When Weick spoke with hotshot Paul Gleason, one of the best wildland firefighters in the world, Gleason told him that he preferred to view his crew leadership not as decision making, but as sensemaking. “If I make a decision, it is a possession, I take pride in it, I tend to defend it and not listen to those who question it,” Gleason explained. “If I make sense, then this is more dynamic and I listen and I can change it.” He employed what Weick called “hunches held lightly.” Gleason gave decisive directions to his crew, but with transparent rationale and the addendum that the plan was ripe for revision as the team collectively made sense of a fire.
 

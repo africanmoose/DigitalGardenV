@@ -11,7 +11,7 @@
 - The group who believed they were in the top half outperformed the 2nd group by a significant margin, and also said they enjoyed the work out more
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 Our journey into the science of power begins in a lab filled with several dozen exercise-averse volunteers. This group of twenty-eight female students had been brought together precisely because they did not exercise particularly often – a fact that some scientists at the University of Illinois UrbanaChampaign thought presented a research opportunity. In their study, published in the International Journal of Behavioral Medicine, they set out to test a simple hypothesis: that our confidence in our athletic abilities has a huge impact on what those abilities actually are. At the beginning of the experiment, all twenty-eight students were

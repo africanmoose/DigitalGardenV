@@ -15,7 +15,7 @@
 - perfectionism can also block the rivers flow
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Share information with fellow workers as Jesus did with the disciples\|Share information with fellow workers as Jesus did with the disciples]]

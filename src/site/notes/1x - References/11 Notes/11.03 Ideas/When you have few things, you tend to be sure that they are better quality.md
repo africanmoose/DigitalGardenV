@@ -11,7 +11,7 @@
 - High quality items have a lot of thought and sweat put into them, and we can appreciate this for a long time as we use the object
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 
 ### Quotes
 > There are some things you start to realize when living the Zen life of simplicity. Namely, that you only keep things of good quality. They are the final products of many people’s diligent work. They are the kinds of things that you can continue to use again and again for many years. When you acquire such items you begin to truly understand why they must be treasured. This is because the blood, sweat and tears of the person or people who created them have become part of them. Conversely, if you are surrounded only by poor-quality objects that you don’t care about, it is impossible to understand what it is to truly value something

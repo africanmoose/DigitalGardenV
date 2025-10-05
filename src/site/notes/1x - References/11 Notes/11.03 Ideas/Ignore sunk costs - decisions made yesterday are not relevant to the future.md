@@ -12,7 +12,7 @@
 - Always make the best decision for now. things you bought in the past are already bought and you cannot recover that money.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > When making a new decision, we must ignore what we acquired yesterday.

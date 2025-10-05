@@ -10,7 +10,7 @@
 - Therefore, having less stuff allows you to be more efficient, spending less time on managing the stuff and more time for yourself
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
 
 ### Quotes
 > I personally, perhaps surprisingly, don’t like mess. This is partly because I am a messy person by nature, and therefore overreact to messiness in other people, but also because, as an idler, mess ends up stealing time from you. One lets things descend into chaos because one can’t be bothered to clean up, but then wastes hours trying to find socks or the right knife because everything is everywhere. Paradoxically, to be truly idle, you also have to be efficient.

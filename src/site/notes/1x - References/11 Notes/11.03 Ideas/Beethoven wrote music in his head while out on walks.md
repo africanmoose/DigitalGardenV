@@ -11,7 +11,7 @@
 - His mind was busy writing music: when people would greet him, he would not even see them.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
 
 ### Quotes
 > No less a figure than Beethoven, Benjamin tells us, via a quote from dictionary-writer Pierre Larousse, wrote music in his head while out and about:

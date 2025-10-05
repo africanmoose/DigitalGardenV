@@ -12,7 +12,7 @@
 - After just a week of training, their companies profits grew an average of 30% in the next 2 years, more than 3 x the benefit of the cognitive skills.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 I now see character less as a matter of will, and more as a set of skills. Character is more than just having principles. It’s a learned capacity to live by your principles. Character skills equip a chronic procrastinator to meet a deadline for someone who matters deeply to them, a shy introvert to find the courage to speak out against an injustice, and the class bully to circumvent a fistfight with his teammates before a big game. Those are the skills that great kindergarten teachers nurture—and great coaches cultivate

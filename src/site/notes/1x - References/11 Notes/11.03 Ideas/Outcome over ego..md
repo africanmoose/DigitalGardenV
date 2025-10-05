@@ -10,10 +10,10 @@
 - 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Pride\|Pride]]
 - [[1x - References/11 Notes/11.02 Quotes/Pride hard to subdue - Benjamin Franklin\|Pride hard to subdue - Benjamin Franklin]]
 - [[1x - References/11 Notes/11.03 Ideas/Dont take pride in your ignorance\|Dont take pride in your ignorance]]

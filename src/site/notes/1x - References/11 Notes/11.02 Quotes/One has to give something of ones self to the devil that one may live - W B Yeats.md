@@ -10,7 +10,7 @@
 W. B. Yeats - on his literary criticism that he did for a living
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ## Related
 - [[1x - References/11 Notes/11.05 Persons/W. B. Yeats\|W. B. Yeats]]

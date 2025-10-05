@@ -19,7 +19,7 @@
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Must clean home often - same wtih mind\|Must clean home often - same wtih mind]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Mis-en-place - working clean\|Mis-en-place - working clean]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Mis-en-place - working clean\|Mis-en-place - working clean]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalist means clearing out what is not important so we have space to focus on what is.\|Minimalist means clearing out what is not important so we have space to focus on what is.]]
 - [[1x - References/11 Notes/11.03 Ideas/Neuroplasticity allows us to design our brain\|Neuroplasticity allows us to design our brain]]
 - [[1x - References/11 Notes/11.03 Ideas/Neuron pathways design in our brain are redundant for backup\|Neuron pathways design in our brain are redundant for backup]]

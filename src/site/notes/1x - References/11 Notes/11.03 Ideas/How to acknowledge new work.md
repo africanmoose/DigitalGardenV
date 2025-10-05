@@ -12,7 +12,7 @@
 - estimate how long you will take to complete this work
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 
 ### Quotes
 > When adding a new project to your holding tank, it’s important to update the source of this new obligation about what they should expect. To do so, send an acknowledgment message that formally acknowledges the project that you’re committing to complete, but that also includes the following three pieces of extra information: (1) a request for any additional details you need from the source before you can start the project, (2) a count of the number of existing projects already on your lists, and (3) an estimate of when you expect to complete this new work.
@@ -24,4 +24,4 @@
 - [[1x - References/11 Notes/11.03 Ideas/Great communication is an easy way to improve business efficiency\|Great communication is an easy way to improve business efficiency]]
 - [[1x - References/11 Notes/11.02 Quotes/Communication problem - Stephen Covey\|Communication problem - Stephen Covey]]
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Communicate well\|Programming principles that work in real life - Communicate well]]
-- [[4x - Reading/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]

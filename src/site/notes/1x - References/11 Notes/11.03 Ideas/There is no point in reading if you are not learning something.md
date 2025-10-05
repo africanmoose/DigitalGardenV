@@ -10,7 +10,7 @@
 - Read with intellectual humillity
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 There’s little advantage to reading with arrogance or to confirm preexisting opinions either. Hitler, spent his short prison sentence after World War I reading the classics of history. Except instead of learning anything, he found in those thousands of pages only that, as he said, “I recognized the correctness of my views.

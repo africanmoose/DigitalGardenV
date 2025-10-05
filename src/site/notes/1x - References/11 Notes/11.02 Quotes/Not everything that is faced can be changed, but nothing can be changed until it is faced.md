@@ -10,10 +10,10 @@
 James Baldwin
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom\|Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom\|Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Change and adapt - Sun Tzu\|Change and adapt - Sun Tzu]]
 - [[1x - References/11 Notes/11.02 Quotes/Change environment changes behaviour\|Change environment changes behaviour]]
 - [[1x - References/11 Notes/11.03 Ideas/Personal change requires some space to happen\|Personal change requires some space to happen]]
-- [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]

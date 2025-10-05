@@ -16,10 +16,10 @@ George Orwell
 
 ## Reference
 - In a 1946 [essay](https://www.amazon.com/gp/product/1849028362/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1849028362&linkCode=as2&tag=openculture-20&linkId=W3TS2BZZ2MISSOTS), George Orwell laid out six rules for writing
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 
 ## Related
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 - [[1x - References/11 Notes/11.02 Quotes/Our life is frittered away by detail…Simplify, simplify, simplify… Simplicity of life and elevation of purpose - Henry David Thoreau\|Our life is frittered away by detail…Simplify, simplify, simplify… Simplicity of life and elevation of purpose - Henry David Thoreau]]
 - [[1x - References/11 Notes/11.02 Quotes/I believe the way toward mastery of any endeavor is to work toward simplicity- replace complex technology with knowledge - Yvon Chouinard\|I believe the way toward mastery of any endeavor is to work toward simplicity- replace complex technology with knowledge - Yvon Chouinard]]
 - [[1x - References/11 Notes/11.02 Quotes/Making the simple complicated is commonplace - Charles Mingus\|Making the simple complicated is commonplace - Charles Mingus]]

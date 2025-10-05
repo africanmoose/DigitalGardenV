@@ -12,7 +12,7 @@
 - A Zettelkasten may also bring up reminders or links to a previous note on the topic, also bolstering our memory
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Digital Zettelkasten - Principles, Methods Examples - David Kadavy\|Digital Zettelkasten - Principles, Methods Examples - David Kadavy]]
 
 ### Quotes
 Not using your Zettelkasten as a substitute for memory may seem a contradiction, since one purpose of a Zettelkasten is to retrieve information you can't remember in the moment. But there's a big difference between using notes to jog your memory and using notes as a substitute for memory. One may think, Well you can jog your memory with internet articles. But your Zettelkasten doesn't just help jog your memory. The activities involved in managing it also help solidify your memory, so it needs less jogging in the first place.

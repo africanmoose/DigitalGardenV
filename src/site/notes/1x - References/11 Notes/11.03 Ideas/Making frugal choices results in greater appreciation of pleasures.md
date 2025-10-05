@@ -10,7 +10,7 @@
 - The opposite is that if we keep on seeking out pleasure, it takes more and moe to satisfy our appetites
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > Exploiting this generous agility of your body and mind is exactly what Frugal Hedonists do on a life-long basis . Just as the dedicated debauchee is renowned for seeking out increasingly depraved experiences to satisfy an ever more demanding appetite, frequently making frugal choices furnishes us with a more sensitive pleasure palate. The basic blueprint for modern first-world living is normalized hyper-abundance and hyper-stimulation, punctuated by desperate attempts at escape when the fallout becomes too distressing. These attempts usually take the form of bouts of restraint (like diets), or of collapse (like illness, or ‘lie-by-a-pool-for-two-weeks-getting-drunk’ holidays). Frugal Hedonism inverts this pattern by normalizing an elegant sufficiency of consumption, and then artfully dotting it with intensely relished abundance. It takes advantage of the different flavours of different modes of being, and sets them against each other to extract more enjoyment from each.

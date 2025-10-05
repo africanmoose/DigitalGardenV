@@ -13,7 +13,7 @@
 - Caffeine allows one to have more efficient spotlight consciousness, in comparison to most psychedelic drugs which tend to allow lantern creativity.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/London coffeehouses eventually become institutions\|London coffeehouses eventually become institutions]]

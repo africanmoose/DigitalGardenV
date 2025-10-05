@@ -14,7 +14,7 @@
 - When he was 3 years old he tried drums, violin, viola and piano and settled on cello at 4yrs old. By 5 he was performing for audiences
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [wikipedia](https://en.wikipedia.org/wiki/Yo-Yo_Ma)
 
 ### Quotes

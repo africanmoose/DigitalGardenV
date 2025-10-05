@@ -21,7 +21,7 @@
 > Changing your context can help. If you visit a new place, you'll often find you have new ideas there. The journey itself often dislodges them. But you may not have to go far to get this benefit. Sometimes it's enough just to go for a walk.\[[16](#f16n)\]
 > 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
 - [[1x - References/11 Notes/11.02 Quotes/The harder i work the luckier i get - Samuel Goldwyn\|The harder i work the luckier i get - Samuel Goldwyn]]
 - [[1x - References/11 Notes/11.03 Ideas/Everything is hard - what is worth the effort\|Everything is hard - what is worth the effort]]
 - [[1x - References/11 Notes/11.02 Quotes/Creativity is labor intensive - John Adams\|Creativity is labor intensive - John Adams]]

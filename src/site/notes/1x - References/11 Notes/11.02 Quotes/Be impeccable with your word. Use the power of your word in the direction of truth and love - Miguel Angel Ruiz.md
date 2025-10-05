@@ -10,7 +10,7 @@ Be impeccable with your word. Speak with integrity. Say only what you mean. Avoi
 Miguel Ángel Ruiz
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/It is still best to be honest and truthful, to make the most of what we have, to be happy with simple pleasures, and have courage when things go wrong - Laura Ingalls Wilder\|It is still best to be honest and truthful, to make the most of what we have, to be happy with simple pleasures, and have courage when things go wrong - Laura Ingalls Wilder]]

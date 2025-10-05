@@ -12,7 +12,7 @@
 - For example, when we have a relapse trying to change a habit, it is an oportunity to examine why we back tracked and fix that aspect
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 In racing, they say that your car goes where your eyes go. The driver who cannot tear his eyes away from the wall as he spins out of control will meet that wall; the driver who looks down the track as he feels his tires break free will regain control of his vehicle.—Garth Stein228When you face hardships and feel like you’re about to crash, heed the advice of racing drivers: look at where you want your car to go, not at the wall you want to avoid hitting.In practical terms, this means focusing on taking the next step to solve the difficult situation instead of busying your mind with worrying about what will happen if you don’t manage to succeed. Doing the latter is not only a waste of energy, it also actively works against you by convincing your brain that the failure is inevitable, thereby making it less likely that you’ll avoid

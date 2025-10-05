@@ -10,7 +10,7 @@
 - School or university may teach us that it is a competition, but it is not.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > Because of those days, and specifically that lesson, I came to realize that first semester at business school that Harvard's hypercompetitive, individualistic students had it all wrong. Success in any field, but especially in business, is about working with people, not against them. No tabulation of dollars and cents can account for one immutable fact: Business is a human enterprise, driven and determined by people

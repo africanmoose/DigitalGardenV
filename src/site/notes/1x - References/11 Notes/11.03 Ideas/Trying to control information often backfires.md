@@ -10,7 +10,7 @@
 - If they succeed in finding it, they will pay more attention than they would have otherwise
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ### Quotes
 > Creating greater viscosity for information flow may seem like a way to control people and protect them from difficult information, but it easily backfires. If people get an inkling something is hidden from them, they’ll push as hard as possible to find it. If they succeed, they’ll pay far more attention to it than they would have done otherwise. The negative consequences that result from a lack of information sharing in situations like Chernobyl often undermine the control that a government was trying to exert in the first place.

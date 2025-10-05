@@ -11,7 +11,7 @@
 - Seneca: “Nothing happens to the wise man against his expectation, . . . nor do all things turn out for him as he wished but as he reckoned—and above all he reckoned that something could block his plans.”
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Planning fallacy\|Planning fallacy]]

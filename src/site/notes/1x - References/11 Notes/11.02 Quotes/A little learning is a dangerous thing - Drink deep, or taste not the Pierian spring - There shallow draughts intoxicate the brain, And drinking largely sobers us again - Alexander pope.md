@@ -13,7 +13,7 @@ And drinking largely sobers us again"
 Alexander Pope
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Dont take pride in your ignorance\|Dont take pride in your ignorance]]

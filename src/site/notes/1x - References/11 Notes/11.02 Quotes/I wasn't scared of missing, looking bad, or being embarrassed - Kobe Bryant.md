@@ -17,7 +17,7 @@ fs.blog
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Failure is a positive sign that you are trying to stretch and do something beyond your current abilities\|Failure is a positive sign that you are trying to stretch and do something beyond your current abilities]]
 - [[1x - References/11 Notes/11.03 Ideas/Practice failure\|Practice failure]]
-- [[4x - Reading/41 Books/41.01 Book Notes/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
 - [[1x - References/11 Notes/11.02 Quotes/Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan.\|Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan.]]
 - [[1x - References/11 Notes/11.03 Ideas/Questions to confront fear of failure\|Questions to confront fear of failure]]
 - [[1x - References/11 Notes/11.03 Ideas/Benefit from failure\|Benefit from failure]]

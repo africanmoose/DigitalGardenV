@@ -10,7 +10,7 @@
 - You could compare it to a storm in a plane...we may get diverted, but likely just arrive a few minutes late to our destination. We don't end up going to a totally different destination altogether.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 But as we’ve seen, distraction isn’t always the end of the world. In fact, the most productive people tend to be those who get a little distracted – but don’t allow it to derail their productivity. For the rest of us, this might not be so easy. I sometimes like to use an aeronautical metaphor. Imagine you’re on a flight from London to New York. You get an announcement halfway through the flight saying, ‘Because of heavy winds and turbulence, we’ve altered our course by a few degrees.’ No biggie, you think. Until the pilot carries on talking. ‘Because of this, we’ve decided to abandon our original destination and head towards Buenos Aires instead.’ In most aspects of our lives, if things go slightly wrong we don’t

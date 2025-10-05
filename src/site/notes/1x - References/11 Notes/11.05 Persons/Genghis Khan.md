@@ -18,7 +18,7 @@
 
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
 - [wikipedia.org](https://en.wikipedia.org/wiki/Genghis_Khan)
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Learning requires work\|Learning requires work]]

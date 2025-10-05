@@ -19,5 +19,5 @@
 - [[1x - References/11 Notes/11.03 Ideas/A bigger surface area requires more time to maintain. Keep your life simple as much as possible.\|A bigger surface area requires more time to maintain. Keep your life simple as much as possible.]]
 - [[1x - References/11 Notes/11.03 Ideas/Maintenance appears dull in comparison to innovation\|Maintenance appears dull in comparison to innovation]]
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Must clean home often - same wtih mind\|Must clean home often - same wtih mind]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Mis-en-place - working clean\|Mis-en-place - working clean]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Mis-en-place - working clean\|Mis-en-place - working clean]]
 - [[1x - References/11 Notes/11.03 Ideas/As dust accumulates in a home never cleaned, so our minds need to be focused on the now\|As dust accumulates in a home never cleaned, so our minds need to be focused on the now]]

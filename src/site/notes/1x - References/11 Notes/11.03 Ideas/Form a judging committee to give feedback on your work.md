@@ -10,7 +10,7 @@
 - Asking for a rating is better than asking for feedback, no one ever gives a 10. so there will always be some feedback
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 For every project that matters to me, I’ve had judging committees for

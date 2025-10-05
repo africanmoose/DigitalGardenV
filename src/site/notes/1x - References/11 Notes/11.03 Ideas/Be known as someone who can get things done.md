@@ -11,7 +11,7 @@
 - Add value to the job you are doing: offer it to your boss as something you could train everyone in
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > In our training, we try again and again to hammer home the message that your career is yours and yours alone to manage. Every job I've ever had, I've made an effort to brand myself as an innovator, a thinker, a salesman, and someone who could get stuff done. When I was just a management trainee at ICI, my first job out of college, I sent a set of recommendations to the CEO. So he never responded. But I never stopped sending those e-mail

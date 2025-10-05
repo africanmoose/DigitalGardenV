@@ -11,7 +11,7 @@
 - We create art that has a bit of ourselves in it and if we are insecure, it will be reflected in our art.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.05 Bethel Lectures/Face your doubts - Roy Oduor\|Face your doubts - Roy Oduor]]

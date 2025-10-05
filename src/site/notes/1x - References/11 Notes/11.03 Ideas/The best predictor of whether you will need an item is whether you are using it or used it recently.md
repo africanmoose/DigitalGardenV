@@ -10,7 +10,7 @@
 - If you havent used it recently, and you wont use it in the next month, think seriously about getting rid of it.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton\|Keep the Memories, Lose the Stuff - Declutter, Downsize, and Move Forward with Your Life - Matt Paxton]]
 
 ### Quotes
 > Here’s what I always recommend: If you know you’ll use it within one month, keep it. Not six months, one year, or two years. One month. If you won’t use it within one month, the odds are you won’t use it at all. And the best predictor of whether you’ll need an item is whether you are currently using it or have recently used it. Not whether you think that, one day, somehow, somewhere, you’ll use it. Because that day, in all likelihood, will never come.

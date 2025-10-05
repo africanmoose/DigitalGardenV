@@ -11,7 +11,7 @@
 - This boosts our current decision due to motivation
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Motivation important in our service\|Motivation important in our service]]

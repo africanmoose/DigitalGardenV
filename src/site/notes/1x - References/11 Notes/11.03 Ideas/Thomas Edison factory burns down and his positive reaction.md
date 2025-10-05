@@ -11,7 +11,7 @@
 - Crying, Anger, quitting would have accomplished nothing. So don't waste time indulging ourselves when setbacks happen. Enduring tragedy and setbacks allow us to do do great things. We have to be able to find the positive in everything that happens
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Appreciate unexpected blessings and accept unexpected costs\|Appreciate unexpected blessings and accept unexpected costs]]

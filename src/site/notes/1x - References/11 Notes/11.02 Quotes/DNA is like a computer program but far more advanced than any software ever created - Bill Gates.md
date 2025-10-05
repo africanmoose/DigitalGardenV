@@ -10,7 +10,7 @@
 Bill Gates
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/View beauty of Jehovahs creation as a gift from Him\|View beauty of Jehovahs creation as a gift from Him]]

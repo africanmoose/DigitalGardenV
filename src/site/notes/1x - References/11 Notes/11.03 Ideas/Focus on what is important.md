@@ -10,10 +10,10 @@
 - Apple - laserlike focus on a very tight product line: iphone, ipad, mac and apple watch, and those are just a few products per line. every product they make would fit aon a small table.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Focus on producing quality rather than quantity\|Focus on producing quality rather than quantity]]
 - [[1x - References/11 Notes/11.02 Quotes/Focus on strengths rather than remediate weaknesses\|Focus on strengths rather than remediate weaknesses]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]

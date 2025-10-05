@@ -11,7 +11,7 @@
 - keep in touch regularly to make sure they remember you
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > When you meet someone with whom you want to establish a relationship, take the extra little step to ensure you won't be lost in their mental attic. Making sure a new acquaintance retains your name (and the favorable impression you've created) is a process you should set in motion right after you've met someone. Give yourself between twelve and twenty-four hours after you meet someone to follow up. If you meet somebody on a plane, send them an e-mail later that day. If you meet somebody over cocktails, again, send them an e-mail the next morning. For random encounters and chance meetings, e-mail is a fine tool for dropping a quick note to say, "It was a pleasure meeting you. We must keep in touch." In such an e-mail, I like to cite something particular we talked about in the course of our conversation— whether a shared hobby or business interest—that serves as a mental reminder of who I am. When I leave the meeting, I put the name and e-mail address of the new acquaintance in my database and program my PDA or BlackBerry to remind me in a month's time to drop the person another e-mail, just to keep in touch. Why go to all the trouble of meeting new people if you're not going to work on making them a part of your life?

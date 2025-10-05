@@ -14,7 +14,7 @@
 - He said that he writes best when he is angry which is not good for his health.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ### Quotes
 A colleague once asked Gass if he had any unusual writing habits:
@@ -31,6 +31,6 @@ A colleague once asked Gass if he had any unusual writing habits:
 “Not for me.”
 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
 - [[1x - References/11 Notes/11.02 Quotes/Writing isnt hard work its a nightmare - Philip Roth\|Writing isnt hard work its a nightmare - Philip Roth]]
 - [[1x - References/11 Notes/11.06 Structure Notes/Notes on good writing\|Notes on good writing]]

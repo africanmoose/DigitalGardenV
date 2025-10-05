@@ -12,13 +12,13 @@
 - paraphrasing notes, summarizing, translating are all processing methods that help us retain the information better.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Process information to make it useful\|Process information to make it useful]]
 - [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Zettelkasten Method]]
 - [[1x - References/11 Notes/11.03 Ideas/Barbell Method of reading\|Barbell Method of reading]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities]]
 - [[1x - References/11 Notes/11.03 Ideas/Feynman technique of learning\|Feynman technique of learning]]
 
 #### RSS Data

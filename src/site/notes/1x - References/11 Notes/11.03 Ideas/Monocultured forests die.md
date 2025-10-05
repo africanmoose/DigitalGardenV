@@ -18,5 +18,5 @@
 - The story of German scientific forestry transmits a timeless truth: When we simplify complex systems, we destroy them, and the devastating consequences sometimes aren’t obvious until it’s too late.
 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Resist Simplicity - Stephen Carter\|Resist Simplicity - Stephen Carter]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Simplexity Why simple things become complex and how complex things can be made simple\|Simplexity Why simple things become complex and how complex things can be made simple]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Resist Simplicity - Stephen Carter\|Resist Simplicity - Stephen Carter]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Simplexity Why simple things become complex and how complex things can be made simple\|Simplexity Why simple things become complex and how complex things can be made simple]]

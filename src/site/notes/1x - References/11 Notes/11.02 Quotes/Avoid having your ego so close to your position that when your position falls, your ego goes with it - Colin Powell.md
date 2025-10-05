@@ -10,11 +10,11 @@ Avoid having your ego so close to your position that when your position falls, y
 Colin Powell
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Outcome over ego.\|Outcome over ego.]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Pride\|Pride]]
 - [[1x - References/11 Notes/11.02 Quotes/Pride hard to subdue - Benjamin Franklin\|Pride hard to subdue - Benjamin Franklin]]
 - [[1x - References/11 Notes/11.02 Quotes/Swell with pride - Abram Sachar\|Swell with pride - Abram Sachar]]

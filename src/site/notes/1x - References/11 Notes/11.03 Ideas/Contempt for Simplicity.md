@@ -20,6 +20,6 @@
 - when we presume that we are better than people who need structure and guidance, we lack one of th emost crucial ingredients for change: humility." 
 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Resist Simplicity - Stephen Carter\|Resist Simplicity - Stephen Carter]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Resist Simplicity - Stephen Carter\|Resist Simplicity - Stephen Carter]]
 - [[1x - References/11 Notes/11.02 Quotes/First principles and simple actions - Winston Churchill\|First principles and simple actions - Winston Churchill]]
 

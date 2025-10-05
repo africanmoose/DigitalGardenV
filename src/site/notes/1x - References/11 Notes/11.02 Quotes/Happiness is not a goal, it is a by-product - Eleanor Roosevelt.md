@@ -7,10 +7,10 @@
 Happiness is not a goal, it is a by-product . . . For what keeps our interest in life and makes us look forward to tomorrow is giving pleasure to other people.
 
 ## Author
-- [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Happiness comes when we are otherwise engaged\|Happiness comes when we are otherwise engaged]]

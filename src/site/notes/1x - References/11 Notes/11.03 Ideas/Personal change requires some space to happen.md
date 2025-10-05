@@ -11,7 +11,7 @@
 - You may have to leave a job you like, or a home you love, or a place you adore to try a different place.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Change and adapt - Sun Tzu\|Change and adapt - Sun Tzu]]

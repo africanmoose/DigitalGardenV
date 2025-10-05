@@ -12,7 +12,7 @@ HENRY DAVID THOREAU,
 
 ## Reference
 - WALDEN
-- [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Work alone\|Work alone]]

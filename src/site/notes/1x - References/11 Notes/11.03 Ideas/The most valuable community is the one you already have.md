@@ -11,7 +11,7 @@
 - Work hard to build your current community and network: friends, neighbours, family.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > In business, we often say that your best customers are the customers you have now. In other words, your most successful sales leads come from the selling you've already done. The highest returns don't come from new sales; they come on top of the customer base you've already established. It's easiest to reach out to those people who are at least tangentially part of your network. The big hurdles of networking revolve around the cold calls, meeting of new people, and all the activities that involve engaging the unknown. But the first step has nothing to do with strangers; you should start connecting with the people you do know. Focus on your immediate network: friends of friends, old acquaintances from school, and family. I suspect you've never asked your cousins, brothers, or brothers-in-law if they know anyone that they could introduce you to help fulfill your goals. Everyone from your family to your mailman is a portal to an entirely new set of folks 
