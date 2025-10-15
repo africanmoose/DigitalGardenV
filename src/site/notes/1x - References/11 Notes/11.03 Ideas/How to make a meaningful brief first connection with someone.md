@@ -13,7 +13,7 @@
 - Try to listen and get the other person talking
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > The bump is the main weapon in your conference commando arsenal. Reduced to its essence, it is the two minutes you're given with someone you're "bumping into" whom you are looking to meet. Your goal should be to leave the encounter with an invitation to reconnect at a later time. The bump, like other practices, is nuanced. The perfect bump is one that feels both fast and meaningful at the same time. I call this ideal a "deep bump." Deep bumps are an effort to quickly make contact, establish enough of a connection to secure the next meeting, and move on. You've just paid a boatload of money to be at this conference (unless you're a speaker, when it's usually free!), and you want to meet as many people as you can in the time that you have. You're not looking to make a best friend. You are looking, however, to make enough of a connection to secure a follow-up. Creating a connection between any two people necessitates a certain level of intimacy. In two minutes, you need to look deeply into the other person's eyes and heart, listen intently, ask questions that go beyond just business, and reveal a little about yourself in a way that introduces some vulnerability (yes, vulnerability; it's contagious!) into the interaction. All these things come together to create a genuine connection.

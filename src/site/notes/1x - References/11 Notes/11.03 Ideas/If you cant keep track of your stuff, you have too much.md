@@ -10,7 +10,7 @@
 - In Sweden, older people practicse _dostadning_, or 'death cleaning', where they deliberately get rid of stuff that is not useful to them.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 
 ### Quotes
 > In Sweden this process goes by the name of dostadning. The literal translation is ‘death cleaning’, although according to Margaret Magnusson (who describes herself as somewhere between 80 and 100 years old) you don’t have to be in your final years to indulge in a bit of dostadning. ‘Death cleaning is not about dusting or mopping up,’ she writes in her surprisingly uplifting book, The Gentle Art of Swedish Death Cleaning, ‘it is about a permanent form of organization that makes your everyday life run more smoothly…The intention is not that we should remove things that make our lives pleasant and more comfortable. But if you can’t keep track of your things, then you know you have too much.’

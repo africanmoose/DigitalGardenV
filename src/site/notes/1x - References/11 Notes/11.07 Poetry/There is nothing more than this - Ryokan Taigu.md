@@ -26,7 +26,7 @@ Look around, there is nothing more than this.
 [[1x - References/11 Notes/11.05 Persons/Ryokan Taigu\|Ryokan Taigu]]
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 
 ## Related
 [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]

@@ -10,7 +10,7 @@
 - Often people resist change because of ignorance.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
 
 ### Quotes
 - 3. Educate. Often people are against change because they don’t know enough about it. Combat this ignorance with non-pushy education. Talk with your loved ones about what you’re doing and why. Show them examples of people who inspire you

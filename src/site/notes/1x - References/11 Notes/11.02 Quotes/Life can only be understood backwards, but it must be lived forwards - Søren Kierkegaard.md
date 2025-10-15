@@ -10,7 +10,7 @@
 Philosopher Søren Kierkegaard
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Risk is half the process of moving forward - Richard Saul Wurman\|Risk is half the process of moving forward - Richard Saul Wurman]]

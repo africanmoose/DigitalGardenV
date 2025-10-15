@@ -11,7 +11,7 @@
 - Ask them how they got to where they are? did they have any setbacks? how did they overcome them? What do they think is the key to their success? What advice do they have for those starting off?
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 - Find people you admire and ask how they got where they are. 

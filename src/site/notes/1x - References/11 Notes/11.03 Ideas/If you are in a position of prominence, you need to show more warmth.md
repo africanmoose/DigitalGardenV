@@ -10,7 +10,7 @@
 - Smile more, nod, give more support
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Be aware that it’s another high competence seat. If you choose it, be sure to dial up your warmth. Be more verbally and nonverbally supportive. Smile more, nod more, and give more supportive feedback.

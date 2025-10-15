@@ -14,7 +14,7 @@
 - Just repeating something over and over again doesnt produce results. We need to make intentional practise - focus on a particular area and consciously try to improve it.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Practise for public speaking - Benjamin Franklin\|Practise for public speaking - Benjamin Franklin]]
@@ -22,4 +22,4 @@
 - [[1x - References/11 Notes/11.02 Quotes/Practise deliberately to learn a skill\|Practise deliberately to learn a skill]]
 - [[1x - References/11 Notes/11.02 Quotes/Genius is often only the power of making continuous efforts - Elbert Hubbard\|Genius is often only the power of making continuous efforts - Elbert Hubbard]]
 - [[1x - References/11 Notes/11.03 Ideas/How to learn a skill\|How to learn a skill]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities]]

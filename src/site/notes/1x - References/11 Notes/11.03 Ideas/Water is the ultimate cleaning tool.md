@@ -10,7 +10,7 @@
 - Use water carefully. You can reuse rainwater for cleaning, or leftover bathwater.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 
 ### Quotes
 > When it comes to cleaning, water, a gift from the heavens, is the ultimate natural cleaning tool. As we must in some way contain this gift, the bucket is another tool that we must treasure.
@@ -22,4 +22,4 @@
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Must clean home often - same wtih mind\|Must clean home often - same wtih mind]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Mis-en-place - working clean\|Mis-en-place - working clean]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Mis-en-place - working clean\|Mis-en-place - working clean]]

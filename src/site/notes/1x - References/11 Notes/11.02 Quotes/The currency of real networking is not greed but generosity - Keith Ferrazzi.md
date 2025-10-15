@@ -11,7 +11,7 @@ but generosity.
 Keith Ferrazzi
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/The best insurance is being a kind and generous person\|The best insurance is being a kind and generous person]]

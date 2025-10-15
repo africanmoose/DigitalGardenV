@@ -11,7 +11,7 @@
 - The probability of overall failure is high if there are many essential components
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]] 
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]] 
 
 ### Quotes
 Complex systems fail because they have multiple points of possible failure, and complex messages fall apart the same way. Nobel laureate Daniel Kahneman and his longtime collaborator Amos Tversky explain: “A complex system, such as a nuclear reactor or the human body, will malfunction if any of its essential components fails. Even when the likelihood of failure in each component is slight, the probability of an overall failure can be high if many components are involved.”8

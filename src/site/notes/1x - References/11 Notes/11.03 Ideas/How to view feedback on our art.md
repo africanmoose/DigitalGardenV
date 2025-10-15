@@ -11,7 +11,7 @@
 - Sometimes the comment may hurt us. At this moment, we should not be discouraged or give up, but take it in a neutral way and engage in our art in a new way. Maybe we agree and change, or maybe we hold more firmly to our original idea
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/The goal of art is to share who we are\|The goal of art is to share who we are]]

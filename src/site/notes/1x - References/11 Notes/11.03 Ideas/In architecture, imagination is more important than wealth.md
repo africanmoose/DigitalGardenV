@@ -12,7 +12,7 @@
 - It is more satisfying to have something original than it is to copy an existing design.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
 
 ### Quotes
 > The Chinese writer Li Liwen, in his book The Art of Living (we need more books with such titles: living is an art, not something that you fit in around your job), argued that when it came to building houses, wealth was no substitute for imagination:

@@ -10,7 +10,7 @@
 The physicist John Wheeler, who helped develop the hydrogen bomb
 
 ## Reference
-[[4x - Reading/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
+[[4x - Reading and Learning/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Dont take pride in your ignorance\|Dont take pride in your ignorance]]

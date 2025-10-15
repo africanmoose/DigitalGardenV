@@ -10,7 +10,7 @@ It is one of the unexpected disasters of the modern age that our new unparallele
 Alain de Botton
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Focus on accomplishing work, rather than being in the mood to accomplish work\|Focus on accomplishing work, rather than being in the mood to accomplish work]]

@@ -10,10 +10,10 @@
 Psychologist Amos Tversky
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ## Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency\|Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency\|Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency]]
 - [[1x - References/11 Notes/11.03 Ideas/Life is complex and requires time and effort to understand\|Life is complex and requires time and effort to understand]]
 - [[1x - References/11 Notes/11.02 Quotes/Time you enjoy wasting is not wasted\|Time you enjoy wasting is not wasted]]
 - [[1x - References/11 Notes/11.02 Quotes/On spending time optimally - James Clear\|On spending time optimally - James Clear]]

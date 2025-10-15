@@ -11,7 +11,7 @@ Albert Einstein
 
 ## Reference
 
-[[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
 > The explanation that Einstein himself most often gave for his mental accomplishments was his curiosity. As he put it near the end of his life, 
 
 ## Related

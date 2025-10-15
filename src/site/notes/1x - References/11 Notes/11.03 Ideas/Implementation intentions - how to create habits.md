@@ -14,7 +14,7 @@
 - If you add a cue or trigger, such as 'when I go to the bathroom i will do 10 pushups' we are more likely to change this into a habit
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 In the autumn of 2015, flyers started appearing around Boston addressed to people who ‘did not feel like they had enough time to exercise’. The research group responsible wanted to understand the most effective ways to get people to do more exercise. People who responded were invited to take part in a study where

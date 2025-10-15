@@ -7,7 +7,7 @@
 - Someone who thinks identical to us, works identically is not a collaborator. We need someone who is different so that a new solution that neither of you separately would have thought of is born
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Collaboration vs compromise\|Collaboration vs compromise]]

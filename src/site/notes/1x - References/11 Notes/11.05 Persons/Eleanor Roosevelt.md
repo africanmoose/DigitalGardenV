@@ -20,7 +20,7 @@
 
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/Eleanor_Roosevelt)
-- [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt\|If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt]]
@@ -30,4 +30,4 @@
 - [[1x - References/11 Notes/11.02 Quotes/A mature person is one who does not think only in absolutes, who is able to be objective even when deeply stirred emotionally, who has learned that there is both good and bad in all people and in all things, and who walks humbly - Eleanor Roosevelt\|A mature person is one who does not think only in absolutes, who is able to be objective even when deeply stirred emotionally, who has learned that there is both good and bad in all people and in all things, and who walks humbly - Eleanor Roosevelt]]
 - [[1x - References/11 Notes/11.02 Quotes/About the only value the story of my life may have is to show that one can, even without any particular gifts, overcome obstacles that seem insurmountable if one is willing to face the fact that they must be overcome - Eleanor Roosevelt\|About the only value the story of my life may have is to show that one can, even without any particular gifts, overcome obstacles that seem insurmountable if one is willing to face the fact that they must be overcome - Eleanor Roosevelt]]
 ### Related
-- [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]

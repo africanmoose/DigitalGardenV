@@ -10,7 +10,7 @@
 - The rugged individual who relies on no one can only exist in a culture of domination
 
 ### References
-- [[4x - Reading and Learning/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > All over the world people live in intimate daily contact with one another. They wash together, eat and sleep together, face challenges together, share joy and sorrow. The rugged individual who relies on no one else is a figure who can only exist in a culture of domination where a privileged few use more of the world’s resources than the many who must daily do without. Worship of individualism has in part led us to the unhealthy culture of narcissism

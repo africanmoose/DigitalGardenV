@@ -12,7 +12,7 @@
 - A leader thus needs to make sure he is always optimistic, high-energy and behave accordingly.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Positive view of others\|Positive view of others]]

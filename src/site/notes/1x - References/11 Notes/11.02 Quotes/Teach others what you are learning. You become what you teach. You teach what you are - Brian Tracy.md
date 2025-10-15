@@ -12,7 +12,7 @@ When you attempt to articulate and explain a new concept to someone else, you un
 Brian Tracy
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Teach like Ezra\|Teach like Ezra]]

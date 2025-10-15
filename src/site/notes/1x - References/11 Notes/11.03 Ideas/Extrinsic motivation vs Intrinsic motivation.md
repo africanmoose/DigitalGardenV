@@ -12,7 +12,7 @@
 - instrinsic motivation also leaves us feeling happier at the end of the day
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 - [Podcast interview with Neil Pasricha - simple rules for happiness](https://fs.blog/knowledge-project-podcast/neil-pasricha-2/)
 
 ### Quotes

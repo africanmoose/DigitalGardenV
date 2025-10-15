@@ -11,7 +11,7 @@
 - We need to focus our mind on the present instead of licing in the past
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 
 ### Quotes
 > It goes without saying that dust will accumulate in a home that is never cleaned. Just as you have finished raking the leaves, more are sure to fall. It is the same with your mind. Right when you think you have cleaned out all the cobwebs, more begin to form. Adherence to the past and misgivings about the future will fill your head, wresting your mind from the present. This is why we monks pour ourselves heart and soul into the polishing of floors. Cleaning is training for staying in the now. Therein lies the reason for being particular about cleanliness.

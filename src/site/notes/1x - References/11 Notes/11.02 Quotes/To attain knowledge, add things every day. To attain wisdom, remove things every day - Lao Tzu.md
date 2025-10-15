@@ -11,7 +11,7 @@ To attain knowledge, add things every day. To attain wisdom, remove things every
 Lao Tzu, ancient Chinese philosopher
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]

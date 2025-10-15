@@ -12,7 +12,7 @@
 - The poor show addiction more as they dont have the means to cover up, nor access to recovery programs
 
 ### References
-- [[4x - Reading and Learning/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > Widespread addiction in both poor and affluent communities is linked to our psychotic lust for material consumption. It keeps us unable to love. Fixating on wants and needs, which consumerism encourages us to do, promotes a psychological state of endless craving. This leads to an anguish of spirit and torment so intense that intoxicating substances provide release and relief while bringing in their wake the problem of addiction. Millions of our nation’s citizens are addicted to alcohol and legal and illegal drugs. In poor communities, where addiction is the norm, there is no culture of recovery. The poor who are addicted and who lack the means to indulge their habit are caught in the grip of major physical and emotional suffering. Addicts want release from pain; they are not thinking about love.

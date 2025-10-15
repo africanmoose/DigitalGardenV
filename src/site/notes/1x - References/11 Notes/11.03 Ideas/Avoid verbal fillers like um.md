@@ -11,7 +11,7 @@
 - In one study a speech with fake facts and no fillers was rated by 57 percent of participants to be a well-educated person as compared to 36 percent for accurate speech with verbal filelrs
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > For the first twenty-seven years of my life, I was addicted to verbal fillers. Specifically, I used um, so, like, well, and you know when I was nervous, thinking, waiting, or stalling, and sometimes simply out of habit.

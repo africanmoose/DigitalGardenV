@@ -11,7 +11,7 @@
 - Hobbies when they add stuff without corresponding usage.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Clutter attracts clutter\|Clutter attracts clutter]]

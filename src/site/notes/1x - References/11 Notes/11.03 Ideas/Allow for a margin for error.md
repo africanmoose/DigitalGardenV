@@ -10,7 +10,7 @@
 - This allows for unpredictable or unforseen circumstances
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 ### Quotes
 > A margin of safety is often necessary to ensure systems can handle stressors and unpredictable circumstances. This means there is a meaningful gap between what a system is capable of handling and what it is required to handle. A margin of safety is a buffer between safety and danger, order and chaos, success and failure. It ensures a system does not swing from one to the other too easily, causing damage.

@@ -11,7 +11,7 @@
 - Love allows us to confront negative realities
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > Realistically, being part of a loving community does not mean we will not face conflicts, betrayals, negative outcomes from positive actions, or bad things happening to good people. Love allows us to confront these negative realities in a manner that is life-affirming and life-enhancing.

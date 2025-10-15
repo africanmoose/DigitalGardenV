@@ -11,7 +11,7 @@
 - Later, his publisher bet him that he could not write a book using just 50 words, and he produced in 1960 'Green Eggs and Ham', a book that was his most successful ever.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 
 ### Quotes
 On the contrary, if there is somebody whose work could never be called boring, it was Theodor Geisel, better known to children and former children around the globe as Dr. Seuss. Through more than half a billion copies of his sixty-plus books, he has likely shaped more young minds than just about anybody in history. He was the first author I ever read, and the odds are pretty good it might be the same for you. Fed up with Dick and Jane, as well as other dull early reader primers of the day, Seuss’s publisher challenged him to write “a story that first-graders can’t put down!” The prolific author accepted, and to push it a step further, he gave himself a constraint—limit the vocabulary to just a list of a couple hundred words important to those young readers. It wasn’t easy. Seuss sweated it out for a year and a half.

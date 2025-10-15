@@ -13,7 +13,7 @@
 - growth and progress are more powerful than setbacks. good news is more powerful than bad.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ### Quotes
 > Same for careers, social progress, brands, companies, and relationships. Progress always takes time, often too much time to even notice it’s happened.

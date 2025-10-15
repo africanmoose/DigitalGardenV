@@ -10,7 +10,7 @@
 - You are locked in for 15 or 30 years to a physical location, 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Year of Living Simply - The joys of a life less complicated - Kate Humble\|A Year of Living Simply - The joys of a life less complicated - Kate Humble]]
 
 ### Quotes
 > Pretty much everything we earned went straight to the building society to pay not the debt, but the interest on the debt. But that didn’t matter, because we were on the property ladder and that was an achievement. But the choice we made (and were lucky to be able to make), to buy a house with money we didn’t have, took away other choices and other options, because now we were beholden to that debt. It dictated that we would be making monthly payments for at least the next 30 years. And that still means earning enough to make those payments

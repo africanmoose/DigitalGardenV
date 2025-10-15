@@ -11,7 +11,7 @@
 - His style is marked by clean and simple lines, and fitting in with the natural lines of the land surrounding them.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 - [wikipedia]()
 
 ### Quotes
@@ -25,4 +25,4 @@ prestigious prizes. Known as the master of light and concrete, he’s revered fo
 - [[1x - References/11 Notes/11.04 Links/learning\|learning]]
 - [[1x - References/11 Notes/11.02 Quotes/Learning Machine - Charlie Munger\|Learning Machine - Charlie Munger]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Learn how to do things for yourself\|Learn how to do things for yourself]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Michealangelo - Gods Architect - William Wallace\|Michealangelo - Gods Architect - William Wallace]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Michealangelo - Gods Architect - William Wallace\|Michealangelo - Gods Architect - William Wallace]]

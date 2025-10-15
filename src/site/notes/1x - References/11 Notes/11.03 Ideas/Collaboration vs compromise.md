@@ -11,7 +11,7 @@
 - great decisions dont involve one part sacrificing, but mutual recognition of the best solution available.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Quotes
 - "The moment one collaborator gives in and settles on a less preferential option for the sake of moving forward, everyone loses. Great decisions aren’t made in a spirit of sacrifice. They’re made by the mutual recognition of the best solution available."

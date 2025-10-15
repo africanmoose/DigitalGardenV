@@ -11,7 +11,7 @@
 - Humans are also able to tell when something is designed by someone, or just random
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe\|Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe\|Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe]]
 
 ### Quotes
 - Berkeley psychology professor Alison Gopnik described the challenge this causes for teachers of evolution in a recent Wall Street Journal column. “By elementary-school age,” she wrote, “children start to invoke an ultimate God-like designer to explain the complexity of the world around them—even children brought up as atheists.”2 In fact, Deborah Kelemen, a psychology professor at Boston University, found that even highly trained scientists are unable to fully rid themselves of the innate impression that there is purpose underlying the living world. According to her, “Even though advanced scientific training can reduce acceptance of scientifically inaccurate teleological explanations, it cannot erase a tenacious early-emerging human tendency to find purpose in nature.”3 Whether her materialistic presupposition will stand up to scrutiny remains to be seen, but her observation clearly affirms the universality and power of this design intuition.

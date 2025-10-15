@@ -13,7 +13,7 @@ Ashley Smith
 Postanly
 
 ## Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Beauty of Discomfort - Amanda Lang\|Beauty of Discomfort - Amanda Lang]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Beauty of Discomfort - Amanda Lang\|Beauty of Discomfort - Amanda Lang]]
 - [[1x - References/11 Notes/11.02 Quotes/I think of beauty as an absolute necessity - Toni Morrison\|I think of beauty as an absolute necessity - Toni Morrison]]
 - [[1x - References/11 Notes/11.02 Quotes/Be guided by beauty...It's a beautiful thing to do something right - Jim Simmons\|Be guided by beauty...It's a beautiful thing to do something right - Jim Simmons]]
 - [[1x - References/11 Notes/11.02 Quotes/There is a deep human need for beauty - Roger Scruton\|There is a deep human need for beauty - Roger Scruton]]

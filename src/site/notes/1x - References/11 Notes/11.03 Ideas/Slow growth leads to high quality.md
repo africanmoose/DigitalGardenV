@@ -12,7 +12,7 @@
 - Apparently slow growth allows resources to be diverted to maintenance and repair
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ### Quotes
 > Most young tree saplings spend their early decades under the shade of their mother’s canopy. Limited sunlight means they grow slowly. Slow growth leads to dense, hard wood.

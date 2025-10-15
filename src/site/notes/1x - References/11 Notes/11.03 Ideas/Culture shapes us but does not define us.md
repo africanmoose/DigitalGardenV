@@ -10,7 +10,7 @@
 - When thinking about people, acknowledge their culture or background, but do not use it to classify people as each person has their own unique viewpoint and knowledge
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ### Quotes
 > Hurston defied the lazy way people today classify others according to their group. Today, in our identity politics world, we are constantly reducing people to their categories: Black/white, gay/straight, Republican/Democrat. It’s a first-class way to dehumanize others and not see individuals. But Hurston, through her example, shows us what the true task of opening your eyes to others involves: How do I see a person as part of their group? And how, at the same time, do I see them as a never-to-be-repeated unique individual, bringing their own unique mind and viewpoint?

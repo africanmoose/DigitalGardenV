@@ -10,7 +10,7 @@
 - It is possible to get into a debt spiral that can never be paid off
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 ### Quotes
 > In the same way that money compounds and grows by earning interest, debt can compound too, even to the point where it becomes essentially impossible to pay off. Many people who get into debt fail to realize just how powerful compounding can be over time. As Debt.org2 puts it, “Compound interest is a powerful tool for building wealth. It’s also a devastating tool that can destroy wealth. It just depends on which side of the financial equation you use it.”

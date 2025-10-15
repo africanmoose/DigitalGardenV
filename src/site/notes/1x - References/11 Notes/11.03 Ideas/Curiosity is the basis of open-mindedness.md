@@ -10,7 +10,7 @@
 - curiousity doesn't insist on doing things only one particular way. It is open to new ways and pushes to expose falsely set boundaries
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Quotes
 - "The heart of open-mindedness is curiosity. Curiosity doesn’t take sides or insist on a single way of doing things. It explores all perspectives. Always open to new ways, always seeking to arrive at original insights. Craving constant expansion, it looks upon the outer limits of the mind with wonder. It pushes to expose falsely set boundaries and break through to new frontiers."

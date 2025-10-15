@@ -12,7 +12,7 @@
 - better to chose your anchor before you get outside opinions. For example, decide how much you will pay for something before going shopping.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Cognitive Tools\|Cognitive Tools]]

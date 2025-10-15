@@ -10,7 +10,7 @@ Of course motivation is not permanent. But then, neither is bathing; but it is s
 Zig Ziglar|
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Motivation important in our service\|Motivation important in our service]]

@@ -13,7 +13,7 @@
 - Having a mindset of contentment will prevent you from acquiring more stuff
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
 
 ### Quotes
 The problems with clutter:
@@ -28,4 +28,4 @@ Being too busy also leads to clutter, because we don't have time to clean up, do
 - [[1x - References/11 Notes/11.03 Ideas/Minimalist gives us the space to change\|Minimalist gives us the space to change]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism gives us space to see farther\|Minimalism gives us space to see farther]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]

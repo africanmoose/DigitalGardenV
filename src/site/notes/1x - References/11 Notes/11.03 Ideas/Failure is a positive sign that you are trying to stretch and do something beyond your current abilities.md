@@ -10,7 +10,7 @@
 - If we aren't failing, its a sign we need to think bigger.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 - One interesting and empowering way to look at failure is to consider it a sign that you’re trying to surpass yourself. After all, you can’t fail if you’re doing something that is well within your abilities. You fail when you’re doing something that is difficult for you, in order to grow. Hence, if you aren’t failing, you’re probably not stretching yourself enough.If you’ve been going a long time without any failures, it’s time to think bigger. Not experiencing any failures is a clear sign that you’re setting your aims too low and it’s time to seek a more challenging environment or establish new, more difficult goals.

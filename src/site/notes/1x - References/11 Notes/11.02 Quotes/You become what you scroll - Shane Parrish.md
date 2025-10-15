@@ -13,7 +13,7 @@ Shane Parrish
 fs.blog
 
 ## Related
-- [[4x - Reading/41 Books/41.01 Book Notes/The influential mind - What the brain reveals about our power to change others\|The influential mind - What the brain reveals about our power to change others]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/The influential mind - What the brain reveals about our power to change others\|The influential mind - What the brain reveals about our power to change others]]
 - [[1x - References/11 Notes/11.03 Ideas/Social media gives the illusion of community without the practical benefits\|Social media gives the illusion of community without the practical benefits]]
 - [[1x - References/11 Notes/11.03 Ideas/If social media didnt exist what would you do\|If social media didnt exist what would you do]]
 - [[1x - References/11 Notes/11.02 Quotes/Dont plant the seed in your mind - Mereba\|Dont plant the seed in your mind - Mereba]]

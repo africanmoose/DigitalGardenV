@@ -11,11 +11,11 @@
 Leonard Mlodinow
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Growth Mindset\|Growth Mindset]]
-- [[4x - Reading/41 Books/41.01 Book Notes/The influential mind - What the brain reveals about our power to change others\|The influential mind - What the brain reveals about our power to change others]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/The influential mind - What the brain reveals about our power to change others\|The influential mind - What the brain reveals about our power to change others]]
 - [[1x - References/11 Notes/11.02 Quotes/Two ways change a man - his books and his friends\|Two ways change a man - his books and his friends]]
 - [[1x - References/11 Notes/11.02 Quotes/Scientists change their minds - Carl Sagan\|Scientists change their minds - Carl Sagan]]
 - [[1x - References/11 Notes/11.03 Ideas/Take care what technologies you use, they will shape your mind and thoughts\|Take care what technologies you use, they will shape your mind and thoughts]]

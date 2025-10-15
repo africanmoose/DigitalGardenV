@@ -10,7 +10,7 @@
 V. S. Pritchett - british writer and literary critic
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Deep work\|Deep work]]

@@ -11,7 +11,7 @@
 - Bible principles always hold true. Be kind and generous and help others, and God cares for us.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel\|Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel\|Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel]]
 
 ### Quotes
 - a wiseacre’s best insurance is being a kind and generous person that others would be willing to care for. The second best insurance is to treat the body well — eating healthy, organic food, exercising, reducing stress, being in nature and having a spiritual practice. Knowledge of how to heal common illnesses through working with medicinal plants would be additional insurance. You could investigate a high-deductible catastrophic illness plan for the worst case.

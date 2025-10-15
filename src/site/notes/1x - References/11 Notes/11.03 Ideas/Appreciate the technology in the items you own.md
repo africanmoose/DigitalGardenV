@@ -11,7 +11,7 @@
 - plastics are made of oil that in turn was made from organic material from millennia ago
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > Here’s a suggestion. Perhaps after you’ve watched that James Bond movie, balance it out by watching The Gods Must be Crazy , which makes you feel amazed that something as beautiful and useful as a Coke bottle exists at all. Look at the slightly daggy chair at your kitchen table, and be gobsmacked by the fact that men collected sap oozing from subtropical trees to make the rubber for the nubs on its legs. Huge machines pulled the metal for its frame out of the depths of the earth and heated it until it glowed so as to extrude it into the right shape. Ancient oil was whipped into a frenzy with pigments and catalysts until it became that moulded plastic seat. Do this same thinking to the clock on your wall, the bread on your shelf, and the cheesecake in your fridge.

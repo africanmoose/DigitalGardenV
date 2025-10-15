@@ -15,7 +15,7 @@
 	- work for a career rather than love of work and creativity
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
 
 ### Quotes
 > “Why Socialism?”

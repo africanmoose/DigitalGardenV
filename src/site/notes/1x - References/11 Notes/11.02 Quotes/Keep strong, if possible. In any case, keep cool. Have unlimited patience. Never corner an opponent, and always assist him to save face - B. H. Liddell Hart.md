@@ -10,7 +10,7 @@ Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never
 Strategist B. H. Liddell Hart, on nuclear strategy.Kennedy used this quote to deal with the Cuban Missile crises which potentially could have brought a nuclear holocaust to humankind.
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Self-control\|Self-control]]

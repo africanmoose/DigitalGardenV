@@ -10,7 +10,7 @@
 - Some pursue this form buying new stuff, but you can just as well get it from other free ways of learning something new
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > Most people love the feeling of getting something new, but forget that it can come as easily from discovery as from consumption. A fascinating fact, a good anecdote, learning how to do something, having an experience you’ve never had before, hearing some gossip – anything that extends our picture of the universe we’re part of.

@@ -11,7 +11,7 @@
 - Goal is not to blame or shame but to learn and improve.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 ### Quotes
 > The culture of the space program is one of constant debriefs about every detail. The point of these is not to be pedantic or shame anyone but to get the information necessary to learn and to improve the program. Thus for both the individual astronaut and the space organization they are a part of, there is a recognition that ongoing learning is the key element in creating a margin of safety in space operations.

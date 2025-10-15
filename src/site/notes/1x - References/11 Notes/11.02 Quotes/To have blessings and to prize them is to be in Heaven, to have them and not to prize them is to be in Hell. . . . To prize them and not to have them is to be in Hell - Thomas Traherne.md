@@ -11,7 +11,7 @@
 Thomas Traherne: 
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]

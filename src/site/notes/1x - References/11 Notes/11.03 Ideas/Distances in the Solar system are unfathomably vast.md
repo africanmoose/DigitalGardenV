@@ -11,7 +11,7 @@
 - In this scale, the nearest star to us would be almost 10,000 miles away.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Jehovah\|Jehovah]]

@@ -13,8 +13,8 @@
 - In one study, when listeners were positive and engaged, the story teller increased their creativity by adding their own interpretation onto the story
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Using tilts, nods, eyebrow raises, savor smiles, touches, and mirroring creates a halo effect around you
@@ -23,7 +23,7 @@
 
 > The participants with the positive listeners not only described the film differently but actually thought about it more creatively. They described characters’ thoughts and emotions and included more of their own opinions about the film’s deeper meaning. People with the negative listeners focused solely on facts and concrete details
 
-- from [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- from [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Listen to music with your entire body\|Listen to music with your entire body]]

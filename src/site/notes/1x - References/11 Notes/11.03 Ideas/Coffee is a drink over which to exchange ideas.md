@@ -11,7 +11,7 @@
 - It allows for cooperation without losing our senses unlike alcohol.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Coffee is concentrated sunshine - Humboldt\|Coffee is concentrated sunshine - Humboldt]]

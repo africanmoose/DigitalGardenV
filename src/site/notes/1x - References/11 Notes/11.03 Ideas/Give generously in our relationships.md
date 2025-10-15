@@ -11,7 +11,7 @@
 - This includes giving attention
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > When we practice love, we want to give more. Selfishness, a refusal to give acceptance to another, is a central reason romantic relationships fail. In Love the Way You Want It, Robert Sternberg confirms: “If I were asked the single most frequent cause of the destruction of relationships . . . I would say it is selfishness. We live in an age of narcissism and many people have never learned or have forgotten how to listen to the needs of others. The truth is, if you want to make just one change in yourself that will improve your relationship—literally, overnight—it would be to put your partner’s interest on an equal footing with your own.” Giving generously in romantic relationships, and in all other bonds, means recognizing when the other person needs our attention. Attention is an important resource.

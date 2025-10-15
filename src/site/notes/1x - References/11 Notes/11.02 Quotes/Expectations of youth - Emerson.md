@@ -10,7 +10,7 @@
 Emerson, 1841
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Resilience in the face of adversity\|Resilience in the face of adversity]]

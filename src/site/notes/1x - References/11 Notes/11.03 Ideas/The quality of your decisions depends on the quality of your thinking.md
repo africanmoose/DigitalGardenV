@@ -13,7 +13,7 @@
 - When listening to people, even if we dont agree with them we can still learn valuable information, for example how they see the world.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 "the hifi principle: Get high-fidelity (HiFi) information—information that’s close to the source and unfiltered by other people’s biases and interests.

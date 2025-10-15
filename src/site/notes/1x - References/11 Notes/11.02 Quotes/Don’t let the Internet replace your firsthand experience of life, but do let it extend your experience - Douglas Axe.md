@@ -10,7 +10,7 @@
 Douglas Axe
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe\|Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe\|Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/The internet is derivative\|The internet is derivative]]

@@ -12,7 +12,7 @@
 - the US, 5% of the worlds population consumes 27% of the energy
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
 
 ### Quotes
 The extent of future global energy needs cannot be understood without realizing the extent of existing consumption disparities. The per caput annual energy consumption in the US and Canada is roughly twice as high as in Europe or Japan, more than ten times as high as in China, nearly twenty times as high as in India, and about fifty times as high as in the poorest countries of sub-Saharan Africa

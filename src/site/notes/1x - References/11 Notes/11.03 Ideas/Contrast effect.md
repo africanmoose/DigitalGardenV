@@ -11,7 +11,7 @@
 - Car showrooms do this by selling a 3000$ stereo because you already paid 50,000$ for the car....but ordinarily you would not spend that much money on a stereo.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Cognitive bias - Everyone should and shouldnt do this\|Cognitive bias - Everyone should and shouldnt do this]]

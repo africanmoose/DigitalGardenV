@@ -10,7 +10,7 @@ What the wise do in the beginning, fools do in the end. 
 Warren Buffett
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Receive wisdom skillfully\|Receive wisdom skillfully]]

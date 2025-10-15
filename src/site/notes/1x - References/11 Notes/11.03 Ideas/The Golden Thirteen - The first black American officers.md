@@ -12,7 +12,7 @@
 - In a typical class only 75% passed, but the 16 black officers all passed. They were forced to retake the exams to prove they were not cheating, and they passed again, with an even higher grade.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 The mysterious messages came in different forms, but the recipients all felt the urgency. Jesse Arbor was in the midst of a poker game when someone told him a car was waiting downstairs and his trainwould leave in 35 minutes. He didn’t even have time to get some of his clothes out of the washing machine. James Hair was out on a tugboat when he was sent back to shore to retrieve a big brown envelope. As he broke the red wax seal, what he found inside wasn’t an invitation. It was an order to report to a location north of Chicago. That order was delivered to sixteen men around the country. They ranged from their mid 20s to mid 30s and came from varying walks of life —the group included a mechanic, a bookbinder, a porter, a lawyer, and a sheet metal worker. It was January 1944, and they had no idea what was in store for them. In the heat of World War II, they would have a chance to make history. They were about to become the first Black men to enter officer training in the U.S. Navy. 

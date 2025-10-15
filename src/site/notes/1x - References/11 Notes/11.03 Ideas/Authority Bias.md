@@ -11,7 +11,7 @@
 - In airlines, training has helped to overcome authority bias
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - "They carefully deprogram the authority bias. CRM has contributed more to flight safety in the past twenty years than have any technical advances."

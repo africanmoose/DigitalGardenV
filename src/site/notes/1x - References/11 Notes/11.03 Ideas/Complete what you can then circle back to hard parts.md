@@ -10,11 +10,11 @@
 - Sometimes, the experience we got from completing the other parts helps us complete earlier obstacles
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Deep work\|Deep work]]
 - [[1x - References/11 Notes/11.03 Ideas/Limit work in progress\|Limit work in progress]]
 - [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|1x - References/11 Notes/11.03 Ideas/Do good quality Work]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
 - [[1x - References/11 Notes/11.03 Ideas/Agile Principles\|Agile Principles]]

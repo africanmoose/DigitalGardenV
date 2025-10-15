@@ -13,6 +13,6 @@
 fs.blog
 
 ## Related
-- [[4x - Reading/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
 - [[1x - References/11 Notes/11.03 Ideas/Napoleon would wait 3 weeks before opening any mail\|Napoleon would wait 3 weeks before opening any mail]]
 - [[5x - Arts/54 Writing/54.08 Productivity book/02 Prioritize\|02 Prioritize]]

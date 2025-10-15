@@ -11,7 +11,7 @@
 - This frees up brian pocessing power and will power for pursuing their goals instead of struggling to overcome themselves
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Self-control\|Self-control]]

@@ -13,7 +13,7 @@
 - a few face to face contacts cant transform a contact to a friendship
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > If 80 percent of success is, as Woody Allen once said, just showing up, then 80 percent of building and maintaining relationships is just staying in touch. I call it "pinging." It's a quick, casual greeting, and it can be done in any number of creative ways. Once you develop your own style, you'll find it easier to stay in touch with more people than you ever dreamed of in less time than you ever imagined. Yes, there's grunt work involved. Pinging takes effort. That's the tough part. You have to keep pinging and pinging and pinging and never stop. You have to feed the fire of your network or it will wither or die

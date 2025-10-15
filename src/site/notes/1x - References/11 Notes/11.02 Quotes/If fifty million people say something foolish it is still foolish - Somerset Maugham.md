@@ -10,10 +10,10 @@
 English novelist W. Somerset Maugham
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ## Related
-[[4x - Reading/41 Books/41.01 Book Notes/Originals How Non-Conformists Move the World - Adam Grant\|Originals How Non-Conformists Move the World - Adam Grant]]
+[[4x - Reading and Learning/41 Books/41.01 Book Notes/Originals How Non-Conformists Move the World - Adam Grant\|Originals How Non-Conformists Move the World - Adam Grant]]
 [[1x - References/11 Notes/11.02 Quotes/Surround yourself with smart people who will argue with you - John Wooden\|Surround yourself with smart people who will argue with you - John Wooden]]
 
 ## RSS Data

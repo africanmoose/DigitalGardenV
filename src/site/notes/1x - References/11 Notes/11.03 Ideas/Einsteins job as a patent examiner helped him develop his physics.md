@@ -12,7 +12,7 @@
 - originality and creativity where not assets for climbing the academic ladder
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
 
 ### Quotes
 > In addition, his boss Haller had a credo that was as useful for a creative and rebellious theorist as it was for a patent examiner: "You have to remain critically vigilant." Question every premise, challenge conventional wisdom, and never accept the truth of something merely because everyone else views it as obvious. Resist being credulous. "When you pick up an application," Haller instructed, "think that everything the inventor says is wrong." 73

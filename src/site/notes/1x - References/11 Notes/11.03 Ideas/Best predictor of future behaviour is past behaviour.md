@@ -10,7 +10,7 @@
 - This is why changing our behaviour is really really hard.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 - When it comes to the long run, researchers struggle to find any measurable connection between our intentions and our actual behaviour (Ji and Wood 2007; Neal et al. 2012)
 
 ### Related

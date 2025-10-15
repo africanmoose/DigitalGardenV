@@ -10,7 +10,7 @@
 Aboriginal neighbour to Geoff who runs a wilderness stay home
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Working in world like working for bankrupt bank\|Working in world like working for bankrupt bank]]

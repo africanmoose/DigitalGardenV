@@ -15,7 +15,7 @@
 - paying 100% attention
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 ### Quotes
 > The solution as a listener is to treat attention as all or nothing. If you’re here in this conversation, you’re going to stop doing anything else and just pay attention to this. You’re going to apply what some experts call the SLANT method: sit up, lean forward, ask questions, nod your head, track the speaker. Listen with your eyes. That’s paying attention 100 percent.

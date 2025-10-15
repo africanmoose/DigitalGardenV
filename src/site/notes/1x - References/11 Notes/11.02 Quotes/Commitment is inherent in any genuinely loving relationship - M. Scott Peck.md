@@ -10,7 +10,7 @@ Commitment is inherent in any genuinely loving relationship. Anyone who is truly
 M. Scott Peck
 
 ## Reference
-[[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Out well being is based on relationships, purpose and service\|Out well being is based on relationships, purpose and service]]

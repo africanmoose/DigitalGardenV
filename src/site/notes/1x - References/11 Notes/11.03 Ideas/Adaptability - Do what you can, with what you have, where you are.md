@@ -13,7 +13,7 @@
 - Even if something worked in the past, it is no guarantee that it will continue to work so be ready to abandon it.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ### Quotes
 >It also teaches us that as individuals we must not underestimate the options we have at our disposal. Too often we get stuck in “functional fixedness,” a mindset where we see in things only their intended use, rather than their potential use. A fork doesn’t have to be just a tool to put food in your mouth. It could also be a hook, tack, or hair detangler. It may be combined with other household objects to fulfill even more purposes. As the saying goes: do what you can, with what you’ve got, where you are. In fact, one of the tests used to measure creativity by psychologists is to ask people to come up with as many uses as possible for an everyday object like a brick. The more exaptations someone can envision, the more creative they’re considered.

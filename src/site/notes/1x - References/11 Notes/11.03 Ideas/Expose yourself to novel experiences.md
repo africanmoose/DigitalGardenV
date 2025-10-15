@@ -13,7 +13,7 @@
 - Be curious outside of your comfort zone
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > 6. Expose yourself to unusual experiences.

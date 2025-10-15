@@ -23,6 +23,6 @@
 - [[1x - References/11 Notes/11.03 Ideas/Programming principles that work in real life - Communicate well\|Programming principles that work in real life - Communicate well]]
 - [[1x - References/11 Notes/11.03 Ideas/Learn Slow\|Learn Slow]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning is best done slowly to accumulate lasting knowledge even if it means doing badly in the short term\|Learning is best done slowly to accumulate lasting knowledge even if it means doing badly in the short term]]
-- [[4x - Reading/41 Books/41.01 Book Notes/The things you can see when you slow down\|The things you can see when you slow down]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/The things you can see when you slow down\|The things you can see when you slow down]]
 - [[1x - References/11 Notes/11.03 Ideas/ASAP principle vs ALAP principle - when to make decisions fast and when to make them slow\|ASAP principle vs ALAP principle - when to make decisions fast and when to make them slow]]
 - [[5x - Arts/54 Writing/54.10 substack articles written/lessons from running\|lessons from running]]

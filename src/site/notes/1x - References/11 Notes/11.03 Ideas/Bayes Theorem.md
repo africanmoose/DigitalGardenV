@@ -10,7 +10,7 @@
 - uses previous knowledge to assign a probability to a condition, which will then be updated based on any new information we receive.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 - [simple explanation](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 
 ### Quotes

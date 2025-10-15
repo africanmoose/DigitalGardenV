@@ -10,7 +10,7 @@
 - This means we are happy for others when they produce their best work, regardless of what level they are at, and we let it inspire us to do our best work.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Comparison is the thief of joy - Theodore Roosevelt\|Comparison is the thief of joy - Theodore Roosevelt]]

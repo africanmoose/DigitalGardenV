@@ -10,7 +10,7 @@
 - This is called question inflection, or uptalk. It cases the listeners to question the speakers credibility.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > This is an example of a question inflection, also known as uptalk. Research has found that when the question inflection is accidentally used in a statement, it signals low confidence and insecurity. When the question inflection is used with a statement, it causes the listener’s brain to question the speaker’s credibility. The brain says, “If you aren’t confident in what you just said, why should I be

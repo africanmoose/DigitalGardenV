@@ -12,7 +12,7 @@
 - Our society has shifted to a thing-oriented society instead of a people-oriented society
 
 ### References
-- [[4x - Reading and Learning/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > ALTHOUGH WE LIVE in close contact with neighbors, masses of people in our society feel alienated, cut off, alone. Isolation and loneliness are central causes of depression and despair. Yet they are the outcome of life in a culture where things matter more than people. Materialism creates a world of narcissism in which the focus of life is solely on acquisition and consumption. A culture of narcissism is not a place where love can flourish. The emergence of the “me” culture is a direct response to our nation’s failure to truly actualize the vision of democracy articulated in our Constitution and Bill of Rights. Left alone in the “me” culture, we consume and consume with no thought of others. Greed and exploitation become the norm when an ethic of domination prevails. They bring in their wake alienation and lovelessness. Intense spiritual and emotional lack in our lives is the perfect breeding ground for material greed and overconsumption. In a world without love the passion to connect can be replaced by the passion to possess. While emotional needs are difficult, and often are impossible to satisfy, material desires are easier to fulfill. Our nation fell into the trap of pathological narcissim in the wake of wars that brought economic bounty while undermining the vision of freedom and justice essential to sustaining democracy.

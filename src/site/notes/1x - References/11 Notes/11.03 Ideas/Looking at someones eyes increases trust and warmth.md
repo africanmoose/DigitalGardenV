@@ -14,7 +14,7 @@
 - Staring may be uncomfortable - it is better to lock eyes for a moment.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Every time you lock eyes with someone, you both produce an important hormone for trust called oxytocin. Oxytocin has a number of incredible effects on our body—it helps us feel bonded and builds trust. But its most important effect is not as well known.

@@ -15,4 +15,4 @@ Albert Einstein
 ?
 
 ## Relatedœ
-- [[4x - Reading/41 Books/41.01 Book Notes/Simplexity Why simple things become complex and how complex things can be made simple\|Simplexity Why simple things become complex and how complex things can be made simple]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Simplexity Why simple things become complex and how complex things can be made simple\|Simplexity Why simple things become complex and how complex things can be made simple]]

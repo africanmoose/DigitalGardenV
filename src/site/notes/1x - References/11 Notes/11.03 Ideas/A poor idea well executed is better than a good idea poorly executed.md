@@ -11,7 +11,7 @@
 - Focus improves our idea, even if it started out mediocre
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 
 ### Quotes
 Communicating with one core idea that you’ve gone deep on is always better than five half-assed concepts that you taped together. And here’s the dirty secret about that one idea: it doesn’t even have to be that good! A mediocre concept that has been competently executed beats a muddled mix of otherwise brilliant ideas with no follow-through or unifying connection. Focus itself makes your work better.

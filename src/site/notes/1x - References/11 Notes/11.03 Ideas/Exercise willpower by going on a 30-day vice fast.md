@@ -10,7 +10,7 @@
 - This will build our self-control muscle, and may also have other side benefits such as saving us money
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 Even though it’s such a short period, it can still serve as a great way to exercise your willpower. Some ideas for 30-day vice fasts include:- 30 days without alcohol;- 30 days without sugar in any form (or without processed sugar alone);- 30 days without the snooze button;- 30 days without watching TV;- 30 days without watching pornography;- 30 days without using social media;- 30 days without spending money on anything besides necessary expenses, such as food, transportation costs, and bills.

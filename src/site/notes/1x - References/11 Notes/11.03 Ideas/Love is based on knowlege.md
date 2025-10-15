@@ -11,7 +11,7 @@
 - Media sends a message that 2 strangers can fallin love without ever knowing each other, but this is not realistic or true
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > Understanding knowledge as an essential element of love is vital because we are daily bombarded with messages that tell us love is about mystery, about that which cannot be known. We see movies in which people are represented as being in love who never talk with one another, who fall into bed without ever discussing their bodies, their sexual needs, their likes and dislikes. Indeed, the message received from the mass media is that knowledge makes love less compelling; that it is ignorance that gives love its erotic and transgressive edge. These messages are often brought to us by profiteering producers who have no clue about the art of loving, who substitute their mystified visions because they do not really know how to genuinely portray loving interaction.

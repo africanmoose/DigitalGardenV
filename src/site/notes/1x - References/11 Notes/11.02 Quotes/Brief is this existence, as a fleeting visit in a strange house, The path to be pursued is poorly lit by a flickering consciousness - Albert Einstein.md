@@ -11,7 +11,7 @@
 Albert Einstein
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
 
 > But he knew that the aneurysm on his abdominal aorta should soon prove fatal, and he began to display a peaceful sense of his own mortality. When he stood at the graveside and eulogized the physicist Rudolf Ladenberg, who had been his colleague in Berlin and then Princeton, the words seemed to be ones he felt personally. 
 

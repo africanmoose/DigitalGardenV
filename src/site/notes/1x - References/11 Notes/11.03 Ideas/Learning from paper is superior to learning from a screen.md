@@ -11,7 +11,7 @@
 - The gap is significant - equivalent to 2/3rds of a years growth in reading comprehension for elementary students
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari\|Stolen focus - why you can't pay attention and how to think deeply again - Johann Hari]]
 
 ### Quotes
 > Anne has conducted studies that split people into two groups, where one is given information in a printed book, and the other is given the same information on a screen. Everyone is then asked questions about what they just read. When you do this, you find that people understand and remember less of what they absorb on screens. There’s broad scientific evidence for this now, emerging from fifty-four studies, and she explained that it’s referred to as ‘screen inferiority’. This gap in understanding between books and screens is big enough that in elementary-school children, it’s the equivalent of two-thirds of a year’s growth in reading comprehension.

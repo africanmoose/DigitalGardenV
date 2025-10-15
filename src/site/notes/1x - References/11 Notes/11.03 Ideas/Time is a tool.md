@@ -10,7 +10,7 @@
 - Do not always be quick to make a decision or to take an action. Time is an additional tool in your mental toolkit to deploy.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 - The blockade also embodied the wisdom of one of Kennedy’s favorite expressions: It used time as a tool. It gave both sides a chance to examine the stakes of the crisis and offered Khrushchev the opportunity to reevaluate his impression of Kennedy’s supposed weakness.

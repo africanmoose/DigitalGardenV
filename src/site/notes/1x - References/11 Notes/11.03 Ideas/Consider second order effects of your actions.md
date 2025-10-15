@@ -10,7 +10,7 @@
 - Example: If a few people stand on their tiptoes to see an event, then it ends up with everyone standing on their tiptoes. Everyone is worse off.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 
 ### Quotes
 > Warren Buffett used a very apt metaphor once to describe how the second-order problem is best described by a crowd at a parade: Once a few people decide to stand on their tip-toes, everyone has to stand on their tip-toes. No one can see any better, but they’re all worse off.

@@ -11,7 +11,7 @@
 - this applies to habits of money, food, exercise, expenses and so on.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Decision tool - What would my future self like\|Decision tool - What would my future self like]]

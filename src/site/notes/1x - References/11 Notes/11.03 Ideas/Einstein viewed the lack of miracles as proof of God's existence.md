@@ -10,7 +10,7 @@
 - “God who reveals himself in the harmony of all that exists.”
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
 
 ### Quotes
 > For some people, miracles serve as evidence of God’s existence. For Einstein it was the absence of miracles that reflected divine providence. The fact that the cosmos is comprehensible, that it follows laws, is worthy of awe. This is the defining quality of a “God who reveals himself in the harmony of all that exists.”

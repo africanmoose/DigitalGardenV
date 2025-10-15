@@ -11,7 +11,7 @@ Plan like a pessimist and dream like an optimist.
 Morgan Housel
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Debt also compounds like savings\|Debt also compounds like savings]]

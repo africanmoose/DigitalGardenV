@@ -11,7 +11,7 @@
 - The strengths and skills of our ancestors are a valuable part of us.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger\|The Gift - 12 Lessons to save your life - Edith Eger]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger\|The Gift - 12 Lessons to save your life - Edith Eger]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Great achievement is usually born of great sacrifice, and is never the result of selfishness - Napoleon Hill\|Great achievement is usually born of great sacrifice, and is never the result of selfishness - Napoleon Hill]]

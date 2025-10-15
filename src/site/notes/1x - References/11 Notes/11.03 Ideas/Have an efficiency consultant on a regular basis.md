@@ -10,7 +10,7 @@
 - this could be quarterly or semi-annually
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 
 ### Quotes
 > Another tactic we use at Leverage is a quarterly check-in with an efficiency consultant. Everyone at Leverage, regardless of their role, has a quarterly one-on-one meeting with an efficiency consultant who simply takes a quick look through their tools (Gmail, Asana, Slack, and so on) to see how they’re using them and whether they’re actually practicing what we preach. Think of it like a personal trainer for efficiency. This is not to micromanage or punish people who are doing a bad job; it’s more a chance for our consultants to give the team some guidance and make sure people are using our tools efficiently. I realize most companies don’t have efficiency consultants, but it could be worth appointing a tech-savvy individual to lead a quarterly or yearly systems check-in with your team. Inbox Zero is a perfect place to start.

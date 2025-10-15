@@ -13,7 +13,7 @@ Having a molten interior helps create the atmosphere
 - The elements of the earth are in teh right proportions
 - We have a large moon (which is unusual) but it steadies our orbit which is important for life
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Solar system is perfect. Gorgeous. Its almost uncanny - Geoffrey Marcy\|Solar system is perfect. Gorgeous. Its almost uncanny - Geoffrey Marcy]]

@@ -13,11 +13,11 @@
 - Move your phone physically to another room while working
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Pay attention to what you are doing - Nadia Boulanger\|Pay attention to what you are doing - Nadia Boulanger]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal\|Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal\|Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal]]
 - [[1x - References/11 Notes/11.03 Ideas/Distractions increase our cognitive load\|Distractions increase our cognitive load]]
 - [[1x - References/11 Notes/11.03 Ideas/Distraction can come from within our own mind\|Distraction can come from within our own mind]]
 - [[1x - References/11 Notes/11.03 Ideas/Eliminate distractions to learn something new\|Eliminate distractions to learn something new]]

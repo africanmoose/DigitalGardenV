@@ -10,7 +10,7 @@
 - The more advertised, the more overpriced it is
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > "Do the maths. Totally invert one of the most basic strategies of advertising by practising this simple habit: when you see a lot of ads for something, consider that a large chunk of the price of that product is paying for those ads, rather than for product quality or value. By this logic, the more it is advertised, the more overpriced it is."

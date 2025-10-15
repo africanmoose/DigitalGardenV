@@ -10,7 +10,7 @@
 - Similar to the idea that bad publicity is better than no publicity.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 
 ### Quotes
 But what if people hate it? Good. The distance between love and hate is a lot shorter than the gulf between apathy and passion. If they hate your stuff, if your message rubs them the wrong way, at least they care about you and your idea. Breaking through from indifference to attention is more than half the battle

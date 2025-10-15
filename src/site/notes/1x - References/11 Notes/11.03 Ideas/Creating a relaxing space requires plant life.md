@@ -10,7 +10,7 @@
 - If you can't have plant life in the space, at least let it have a view of nature somewhere
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 
 ### Quotes
 > Creating a space where you can relax and clear your mind requires adequate plant life. If your decking area or terrace faces out towards your garden, you should always keep that garden nicely kept. If it doesn’t, you should get hold of subtle plants and greenery to bring a feeling of nature to your surroundings.

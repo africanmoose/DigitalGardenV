@@ -10,7 +10,7 @@
 - It also encourages to open up more
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Researchers found that laughing with someone is one of the best catalysts for connection. This is because laughter is a shared positive experience that also stimulates feel-good endorphins. Laughter makes us more open and encourages us to open up.

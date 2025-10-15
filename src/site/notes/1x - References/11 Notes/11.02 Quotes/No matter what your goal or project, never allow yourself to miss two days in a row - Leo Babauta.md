@@ -10,7 +10,7 @@ No matter what your goal/project, never allow yourself to miss two days in a row
 Leo Babauta
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Consistency always beats sporadicness - James Clear\|Consistency always beats sporadicness - James Clear]]

@@ -12,7 +12,7 @@
 - "I did not sing well because of ...." vs "I am not a good singer"
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Praise effort and not intelligence\|Praise effort and not intelligence]]

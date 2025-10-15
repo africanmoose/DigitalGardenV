@@ -10,7 +10,7 @@
 - When we travel frugally, we are more likely to use local transport, eat local food and stay in non-international chain hotels
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > The marvellous thing about frugal travel is the way that it compels you to get more intimate with wherever you visit. You’re in a foreign land. You take the cheap local bus instead of the tourist bus, and experience the full range of ukulele buskers and tamarind candy vendors that pile aboard at every stop. Sure, the bus goes more slowly and winds around a lot, but that just gives you a chance to really absorb the scenery, or get a peek at streets you probably would never have gone down otherwise. You eat at cheap local food stalls instead of tourist restaurants. Not only do you discover a passion for sweet and sour catfish, but you get taught some regional slang that brings the house down every time you try it out.

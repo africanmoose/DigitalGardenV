@@ -11,7 +11,7 @@
 - View them as an inspiration rather than comparing ourselves to them unfavorably.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 
 ### Quotes
 - "There will always be some people whoexperience or knowledge than us in a particular field at a particular moment in time. We can choose to look at this as a reflection of lack in ourselves, or an opportunity for inspiration from them."

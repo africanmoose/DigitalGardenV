@@ -11,7 +11,7 @@
 - Don't keep track of who owes what. Nobody cares
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > Contribute. It's like Miracle-Gro for networks. Give your time, money, and expertise to your growing community of friends.

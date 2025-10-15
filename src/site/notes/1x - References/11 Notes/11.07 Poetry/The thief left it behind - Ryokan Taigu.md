@@ -17,5 +17,5 @@ at my window.
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Look at things through new eyes to recognize beauty\|Look at things through new eyes to recognize beauty]]
 - [[1x - References/11 Notes/11.03 Ideas/Save beautiful and special moments in your memory\|Save beautiful and special moments in your memory]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 - [[1x - References/11 Notes/11.05 Persons/Ryokan Taigu\|Ryokan Taigu]]

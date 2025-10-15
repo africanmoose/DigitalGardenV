@@ -13,7 +13,7 @@
 - Follow up and keep them updated afterwards
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 If you have any anxieties of this sort, the first thing to understand is that experts love sharing what they’ve learned when they know it’ll make a difference. Helping others achieve their goals is one of the things that make life and work meaningful. To put it in perspective, think of a time in your life when someone asked you for help on something you excel at, and you came through for them. How did it feel? For most of us, sharing expertise feels pretty good. We enjoy exercising an ability we have, and we also enjoy gaining recognition for having it.

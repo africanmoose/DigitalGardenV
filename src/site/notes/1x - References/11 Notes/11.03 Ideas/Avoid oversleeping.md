@@ -11,7 +11,7 @@
 - Oversleeping can have detrimental effects: lowered immunity, poor mental health, and other potentially chronic diseases
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 - [sleep foundation](https://www.sleepfoundation.org/how-sleep-works/oversleeping)
 
 ### Quotes

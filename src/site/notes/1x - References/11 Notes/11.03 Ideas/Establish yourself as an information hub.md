@@ -11,7 +11,7 @@
 - Volunteer key information
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > Once you've created an opportunity to meet new people, establish yourself as an "information hub"—a key role of any good networker. How? Go beyond just memorizing the conference's brochure. Identify information the people around you would like to know, and come prepared. This might include information about trade gossip, the best local restaurants, private parties, etc. Pass key information along, or let others know how they can obtain it. This role does not end with the networking event, of course. As an information resource, you're someone always worth knowing

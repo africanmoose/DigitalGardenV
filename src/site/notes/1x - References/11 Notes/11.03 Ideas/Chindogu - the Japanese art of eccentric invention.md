@@ -23,7 +23,7 @@
 	10. Chindogu for All: Chindogu are without prejudice. All should have a free and equal chance to enjoy each and every Chindogu.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan\|How to Win Friends and Influence Fungi - Collected Quirks of Science, Tech, Engineering, and Math from Nerd Nite - Christ Balakrishnan]]
 
 ### Quotes
 > The chopstick fan. A baby mop onesie. Solar-powered flashlights. A toilet paper tissue hat.

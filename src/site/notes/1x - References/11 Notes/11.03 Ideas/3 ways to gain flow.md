@@ -15,7 +15,7 @@
 - If you are doing something difficult, you cannot slip into boredom or auto pilot. If it is too difficult it will be too intimidating
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom\|Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom\|Brandwashed - Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy - Martin Lindstrom]]
 
 ### Quotes
 > Mihaly’s studies identified many aspects of flow, but it seemed to me –as I read over them in detail – that if you want to get there, what you need to know boils down to three core components. 
@@ -27,7 +27,7 @@
 > Thirdly, it will help if you are doing something that is at the edge of your abilities, but not beyond them. If the goal you choose is too easy, you’ll go into autopilot – but if it’s too hard, you’ll start to feel anxious and off-kilter and you won’t flow either. Picture a rock climber who has medium-ranking experience and talent. If she clambers up any old brick wall at the back of a garden, she’s not going to get into flow because it’s too easy. If she’s suddenly told to climb the side of Mount Kilimanjaro, she won’t get into flow either because she’ll freak out. When she needs is a hill or mountain that is, ideally, slightly higher and harder than the one she did last time.
 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
 - [[1x - References/11 Notes/11.03 Ideas/Being in flow leads to being five times more productive\|Being in flow leads to being five times more productive]]
 - [[1x - References/11 Notes/11.03 Ideas/Creation of art leads to a state of flow\|Creation of art leads to a state of flow]]
 - [[1x - References/11 Notes/11.03 Ideas/Focus is a force multiplier\|Focus is a force multiplier]]

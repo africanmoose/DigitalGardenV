@@ -11,7 +11,7 @@
 - The second is the goal of pursuing information - growth rather than ego. Ego leads people to reject new information because it may threaten their image.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 Sponginess was the first thing that stood out to me about Mellody too. I first met her a decade ago, when I was invited to give a presentation on my research to a group of VIPs. When I walked into the room, I recognized multiple Oscar-winning filmmakers and tech billionaires. It was Mellody who asked the most questions—and she was the only one to take notes. When it came to seeking and soaking up information, she was in a league of her own. Her engagement was more than curiosity: she had unusual levels of what social scientists call absorptive capacity. Absorptive capacity is the ability to recognize, value, assimilate, and
@@ -20,7 +20,7 @@ apply new information. It hinges on two key habits. The first is how you acquire
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Growth Mindset\|Growth Mindset]]
 - [[1x - References/11 Notes/11.03 Ideas/Beginners mindset\|Beginners mindset]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning skills takes time\|Learning skills takes time]]
 - [[1x - References/11 Notes/11.02 Quotes/Learning Machine - Charlie Munger\|Learning Machine - Charlie Munger]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning something new is good for your brain\|Learning something new is good for your brain]]

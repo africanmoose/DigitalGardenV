@@ -16,7 +16,7 @@
 - Any handful of soil will contain up to 10 billino bacteria, and maybe a million yeasts, 200,000 molds and 10,000 protozoans
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 
 ### Quotes
 - "By way of thanks, they give you B.O."

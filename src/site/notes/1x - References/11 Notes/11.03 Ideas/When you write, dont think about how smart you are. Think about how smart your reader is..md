@@ -11,7 +11,7 @@
 - The same applies to words or concepts that they may not be familiar with.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 
 ### Quotes
 > Remember that when you write, the language you have to work with is not your entire vocabulary, but only that portion of it that you share with the reader. Just because you speak Portuguese doesn’t mean you should pepper your story with Portuguese phrases. This reminder goes not just for words but for historical allusions and the like. When you write, don’t think about how smart you are; think about how smart your reader is. To do that you must visualize him or her. Imagine your reader in the room with you. What is his education? What are his attitudes? How important is this particular story to him? Write as if you were in conversation with your readers. Listen to the dialogue that would occur. Are your readers going to stop you and say, “Wait a minute. Wait a minute. What’s a grumdocle?” If they are, then don’t use grumdocle, or explain it when you do.

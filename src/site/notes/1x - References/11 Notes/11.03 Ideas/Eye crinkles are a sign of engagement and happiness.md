@@ -10,7 +10,7 @@
 - Also known as crows feet
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Eye crinkles: You might be surprised to learn that the only true indicator of happiness is when those eye crinkles (also known as crow’s-feet) appear on the sides of someone’s eyes. When you see these, that person is feeling engaged and positive

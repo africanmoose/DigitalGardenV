@@ -16,7 +16,7 @@
 - Allow for 'low-cost/high-return' course corrections
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Need to do reviews\|Need to do reviews]]

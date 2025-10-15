@@ -10,7 +10,7 @@
 John Shedd
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Try new paths\|Try new paths]]

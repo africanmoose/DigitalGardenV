@@ -12,7 +12,7 @@
 - A slow triple nod is best
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards\|Cues - Master the Secret Language of Charismatic Communication - Vanessa Van Edwards]]
 
 ### Quotes
 > Most people, when trying to hear something more clearly, tilt their head to the side to expose their ear. Because of this instinct, a head tilt cue shows interest and curiosity. People who tilt their head during conversations immediately increase their likability and thus their wow factor

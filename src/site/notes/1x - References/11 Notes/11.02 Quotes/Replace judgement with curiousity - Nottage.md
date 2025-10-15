@@ -10,7 +10,7 @@
 Lynn Nottage, playwright
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Judgement of others reflects more about how I view myself than how I view them\|Judgement of others reflects more about how I view myself than how I view them]]

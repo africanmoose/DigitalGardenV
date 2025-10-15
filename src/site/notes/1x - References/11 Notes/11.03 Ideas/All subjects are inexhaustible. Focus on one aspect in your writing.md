@@ -11,7 +11,7 @@
 - It should be an idea that can be explored fully 
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 
 ### Quotes
 > Do not try to write everything about your subject. All subjects are inexhaustible. If you try to write on every aspect of your subject, you will ramble. You will get lost in the writing, your wastebasket will overflow, and you will become a crazy person. Tie yourself to a specific idea about your subject, some aspect that is manageable. That aspect is called the slant. Here are some examples.

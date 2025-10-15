@@ -14,7 +14,7 @@
 - Heidi Huhn 'inbox zero' class, 2024-07
 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
 - [[1x - References/11 Notes/11.02 Quotes/There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman\|There was a day when I looked up and realised that I had become someone who professionally replied to email, and who wrote as a hobby - Neil Gaiman]]
 - [[9x - Work/97 Basic Needs Basic Rights/97.08 inbox zero class/inbox zero outline\|inbox zero outline]]
 - [[1x - References/11 Notes/11.03 Ideas/Our inboxes should be habitually emptied\|Our inboxes should be habitually emptied]]

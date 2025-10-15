@@ -13,7 +13,7 @@
 
 ### References
 - [Art of manliness](https://www.artofmanliness.com/character/advice/7-japanese-concepts-that-can-improve-your-life/)
-- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 
 ### Quotes
 > Know just how much food is enough. Aim to stop when you are about 80 per cent full. If you make sure to truly enjoy each bite of food, you may find that you feel full and satisfied much sooner. Learn to do this and you will never overeat again.

@@ -13,7 +13,7 @@
 - The principle works for work planning and writing out the next action for our projects
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Prepare heart like Ezra\|Prepare heart like Ezra]]

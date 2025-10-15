@@ -11,7 +11,7 @@ We choose to go to the moon. We choose to go to the moon in this decade and do t
 J. F. Kennedy
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 - [full speech](https://www.rice.edu/jfk-speech)
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Want-to goals are more achievable than have-to goals\|Want-to goals are more achievable than have-to goals]]

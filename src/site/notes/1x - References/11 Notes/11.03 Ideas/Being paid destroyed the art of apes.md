@@ -11,7 +11,7 @@
 - Are we making our art change to keep teh money coming in?
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Practice any art to make your soul grow\|Practice any art to make your soul grow]]

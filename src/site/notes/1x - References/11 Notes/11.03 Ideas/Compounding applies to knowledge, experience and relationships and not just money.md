@@ -12,7 +12,7 @@
 - if we build on our skills by cointinually improving them, we become significantly more capable in life
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 ### Quotes
 > Knowledge, experience, and relationships compound. When it comes to our personal capabilities, there are few limits to the possibilities suggested by this model. As with compound interest, most of the gains come at the end, not at the beginning. You have to keep reinvesting your returns to experience the exponential growth that is compounding.

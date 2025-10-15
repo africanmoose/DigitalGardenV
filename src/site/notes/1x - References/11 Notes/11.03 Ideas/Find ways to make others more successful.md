@@ -10,7 +10,7 @@
 - Give more than you get
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > I learned that real networking was about finding ways to make other people more successful. It was about working hard to give more than you get. And I came to believe that there was a litany of toughminded principles that made this softhearted philosophy possible.

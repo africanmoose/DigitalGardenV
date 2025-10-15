@@ -11,7 +11,7 @@
 - Be fair: include the opinions of those who dont agree with you
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost\|100 Ways to Improve Your Writing - Proven Professional Techniques for Writing With Style and Power - Gary Provost]]
 
 ### Quotes
 > Few things are duller than a man or woman without an opinion. Your opinion is not always appropriate, but often it is the thing that gives writing its life and color. In fact, it is frequently dishonest to hide your opinion because it will find its way into your writing anyhow by influencing your choice of what material to include and what to ignore. I often color my stories with my opinion. I think it makes for moreinteresting writing. But I try to be fair, also. If I put my opinion into the story, I also include opinions of people who don’t agree with me

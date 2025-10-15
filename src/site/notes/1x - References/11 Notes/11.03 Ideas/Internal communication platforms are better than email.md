@@ -13,7 +13,7 @@
 - Openness allows for oversight to be aware of what is going on and what challenges users are facing.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 
 ### Quotes
 > So what’s the big deal about these internal communication platforms? Well, whether you want to set your team up for remote work or simply communicate more efficiently, an internal communication tool is a necessary part of your tech stack. At a high level, they provide a few key benefits:

@@ -10,7 +10,7 @@
 - This could apply to relationships, jobs, material things
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Year of Less - Cait Flanders\|The Year of Less - Cait Flanders]]
 
 ### Quotes
 > One lesson I’ve learned countless times over the years is that whenever you let go of something negative in your life, you make room for something positive. Releasing the toxic relationship with Chris that had once gripped me opened my eyes to the fact that I could, in fact, go back to school and pursue some of my dreams. Leaving my job in the public sector gave me the opportunity to see that I could write for a living. Even doing something as simple as choosing not to finish a book I didn’t like gave me more time to read books I loved. And putting less energy into the friendships with people who didn’t understand me gave me more energy to put into the friendships with people who did.

@@ -13,7 +13,7 @@
 - Assuming I am below average allows me to learn from everyone instead of thinking they are stupid.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Overconfidence Bias\|Overconfidence Bias]]

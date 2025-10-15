@@ -10,7 +10,7 @@ Rare indulgence produces greater pleasure.
 Juvenal
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Hedonic adaptation - We quickly become accustomed to any new source of pleasure\|Hedonic adaptation - We quickly become accustomed to any new source of pleasure]]

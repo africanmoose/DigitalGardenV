@@ -13,7 +13,7 @@
 - ignoring cultural conventions allows you to be interesting
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > This is far from an essential step to frugality, but having more personality is a seriously excellent substitute for constructing a persona via consumption patterns (like what you own, wear, eat and drive; where you live and holiday). You don’t have to become one of those old men who get about in bare feet and a pinstripe suit with a six-foot python wrapped about their necks, but you do have to hone-in on things you’re interested in and pursue them, develop your own opinions, or let some of those quirks and eccentricities that you may have been suppressing blossom into visible traits. People love to gossip, so give them that gift by being worthy of it! Cultivate blithe disregard for a couple of your least favourite cultural conventions – it makes people feel less embarrassed about their own shortfalls by comparison! Be simultaneously stupendous in some other regards, and you’ve got yourself a package.

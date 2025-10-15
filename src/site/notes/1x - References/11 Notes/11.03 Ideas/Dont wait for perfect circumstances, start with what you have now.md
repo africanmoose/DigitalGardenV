@@ -10,7 +10,7 @@
 - Waiting for perfect circumstances will never come
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Quotes
 One foundation of effectuation is the ‘bird in hand’ principle: ‘Start with your means. Don’t wait for the perfect opportunity. Start taking action, based on what you have readily available: what you are, what you know and who you know

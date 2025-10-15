@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-frugal-hedonist-expects-that-life-will-be-a-multi-coloured-journey-of-pleasures-and-struggles-and-joy-and-death-and-adventure-and-boredom-and-epiphany-and-love-and-loss-annie-raser-rowland/","title":"The Frugal Hedonist expects that life will be a multi-coloured journey of pleasures and struggles and joy and death and adventure and boredom and epiphany and love and loss - Annie Raser-Rowland","created":"2025-09-07T22:01:27.576+03:00","updated":"2025-09-07T22:05:49.089+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-frugal-hedonist-expects-that-life-will-be-a-multi-coloured-journey-of-pleasures-and-struggles-and-joy-and-death-and-adventure-and-boredom-and-epiphany-and-love-and-loss-annie-raser-rowland/","title":"The Frugal Hedonist expects that life will be a multi-coloured journey of pleasures and struggles and joy and death and adventure and boredom and epiphany and love and loss - Annie Raser-Rowland","created":"2025-09-07T22:01:27.576+03:00","updated":"2025-09-08T09:03:59.320+03:00"}
 ---
 
 
@@ -10,7 +10,7 @@ The Frugal Hedonist expects that life will be a multi-coloured journey of pleasu
 Annie Raser-Rowland, Adam Grubb
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/On life - Ernest Hemmingway\|On life - Ernest Hemmingway]]

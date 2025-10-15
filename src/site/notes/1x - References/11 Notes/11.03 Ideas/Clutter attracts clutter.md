@@ -11,9 +11,9 @@
 - by contrast a clean area will discourage adding any clutter to it
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]

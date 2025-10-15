@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-10-05T11:34:09.848+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-10-15T22:11:30.392+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20250930_162402764 copy.jpg](/img/user/PXL_20250930_162402764%20copy.jpg)
-Nothing better than sunset pictures from a plane over the Sahara
+![PXL_20250928_211023200 copy 2.jpg](/img/user/PXL_20250928_211023200%20copy%202.jpg)
+The always excellent Brooklyn Bridge
 
 # What is this site for?
 
@@ -50,14 +50,14 @@ Nothing better than sunset pictures from a plane over the Sahara
 
 # Book Reviews
 
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to keep your cool - Seneca\|How to keep your cool - Seneca]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Creativity - A Short and Cheerful Guide - John Cleese\|Creativity - A Short and Cheerful Guide - John Cleese]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Managing up - How to get what you need from the people in charge - Melody Wilding\|Managing up - How to get what you need from the people in charge - Melody Wilding]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
-- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Flinch - Julien Smith\|The Flinch - Julien Smith]]
-- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
@@ -66,7 +66,6 @@ Nothing better than sunset pictures from a plane over the Sahara
 - Working on a book on productivity
 - Processing _Vera Rubin  observatory_
 - Processing _Henry Singleton_
-- Processing _Creativity - John Cleese_
 - Processing _Whale fall_
 - Processing _Anna Wintour_
 

@@ -12,7 +12,7 @@
 - greater the intensity the bigger the improvements, until the point of diminishing returns.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Distractions increase our cognitive load\|Distractions increase our cognitive load]]

@@ -10,7 +10,7 @@
 Margaret Atwood 
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Good and evil both increase at compound interest - C.S. Lewis\|Good and evil both increase at compound interest - C.S. Lewis]]

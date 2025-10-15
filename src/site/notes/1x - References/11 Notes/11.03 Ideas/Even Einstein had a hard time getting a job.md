@@ -10,7 +10,7 @@
 - He wrote to his friend Marcel Grossman: "I leave no stone unturned and do not give up my sense of humor. God created the donkey and gave him a thick skin"
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Einstein - His Life and Universe - Walter Isaacson\|Einstein - His Life and Universe - Walter Isaacson]]
 
 ### Quotes
 > Both in Zurich and then in Milan, Einstein churned out job-seeking letters, ever more pleading, to professors around Europe. They were accompanied by his paper on the capillary effect, which proved not particularly impressive, he rarely even received teh courtesy of a response. "I will soon have graced every physicist from the Norht Sea to the southern tip of Italy with my offer," he wrote Maric.

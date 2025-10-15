@@ -11,7 +11,7 @@
 - We still need to do the work to get the basic knowlege of a subject to become expert
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
 
 ### Quotes
 > This is the paradox of knowledge acquisition in the age of AI: we may think we don’t need to work to memorize and amass basic skills, or build up a storehouse of fundamental knowledge—after all, this is what the AI is good at. Foundational skills, always tedious to learn, seem to be obsolete. And they might be, if there was a shortcut to being an expert. But the path to expertise requires a grounding in facts.
@@ -22,8 +22,8 @@
 
 
 ### Related
-- [[0x - System/01 Index/01.02 Inbox/AI tools\|AI tools]]
+- [[4x - Reading and Learning/45 Learning/45.02 AI Learning/AI tools\|AI tools]]
 - [[1x - References/11 Notes/11.03 Ideas/Use AI as a tool or co-editor\|Use AI as a tool or co-editor]]
 - [[1x - References/11 Notes/11.03 Ideas/Experts tend to perceive underlying principles to solve problems\|Experts tend to perceive underlying principles to solve problems]]
 - [[1x - References/11 Notes/11.03 Ideas/Characteristics of expertise\|Characteristics of expertise]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]

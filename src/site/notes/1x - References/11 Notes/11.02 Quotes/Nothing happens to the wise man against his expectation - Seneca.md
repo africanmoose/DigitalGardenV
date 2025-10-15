@@ -10,7 +10,7 @@
 Seneca
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Short speech needs preparation - Winston Churchill\|Short speech needs preparation - Winston Churchill]]

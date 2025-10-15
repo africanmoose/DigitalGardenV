@@ -10,7 +10,7 @@
 - We must be open to other perspectives (or other peoples opinions) if we are to understand a system that we are inside of.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Vol 1 - Shane Parrish\|The Great Mental Models Vol 1 - Shane Parrish]]
 
 ### Quotes
 > The first flaw is perspective. We have a hard time seeing any system that we are in. Galileo had a great analogy to describe the limits of our default perspective. Imagine you are on a ship that has reached constant velocity (meaning without a change in speed or direction). You are below decks and there are no portholes. You drop a ball from your raised hand to the floor. To you, it looks as if the ball is dropping straight down, thereby confirming gravity is at work. Now imagine you are a fish (with special x-ray vision) and you are watching this ship go past. You see the scientist inside, dropping a ball. You register the vertical change in the position of the ball. But you are also able to see a horizontal change. As the ball was pulled down by gravity it also shifted its position east by about 20 feet. The ship moved through the water and therefore so did the ball. The scientist on board, with no external point of reference, was not able to perceive this horizontal shift. This analogy shows us the limits of our perception. We must be open to other perspectives if we truly want to understand the results of our actions. Despite feeling that we’ve got all the information, if we’re on the ship, the fish in the ocean has more he can share.

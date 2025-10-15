@@ -12,7 +12,7 @@
 - Similar to leaving space in front of you on the highway giving us extra options if there is any unexpected event. This is the same as giving as many options as far ahead as we can.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 The asap principle: If the cost to undo the decision is low, make it as soon as possible.

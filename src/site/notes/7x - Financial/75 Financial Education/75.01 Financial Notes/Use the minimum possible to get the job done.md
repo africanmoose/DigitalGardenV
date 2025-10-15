@@ -19,7 +19,7 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism gives us space to see farther\|Minimalism gives us space to see farther]]
 - [[5 Steps to Simplify Your Healthy Eating—Women’s Health Network\|5 Steps to Simplify Your Healthy Eating—Women’s Health Network]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Spend less than you earn\|Spend less than you earn]]

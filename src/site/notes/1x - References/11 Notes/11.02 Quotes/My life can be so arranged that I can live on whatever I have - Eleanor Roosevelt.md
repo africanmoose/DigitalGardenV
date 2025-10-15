@@ -11,7 +11,7 @@ My life can be so arranged that I can live on whatever I have. If I cannot live 
 - [[1x - References/11 Notes/11.05 Persons/Eleanor Roosevelt\|Eleanor Roosevelt]]
 
 ## Reference
-- [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 
 ## Related
 - [[Simple dollar Rule 1 - Spend less than you earn\|Simple dollar Rule 1 - Spend less than you earn]]

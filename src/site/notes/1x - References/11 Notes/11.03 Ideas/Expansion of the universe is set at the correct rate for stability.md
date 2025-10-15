@@ -10,7 +10,7 @@
 - If the strength of gravity was slightly higher, the universe would collapse in on itself. If it was too weak, matter would not be able to form into stars and planets.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
 - See also Astrophysics: A very short introduction by James Binney
 
 ### Quotes

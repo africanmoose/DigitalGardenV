@@ -10,7 +10,7 @@
 - In reality, it may have been the first move, or a much earlier decision or action that led to a failure later on
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/This is Strategy - Seth Godin\|This is Strategy - Seth Godin]]
 
 ### Quotes
 > When the deal falls apart, the team loses the game, or a partnership hits the rocks, it’s easy to focus our energy on the most recent event.

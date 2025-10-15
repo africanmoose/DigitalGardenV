@@ -11,7 +11,7 @@
 - If we are ongoing in our commitment to constructive struggle and change, it results in love flourishing
 
 ### References
-- [[4x - Reading and Learning/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > True love accepts the person who now is without qualifications, but with a sincere and unwavering commitment to help him to achieve his goals of self-unfoldment—which we may see better than he does.” Most of the time, we think that love means just accepting the other person as they are. Who among us has not learned the hard way that we cannot change someone, mold them and make them into the ideal beloved we might want them to be. Yet when we commit to true love, we are committed to being changed, to being acted upon by the beloved in a way that enables us to be more fully self-actualized. This commitment to change is chosen. It happens by mutual agreement. Again and again in conversations the most common vision of true love I have heard shared was one that declared it to be “unconditional.” True love is unconditional, but to truly flourish it requires an ongoing commitment to constructive struggle and change.

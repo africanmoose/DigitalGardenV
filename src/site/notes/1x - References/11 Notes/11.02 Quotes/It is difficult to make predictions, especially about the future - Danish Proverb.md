@@ -10,7 +10,7 @@
 Danish proverb
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Plant seeds for the future\|Plant seeds for the future]]

@@ -13,7 +13,7 @@
 - Being aware of feedback loops allow us to improve in our next iteration
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
 
 ### Quotes
 > There are two basic types of feedback loops: balancing and reinforcing, which are also called negative and positive. Balancing feedback loops tend toward an equilibrium, while reinforcing feedback loops amplify a particular process. Your thermostat and heating system run on a balancing feedback loop. Information about the temperature of the house is communicated to the thermostat, which then adjusts the output of the furnace to maintain your desired temperature. Reinforcing feedback loops don’t counter change, like your thermostat does. Instead they keep the change going, as with the popularity of trends in fashion or the loops usually involved in poverty. Breaking out of reinforcing loops often requires outside intervention or a new change in conditions. Or they burn themselves out.

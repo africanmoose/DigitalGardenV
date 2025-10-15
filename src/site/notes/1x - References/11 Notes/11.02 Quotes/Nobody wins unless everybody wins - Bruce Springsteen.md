@@ -10,7 +10,7 @@
 Bruce Springsteen
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Collaboration vs compromise\|Collaboration vs compromise]]

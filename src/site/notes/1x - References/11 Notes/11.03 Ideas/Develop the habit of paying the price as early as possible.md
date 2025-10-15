@@ -11,7 +11,7 @@
 - Better to do something unpleasant like exercise now, and have a healthier body in the long run
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 Small irritating things tend to grow into bigger problems the longer you let them continue. Moreover, the longer the situation continues, the more difficult it is to resolve it.<br>For this reason, it’s important to develop a habit of paying the price as fast as possible: engage in something a little unpleasant today to resolve the situation before it gets worse and more difficult to handle|

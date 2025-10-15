@@ -10,7 +10,7 @@
 - While focussed on a screen, our mind cannot wander. see [[1x - References/11 Notes/11.03 Ideas/Give your mind time to wander to improve productivity\|Give your mind time to wander to improve productivity]]
 - The average American spends 51.8 hours staring at screens—that includes time in front of their smartphone, tablet, laptop, desktop computer, and TV—which averages out to 7 hours and 24 minutes of screen time every day.
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/The cure for boredom is curiosity. There is no cure for curiosity - Dorothy Parker\|The cure for boredom is curiosity. There is no cure for curiosity - Dorothy Parker]]

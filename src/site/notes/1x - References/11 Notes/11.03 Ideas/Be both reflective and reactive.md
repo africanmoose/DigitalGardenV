@@ -12,12 +12,12 @@
 - We can learn from our experiences by thinking about what is happening in our lives, and then act on what we learn going forward.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Think first and answer later\|Think first and answer later]]
 - [[1x - References/11 Notes/11.03 Ideas/Think about before making a decision\|Think about before making a decision]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 - [[5x - Arts/54 Writing/54.10 substack articles written/Long term thinking\|Long term thinking]]
 - [[1x - References/11 Notes/11.02 Quotes/Long term thinking - Sam Altman\|Long term thinking - Sam Altman]]
 - [[1x - References/11 Notes/11.03 Ideas/Give yourself space for thinking\|Give yourself space for thinking]]

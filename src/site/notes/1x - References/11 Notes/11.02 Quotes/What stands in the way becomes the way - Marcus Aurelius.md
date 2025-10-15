@@ -10,8 +10,8 @@
 Roman Emperor Marcus Aurelius
 
 ## Reference
-- [[4x - Reading/41 Books/41.01 Book Notes/Meditations - Marcus Aurelius\|Meditations - Marcus Aurelius]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Meditations - Marcus Aurelius\|Meditations - Marcus Aurelius]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Any obstacle or set back should always be viewed as an opportunity\|Any obstacle or set back should always be viewed as an opportunity]]

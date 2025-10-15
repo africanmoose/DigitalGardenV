@@ -10,7 +10,7 @@ You can be more successful in two months by becoming really interested in other 
 Keith Ferrazzi
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Help people in small ways\|Help people in small ways]]

@@ -10,7 +10,7 @@
 - Look for opportunities for collaboration more than we look for competition.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ### Quotes
 > We commonly think of biological cooperation as a win-win arrangement for the parties involved. You have a need. Someone fills it in. In exchange, you fill one of their needs. You don’t require cooperation to survive, but with it the quality of your life improves. A shark doesn’t need little fish to clean its teeth in order to live that day, but overall the quality of the shark’s life is enhanced because clean teeth mean healthy teeth, which will give it more years to feed on prey. Cooperation significantly expands what’s possible, by creating emergent properties that have more power than the individual componen

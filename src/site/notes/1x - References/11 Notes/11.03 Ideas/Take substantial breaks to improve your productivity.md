@@ -13,7 +13,7 @@
 - Another study showed that the most productive workers took 52 min of work to 17 min of rest.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 In 2008, psychologists James Tyler and Kathleen Burns invited sixty undergraduate students into their lab. One by one, the students were asked to turn away from the researcher and begin a draining task: stand on one leg and count down by seven from 2000 (2000, 1993, 1986, 1979…) for six minutes. Students might have thought they were being tested on their

@@ -11,7 +11,7 @@
 - unethical behaviour diminishes our spirit and leads to unhappiness
 
 ### References
-- [[4x - Reading and Learning/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > know no one who has embraced a love ethic whose life has not become joyous and more fulfilling. The widespread assumption that ethical behavior takes the fun out of life is false. In actuality, living ethically ensures that relationships in our lives, including encounters with strangers, nurture our spiritual growth. Behaving unethically, with no thought to the consequences of our actions, is a bit like eating tons of junk food. While it may taste good, in the end the body is never really adequately nourished and remains in a constant state of lack and longing. Our souls feel this lack when we act unethically, behaving in ways that diminish our spirits and dehumanize others.

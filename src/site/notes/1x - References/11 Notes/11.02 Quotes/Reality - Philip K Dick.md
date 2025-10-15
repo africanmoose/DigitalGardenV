@@ -11,7 +11,7 @@ Philip. K. Dick
 
 ## Reference
 - I hope i shall arrive soon
-- [[4x - Reading/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Argue and win is to break down reality of person - Haruki Murakami\|Argue and win is to break down reality of person - Haruki Murakami]]

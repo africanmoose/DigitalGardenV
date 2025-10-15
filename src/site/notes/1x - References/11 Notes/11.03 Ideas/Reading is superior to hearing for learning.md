@@ -11,7 +11,7 @@
 - Same applied regardless of language.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 A fascinating demonstration comes from an experiment where students

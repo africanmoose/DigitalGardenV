@@ -10,7 +10,7 @@
 - Smile at people, greetings, conversation or a kind deed to those around us.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > Unlike other movements for social change that require joining organizations and attending meetings, we can begin the process of making community wherever we are. We can begin by sharing a smile, a warm greeting, a bit of conversation; by doing a kind deed or by acknowledging kindness offered us. Daily we can work to bring our families into greater community with one another. My brother was pleased when I suggested he think about moving to the same city where I live so that we could see each other more. It enhanced his feeling of belonging. And it made me feel loved that he wanted to be where I was. Whenever I hear friends talk about estrangement from family members, I encourage them to seek a path of healing, to seek the restoration of bonds.

@@ -11,7 +11,7 @@
 - This helps with business continuity when individuals leave your organization
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg\|Come Up for Air - How Teams Can Leverage Systems and Tools to Stop Drowning in Work - Nick Sonnenberg]]
 
 ### Quotes
 > Resources are ultimately broken down into two areas. The first is the creation of a knowledge base, or wiki, to house vital company information. Frequently asked questions like “What is our paid time off policy?” or “Where can I find our style guide?” are often answered by managers over and over again—a massive and unnecessary waste of time. Critical company information should always be stored and organized in a knowledge base that all employees have access to, so they can quickly find the information they need without distracting coworkers or managers. The second part of Resources is ensuring that all company processes are well documented. Essentially, this is like creating checklists for everything that needs to happen in a business where anyone can jump in to complete a process, even if it’s not their job. This makes processes faster and more consistent, reduces the risk of error, and opens the door to innovation, automation, and significant time savings. It also serves to mitigate business risks, as work can still continue even if core employees leave or get sick.

@@ -11,7 +11,7 @@
 - the earlier the better
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > Stating the terms of any agreement at the start is crucial. Don’t be bashful about naming your price or engaging in playful barter with a friend – if you know you’re playing fair, there’s nothing to feel awkward about. Honest confessions early in the piece of possibly unreasonable but non-negotiable personal pedantries are helpful too: 

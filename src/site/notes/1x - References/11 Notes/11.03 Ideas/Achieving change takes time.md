@@ -10,7 +10,7 @@
 - Obstacles like temptation, forgetfulness and laziness dont just go away overnight
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman\|How to change - The Science of Getting from Where You Are to Where You Want to Be - Katy Milkman]]
 
 ### Quotes
 >  Study after study (mine included) has shown that achieving transformative behavior change is more like treating a chronic disease than curing a rash. You can’t just slap a little ointment on it and expect it to clear up forever. The internal obstacles that stand in the way of change, which I’ve described in this book—obstacles such as temptation, forgetfulness, underconfidence, and laziness—are like the symptoms of a chronic disease. They won’t just go away once you’ve started “treating” them. They’re human nature and require constant vigilance.

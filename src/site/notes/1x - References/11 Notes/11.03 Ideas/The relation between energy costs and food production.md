@@ -11,7 +11,7 @@
 - factors that determine energy costs of food: fertilization and pesticide, irrigation, method of harvesting, processing, packaging, transport, retail, trip to buy food and cooking.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Energy - A Beginners Guide - Vaclav Smil\|Energy - A Beginners Guide - Vaclav Smil]]
 
 ### Quotes
 The energy costs of common foodstuffs range widely, due to different modes of production (such as intensity of fertilization and pesticide applications, use of rain-fed or irrigated cropping, or manual or mechanized harvesting) and the intensities of subsequent processing. The typical costs of harvested staples are around 0.1 toe/t for wheat, corn and temperate fruit, and at least 0.25 toe/t for rice. Produce grown in large greenhouses is most energy intensive; peppers and tomatoes cost as much as 1 kgoe/kg. Modern fishing has a similarly high fuel cost per kilogram of catch. These rates can be translated into interesting output/input ratios: harvested wheat contains nearly four times as much energy as it was used to produce it but the energy consumed in growing greenhouse tomatoes can be up to fifty times higher than their energy content. These ratios show the degree to which modern agriculture has

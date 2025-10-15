@@ -11,7 +11,7 @@
 - We need to listen in order to communicate well
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 - Few parental caregivers teach their children to lie. Yet continual lying, either through overt deception or withholding, is often deemed acceptable and excusable adult male behavior. Choosing to be honest is the first step in the process of love. There is no practitioner of love who deceives. Once the choice has been made to be honest, then the next step on love’s path is communication. Writing about the importance of listening in The Healing of America, Marianne Williamson calls attention to philosopher Paul Tillich’s insistence that the first responsibility of love is to listen: “We cannot learn to communicate deeply until we learn to listen, to each other but also to ourselves and to God. Devotional silence is a powerful tool, for the healing of a heart or the healing of a nation. . . . From there we move up to the next rung on the ladder of healing: our capacity to so communicate our authentic truth as to heal and be healed by its power.”

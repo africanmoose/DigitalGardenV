@@ -10,7 +10,7 @@ They're all in the same plane. They're all going around in the same direction...
 Astronomer Geoffrey Marcy on the solar system
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Universe was created perfectly for existence\|Universe was created perfectly for existence]]

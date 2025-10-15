@@ -11,7 +11,7 @@
 - There is a belief that if a relationship is not giving more to us than we give to it, it should be dropped
 
 ### References
-- [[4x - Reading and Learning/41 Books/41.01 Book Notes/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
 
 ### Quotes
 > Cynicism about love leads young adults to believe there is no love to be found and that relationships are needed only to the extent that they satisfy desires. How many times do we hear someone say “Well, if that person is not satisfying your needs you should get rid of them”? Relationships are treated like Dixie cups. They are the same. They are disposable. If it does not work, drop it, throw it away, get another. Committed bonds (including marriage) cannot last when this is the prevailing logic. And friendships or loving community cannot be valued and sustained.

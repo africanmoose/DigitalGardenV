@@ -11,11 +11,11 @@
 - How about our digital enviroment? control your virtual space
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 
 ### Related
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 - [[1x - References/11 Notes/11.03 Ideas/Our attitude makes all the difference\|Our attitude makes all the difference]]
 - [[1x - References/11 Notes/11.02 Quotes/Change environment changes behaviour\|Change environment changes behaviour]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovah created an environment where angels felt free to contribute\|Jehovah created an environment where angels felt free to contribute]]

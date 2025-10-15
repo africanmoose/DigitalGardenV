@@ -11,7 +11,7 @@
 - Learning new things may be uncomfortable, and that is ok.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/365 Days with Self-Discipline - Martin Meadows\|365 Days with Self-Discipline - Martin Meadows]]
 
 ### Quotes
 Choose to be prepared rather than ignorant. Know too much instead of too little. Practice your self-discipline by constantly expanding your knowledge — and don’t discontinue your self-education when the truth is uncomfortable or leads to difficult questions.

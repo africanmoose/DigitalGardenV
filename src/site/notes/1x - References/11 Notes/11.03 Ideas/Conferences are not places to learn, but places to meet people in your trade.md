@@ -11,7 +11,7 @@
 - Building relationships and friendships is more valuable to business - this can be started at conferences.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 
 ### Quotes
 > Their ill-tempered disposition toward these business gettogethers—and these executives are far from alone in holding such attitudes—stems from an all-too-common misperception that conferences are places to find insight. Wrong. Real, actionable insight mostly comes from experience, books, and other people. Roundtable discussions and keynote speeches can be fun, even inspirational, but rarely is there the time to impart true knowledge. But there may be no better place to extend your professional network and, on occasion, get deals done. Let me give you an example based on sales. In the old model of selling, 80 percent of a salesperson's time went into setting up meetings, giving a presentation, and trying to close a deal. The other 20 percent was spent developing a relationship with the customer. Today, we focus mostly on relationship selling. Smart salespeople—in fact, smart employees and business owners of all stripes—spend 80 percent of their time building strong relationships with the people they do business with. The slickest PowerPoint presentation can't compete with the development of real affection and trust in capturing the hearts and minds of other people.

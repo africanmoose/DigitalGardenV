@@ -11,7 +11,7 @@
 - If we find beauty in superficial things like material belongings, our happiness is doomed to fail
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 n Wednesday morning, February 23, 1944, Anne Frank climbed up to the attic above the annex where her family had been hiding for two long years to visit Peter, the young Jewish boy who lived with them. After Peter finished his chores, the two of them sat down at Anne’s favorite spot on the floor and looked out the small window to the world they had been forced to leave behind. Staring at the blue sky, the leafless chestnut tree below, birds swooping and diving in the air, the two were entranced to the point of speechlessness. It was so quiet, so serene, so open compared to their cramped quarters.

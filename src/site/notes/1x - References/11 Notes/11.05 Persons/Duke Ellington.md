@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/duke-ellington/","title":"Duke Ellington","created":"2024-01-20T12:48:30.000+03:00","updated":"2024-02-14T20:18:18.761+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/duke-ellington/","title":"Duke Ellington","created":"2025-10-14T15:48:37.579+03:00","updated":"2025-10-14T15:48:37.579+03:00"}
 ---
 
-
+![Duke Ellington.png](/img/user/1x%20-%20References/11%20Notes/11.05%20Persons/Duke%20Ellington.png)
 ### Summary
 - 1899-1974
 - Jazz composer, pianist and leader of jazz orchestra
@@ -17,7 +17,7 @@
 Duke Ellington was one of the few who ever actually took formal lessons, when he was seven, from the exuberantly named teacher Marietta Clinkscales. He lost interest immediately, before he learned to read notes, and quit music entirely to focus on baseball. In school, his interests were drawing and painting. (He later turned down a college art scholarship.) When he was fourteen, Ellington heard ragtime, and for the first time in seven years sat down at a piano and tried to copy what he had heard. “There was no connection between me and music, until I started fiddling with it myself,” he remembered. “As far as anyone teaching me, there was too many rules and regulations. . . . As long as I could sit down and figure it out for myself, then that was all right.” Even once he became arguably America’s preeminent composer, he relied on copyists to decode his personal musical shorthand into traditional musical notation.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [wikipedia](https://en.wikipedia.org/wiki/Duke_Ellington)
 
 ### Related

@@ -10,12 +10,12 @@
 - Anything that is not a useful part of your story should be eliminated.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann\|Simply Put - Why Clear Messages Win - and How to Design Them - Ben Guttmann]]
 - [wikipedia](https://en.wikipedia.org/wiki/Design)
 
 ### Quotes
 - Simple messages cut out all the stuff that doesn’t matter. Everything is there to get the point across, and anything else that’s a distraction is vigorously stripped away. Empty platitudes, useless fluff, anything that isn’t a necessary component of your story is another place to lose the receiver. You have only a small window to be heard, so don’t waste it. Design is not the same thing as decoration. Decoration is adding ornamentation to “pretty things up
 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/the four elements of simple design\|the four elements of simple design]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/the four elements of simple design\|the four elements of simple design]]
 - [[1x - References/11 Notes/11.03 Ideas/Steve Jobs course in typography informed later design for the mac\|Steve Jobs course in typography informed later design for the mac]]

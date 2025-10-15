@@ -10,12 +10,12 @@
 Bernard Malamud
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/If you have to discipline yourself to achieve art you discipline yourself - Bernard Malamud\|If you have to discipline yourself to achieve art you discipline yourself - Bernard Malamud]]
 - [[1x - References/11 Notes/11.02 Quotes/Practice any art to make your soul grow\|Practice any art to make your soul grow]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
 - [[1x - References/11 Notes/11.02 Quotes/Advice on writing - Alan Watts\|Advice on writing - Alan Watts]]
 - [[1x - References/11 Notes/11.06 Structure Notes/Notes on good writing\|Notes on good writing]]
 - [[1x - References/11 Notes/11.03 Ideas/Success a product of habit more than skill\|Success a product of habit more than skill]]

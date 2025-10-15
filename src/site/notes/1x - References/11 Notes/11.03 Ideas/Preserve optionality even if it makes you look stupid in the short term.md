@@ -10,7 +10,7 @@
 - Similar to shooting bullets and calibrating before shooting the big guns
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 Performing small, low-risk experiments on multiple options—in other words, shooting bullets and calibrating—keeps your options open before you commit the bulk of your resources to shooting a cannonball.

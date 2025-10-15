@@ -12,7 +12,7 @@
 - Superflous knowlege is worthless
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - "If You Have an Enemy, Give Him Information: Information Bias"

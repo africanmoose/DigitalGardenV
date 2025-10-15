@@ -16,8 +16,8 @@ opinions of others.
 Jack Schwager, The New Market Wizards
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell\|The Lazy Person's Guide to Investing - Paul Farrell]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell\|The Lazy Person's Guide to Investing - Paul Farrell]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Think about before making a decision\|Think about before making a decision]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Think smarter faster better - Charles Duhigg\|Think smarter faster better - Charles Duhigg]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Think smarter faster better - Charles Duhigg\|Think smarter faster better - Charles Duhigg]]

@@ -12,7 +12,7 @@
 - Also, you want to look for coaches and avoid critics.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Hidden Potential - Adam Grant\|Hidden Potential - Adam Grant]]
 
 ### Quotes
 It’s easy for people to be critics or cheerleaders. It’s harder to get them to be coaches. A critic sees your weaknesses and attacks your worst self. A cheerleader sees your strengths and celebrates your best self. A coach sees your potential and helps you become a better version of yourself.

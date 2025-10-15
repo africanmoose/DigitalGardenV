@@ -12,7 +12,7 @@
 - Lawyers use this as a strategy by trying to bury the opposition with paper.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ### Quotes
 In the modern world, this is not easy. In the 1990s, political scientists began to study what they called the “CNN Effect.” Breathless, twenty-four-hour media coverage makes it considerably harder for politicians and CEOs to be anything but reactive. There’s too much information, every trivial detail is magnified under the microscope, speculation is rampant—and the mind is overwhelmed. The CNN Effect is now a problem for everyone, not just presidents and generals. Each of us has access to more information than we could ever reasonably use. We tell ourselves that it’s part of our job, that we have to be “on top of things,” and so we give up precious time to news, reports, meetings, and other forms of feedback. Even if we’re not glued to a television, we’re still surrounded by gossip and drama and other distractions. We must stop this.

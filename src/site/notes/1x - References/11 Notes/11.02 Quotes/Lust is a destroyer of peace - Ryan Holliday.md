@@ -10,9 +10,9 @@ Lust is a destroyer of peace in our lives: Lust for a beautiful person. Lust for
 Ryan Holliday
 
 ## Reference
-[[4x - Reading/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Stillness is the key - Ryan Holiday\|Stillness is the key - Ryan Holiday]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Self-control\|Self-control]]
 - [[1x - References/11 Notes/11.03 Ideas/Narcissism\|Narcissism]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The narcissism epidemic - living in the age of entitlement\|The narcissism epidemic - living in the age of entitlement]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The narcissism epidemic - living in the age of entitlement\|The narcissism epidemic - living in the age of entitlement]]

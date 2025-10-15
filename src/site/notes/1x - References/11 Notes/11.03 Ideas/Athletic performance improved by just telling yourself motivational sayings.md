@@ -12,7 +12,7 @@
 - The second group significantly improved tehir performance, and the first group were exactly teh same as before
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 In 2014, scientists at Bangor University published results from a study into the power of self-talk. Each participant was tested on their ‘time to exhaustion’ – that is, how long they could cycle for before they felt unable to go on. Then, like our previous group of exhausted cyclists, they were left to ruminate for two weeks. This time, however, the second stage was different. When they returned to the bikes after a fortnight, they were divided into two groups. One got a positive self-talk intervention, where they were shown a series of motivational phrases, like ‘You’re doing well!’ and ‘You can push through this!’ and chose four of them to tell themselves while cycling. The other group got no such prompt. 

@@ -11,7 +11,7 @@
 - Interact with nature at whatever opportunity you get
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto\|A Monk's Guide to A Clean House & Mind - Shoukei Matsumoto]]
 
 ### Quotes
 > Cleaning is a way to converse with nature. If we keep this idea in mind, then it is clear that aspects of modern life such as air-conditioning, which creates the same environment throughout summer and winter, amount to a refusal to communicate with nature. Becoming used to this will surely lead to the weakening of the body and the mind. When it’s hot, it should be hot. When it’s cold, it should be cold. I think that sweating as you clean, while experiencing nature, is the secret to a healthy body and mind.

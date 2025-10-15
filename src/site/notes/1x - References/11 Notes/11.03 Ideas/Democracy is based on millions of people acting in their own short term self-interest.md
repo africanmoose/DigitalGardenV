@@ -12,7 +12,7 @@
 - Politiicans have no incentive to think long term beyond the next election cycle
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ### Quotes
 > One of the main challenges with incentives is that they are a factor everywhere: our needs, our wants, short-term interests, and long-term goals. On a basic survey of the people around us, humans do not generally appear to be able to prioritize incentives for deferred rewards over those that bring us immediate pleasure.

@@ -11,7 +11,7 @@
 - spending time with loved ones.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
 
 ### Quotes
 - This is a misconception about minimalism — that it’s necessarily monk-like, empty, boring, sterile. Not at all. Well, it can be, if you go in that direction, but I don’t advocate that flavor of minimalism. Instead, we are clearing away all but the most essential things — to make room for that which gives us the most joy. Clear away the distractions so we can create something incredible. Clear away all the obligations so we can spend time with loved ones. Clear away the noise so we can concentrate on inner peace, on spirituality (if we wish), on our thinking. As a result, there is more happiness, peace, and joy, because we’ve made room for these thing

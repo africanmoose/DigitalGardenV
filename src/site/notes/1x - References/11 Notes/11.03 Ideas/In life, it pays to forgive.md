@@ -10,7 +10,7 @@
 - Life is iterative and compounding. thus it pays to be positive and go first.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 2 - Physics, Chemistry and Biology\|The Great Mental Models Volume 2 - Physics, Chemistry and Biology]]
 
 ### Quotes
 > However, straightforward tit for tat is not as effective as the strategy known as tit for tat with forgiveness. This strategy involves occasionally cooperating in the face of defection. It is easy for two opponents to get stuck in a cycle of mutual defection from which they cannot escape unless and until one decides to cooperate. If both are using tit for tat, a cycle of mutual cooperation will then commence.

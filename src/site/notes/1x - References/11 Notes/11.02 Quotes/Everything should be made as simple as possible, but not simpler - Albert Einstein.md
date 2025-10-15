@@ -13,7 +13,7 @@ Albert Einstein
 ?
 
 ## Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Resist Simplicity - Stephen Carter\|Resist Simplicity - Stephen Carter]]
+- [[4x - Reading and Learning/41 Books/41.01 Book Notes/Resist Simplicity - Stephen Carter\|Resist Simplicity - Stephen Carter]]
 - [[1x - References/11 Notes/11.03 Ideas/Contempt for Simplicity\|Contempt for Simplicity]]
 - [[1x - References/11 Notes/11.02 Quotes/Making the simple complicated is commonplace - Charles Mingus\|Making the simple complicated is commonplace - Charles Mingus]]
 - [[1x - References/11 Notes/11.03 Ideas/Feynman technique of learning\|Feynman technique of learning]]

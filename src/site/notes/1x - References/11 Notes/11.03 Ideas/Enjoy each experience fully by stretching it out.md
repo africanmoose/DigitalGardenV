@@ -11,7 +11,7 @@
 - be focussed onthe moment to milk maixmum enjoyment
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 
 ### Quotes
 > By the way, we’re not inferring that you shouldn’t relish your paid-for consumption – in fact it will go much further if you do. Try ordering one espresso at a café and making it last for an hour. Revel in each drop of that oily black dynamite rolling around your taste buds. Have occasional sips of water to refresh the flavour. People-watch while you luxuriantly observe the shifts in your brain chemistry as the caffeine moves in. You’ll feel astounded to witness surrounding tables fill and empty as people hurriedly consume huge meals and multiple coffees, often leaving them unfinished as they pay up and move on, seemingly unmoved by the experience. Yet simply by milking the moment for all that it’s worth, you get to leave feeling like you just had a seriously decadent experience.

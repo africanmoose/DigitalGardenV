@@ -10,7 +10,7 @@
 - 130 participants were tracked by GPS as well as texts to see how they were feeling at the time. THose who went to more random places felt happier, more excited and more relaxed
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal\|Feel-Good Productivity - How to Do More of What Matters to You - Ali Abdaal]]
 
 ### Quotes
 In one 2020 experiment from New York University and the
