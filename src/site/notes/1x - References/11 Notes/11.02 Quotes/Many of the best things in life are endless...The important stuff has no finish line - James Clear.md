@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/many-of-the-best-things-in-life-are-endless-the-important-stuff-has-no-finish-line-james-clear/","title":"Many of the best things in life are endless...The important stuff has no finish line - James Clear","created":"2025-10-27T19:20:16.610+03:00","updated":"2025-10-27T19:22:39.672+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/many-of-the-best-things-in-life-are-endless-the-important-stuff-has-no-finish-line-james-clear/","title":"Many of the best things in life are endless...The important stuff has no finish line - James Clear","created":"2025-10-27T19:20:16.610+03:00","updated":"2025-10-27T20:39:14.854+03:00"}
 ---
 
 

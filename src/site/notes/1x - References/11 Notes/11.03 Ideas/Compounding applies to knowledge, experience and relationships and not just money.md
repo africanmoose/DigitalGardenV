@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/compounding-applies-to-knowledge-experience-and-relationships-and-not-just-money/","title":"Compounding applies to knowledge, experience and relationships and not just money","created":"2025-05-17T09:40:05.349+03:00","updated":"2025-06-09T18:28:38.420+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/compounding-applies-to-knowledge-experience-and-relationships-and-not-just-money/","title":"Compounding applies to knowledge, experience and relationships and not just money","created":"2025-11-10T14:12:54.277+03:00","updated":"2025-11-10T14:12:54.277+03:00"}
 ---
 
 
@@ -10,6 +10,7 @@
 - SImilar to money, a lot of the gains come at the end not the beginning
 - you must keep reinvesting to experience the exponential growth
 - if we build on our skills by cointinually improving them, we become significantly more capable in life
+- compounding means that a 10% greater commitment doesnt give you 10% better results, but 10x better results.
 
 ### References
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]
@@ -24,4 +25,5 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Small changes pay compound interest in the long run\|Small changes pay compound interest in the long run]]
-- 
+- [[1x - References/11 Notes/11.03 Ideas/Debt also compounds like savings\|Debt also compounds like savings]]
+- [[1x - References/11 Notes/11.03 Ideas/Small changes pay compound interest in the long run\|Small changes pay compound interest in the long run]]
