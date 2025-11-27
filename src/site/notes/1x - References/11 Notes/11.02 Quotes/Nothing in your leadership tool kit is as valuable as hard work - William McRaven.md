@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/nothing-in-your-leadership-tool-kit-is-as-valuable-as-hard-work-william-mc-raven/","title":"Nothing in your leadership tool kit is as valuable as hard work - William McRaven","created":"2025-11-10T22:41:51.712+03:00","updated":"2025-11-10T22:43:24.182+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/nothing-in-your-leadership-tool-kit-is-as-valuable-as-hard-work-william-mc-raven/","title":"Nothing in your leadership tool kit is as valuable as hard work - William McRaven","created":"2025-11-10T22:41:51.712+03:00","updated":"2025-11-10T23:46:16.299+03:00"}
 ---
 
 

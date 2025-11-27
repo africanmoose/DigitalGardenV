@@ -14,7 +14,7 @@
 - I learned a lot about oil, and gained a new appreciation for this versatile liquid that drives most of the world around me.
 
 ### Details
-- One of the primary ways oil has changed the world is by its effect on transport: [[1x - References/11 Notes/11.03 Ideas/A brief history of the petrol engine\|A brief history of the petrol engine]] and [[1x - References/11 Notes/11.03 Ideas/A brief history of the diesel engine\|A brief history of the diesel engine]]
+- One of the primary ways oil has changed the world is by its effect on transport: [[1x - References/11 Notes/11.12 Scientific Information/A brief history of the petrol engine\|A brief history of the petrol engine]] and [[1x - References/11 Notes/11.12 Scientific Information/A brief history of the diesel engine\|A brief history of the diesel engine]]
 - I did not know that there is an alternate theory of how oil came to be formed: [[1x - References/11 Notes/11.03 Ideas/Non-organic or abiotic theory of oil formation\|Non-organic or abiotic theory of oil formation]]
 - Interesting, teh [[1x - References/11 Notes/11.03 Ideas/Chinese developed drilling techniques for oil a long time ago\|Chinese developed drilling techniques for oil a long time ago]]
 - Only about 1/5th of diamonds are sold for making jewellery, most of the rest goes into drilling for hydrocarbons and metallic ores.

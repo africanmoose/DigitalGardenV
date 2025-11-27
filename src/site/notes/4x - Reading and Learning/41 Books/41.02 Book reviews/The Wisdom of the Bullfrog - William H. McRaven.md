@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/the-wisdom-of-the-bullfrog-william-h-mc-raven/","title":"Wisdom of the Bullfrog - William H. McRaven","created":"2025-11-10T10:32:23.862+03:00","updated":"2025-11-10T22:57:38.504+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/the-wisdom-of-the-bullfrog-william-h-mc-raven/","title":"Wisdom of the Bullfrog - William H. McRaven","created":"2025-11-10T10:32:23.862+03:00","updated":"2025-11-10T23:46:16.295+03:00"}
 ---
 
 ![The wisdom of the bullfrog - cover.png](/img/user/4x%20-%20Reading%20and%20Learning/41%20Books/41.03%20Cover%20images/The%20wisdom%20of%20the%20bullfrog%20-%20cover.png)

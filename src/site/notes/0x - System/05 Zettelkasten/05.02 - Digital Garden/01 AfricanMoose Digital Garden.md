@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-11-10T22:58:41.416+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-11-27T19:41:37.004+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20251019_153817419 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/PXL_20251019_153817419%20copy.jpg)
-Ngong Hills off in the distance
+![PXL_20251113_131222707 copy.jpg](/img/user/PXL_20251113_131222707%20copy.jpg)
+The always majestic Rift Valley
 
 # What is this site for?
 
@@ -50,13 +50,13 @@ Ngong Hills off in the distance
 
 # Book Reviews
 
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Idiot Brain - Dean Burnett\|The Idiot Brain - Dean Burnett]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Wisdom of the Bullfrog - William H. McRaven\|The Wisdom of the Bullfrog - William H. McRaven]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey\|How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to keep your cool - Seneca\|How to keep your cool - Seneca]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Creativity - A Short and Cheerful Guide - John Cleese\|Creativity - A Short and Cheerful Guide - John Cleese]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Managing up - How to get what you need from the people in charge - Melody Wilding\|Managing up - How to get what you need from the people in charge - Melody Wilding]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
-- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
@@ -65,7 +65,6 @@ Ngong Hills off in the distance
 - Working on a book on productivity
 - Processing _Vera Rubin  observatory_
 - Processing _Henry Singleton_
-- Processing _Whale fall_
 - Processing _Anna Wintour_
 
 # Finance Ideas

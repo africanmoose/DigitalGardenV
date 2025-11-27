@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-09-21T17:55:47.714+03:00","updated":"2025-11-10T22:57:26.406+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-09-21T17:55:47.714+03:00","updated":"2025-11-27T19:30:01.526+03:00"}
 ---
 
  
@@ -16,6 +16,7 @@
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Slow productivity - Cal Newport\|Slow productivity - Cal Newport]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Never eat alone - Keith Ferrazzi\|Never eat alone - Keith Ferrazzi]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/All About Love - New Visions - bell hooks\|All About Love - New Visions - bell hooks]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks\|How to Know a Person - The Art of Seeing Others Deeply and Being Deeply Seen - David Brooks]]
 
 
 ## Recommended
