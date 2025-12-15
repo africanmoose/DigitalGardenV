@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-are-not-special-and-not-exceptional-everyone-is-david-mc-cullough/","title":"You are not special and not exceptional - everyone is - David McCullough","created":"2023-03-09T09:38:58.000+03:00","updated":"2024-02-14T20:18:36.345+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-are-not-special-and-not-exceptional-everyone-is-david-mc-cullough/","title":"You are not special and not exceptional - everyone is - David McCullough","created":"2023-03-09T09:38:58.000+03:00","updated":"2025-11-29T08:56:02.176+03:00"}
 ---
 
 
@@ -25,5 +25,5 @@ David McCullough
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/If not humble we lose our usefulness to jehovah\|If not humble we lose our usefulness to jehovah]]
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|Humility]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|3x - Spiritual/31 Notes/31.03 Structure Notes/Humility]]
 - [[1x - References/11 Notes/11.02 Quotes/Pride hard to subdue - Benjamin Franklin\|Pride hard to subdue - Benjamin Franklin]]

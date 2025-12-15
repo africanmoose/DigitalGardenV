@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/three-precious-things-gentleness-frugality-and-humility-lao-tzu/","title":"Three precious things - gentleness frugality and humility - Lao Tzu","created":"2023-08-25T20:03:38.425+03:00","updated":"2024-02-14T20:18:37.097+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/three-precious-things-gentleness-frugality-and-humility-lao-tzu/","title":"Three precious things - gentleness frugality and humility - Lao Tzu","created":"2023-08-25T20:03:38.425+03:00","updated":"2025-11-29T08:56:02.069+03:00"}
 ---
 
 
@@ -14,7 +14,7 @@ Lao Tzu
 Simple Dollar
 
 ## Related
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|Humility]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|3x - Spiritual/31 Notes/31.03 Structure Notes/Humility]]
 - [[1x - References/11 Notes/11.02 Quotes/Be humble about what you know and confident about what you can learn - James Clear\|Be humble about what you know and confident about what you can learn - James Clear]]
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Mildness like a horse - strong yet gentle\|Mildness like a horse - strong yet gentle]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/If not humble we lose our usefulness to jehovah\|If not humble we lose our usefulness to jehovah]]

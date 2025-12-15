@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/humility-engenders-learning-because-it-beats-back-the-arrogance-that-puts-blinders-on-wynton-marsalis/","title":"Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis","created":"2024-06-30T21:47:04.561+03:00","updated":"2024-07-02T08:30:36.160+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/humility-engenders-learning-because-it-beats-back-the-arrogance-that-puts-blinders-on-wynton-marsalis/","title":"Humility engenders learning because it beats back the arrogance that puts blinders on - Wynton Marsalis","created":"2024-06-30T21:47:04.561+03:00","updated":"2025-11-29T08:56:01.864+03:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Wynton Marsalis
 - [[4x - Reading and Learning/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
 
 ## Related
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|Humility]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|3x - Spiritual/31 Notes/31.03 Structure Notes/Humility]]
 - [[1x - References/11 Notes/11.03 Ideas/Humility not related to actual intelligence\|Humility not related to actual intelligence]]
 - [[1x - References/11 Notes/11.02 Quotes/Three precious things - gentleness frugality and humility - Lao Tzu\|Three precious things - gentleness frugality and humility - Lao Tzu]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning is never done\|Learning is never done]]

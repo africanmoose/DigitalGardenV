@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/stop-worrying-about-what-other-people-think-of-your-finances/","title":"Stop worrying about what other people think of your finances","created":"2023-08-26T16:39:07.185+03:00","updated":"2024-02-14T20:17:37.946+03:00"}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/stop-worrying-about-what-other-people-think-of-your-finances/","title":"Stop worrying about what other people think of your finances","created":"2023-08-26T16:39:07.185+03:00","updated":"2025-11-29T08:56:03.083+03:00"}
 ---
 
 
@@ -21,7 +21,7 @@
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Too many spend money they havent earned to buy things they dont want to impress people they dont like - Will Rogers\|Too many spend money they havent earned to buy things they dont want to impress people they dont like - Will Rogers]]
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|Humility]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|3x - Spiritual/31 Notes/31.03 Structure Notes/Humility]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/If not humble we lose our usefulness to jehovah\|If not humble we lose our usefulness to jehovah]]
 - [[1x - References/11 Notes/11.02 Quotes/Three precious things - gentleness frugality and humility - Lao Tzu\|Three precious things - gentleness frugality and humility - Lao Tzu]]
 - [[1x - References/11 Notes/11.02 Quotes/Pride hard to subdue - Benjamin Franklin\|Pride hard to subdue - Benjamin Franklin]]

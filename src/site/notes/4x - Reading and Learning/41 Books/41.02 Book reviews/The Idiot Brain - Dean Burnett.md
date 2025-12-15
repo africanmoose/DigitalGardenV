@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/the-idiot-brain-dean-burnett/","title":"The Idiot Brain - Dean Burnett","created":"2025-11-13T10:20:20.409+03:00","updated":"2025-11-27T19:27:18.423+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/the-idiot-brain-dean-burnett/","title":"The Idiot Brain - Dean Burnett","created":"2025-11-13T10:20:20.409+03:00","updated":"2025-11-27T22:31:46.330+03:00"}
 ---
 
 

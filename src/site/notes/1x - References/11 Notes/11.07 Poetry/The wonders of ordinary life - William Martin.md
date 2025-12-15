@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/the-wonders-of-ordinary-life-william-martin/","title":"The wonders of ordinary life - William Martin","created":"2023-11-06T13:08:55.000+03:00","updated":"2024-02-14T20:18:17.926+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/the-wonders-of-ordinary-life-william-martin/","title":"The wonders of ordinary life - William Martin","created":"2023-11-06T13:08:55.000+03:00","updated":"2025-11-29T08:56:02.549+03:00"}
 ---
 
 
@@ -27,6 +27,6 @@ The extraordinary will take care of itself."
 - 3-2-1 email James Clear Nov 6, 2023
 
 ## Related
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|Humility]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|3x - Spiritual/31 Notes/31.03 Structure Notes/Humility]]
 - [[1x - References/11 Notes/11.03 Ideas/Want-to goals are more achievable than have-to goals\|Want-to goals are more achievable than have-to goals]]
 - [[1x - References/11 Notes/11.02 Quotes/He is rich or poor according to what he is, not according to what he has - Henry Ward Beecher\|He is rich or poor according to what he is, not according to what he has - Henry Ward Beecher]]

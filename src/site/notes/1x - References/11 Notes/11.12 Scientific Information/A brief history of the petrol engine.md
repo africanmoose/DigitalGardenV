@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-12-scientific-information/a-brief-history-of-the-petrol-engine/","title":"A brief history of the petrol engine","created":"2023-04-05T21:14:42.000+03:00","updated":"2024-02-14T20:18:36.227+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-12-scientific-information/a-brief-history-of-the-petrol-engine/","title":"A brief history of the petrol engine","created":"2023-04-05T21:14:42.000+03:00","updated":"2025-11-27T22:31:29.925+03:00"}
 ---
 
 

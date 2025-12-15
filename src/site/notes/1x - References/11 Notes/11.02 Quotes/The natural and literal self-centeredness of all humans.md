@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-natural-and-literal-self-centeredness-of-all-humans/","title":"The natural and literal self-centeredness of all humans","created":"2023-03-09T09:21:23.000+03:00","updated":"2024-02-14T20:18:37.670+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-natural-and-literal-self-centeredness-of-all-humans/","title":"The natural and literal self-centeredness of all humans","created":"2023-03-09T09:21:23.000+03:00","updated":"2025-11-29T08:56:02.012+03:00"}
 ---
 
 
@@ -16,4 +16,4 @@
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Pride\|Pride]]
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Pride like alter\|Pride like alter]]
 - [[1x - References/11 Notes/11.02 Quotes/Pride hard to subdue - Benjamin Franklin\|Pride hard to subdue - Benjamin Franklin]]
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|Humility]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Humility\|3x - Spiritual/31 Notes/31.03 Structure Notes/Humility]]

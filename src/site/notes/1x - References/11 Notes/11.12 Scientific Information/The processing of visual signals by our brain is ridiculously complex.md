@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-12-scientific-information/the-processing-of-visual-signals-by-our-brain-is-ridiculously-complex/","title":"The processing of visual signals by our brain is ridiculously complex","created":"2025-11-27T19:04:28.170+03:00","updated":"2025-11-27T19:12:54.275+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-12-scientific-information/the-processing-of-visual-signals-by-our-brain-is-ridiculously-complex/","title":"The processing of visual signals by our brain is ridiculously complex","created":"2025-11-27T19:04:28.170+03:00","updated":"2025-11-27T22:31:45.132+03:00"}
 ---
 
 

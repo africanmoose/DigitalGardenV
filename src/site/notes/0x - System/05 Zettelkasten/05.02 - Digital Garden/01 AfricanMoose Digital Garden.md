@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-11-27T19:41:37.004+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-12-14T23:55:42.292+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20251113_131222707 copy.jpg](/img/user/PXL_20251113_131222707%20copy.jpg)
-The always majestic Rift Valley
+![PXL_20251211_153950434 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/PXL_20251211_153950434%20copy.jpg)
+Palm tree x Diani beach
 
 # What is this site for?
 
@@ -18,13 +18,13 @@ The always majestic Rift Valley
 
 # Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Whenever I start to doubt if Im worth the eternal trouble of medication and therapy, I remember those people who let the fog win. And I push myself to stay healthy. I remind myself that … Im fighting against a chemical imbalance - Jenny Lawson\|Whenever I start to doubt if Im worth the eternal trouble of medication and therapy, I remember those people who let the fog win. And I push myself to stay healthy. I remind myself that … Im fighting against a chemical imbalance - Jenny Lawson]]
 - [[1x - References/11 Notes/11.02 Quotes/Show up early. Work hard. Stay late. Have a plan. Deliver on your promises. Share the hardships with the employees. Show that you care. Admit your mistakes - William McRaven\|Show up early. Work hard. Stay late. Have a plan. Deliver on your promises. Share the hardships with the employees. Show that you care. Admit your mistakes - William McRaven]]
 - [[1x - References/11 Notes/11.02 Quotes/Nothing in your leadership tool kit is as valuable as hard work - William McRaven\|Nothing in your leadership tool kit is as valuable as hard work - William McRaven]]
 - [[1x - References/11 Notes/11.02 Quotes/Many of the best things in life are endless...The important stuff has no finish line - James Clear\|Many of the best things in life are endless...The important stuff has no finish line - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Appreciation that we can fly in a plane - Louis C.K.\|Appreciation that we can fly in a plane - Louis C.K.]]
 - [[1x - References/11 Notes/11.02 Quotes/You may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself... - Arthur Schopenhauer\|You may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself... - Arthur Schopenhauer]]
 - [[1x - References/11 Notes/11.02 Quotes/Invest in preparedness, not in prediction - Nassim Taleb\|Invest in preparedness, not in prediction - Nassim Taleb]]
-- [[1x - References/11 Notes/11.02 Quotes/The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt - Bertrand Russell\|The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt - Bertrand Russell]]
 
 
 # Interesting Persons
@@ -62,10 +62,8 @@ The always majestic Rift Valley
 
 # Work in Progress
 
+- processing [[0x - System/01 Index/01.04 Notes in process/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
 - Working on a book on productivity
-- Processing _Vera Rubin  observatory_
-- Processing _Henry Singleton_
-- Processing _Anna Wintour_
 
 # Finance Ideas
 
