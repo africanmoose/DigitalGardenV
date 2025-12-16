@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-12-14T23:55:42.292+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-12-16T19:10:06.223+03:00"}
 ---
 
 ## Pic of the week 
@@ -50,19 +50,18 @@ Palm tree x Diani beach
 
 # Book Reviews
 
+- [[0x - System/01 Index/01.04 Notes in process/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Idiot Brain - Dean Burnett\|The Idiot Brain - Dean Burnett]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Wisdom of the Bullfrog - William H. McRaven\|The Wisdom of the Bullfrog - William H. McRaven]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey\|How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to keep your cool - Seneca\|How to keep your cool - Seneca]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Creativity - A Short and Cheerful Guide - John Cleese\|Creativity - A Short and Cheerful Guide - John Cleese]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Managing up - How to get what you need from the people in charge - Melody Wilding\|Managing up - How to get what you need from the people in charge - Melody Wilding]]
-- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
 
 # Work in Progress
 
-- processing [[0x - System/01 Index/01.04 Notes in process/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
 - Working on a book on productivity
 
 # Finance Ideas

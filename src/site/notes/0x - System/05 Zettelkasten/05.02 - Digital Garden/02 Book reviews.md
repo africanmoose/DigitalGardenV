@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-09-21T17:55:47.714+03:00","updated":"2025-11-27T19:30:01.526+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-09-21T17:55:47.714+03:00","updated":"2025-12-16T19:10:26.683+03:00"}
 ---
 
  
 
 ## Highly recommended
 
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
