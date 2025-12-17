@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-pyramids-were-marvels-of-construction-engineering/","title":"The pyramids were marvels of construction engineering","created":"2025-12-16T18:48:59.022+03:00","updated":"2025-12-16T18:53:06.139+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-pyramids-were-marvels-of-construction-engineering/","title":"The pyramids were marvels of construction engineering","created":"2025-12-16T18:48:59.022+03:00","updated":"2025-12-16T20:13:01.048+03:00"}
 ---
 
 

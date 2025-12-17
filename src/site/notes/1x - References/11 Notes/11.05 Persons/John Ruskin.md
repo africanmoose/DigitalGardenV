@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/john-ruskin/","title":"John Ruskin","created":"2025-12-16T18:57:13.055+03:00","updated":"2025-12-16T19:53:47.373+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/john-ruskin/","title":"John Ruskin","created":"2025-12-16T18:57:13.055+03:00","updated":"2025-12-16T20:13:01.047+03:00"}
 ---
 
 ![Pasted image 20251216185719.png](/img/user/Pasted%20image%2020251216185719.png)
