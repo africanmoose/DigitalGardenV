@@ -10,7 +10,7 @@
  Frank Lloyd Wright
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
+[[4x - Reading and Learning/41 Books/41.02 Book reviews/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/In architecture, imagination is more important than wealth\|In architecture, imagination is more important than wealth]]

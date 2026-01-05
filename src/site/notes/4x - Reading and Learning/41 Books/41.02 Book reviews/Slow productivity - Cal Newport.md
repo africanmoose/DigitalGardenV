@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/slow-productivity-cal-newport/","title":"Slow productivity - Cal Newport","created":"2025-03-03T19:12:30.655+03:00","updated":"2025-09-23T06:02:05.700+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/slow-productivity-cal-newport/","title":"Slow productivity - Cal Newport","created":"2025-03-03T19:12:30.655+03:00","updated":"2025-12-28T17:03:01.237+03:00"}
 ---
 
 ![Slow productivity.png](/img/user/4x%20-%20Reading%20and%20Learning/41%20Books/41.03%20Cover%20images/Slow%20productivity.png)
@@ -21,13 +21,10 @@
 - [[1x - References/11 Notes/11.03 Ideas/Focus on diminishing the gap between your taste and your ability\|Focus on diminishing the gap between your taste and your ability]]
 - [[1x - References/11 Notes/11.03 Ideas/Gathering like minded people today can improve the intellectual output of the whole group\|Gathering like minded people today can improve the intellectual output of the whole group]]
 - [[1x - References/11 Notes/11.03 Ideas/Invest in good tools to improve the quality of your product\|Invest in good tools to improve the quality of your product]]
-- 
 
 ### References
 - [good reads](https://www.goodreads.com/book/show/197773418-slow-productivity)
 
-### Quotes
-- 
 
 ### Related
 

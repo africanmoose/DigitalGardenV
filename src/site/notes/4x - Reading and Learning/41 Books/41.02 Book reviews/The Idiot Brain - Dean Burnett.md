@@ -21,7 +21,7 @@
 - [goodreads](https://www.goodreads.com/book/show/29100837-the-idiot-brain)
 
 ### Related
-- [[0x - System/01 Index/01.04 Notes in process/Brain Rules 12 Ways to Supercharge Brain Power\|Brain Rules 12 Ways to Supercharge Brain Power]]
+- [[0x - System/01 Index/01.02 Inbox/Brain Rules 12 Ways to Supercharge Brain Power\|Brain Rules 12 Ways to Supercharge Brain Power]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - [[4x - Reading and Learning/41 Books/41.01 Book Notes/The influential mind - What the brain reveals about our power to change others\|The influential mind - What the brain reveals about our power to change others]]
 

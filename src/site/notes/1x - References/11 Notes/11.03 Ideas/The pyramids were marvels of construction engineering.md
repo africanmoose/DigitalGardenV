@@ -11,7 +11,7 @@
 - The land was leveled so accurately that there is only a one inch margin anywhere for the entire base. The 4 sides are perfect even in size.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
 
 ### Quotes
 >  The Great Pyramid, Pyramid of Khufu, is the largest of the three and covers thirteen square acres. The base makes a perfect square. Even though it stretches out over so much land, the ground was leveled so precisely that there is only a one-inch margin of difference anywhere at the entire base of the structure. The four sides are exactly even in size. What is even more incredible is that the relation of the length of each side to its height is the same as the relation to a circle’s circumference to its radius (better known as pi). Since pi had not been discovered at the time of the Great Pyramid’s construction, this relationship is likely just a coincidence. In any case, the pyramids were a triumph of architecture and geometry that continue to amaze.

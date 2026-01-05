@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-09-21T17:55:47.714+03:00","updated":"2025-12-16T19:10:26.683+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-09-21T17:55:47.714+03:00","updated":"2025-12-28T15:11:33.094+03:00"}
 ---
 
  
@@ -22,6 +22,7 @@
 
 ## Recommended
 
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Managing up - How to get what you need from the people in charge - Melody Wilding\|Managing up - How to get what you need from the people in charge - Melody Wilding]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Same as Ever - A guide to what never changes - Morgan Housel\|Same as Ever - A guide to what never changes - Morgan Housel]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Co-Intelligence - Living and Working with AI - Ethan Mollick\|Co-Intelligence - Living and Working with AI - Ethan Mollick]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Great Mental Models Volume 3 - Systems and Mathematics\|The Great Mental Models Volume 3 - Systems and Mathematics]]

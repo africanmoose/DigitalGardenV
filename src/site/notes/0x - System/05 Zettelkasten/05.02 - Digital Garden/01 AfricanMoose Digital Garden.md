@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2025-12-16T19:10:06.223+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2026-01-06T00:14:35.350+03:00"}
 ---
 
-## Pic of the week 
-![PXL_20251211_153950434 copy.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/PXL_20251211_153950434%20copy.jpg)
-Palm tree x Diani beach
+## Pic of the week ![PXL_20260103_025858895.jpg](/img/user/PXL_20260103_025858895.jpg)
+Off early in the morning to hike Elephant HIll
 
 # What is this site for?
 
@@ -50,19 +49,24 @@ Palm tree x Diani beach
 
 # Book Reviews
 
-- [[0x - System/01 Index/01.04 Notes in process/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Death by Comfort - Paul Taylor\|Death by Comfort - Paul Taylor]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Idiot Brain - Dean Burnett\|The Idiot Brain - Dean Burnett]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Wisdom of the Bullfrog - William H. McRaven\|The Wisdom of the Bullfrog - William H. McRaven]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey\|How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to keep your cool - Seneca\|How to keep your cool - Seneca]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Creativity - A Short and Cheerful Guide - John Cleese\|Creativity - A Short and Cheerful Guide - John Cleese]]
-- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Managing up - How to get what you need from the people in charge - Melody Wilding\|Managing up - How to get what you need from the people in charge - Melody Wilding]]
+
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]
+- Top books of 2025: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/09 2025 Top books\|09 2025 Top books]]
 
 # Work in Progress
 
 - Working on a book on productivity
+- Processing Thinking in bets
+- Processing Me but better
+- Processing Peak: The Science of Expertise - Anders Ericsson
 
 # Finance Ideas
 
@@ -77,8 +81,9 @@ Palm tree x Diani beach
 
 # Currently listening to
 
-I did not like my spotify wrapped this year - it was too shallow. So then i found receiptify, an app that gives you old school details from spotify. Here's the results:
-- A detailed breakdown of [[0x - System/05 Zettelkasten/05.02 - Digital Garden/08 2024 Music stats\|08 2024 Music stats]]
+Spotify wrapped was an improvement, but I still prefer this analysis:
+- A detailed breakdown of [[0x - System/05 Zettelkasten/05.02 - Digital Garden/10 2025 Music stats\|10 2025 Music stats]]
+	- for comparison [[0x - System/05 Zettelkasten/05.02 - Digital Garden/08 2024 Music stats\|08 2024 Music stats]]
 - More of my favorite music here [[0x - System/05 Zettelkasten/05.02 - Digital Garden/04 Music I enjoy\|04 Music I enjoy]]
 
 # Africanmoose Stuff
