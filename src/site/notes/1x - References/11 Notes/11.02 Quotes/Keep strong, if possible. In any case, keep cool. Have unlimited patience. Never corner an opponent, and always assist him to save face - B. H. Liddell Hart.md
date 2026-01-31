@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/keep-strong-if-possible-in-any-case-keep-cool-have-unlimited-patience-never-corner-an-opponent-and-always-assist-him-to-save-face-b-h-liddell-hart/","title":"Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart","created":"2024-03-08T21:34:54.581+03:00","updated":"2024-03-08T21:38:15.925+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/keep-strong-if-possible-in-any-case-keep-cool-have-unlimited-patience-never-corner-an-opponent-and-always-assist-him-to-save-face-b-h-liddell-hart/","title":"Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart","created":"2024-03-08T21:34:54.581+03:00","updated":"2026-01-23T23:38:07.344+03:00"}
 ---
 
 
@@ -17,4 +17,4 @@ Strategist B. H. Liddell Hart, on nuclear strategy.Kennedy used this quote to de
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Self-control like truck going downhill\|Self-control like truck going downhill]]
 - [[1x - References/11 Notes/11.03 Ideas/Always be calm in arguments or disagreements\|Always be calm in arguments or disagreements]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Self-righteousness is a form of unrighteousness\|Self-righteousness is a form of unrighteousness]]
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Patience\|Patience]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Patience\|3x - Spiritual/31 Notes/31.03 Structure Notes/Patience]]

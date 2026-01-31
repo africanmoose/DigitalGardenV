@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/hyperbolic-discounting/","title":"Hyperbolic Discounting","created":"2022-12-23T00:04:06.000+03:00","updated":"2024-02-14T20:18:30.035+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/hyperbolic-discounting/","title":"Hyperbolic Discounting","created":"2022-12-23T00:04:06.000+03:00","updated":"2026-01-23T23:38:07.426+03:00"}
 ---
 
 
@@ -17,5 +17,5 @@
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Waiting for milk to boil\|Waiting for milk to boil]]
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Patience\|Patience]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Patience\|3x - Spiritual/31 Notes/31.03 Structure Notes/Patience]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jesus was patient when teaching his disciples\|Jesus was patient when teaching his disciples]]

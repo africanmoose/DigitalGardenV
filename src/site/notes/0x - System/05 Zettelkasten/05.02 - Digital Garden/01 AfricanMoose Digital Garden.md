@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2026-01-06T00:14:35.350+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2026-01-31T09:43:09.071+03:00"}
 ---
 
-## Pic of the week ![PXL_20260103_025858895.jpg](/img/user/PXL_20260103_025858895.jpg)
+## Pic of the week ![PXL_20260103_025858895.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/PXL_20260103_025858895.jpg)
 Off early in the morning to hike Elephant HIll
 
 # What is this site for?
@@ -38,24 +38,25 @@ Off early in the morning to hike Elephant HIll
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Use belief calibration instead of right or wrong\|Use belief calibration instead of right or wrong]]
+- [[1x - References/11 Notes/11.03 Ideas/Income, health, good marriage and lack of trauma only account for 8 - 15 percent of variance in happiness\|Income, health, good marriage and lack of trauma only account for 8 - 15 percent of variance in happiness]]
 - [[1x - References/11 Notes/11.03 Ideas/Help others even as you gracefully ask and accept others helping you\|Help others even as you gracefully ask and accept others helping you]]
 - [[1x - References/11 Notes/11.03 Ideas/Declutter daily\|Declutter daily]]
 - [[1x - References/11 Notes/11.03 Ideas/Before blaming others, change the things within our control\|Before blaming others, change the things within our control]]
 - [[1x - References/11 Notes/11.03 Ideas/When an experience goes wrong it can be just as worthwhile as when all goes right\|When an experience goes wrong it can be just as worthwhile as when all goes right]]
 - [[1x - References/11 Notes/11.03 Ideas/Develop a personality instead of using conspicuous consumption\|Develop a personality instead of using conspicuous consumption]]
-- [[1x - References/11 Notes/11.03 Ideas/Humans are born intrinsically motivated, but learn to become extrinsically motivated\|Humans are born intrinsically motivated, but learn to become extrinsically motivated]]
-- [[1x - References/11 Notes/11.03 Ideas/Growth has a natural rate that is optimum for the organism\|Growth has a natural rate that is optimum for the organism]]
+
 
 
 # Book Reviews
 
+= [[4x - Reading and Learning/41 Books/41.02 Book reviews/Thinking in Bets - Annie Duke\|Thinking in Bets - Annie Duke]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Death by Comfort - Paul Taylor\|Death by Comfort - Paul Taylor]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Idiot Brain - Dean Burnett\|The Idiot Brain - Dean Burnett]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Wisdom of the Bullfrog - William H. McRaven\|The Wisdom of the Bullfrog - William H. McRaven]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey\|How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to keep your cool - Seneca\|How to keep your cool - Seneca]]
-- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Creativity - A Short and Cheerful Guide - John Cleese\|Creativity - A Short and Cheerful Guide - John Cleese]]
 
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]

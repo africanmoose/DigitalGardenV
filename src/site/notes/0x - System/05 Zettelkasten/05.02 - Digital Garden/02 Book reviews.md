@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-09-21T17:55:47.714+03:00","updated":"2025-12-28T15:11:33.094+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/02-book-reviews/","title":"Book reviews","created":"2025-09-21T17:55:47.714+03:00","updated":"2026-01-31T09:43:30.877+03:00"}
 ---
 
  
 
 ## Highly recommended
+
 
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb\|The Art of Frugal Hedonism - A Guide to Spending Less While Enjoying Everything More - Annie Raser-Rowland, Adam Grubb]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
@@ -84,6 +85,7 @@
 
 ## Interesting but dont go out of your way
 
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Creativity - A Short and Cheerful Guide - John Cleese\|Creativity - A Short and Cheerful Guide - John Cleese]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to be Idle - Tom Hodgkinson\|How to be Idle - Tom Hodgkinson]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Flinch - Julien Smith\|The Flinch - Julien Smith]]
 - [[4x - Reading and Learning/41 Books/41.01 Book Notes/Love in Africa - Jeffrey Gettleman\|Love in Africa - Jeffrey Gettleman]]

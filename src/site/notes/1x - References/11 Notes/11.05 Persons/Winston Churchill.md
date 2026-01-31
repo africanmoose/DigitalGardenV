@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/winston-churchill/","title":"Winston Churchill","created":"2024-03-14T10:09:25.788+03:00","updated":"2024-03-14T15:14:45.980+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/winston-churchill/","title":"Winston Churchill","created":"2026-01-28T17:13:21.083+03:00","updated":"2026-01-28T17:13:21.083+03:00"}
 ---
 
 
+![Winston_Churchill_landscape.jpg](/img/user/1x%20-%20References/11%20Notes/11.05%20Persons/Winston_Churchill_landscape.jpg)
 ### Summary
 - 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/napoleon-would-wait-3-weeks-before-opening-any-mail/","title":"Napoleon would wait 3 weeks before opening any mail","created":"2024-03-09T11:47:46.189+03:00","updated":"2024-03-09T11:54:42.268+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/napoleon-would-wait-3-weeks-before-opening-any-mail/","title":"Napoleon would wait 3 weeks before opening any mail","created":"2024-03-09T11:47:46.189+03:00","updated":"2026-01-23T23:38:07.529+03:00"}
 ---
 
 
@@ -20,7 +20,7 @@ good news. Bad news, on the other hand—that is to say, an unfolding crisis or 
 
 
 ### Related
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Patience\|Patience]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Patience\|3x - Spiritual/31 Notes/31.03 Structure Notes/Patience]]
 - [[4x - Reading and Learning/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
 - [[1x - References/11 Notes/11.03 Ideas/Time is a tool\|Time is a tool]]
 - [[1x - References/11 Notes/11.03 Ideas/Focus on what is important\|Focus on what is important]]

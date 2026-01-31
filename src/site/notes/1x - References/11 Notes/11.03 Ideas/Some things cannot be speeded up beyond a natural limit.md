@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/some-things-cannot-be-speeded-up-beyond-a-natural-limit/","title":"Some things cannot be speeded up beyond a natural limit","created":"2025-07-03T21:35:33.274+03:00","updated":"2025-07-04T07:34:04.468+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/some-things-cannot-be-speeded-up-beyond-a-natural-limit/","title":"Some things cannot be speeded up beyond a natural limit","created":"2025-07-03T21:35:33.274+03:00","updated":"2026-01-23T23:38:07.671+03:00"}
 ---
 
 
@@ -21,7 +21,7 @@
 
 
 ### Related
-- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Patience\|Patience]]
+- [[3x - Spiritual/31 Notes/31.03 Structure Notes/Patience\|3x - Spiritual/31 Notes/31.03 Structure Notes/Patience]]
 - [[1x - References/11 Notes/11.03 Ideas/Improve patience by doing things that take long to accomplish\|Improve patience by doing things that take long to accomplish]]
 - [[1x - References/11 Notes/11.02 Quotes/Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart\|Keep strong, if possible. In any case, keep cool. Have unlimited patience. Never corner an opponent, and always assist him to save face - B. H. Liddell Hart]]
 - [[1x - References/11 Notes/11.03 Ideas/Carpenters learn to be patient and to plan\|Carpenters learn to be patient and to plan]]
