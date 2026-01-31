@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2026-01-31T09:43:09.071+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2026-01-31T10:43:02.243+03:00"}
 ---
 
-## Pic of the week ![PXL_20260103_025858895.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/PXL_20260103_025858895.jpg)
-Off early in the morning to hike Elephant HIll
+## Pic of the week 
+![PXL_20260117_075956894.jpg](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/PXL_20260117_075956894.jpg)
+Karura forest in the heart of Nairobi
 
 # What is this site for?
 
@@ -50,7 +51,7 @@ Off early in the morning to hike Elephant HIll
 
 # Book Reviews
 
-= [[4x - Reading and Learning/41 Books/41.02 Book reviews/Thinking in Bets - Annie Duke\|Thinking in Bets - Annie Duke]]
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Thinking in Bets - Annie Duke\|Thinking in Bets - Annie Duke]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Death by Comfort - Paul Taylor\|Death by Comfort - Paul Taylor]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Idiot Brain - Dean Burnett\|The Idiot Brain - Dean Burnett]]

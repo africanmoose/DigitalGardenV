@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/thinking-in-bets-annie-duke/","title":"Thinking in Bets - Annie Duke","created":"2026-01-07T00:25:21.901+03:00","updated":"2026-01-31T09:41:25.498+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/thinking-in-bets-annie-duke/","title":"Thinking in Bets - Annie Duke","created":"2026-01-07T00:25:21.901+03:00","updated":"2026-01-31T09:51:25.968+03:00"}
 ---
 
 ![Pasted image 20260107003353.png](/img/user/2x%20-%20Planning/23%20Periodic%20Reviews/23.07%20Daily%20log%20images/Pasted%20image%2020260107003353.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-a-premortem-to-imagine-negative-outcomes-and-plan-accordingly/","title":"Use a premortem to imagine negative outcomes and plan accordingly","created":"2026-01-31T09:20:07.992+03:00","updated":"2026-01-31T09:41:18.871+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-a-premortem-to-imagine-negative-outcomes-and-plan-accordingly/","title":"Use a premortem to imagine negative outcomes and plan accordingly","created":"2026-01-31T09:20:07.992+03:00","updated":"2026-01-31T09:51:26.933+03:00"}
 ---
 
 
