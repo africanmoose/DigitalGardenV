@@ -3,96 +3,11 @@ body {
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    --background-primary: #f6f0e4;
-    --background-primary-alt: #efe6d6;
-    --background-secondary: #fbf7ef;
-    --background-secondary-alt: #e7dcc9;
-    --text-normal: #2f241b;
-    --text-muted: #6d5b4f;
-    --text-faint: #8d7b6f;
-    --text-accent: #8f5a36;
-    --text-accent-hover: #74472b;
-    --link-color: #8f5a36;
-    --link-color-hover: #6f4126;
-    --interactive-normal: #f2eadc;
-    --interactive-hover: #e7dac5;
-    --interactive-accent: #8f5a36;
-    --interactive-accent-hover: #74472b;
-    --background-modifier-border: #d9cbb8;
-    --background-modifier-border-hover: #c9b69e;
-    --background-modifier-box-shadow: rgba(64, 40, 24, 0.08);
-    --blockquote-border-color: #c6a27e;
-    --hr-color: #d8c9b3;
-    --code-normal: #5f2f2d;
-    --code-background: #efe5d5;
-
-    background: linear-gradient(180deg, #fcf8f1 0%, #f3ebdf 100%);
-    color: var(--text-normal);
-
-    .theme-dark,
-    .theme-light {
-        background: transparent;
-        color: var(--text-normal);
-    }
-
-    a {
-        text-decoration-color: rgba(143, 90, 54, 0.28);
-        text-underline-offset: 0.16em;
-    }
-
-    h1,
-    h2,
-    h3,
-    h4 {
-        color: #3d2d21;
-        font-weight: 600;
-        letter-spacing: -0.02em;
-    }
-
-    h2 {
-        color: #594235;
-    }
-
-    h3,
-    h4 {
-        color: #71584b;
-    }
-
-    hr {
-        border-color: var(--hr-color);
-    }
-
-    blockquote {
-        background: rgba(255, 251, 245, 0.88);
-        border-left: 4px solid var(--blockquote-border-color);
-        color: var(--text-muted);
-        margin: 1.75rem 0;
-        padding: 0.85rem 1rem;
-        quotes: none;
-    }
-
-    blockquote:before {
-        content: none;
-    }
-
-    p > code,
-    li > code,
-    td > code {
-        color: var(--code-normal);
-        background-color: var(--code-background);
-        border-radius: 0.35rem;
-        padding: 0.12rem 0.35rem;
-    }
-
-    .callout {
-        border-width: 1px;
-        border-color: rgba(143, 90, 54, 0.14);
-        background-color: rgba(255, 251, 245, 0.78);
-        box-shadow: 0 10px 30px rgba(73, 48, 30, 0.04);
-    }
-
-    .callout-title,
-    .callout-icon .svg-icon {
-        color: var(--text-accent);
-    }
-} 
+    //  background-color: white;
+    //  .content {
+    //   font-size: 14px;
+    //  }
+    //  h1 {
+    //   color: black;
+    //  }
+}
