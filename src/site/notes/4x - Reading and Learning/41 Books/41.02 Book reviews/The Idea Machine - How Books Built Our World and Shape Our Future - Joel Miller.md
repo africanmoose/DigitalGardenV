@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/the-idea-machine-how-books-built-our-world-and-shape-our-future-joel-miller/","title":"The Idea Machine - How Books Built Our World and Shape Our Future - Joel Miller","created":"2026-01-31T10:36:03.816+03:00","updated":"2026-02-27T22:20:15.884+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading-and-learning/41-books/41-02-book-reviews/the-idea-machine-how-books-built-our-world-and-shape-our-future-joel-miller/","title":"The Idea Machine - How Books Built Our World and Shape Our Future - Joel Miller","created":"2026-01-31T10:36:03.816+03:00","updated":"2026-02-28T09:09:06.376+03:00"}
 ---
 
 ![The idea machine cover.png](/img/user/4x%20-%20Reading%20and%20Learning/41%20Books/41.03%20Cover%20images/The%20idea%20machine%20cover.png)

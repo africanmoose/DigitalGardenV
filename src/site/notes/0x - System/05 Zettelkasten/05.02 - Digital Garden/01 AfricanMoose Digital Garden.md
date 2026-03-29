@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2025-09-21T17:55:32.953+03:00","updated":"2026-02-27T22:24:58.517+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowFileTree":true,"created":"2026-03-29T12:50:15.485+03:00","updated":"2026-03-29T20:37:39.086+03:00"}
 ---
 
 ## Pic of the week 
-![PXL_20260221_053613564.jpg](/img/user/PXL_20260221_053613564.jpg)
-Rain forest on the slopes of Mt. Kilimanjaro
+![PXL_20260216_132920325.jpg](/img/user/PXL_20260216_132920325.jpg)
+Early views of Mt. Kilimanjaro through the clouds
 
 # What is this site for?
 
@@ -24,7 +24,6 @@ Rain forest on the slopes of Mt. Kilimanjaro
 - [[1x - References/11 Notes/11.02 Quotes/Nothing in your leadership tool kit is as valuable as hard work - William McRaven\|Nothing in your leadership tool kit is as valuable as hard work - William McRaven]]
 - [[1x - References/11 Notes/11.02 Quotes/Many of the best things in life are endless...The important stuff has no finish line - James Clear\|Many of the best things in life are endless...The important stuff has no finish line - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/Appreciation that we can fly in a plane - Louis C.K.\|Appreciation that we can fly in a plane - Louis C.K.]]
-- [[1x - References/11 Notes/11.02 Quotes/You may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself... - Arthur Schopenhauer\|You may accumulate a vast amount of knowledge but it will be of far less value to you than a much smaller amount if you have not thought it over for yourself... - Arthur Schopenhauer]]
 
 
 # Interesting Persons
@@ -39,24 +38,25 @@ Rain forest on the slopes of Mt. Kilimanjaro
 
 # Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Make an effort to think unusual thoughts\|Make an effort to think unusual thoughts]]
+- [[1x - References/11 Notes/11.03 Ideas/Discussion about ideas leads to more ideas\|Discussion about ideas leads to more ideas]]
 - [[1x - References/11 Notes/11.03 Ideas/Writing allows for iterative thinking\|Writing allows for iterative thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/Use belief calibration instead of right or wrong\|Use belief calibration instead of right or wrong]]
 - [[1x - References/11 Notes/11.03 Ideas/Income, health, good marriage and lack of trauma only account for 8 - 15 percent of variance in happiness\|Income, health, good marriage and lack of trauma only account for 8 - 15 percent of variance in happiness]]
 - [[1x - References/11 Notes/11.03 Ideas/Help others even as you gracefully ask and accept others helping you\|Help others even as you gracefully ask and accept others helping you]]
 - [[1x - References/11 Notes/11.03 Ideas/Declutter daily\|Declutter daily]]
 - [[1x - References/11 Notes/11.03 Ideas/Before blaming others, change the things within our control\|Before blaming others, change the things within our control]]
-- [[1x - References/11 Notes/11.03 Ideas/When an experience goes wrong it can be just as worthwhile as when all goes right\|When an experience goes wrong it can be just as worthwhile as when all goes right]]
-- [[1x - References/11 Notes/11.03 Ideas/Develop a personality instead of using conspicuous consumption\|Develop a personality instead of using conspicuous consumption]]
+
 
 # Book Reviews
 
+- [[4x - Reading and Learning/41 Books/41.02 Book reviews/Painters and Hackers - Paul Graham\|Painters and Hackers - Paul Graham]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Idea Machine - How Books Built Our World and Shape Our Future - Joel Miller\|The Idea Machine - How Books Built Our World and Shape Our Future - Joel Miller]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Thinking in Bets - Annie Duke\|Thinking in Bets - Annie Duke]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Death by Comfort - Paul Taylor\|Death by Comfort - Paul Taylor]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/Architecture 101 - Nicole Bridge\|Architecture 101 - Nicole Bridge]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Idiot Brain - Dean Burnett\|The Idiot Brain - Dean Burnett]]
 - [[4x - Reading and Learning/41 Books/41.02 Book reviews/The Wisdom of the Bullfrog - William H. McRaven\|The Wisdom of the Bullfrog - William H. McRaven]]
-- [[4x - Reading and Learning/41 Books/41.02 Book reviews/How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey\|How to Organize Your Life, Mind and Home - 9 Organizing Principles To Help You Simplify Your Life, Increase Efficiency And Maximize Productivity -Paul Morrisey]]
 
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/02 Book reviews\|02 Book reviews]]
 - Top books of 2024: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/07 2024 Top books\|07 2024 Top books]]

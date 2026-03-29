@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/reading-is-a-technology-for-perspective-taking-when-someone-else-s-thoughts-are-in-your-head-you-are-observing-the-world-from-that-person-s-vantage-point-steven-pinker/","title":"Reading is a technology for perspective-taking. When someone else’s thoughts are in your head, you are observing the world from that person’s vantage point - Steven Pinker","created":"2026-02-27T22:03:06.380+03:00","updated":"2026-02-27T22:05:35.140+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/reading-is-a-technology-for-perspective-taking-when-someone-else-s-thoughts-are-in-your-head-you-are-observing-the-world-from-that-person-s-vantage-point-steven-pinker/","title":"Reading is a technology for perspective-taking. When someone else’s thoughts are in your head, you are observing the world from that person’s vantage point - Steven Pinker","created":"2026-02-27T22:03:06.380+03:00","updated":"2026-02-28T09:09:06.365+03:00"}
 ---
 
 

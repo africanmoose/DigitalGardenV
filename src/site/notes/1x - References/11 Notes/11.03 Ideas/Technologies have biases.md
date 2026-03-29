@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/technologies-have-biases/","title":"Technologies have biases","created":"2026-02-27T22:06:05.984+03:00","updated":"2026-02-27T22:10:54.821+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/technologies-have-biases/","title":"Technologies have biases","created":"2026-02-27T22:06:05.984+03:00","updated":"2026-02-28T09:09:06.348+03:00"}
 ---
 
 
